@@ -4,11 +4,11 @@ links:
     url: /example-page/
   - title: Reporting
     collection: example-collection
+  - title: Safe Sport Commission
+    url: /permalink
   - title: Safe Sport Programme
     resource_room: true
   - title: Effort in Safe Sport
-    url: /permalink
-  - title: Safe Sport Commission
     url: /permalink
   - title: Safeguarding Officers
     url: /permalink
