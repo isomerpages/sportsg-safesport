@@ -9,9 +9,9 @@ sections:
   - hero:
       title: Safeguarding in Sport
       subtitle: "#SGSafeSport Play Your Part"
-      background: /images/hero-banner.png
-      button: Contact Us
-      url: /contact-us/
+      background: /images/unifiedcode.jpeg
+      button: What is Safe Sport?
+      url: /
       key_highlights:
         - title: Safe Sport Programme
           description: Safe Sport Unified Code
@@ -27,7 +27,7 @@ sections:
       subtitle: "Have a Safe Sport Concern? "
       description: Don't be the next victim!
       button: Reporting
-      url: /faq/
+      url: /
   - resources:
       title: Media
       subtitle: Learn more
