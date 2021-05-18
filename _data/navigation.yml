@@ -2,10 +2,20 @@ logo: /images/isomer-logo.svg
 links:
   - title: What is Safe Sport?
     url: /example-page/
-  - title: Reporting
-    collection: example-collection
-  - title: Safe Sport Commission
+  - title: "Who are we? "
     url: /permalink
+    sublinks:
+      - title: Safe Sport Commission
+        url: /permalink
+      - title: Organisation Chart
+        url: /permalink
+  - title: Reporting
+    url: /permalink
+    sublinks:
+      - title: Report a Safe Sport Concern
+        url: /permalink
+      - title: Helpline
+        url: /permalink
   - title: Safe Sport Programme
     resource_room: true
   - title: Effort in Safe Sport
