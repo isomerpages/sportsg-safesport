@@ -3,3 +3,4 @@ collections:
     output: true
     order:
       - safe-sport.md
+      - why-is-safe-sport-important.md
