@@ -1,4 +1,5 @@
 collections:
   safe-sport-programme:
     output: true
-    order: []
+    order:
+      - background-of-safe-sport-programme.md
