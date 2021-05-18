@@ -2,6 +2,8 @@
 title: Safe Sport
 permalink: /what-is-safe-sport/permalink
 ---
+![Alt text for image on Isomer site](/images/Safeguarding%20in%20Sport%20is%20Everyone%20Responsibility.jpeg)
+
 **What is Safe Sport?**
 
 It is defined as “an athletic environment that is respectful, equitable and free from all forms of harassment and abuse” (International Olympic Committee Consensus Statement, 2016). 
