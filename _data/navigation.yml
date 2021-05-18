@@ -2,8 +2,6 @@ logo: /images/isomer-logo.svg
 links:
   - title: What is Safe Sport?
     url: /what-is-safe-sport/permalink
-  - title: Reporting
-    collection: reporting
   - title: "Who are we? "
     url: /who-are-we/permalink
     sublinks:
@@ -29,7 +27,5 @@ links:
         url: /permalink
   - title: Contact Us
     url: /contact-us/
-  - title: What Is Safe Sport
-    collection: what-is-safe-sport
   - title: Who Are We
     collection: who-are-we
