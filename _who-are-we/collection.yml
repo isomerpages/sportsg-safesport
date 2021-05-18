@@ -1,0 +1,4 @@
+collections:
+  who-are-we:
+    output: true
+    order: []
