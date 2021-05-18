@@ -1,5 +1,5 @@
 collections:
-  reporting:
+  reporting-safe-sport-concern:
     output: true
     order:
       - reporting.md
