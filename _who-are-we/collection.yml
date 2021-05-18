@@ -1,4 +1,5 @@
 collections:
   who-are-we:
     output: true
-    order: []
+    order:
+      - safe-sport-commission.md
