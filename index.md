@@ -23,10 +23,10 @@ sections:
           description: "Who are they? "
           url: https://google.com
   - infobar:
-      title: Reporting
+      title: Report It!
       subtitle: "Have a Safe Sport Concern? "
-      description: Report it, don't be the next victim!
-      button: report it
+      description: Don't be the next victim!
+      button: Reporting
       url: /faq/
   - resources:
       title: Media
