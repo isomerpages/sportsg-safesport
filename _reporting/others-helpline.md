@@ -8,10 +8,9 @@ permalink: /reporting/permalink
 
 * Samaritans of Singapore (SOS) Helpline: 1800 221 4444 (24-hour) Email Befriending: pat@sos.org.sg
 
-* Sexual Assault Care Centre Helpline: 6779 0282 | http://sacc.aware.org.sg Operating Hours: Monday to Friday |10am to 10pm
+* [Sexual Assault Care Centre ](https://sacc.aware.org.sg/)  | Helpline: 6779 0282 | Operating Hours: Monday to Friday | 10am to 10pm
 
-* Women’s Helpline: 1800 777 5555 | https://www.aware.org.sg/womens-care-centre/helpline/
-Operating Hours: Monday to Friday | 10am to 6pm
+* [Women’s Helpline](https://www.aware.org.sg/womens-care-centre/helpline/): 1800 777 5555 | Operating Hours: Monday to Friday | 10am to 6pm
 
 * Ministry of Social and Family Development’s Child Protective Service: 1800-777 0000 Operating Hours: Mon to Fri | 8.30am - 5.30pm
 
