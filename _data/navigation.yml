@@ -1,6 +1,6 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: What is Safe Sport?
+  - title: "What is Safe Sport "
     url: /what-is-safe-sport/permalink
   - title: "Who are we? "
     url: /who-are-we/permalink
@@ -11,8 +11,8 @@ links:
         url: /permalink
   - title: Reporting
     url: /reporting/permalink
-  - title: Effort in Safe Sport
-    url: /permalink
+  - title: Safe Sport Programme
+    collection: safe-sport-programme
   - title: Safeguarding Officers
     url: /permalink
     sublinks:
@@ -29,5 +29,3 @@ links:
     url: /contact-us/
   - title: Who Are We
     collection: who-are-we
-  - title: Safe Sport Programme
-    collection: safe-sport-programme
