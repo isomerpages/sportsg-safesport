@@ -2,22 +2,12 @@ logo: /images/isomer-logo.svg
 links:
   - title: "What is Safe Sport "
     url: /what-is-safe-sport/permalink
-  - title: "Who are we? "
+  - title: Who are we
     url: /who-are-we/permalink
-    sublinks:
-      - title: Safe Sport Commission
-        url: /who-are-we/permalink
-      - title: Organisation Chart
-        url: /permalink
   - title: Reporting
     url: /reporting/permalink
   - title: Safe Sport Programme
     collection: safe-sport-programme
-  - title: Safeguarding Officers
-    url: /permalink
-    sublinks:
-      - title: Safeguarding Officers Training
-        url: /permalink
   - title: Training & Education
     url: /permalink
     sublinks:
@@ -27,5 +17,3 @@ links:
         url: /permalink
   - title: Contact Us
     url: /contact-us/
-  - title: Who Are We
-    collection: who-are-we
