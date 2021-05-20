@@ -21,7 +21,7 @@ sections:
           url: /who-are-we/safesportcommission
         - title: Safeguarding Officers
           description: "Who are they? "
-          url: /who-are-we/safeguardingofficer
+          url: /who-are-we/safeguarding-officer
   - infopic:
       title: Report It!
       subtitle: "Have a Safe Sport Concern? "
