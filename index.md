@@ -28,7 +28,7 @@ sections:
       description: Don't be the next victim!
       button: Reporting
       url: /reporting/permalink
-      image: /images/Signs-Symptoms.png
+      image: /images/Reporting%20Image.jpg
       alt: Image alt text
   - infobar:
       title: Centralised Disciplinary Data
