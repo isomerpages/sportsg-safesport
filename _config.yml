@@ -52,4 +52,4 @@ plugins:
   - jekyll-remote-theme
 staging: https://sportsg-safesport-staging.netlify.app
 prod: https://sportsg-safesport-prod.netlify.app
-is_government: false
+is_government: true
