@@ -1,7 +1,8 @@
 ---
 title: Others Helpline
-permalink: /reporting/permalink
+permalink: /reporting
 ---
+
 **If you need help or feel unsure about an encounter, you can reach out to:**
 
 * National Anti-Violence Helpline: 1800 777 0000 (24-hour) 
