@@ -2,9 +2,7 @@
 title: Reporting
 permalink: /reporting/permalink
 ---
-**Have a Safe Sport Concern? Report it!**
-
-
+# HOW TO REPORT
 **Reporting an allegation against you**
 
 If you wish to report on an allegation against you, you may:
