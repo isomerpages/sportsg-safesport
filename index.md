@@ -29,7 +29,7 @@ sections:
       button: Reporting
       url: /reporting
       image: /images/Reporting%20Image.jpg
-      alt: Image alt text
+      alt: Reporting
   - infobar:
       title: Centralised Disciplinary Data
       button: Search the Database
@@ -39,6 +39,7 @@ sections:
       button: click to view
       url: /policiesandprocedures
       image: /images/Cover%20Page.png
+      alt: Policies And Procedures
   - resources:
       title: Safe Sport Poster
       subtitle: Download It
