@@ -34,6 +34,11 @@ sections:
       title: Centralised Disciplinary Data
       button: Search the Database
       url: /
+  - infopic:
+      title: Policies And Procedures
+      button: click to view
+      url: /
+      alt: Image alt text
   - resources:
       title: Safe Sport Poster
       subtitle: Download It
