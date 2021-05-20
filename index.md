@@ -22,12 +22,14 @@ sections:
         - title: Safeguarding Officers
           description: "Who are they? "
           url: https://google.com
-  - infobar:
+  - infopic:
       title: Report It!
       subtitle: "Have a Safe Sport Concern? "
       description: Don't be the next victim!
       button: Reporting
       url: /reporting/permalink
+      image: /images/Signs-Symptoms.png
+      alt: Image alt text
   - resources:
       title: Safe Sport Poster
       subtitle: Download It
