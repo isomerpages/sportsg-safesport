@@ -1,5 +1,6 @@
 ---
-title: SportSG-ED
-permalink: /training-and-education/permalink
+title: Sportsg Ed
+permalink: /training-and-education
 ---
+
 # Coming soon...
