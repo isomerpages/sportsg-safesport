@@ -1,7 +1,8 @@
 ---
 title: Safeguarding Officer Training
-permalink: /training-and-education/permalink
+permalink: /training-and-education/so-training
 ---
+
 ## How to become a Safeguarding Officer? 
 
 **Requirements:**
