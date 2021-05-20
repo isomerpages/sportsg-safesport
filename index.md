@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Isomer Site
+title: Safeguarding Sport in Singapore
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
