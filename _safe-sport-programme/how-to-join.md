@@ -1,5 +1,6 @@
 ---
-title: "How to join? "
-permalink: /safe-sport-programme/permalink
+title: How To Join
+permalink: /safe-sport-programme
 ---
+
 **Coming soon...**
