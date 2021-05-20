@@ -29,7 +29,7 @@ sections:
       button: Reporting
       url: /
   - resources:
-      title: Media
-      subtitle: Learn more
+      title: Safe Sport Poster
+      subtitle: Download It
       button: View More
 ---
