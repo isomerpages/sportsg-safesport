@@ -1,11 +1,11 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: "What is Safe Sport "
-    url: /what-is-safe-sport/permalink
+  - title: What is Safe Sport
+    collection: what-is-safe-sport
   - title: Who are we
-    url: /who-are-we/permalink
+    collection: who-are-we
   - title: Reporting
-    url: /reporting/permalink
+    collection: reporting
   - title: Safe Sport Programme
     collection: safe-sport-programme
   - title: Training & Education
