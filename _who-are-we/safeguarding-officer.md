@@ -1,7 +1,8 @@
 ---
 title: Safeguarding Officer
-permalink: /who-are-we/safeguardingofficer
+permalink: /who-are-we/safeguarding-officer
 ---
+
 # Roles & Responsibilities of the Safeguarding Officer 
 
 * The Safeguarding Officer within a sport organisation has the primary responsibility in managing and reporting any concerns related to breaches of Safe Sport practices to SportSG’s Safe Sport Taskforce.
