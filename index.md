@@ -18,10 +18,10 @@ sections:
           url: /safe-sport-programme/permalink
         - title: Safe Sport Commission
           description: Organisation Leaders
-          url: /privacy/
+          url: /who-are-we/permalink
         - title: Safeguarding Officers
           description: "Who are they? "
-          url: https://google.com
+          url: /who-are-we/permalink
   - infopic:
       title: Report It!
       subtitle: "Have a Safe Sport Concern? "
