@@ -8,14 +8,7 @@ links:
     collection: reporting
   - title: Safe Sport Programme
     collection: safe-sport-programme
-  - title: Training & Education
-    url: /permalink
-    sublinks:
-      - title: "SportSG-ED "
-        url: /permalink
-      - title: Safeguarding Officer Training
-        url: /permalink
-  - title: Contact Us
-    url: /contact-us/
   - title: Training And Education
     collection: training-and-education
+  - title: Contact Us
+    url: /contact-us/
