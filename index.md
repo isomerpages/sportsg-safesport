@@ -34,4 +34,8 @@ sections:
       title: Safe Sport Poster
       subtitle: Download It
       button: View More
+  - infobar:
+      title: Centralised Disciplinary Data
+      button: Search the Database
+      url: /
 ---
