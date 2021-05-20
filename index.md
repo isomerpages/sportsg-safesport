@@ -27,7 +27,7 @@ sections:
       subtitle: "Have a Safe Sport Concern? "
       description: Don't be the next victim!
       button: Reporting
-      url: /
+      url: /reporting/permalink
   - resources:
       title: Safe Sport Poster
       subtitle: Download It
