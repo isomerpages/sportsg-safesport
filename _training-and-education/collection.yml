@@ -1,4 +1,5 @@
 collections:
   training-and-education:
     output: true
-    order: []
+    order:
+      - sportsg-ed.md
