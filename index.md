@@ -37,8 +37,7 @@ sections:
   - infopic:
       title: Policies And Procedures
       button: click to view
-      url: /
-      alt: Image alt text
+      url: /policiesandprocedures
       image: /images/Cover%20Page.png
   - resources:
       title: Safe Sport Poster
