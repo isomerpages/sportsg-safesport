@@ -39,6 +39,7 @@ sections:
       button: click to view
       url: /
       alt: Image alt text
+      image: /images/Cover%20Page.png
   - resources:
       title: Safe Sport Poster
       subtitle: Download It
