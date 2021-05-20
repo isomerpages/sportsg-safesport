@@ -17,3 +17,5 @@ links:
         url: /permalink
   - title: Contact Us
     url: /contact-us/
+  - title: Training And Education
+    collection: training-and-education
