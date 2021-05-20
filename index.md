@@ -15,7 +15,7 @@ sections:
       key_highlights:
         - title: Safe Sport Programme
           description: Safe Sport Unified Code
-          url: https://gmail.com
+          url: /safe-sport-programme/permalink
         - title: Safe Sport Commission
           description: Organisation Leaders
           url: /privacy/
