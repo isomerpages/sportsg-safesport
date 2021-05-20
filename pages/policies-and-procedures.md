@@ -1,5 +1,6 @@
 ---
 title: Policies And Procedures
-permalink: /permalink
+permalink: /policiesandprocedures
 ---
+
 **Coming soon...**
