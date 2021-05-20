@@ -27,7 +27,7 @@ sections:
       subtitle: "Have a Safe Sport Concern? "
       description: Don't be the next victim!
       button: Reporting
-      url: /reporting/permalink
+      url: /reporting
       image: /images/Reporting%20Image.jpg
       alt: Image alt text
   - infobar:
