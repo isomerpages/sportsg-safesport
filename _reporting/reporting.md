@@ -1,7 +1,8 @@
 ---
 title: Reporting
-permalink: /reporting/permalink
+permalink: /reporting
 ---
+
 # HOW TO REPORT
 **Reporting an allegation against you**
 
