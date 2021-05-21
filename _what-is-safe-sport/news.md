@@ -2,8 +2,7 @@
 title: News
 permalink: /what-is-safe-sport/permalink
 ---
-**Safe Sport Programme News**
-
+### Safe Sport Programme News
 
 | 8 March 2021 | 
 | -------- | 
@@ -20,4 +19,3 @@ permalink: /what-is-safe-sport/permalink
 | 8 March 2021 | 
 | -------- | 
 | [Today - S$25m boost to help sports industry through Covid-19, including new grant for freelancers ](https://www.todayonline.com/singapore/s25m-boost-help-sports-industry-through-covid-19-including-new-grant-freelancers)|
-
