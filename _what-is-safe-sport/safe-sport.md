@@ -6,7 +6,7 @@ permalink: /what-is-safe-sport/permalink
 
 **What is Safe Sport?**
 
-> It is defined as “an athletic environment that is respectful, equitable and free from all forms of harassment and abuse” 
+> An athletic environment that is respectful, equitable and free from all forms of harassment and abuse
 
 By International Olympic Committee Consensus Statement, 2016 
 
