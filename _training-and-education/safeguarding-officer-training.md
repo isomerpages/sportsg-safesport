@@ -2,8 +2,7 @@
 title: Safeguarding Officer Training
 permalink: /training-and-education/so-training
 ---
-
-## How to become a Safeguarding Officer? 
+# How to become a Safeguarding Officer? 
 
 **Requirements:**
 * Good interpersonal and communication skills
