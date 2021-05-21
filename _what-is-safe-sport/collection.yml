@@ -2,6 +2,7 @@ collections:
   what-is-safe-sport:
     output: true
     order:
+      - 2018/.keep
       - safe-sport.md
       - effort-in-safe-sport.md
       - news.md
