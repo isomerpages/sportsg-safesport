@@ -17,7 +17,7 @@ locations:
 contacts:
   - content:
       - phone: ""
-      - email: huihan_ang_from.tp@sport.gov.sg
+      - email: safe_sport@sport.gov.sg
       - other: ""
     title: General Enquiries & Feedback
 ---
