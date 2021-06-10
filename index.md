@@ -33,7 +33,7 @@ sections:
   - infobar:
       title: Centralised Disciplinary Data
       button: Search the Database
-      url: /
+      url: /centraliseddisciplinarydata
   - infopic:
       title: Policies And Procedures
       button: click to view
