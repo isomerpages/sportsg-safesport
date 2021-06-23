@@ -4,6 +4,10 @@ permalink: /what-is-safe-sport/permalink
 ---
 ### Safe Sport Programme News
 
+| 4 May  2021 | 
+| -------- | 
+| [Circle News - Engagement is the key to unify efforts to play safely ](https://circle.myactivesg.com/circle-news/articles/engagement-is-the-key-to-unify-efforts-to-play-safely)
+
 | 8 March 2021 | 
 | -------- | 
 | [Speech by Mr Edwin Tong, Minister for Culture, Community and Youth & Second Minister for Law at the Committee of Supply Debate 2021](https://www.mccy.gov.sg/about-us/news-and-resources/speeches/2021/mar/forging-forward-together) |
