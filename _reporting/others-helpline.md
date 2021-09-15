@@ -1,7 +1,8 @@
 ---
 title: Others Helpline
-permalink: /reporting/otherhelpline
+permalink: /reporting/other-helpline
 ---
+
 ### If you need help or feel unsure about an encounter, you can reach out to:
 
 
