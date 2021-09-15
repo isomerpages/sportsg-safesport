@@ -14,10 +14,4 @@ locations:
         description: ""
     maps_link: ""
     title: Main Office
-contacts:
-  - content:
-      - phone: ""
-      - email: safe_sport@sport.gov.sg
-      - other: ""
-    title: General Enquiries & Feedback
 ---
