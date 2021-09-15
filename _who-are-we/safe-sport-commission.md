@@ -1,7 +1,8 @@
 ---
 title: Safe Sport Commission
-permalink: /who-are-we/safesportcommission
+permalink: /who-are-we/safe-sport-commission
 ---
+
 # What is Safe Sport Commission? 
 Sport Singapore has established the advisory panel for Safe Sport, hereafter termed as ‘Safe Sport Commission’, to drive effective implementation of Safe Sport initiatives and policies in promoting of values and best practices of Safe Sport, safeguarding athletes, participants, and officials, and protecting the integrity of sport and sports organisations.
 
