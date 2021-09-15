@@ -1,7 +1,8 @@
 ---
 title: Safe Sport
-permalink: /what-is-safe-sport/permalink
+permalink: /what-is-safe-sport/safe-sport
 ---
+
 ![Alt text for image on Isomer site](/images/Safeguarding%20in%20Sport%20is%20Everyone%20Responsibility.jpeg)
 
 # What is Safe Sport?
