@@ -1,6 +1,7 @@
 ---
 title: How To Join
-permalink: /safe-sport-programme
+permalink: /ssp-how-to-join
 ---
+
 
 **Coming soon...**
