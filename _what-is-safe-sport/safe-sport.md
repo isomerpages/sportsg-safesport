@@ -13,7 +13,7 @@ permalink: /what-is-safe-sport/safe-sport
 
 ### The 5 forms of Harrassment and Abuse
 
-Harassment and may be deliberate, unsolicited and coercive. It is often result from abuse of authority or power by an individual against another. It is based on any grounds, including race, religion, colour, creed, ethnic origin, physical, attributes, gender, sexual orientation, age, disability, socio-economic status and athletic ability. It can happen in person or online.
+Harassment and may be deliberate, unsolicited and coercive. It is often resulted from abuse of authority or power by an individual against another. It is based on any grounds, including race, religion, colour, creed, ethnic origin, physical, attributes, gender, sexual orientation, age, disability, socio-economic status and athletic ability. It can happen in person or online.
 
 ### Why is Safe Sport important?
 
