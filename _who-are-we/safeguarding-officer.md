@@ -1,7 +1,8 @@
 ---
 title: Safeguarding Officer
-permalink: /who-are-we/safeguarding-officers
+permalink: /who-are-we/safeguarding-officer
 ---
+
 
 # Roles & Responsibilities of the Safeguarding Officer 
 
