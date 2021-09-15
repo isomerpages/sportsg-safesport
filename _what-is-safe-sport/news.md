@@ -1,7 +1,8 @@
 ---
 title: News
-permalink: /what-is-safe-sport/permalink
+permalink: /what-is-safe-sport/news
 ---
+
 ### Safe Sport Programme News
 
 | 4 May  2021 | 
