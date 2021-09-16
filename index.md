@@ -11,14 +11,14 @@ sections:
       subtitle: "#SGSafeSport Play Your Part"
       background: /images/unifiedcode.jpeg
       button: What is Safe Sport?
-      url: /what-is-safe-sport
+      url: /what-is-safe-sport/safe-sport
       key_highlights:
         - title: Safe Sport Programme
-          description: Safe Sport Unified Code
+          description: What is it?
           url: /safe-sport-programme
         - title: Safe Sport Commission
           description: Organisation Leaders
-          url: /who-are-we/safesportcommission
+          url: /who-are-we/safe-sport-commission
         - title: Safeguarding Officers
           description: "Who are they? "
           url: /who-are-we/safeguarding-officer
