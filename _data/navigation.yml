@@ -10,7 +10,7 @@ links:
     collection: safe-sport-programme
   - title: Training And Education
     collection: training-and-education
-  - title: Contact Us
-    url: /contact-us/
   - title: Faq
     collection: faq
+  - title: Contact Us
+    url: /contact-us/
