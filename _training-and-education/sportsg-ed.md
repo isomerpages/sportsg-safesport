@@ -2,9 +2,4 @@
 title: SPORTSG-ED
 permalink: /training-and-education/sportsg-ed
 ---
-
-
-
-
-
-**Coming soon...**
+**Place Safe Sport module brochure here**
