@@ -1,5 +1,5 @@
 collections:
-  what-is-safe-sport:
+  safe-sport:
     output: true
     order:
       - what-is-safe-sport.md
