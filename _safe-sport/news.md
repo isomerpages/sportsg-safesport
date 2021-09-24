@@ -1,7 +1,8 @@
 ---
 title: News
-permalink: /what-is-safe-sport/news
+permalink: /safe-sport/news
 ---
+
 
 ### Safe Sport Programme News
 
