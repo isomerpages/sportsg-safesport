@@ -1,7 +1,8 @@
 ---
 title: Safe Sport Unified Code
-permalink: /what-is-safe-sport/safe-sport-unified-code
+permalink: /safe-sport/safe-sport-unified-code
 ---
+
 ![Alt text for image on Isomer site](/images/Safeguarding%20in%20Sport%20is%20Everyone%20Responsibility.jpeg)
 
 
