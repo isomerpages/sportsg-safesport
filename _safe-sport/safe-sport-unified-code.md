@@ -2,15 +2,15 @@
 title: Safe Sport Unified Code
 permalink: /safe-sport/safe-sport-unified-code
 ---
-
 ![Alt text for image on Isomer site](/images/Safeguarding%20in%20Sport%20is%20Everyone%20Responsibility.jpeg)
 
 
-## Safe Sport Unified Code
+### Safe Sport Unified Code
 
 The Unified Code is a document that will harmonise organisational rules regarding Safe Sport in Singapore. It is
 seen as a new standard applicable across sports
 and for the industry which will:
+
 1. Educate all stakeholders on what is
 considered appropriate and inappropriate
 behaviours, especially for ‘grey’ areas
