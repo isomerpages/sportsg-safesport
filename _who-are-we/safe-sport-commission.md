@@ -4,8 +4,7 @@ permalink: /who-are-we/safe-sport-commission
 ---
 ### What is the Safe Sport Commission? 
 
-The Safe Sport Commission (“SS Commission”), is an advisory body comprising of key government agencies
-and important stakeholders representing National Sports Associations (NSAs) and athletes from the Olympic and Paralympic movement.
+The Safe Sport Commission comprises representatives of the different stakeholders in our sporting community to bring together participants and organisations in fostering a healthy and positive climate for all involved. 
 
 #### Roles & Responsibilities of the Commission
 
