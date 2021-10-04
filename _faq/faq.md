@@ -11,4 +11,4 @@ Answer here
 ##### Can I make a report on someone else’s behalf?
 Answer here
 
-### Have another question? Feel free to reach us Here
+### Have another question? Feel free to reach us [HERE](sites/sportsg-safesport/contact-us)
