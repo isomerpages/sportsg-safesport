@@ -8,12 +8,35 @@ The Safe Sport Commission comprises representatives of the different stakeholder
 
 #### Roles & Responsibilities of the Commission
 
-The primary roles of the Commission are:
-* To provide advice on the strategic directions, policy formulation, and adoption of best practices in areas of education, prevention, risk assessment (including suitability to work with athletes, officials and those who are vulnerable within and relating to the sport environment), and reporting management.
-* To provide advice on the need for independent inquiry into concerns and report of breaches to safe sport practices.
-* To provide advisory support to organisational disciplinary or appeal panels and all matters related to Safe Sport.
+The Safe Sport Commission is responsible for the administration of the Safe Sport Unified Code and the Safe Sport Programme through its policy and advocacy, training and education, and case management functions. 
 
-### List of Commission Members
 
-| S/N | Names of Safe Sport Commission Members | Agency |
-|
+### List of Commission Members 
+##### Term 2021- 2023
+
+
+| S/N| Name | Role| Representation
+| -------- | -------- | -------- | -------- | 
+| 1     | Chan Yen San (Chair)     | Partner, KPMG, SportSG Board Member|   SportSG     | 
+
+###### Sport Community Representatives
+
+| S/N| Name | Role| Representation
+| -------- | -------- | -------- | -------- | 
+| 2     | Chris Chan     | General Secretary, Singapore National Olympic Council     |   Olympic Movement     | 
+| 3     | Shayna Ng     | SNOC Athlete's Commission, National Bowler     |   Athletes     | 
+| 4     | Yip Pin Xiu     | Paralympian, ExCo Member, Singapore Disability Sport Council     |   Para Sport     | 
+| 5     | Lim Chea Rong     | Head Coach, Shooting, Singapore Sports School     |   Coaches     | 
+| 6     | Nurulasyiqah Mohammad Taha     | Paralympian, Member Athletes' Council, International Paralympic Committee     |   Para Athletes     | 
+| 7     | Lee Kok Choy     | President, Singapore Swimming Association, SportSG Board Member     |   National Sports Association     | 
+| 8     | Su Chun Wei     | Chief, Singapore Sport Institute     |   SportSG, High Performance Sport and National Sports Association relationships     | 
+| 9     | Andy Hoe     | Director, Lifeskills & Lifestyle Division     |   Community Sport     | 
+| 10     | Lau Kok Keng     | Partner, Rajah & Tann Singapore LLP     |   Legal Member     | 
+
+###### Members representing relevant Government Agencies
+
+| S/N| Name | Role| Representation
+| -------- | -------- | -------- | -------- | 
+| 11     | Ng Chen Kee   | Divisional Director, SDCD, Ministry of Education   |   Schools  | 
+| 12    | Tan Tin Wee  | Deputy Director, Current Ops, Singapore Police Force    |   Law Enforcement     | 
+| 13    | Jennifer Teoh   | Director, RPG-CFPS, Ministry of Social and Family Development    |   Psychological Support     | 
