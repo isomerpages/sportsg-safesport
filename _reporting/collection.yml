@@ -2,7 +2,7 @@ collections:
   reporting:
     output: true
     order:
-      - Support Network.md
       - reporting.md
+      - Support Network.md
       - Safeguarding Officer .md
       - other-helplines.md
