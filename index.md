@@ -17,7 +17,7 @@ sections:
           description: What is it?
           url: /safe-sport-programme
         - title: Safe Sport Commission
-          description: Organisation Leaders
+          description: Members
           url: /who-are-we/safe-sport-commission
         - title: Safeguarding Officers
           description: "Who are they? "
