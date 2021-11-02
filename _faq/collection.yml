@@ -2,4 +2,5 @@ collections:
   faq:
     output: true
     order:
+      - Safe Sport Programme.md
       - Reporting.md
