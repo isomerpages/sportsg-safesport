@@ -11,7 +11,7 @@ sections:
       subtitle: "#SGSafeSport Play Your Part"
       background: /images/unifiedcode.jpeg
       button: What is Safe Sport?
-      url: /what-is-safe-sport/safe-sport
+      url: /safe-sport-programme
       key_highlights:
         - title: Safe Sport Programme
           description: What is it?
