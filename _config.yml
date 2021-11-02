@@ -2,11 +2,11 @@ title: Safeguarding Sport in Singapore
 url: ""
 favicon: /images/favicon-isomer.ico
 colors:
-  primary-color: "#c00000"
-  secondary-color: "#44546a"
+  primary-color: "#202945"
+  secondary-color: "#b12028"
   media-colors:
     - title: media-color-one
-      color: "#192243"
+      color: "#ededed"
     - title: media-color-two
       color: "#4a4a4a"
     - title: media-color-three
