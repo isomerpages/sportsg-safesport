@@ -2,7 +2,7 @@
 title: Safeguarding Officer Training
 permalink: /training-and-education/so-training
 ---
-# How to become a Safeguarding Officer? 
+## How to become a Safeguarding Officer? 
 
 **Requirements:**
 * Good interpersonal and communication skills
@@ -15,7 +15,7 @@ Background in Psychology or Counselling is a bonus but not a requirement
 * Sensitive, understanding, mature, and patient
 * Minimally GCE O-Level
 
-### Upcoming Training Schedule:
+#### Upcoming Training Schedule:
 ***Registration for the Safeguarding Officer Training Course is strictly by selected Sporting Organisation. By Invitation Only.***
 
 The training will cover the following areas:
