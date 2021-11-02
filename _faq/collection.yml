@@ -2,6 +2,6 @@ collections:
   faq:
     output: true
     order:
-      - Training and Education.md
       - Safe Sport Programme.md
       - Reporting.md
+      - Training and Education.md
