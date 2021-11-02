@@ -1,13 +1,13 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: About Us
-    collection: about-us
-  - title: Reporting
-    collection: reporting
   - title: Safe Sport Programme
     collection: safe-sport-programme
   - title: Training And Education
     collection: training-and-education
+  - title: Reporting
+    collection: reporting
+  - title: About Us
+    collection: about-us
   - title: Faq
     collection: faq
   - title: Contact Us
