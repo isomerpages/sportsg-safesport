@@ -2,5 +2,6 @@ collections:
   training-and-education:
     output: true
     order:
+      - Workshops.md
       - Awareness Module.md
       - safeguarding-officer-training.md
