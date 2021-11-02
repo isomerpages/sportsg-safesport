@@ -2,5 +2,6 @@ collections:
   safe-sport-programme:
     output: true
     order:
+      - Community Consultations.md
       - what-is-the-safe-sport-programme.md
       - how-to-join.md
