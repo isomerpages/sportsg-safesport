@@ -1,5 +1,5 @@
 collections:
-  who-are-we:
+  about-us:
     output: true
     order:
       - safe-sport-commission.md
