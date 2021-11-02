@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - what-is-safe-sport.md
-      - safe-sport-unified-code.md
       - news.md
