@@ -1,6 +1,0 @@
-collections:
-  safe-sport:
-    output: true
-    order:
-      - what-is-safe-sport.md
-      - news.md
