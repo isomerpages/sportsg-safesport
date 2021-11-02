@@ -2,5 +2,5 @@ collections:
   training-and-education:
     output: true
     order:
-      - sportsg-ed.md
+      - Awareness Module.md
       - safeguarding-officer-training.md
