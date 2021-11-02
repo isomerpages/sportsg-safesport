@@ -21,7 +21,7 @@ sections:
           url: /who-are-we/safe-sport-commission
         - title: Safeguarding Officers
           description: "Who are they? "
-          url: /who-are-we/safeguarding-officer
+          url: /reporting/safeguarding-officer
   - infopic:
       title: Find out more
       subtitle: Safe sport Unified Code
