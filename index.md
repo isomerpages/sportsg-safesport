@@ -23,11 +23,10 @@ sections:
           description: "Who are they? "
           url: /who-are-we/safeguarding-officer
   - infopic:
-      title: Report It!
-      subtitle: "Have a Safe Sport Concern? "
-      description: Don't be the next victim!
-      button: Reporting
-      url: /reporting
+      title: Find out more
+      subtitle: Safe sport Unified Code
+      button: here
+      url: /safe-sport-programme
       image: /images/Reporting%20Image.jpg
       alt: Reporting
   - infobar:
