@@ -34,11 +34,12 @@ sections:
       button: Search the Database
       url: /centraliseddisciplinarydata
   - infopic:
-      title: Policies And Procedures
-      button: click to view
+      title: Community Consultations
+      button: Learn MORE
       url: /policiesandprocedures
       image: /images/Cover%20Page.png
       alt: Policies And Procedures
+      subtitle: UNIFIED CODE JOURNEY
   - resources:
       title: Safe Sport Poster
       subtitle: Download It
