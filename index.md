@@ -39,7 +39,7 @@ sections:
       url: /policiesandprocedures
       image: /images/Cover%20Page.png
       alt: Policies And Procedures
-      subtitle: UNIFIED CODE JOURNEY
+      subtitle: THE JOURNEY TO UNITY
   - resources:
       title: Safe Sport Poster
       subtitle: Download It
