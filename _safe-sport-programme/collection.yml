@@ -2,6 +2,7 @@ collections:
   safe-sport-programme:
     output: true
     order:
+      - Guiding Principles.md
       - Purpose.md
       - Safe Sport Unified Code.md
       - The Safe Sport Programme.md
