@@ -32,7 +32,7 @@ sections:
   - infopic:
       title: Community Consultations
       button: view reports
-      url: /community-consultations
+      url: /safe-sport-programme/community-consultations
       image: /images/community.png
       alt: Policies And Procedures
       subtitle: "THE JOURNEY "
