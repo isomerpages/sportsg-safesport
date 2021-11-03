@@ -2,6 +2,7 @@ collections:
   case-management:
     output: true
     order:
+      - Case Management Service.md
       - reporting.md
       - Support Network.md
       - Safeguarding Officer .md
