@@ -33,8 +33,4 @@ sections:
       image: /images/community.png
       alt: Policies And Procedures
       subtitle: "THE JOURNEY "
-  - resources:
-      title: Safe Sport Poster
-      subtitle: Download It
-      button: View More
 ---
