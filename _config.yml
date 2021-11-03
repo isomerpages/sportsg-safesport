@@ -53,4 +53,4 @@ plugins:
 staging: https://sportsg-safesport-staging.netlify.app
 prod: https://sportsg-safesport-prod.netlify.app
 is_government: false
-shareicon: /images/isomer-logo.svg
+shareicon: /images/logos/SSCS_PANTONE_H_Blue.png
