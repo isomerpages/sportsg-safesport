@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Case Management Service.md
-      - reporting.md
+      - Reporting a Concern.md
       - Support Network.md
       - Safeguarding Officer .md
       - other-helplines.md
