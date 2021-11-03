@@ -2,7 +2,7 @@ collections:
   safe-sport-programme:
     output: true
     order:
-      - Safe Sport Unified Code.md
       - Purpose.md
+      - Safe Sport Unified Code.md
       - what-is-the-safe-sport-programme.md
       - Community Consultations.md
