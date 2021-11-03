@@ -8,8 +8,9 @@ The Safe Sport Commission comprises representatives of the different stakeholder
 
 #### Roles & Responsibilities of the Commission
 
-The Safe Sport Commission is responsible for the administration of the Safe Sport Unified Code and the Safe Sport Programme through its policy and advocacy, training and education, and case management functions. 
+The Safe Sport Commission maintains a secretariat that is responsible for the administration of the Safe Sport Unified Code and the Safe Sport Programme through its policy and advocacy, training and education, and case management functions. 
 
+![Alt text for image on Isomer site](/images/ModusOperandi.png)
 
 ### List of Commission Members 
 ##### Term 2021- 2023
@@ -39,4 +40,4 @@ The Safe Sport Commission is responsible for the administration of the Safe Spor
 | -------- | -------- | -------- | -------- | 
 | 11     | Ng Chen Kee   | Divisional Director, SDCD, Ministry of Education   |   Schools  | 
 | 12    | Tan Tin Wee  | Deputy Director, Current Ops, Singapore Police Force    |   Law Enforcement     | 
-| 13    | Jennifer Teoh   | Director, RPG-CFPS, Ministry of Social and Family Development    |   Psychological Support     | 
+| 13    | Jennifer Teoh   | Director, RPG-CFPS, Ministry of Social and Family Development    |   Psychological Support     |
