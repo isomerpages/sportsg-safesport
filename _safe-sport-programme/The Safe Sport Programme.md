@@ -16,8 +16,8 @@ The Safe Sport Programme supports Member Organisations through:
 * **Facilitating support** for affected parties who require augmented psychosocial support through a network of befrienders and counsellor <br><br>
 * **Accreditation** through a Safe Sport Safety Mark upon the implementation of the relevant safeguards
 
-
-The Safe Sport Programme prescribes:
+ <br><br>
+The Safe Sport Programme also prescribes:
 * **Process and Procedures** - clear guidelines on jurisdiction, confidentiality, assessment and
 investigation of reports of concern, a decision-making framework for the determination of severity and consequence(s) and hearing procedures which will ensure a consistent, fair and independent resolution process. <br><br>
 * **Measures** – protective and/or rehabilitative interventions including education, contact limitations
