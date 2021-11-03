@@ -35,7 +35,7 @@ sections:
       url: /policiesandprocedures
       image: /images/Cover%20Page.png
       alt: Policies And Procedures
-      subtitle: THE JOURNEY TO UNITY
+      subtitle: "THE JOURNEY "
   - resources:
       title: Safe Sport Poster
       subtitle: Download It
