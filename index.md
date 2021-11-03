@@ -13,9 +13,6 @@ sections:
       button: What is SAFE SPORT
       url: /safe-sport-programme
       key_highlights:
-        - title: Safe Sport Unified Code
-          description: "Community Driven "
-          url: /reporting/safeguarding-officer
         - title: Safe Sport Programme
           description: A National Framework
           url: /safe-sport-programme
