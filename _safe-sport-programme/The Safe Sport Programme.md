@@ -9,19 +9,12 @@ The Safe Sport Programme comprises all the elements required to optimize the imp
 
 The Safe Sport Programme supports Member Organisations through: 
 
-* **Policymaking** – assistance with the development of safeguarding policies that incorporate the Unified Code and other best practices; access to safeguarding tool kits and risk and needs assessment frameworks
-* **Training and Education** – for stakeholders through access to curriculum and advocacy materials for safeguarding officers and participants
-* **Case Management Service** - an independent mechanism to receive, respond and resolve reports of concern. This includes the investigations by the case management unit of the Safe Sport Commission and where necessary are resolved though adjudication by an independently appointed Safe Sport Disciplinary Panel.
-* **Access to systems** for secure record-keeping and confidential reporting of incident.
-* **Facilitating support** for affected parties who require augmented psychosocial support through a network of befrienders and counsellor
+* **Policymaking** – assistance with the development of safeguarding policies that incorporate the Unified Code and other best practices; access to safeguarding tool kits and risk and needs assessment frameworks <br><br>
+* **Training and Education** – for stakeholders through access to curriculum and advocacy materials for safeguarding officers and participants <br><br>
+* **Case Management Service** - an independent mechanism to receive, respond and resolve reports of concern. This includes the investigations by the case management unit of the Safe Sport Commission and where necessary are resolved though adjudication by an independently appointed Safe Sport Disciplinary Panel. <br><br>
+* **Access to systems** for secure record-keeping and confidential reporting of incident. <br><br>
+* **Facilitating support** for affected parties who require augmented psychosocial support through a network of befrienders and counsellor <br><br>
 * **Accreditation** through a Safe Sport Safety Mark upon the implementation of the relevant safeguards
 
 
 
-### Guiding Principles – H.E.A.R.
-
-The design of the Unified Code and the Safe Sport Programme are based on the following principles:
-* **Harmonisation** of (a) behaviours which constitute Misconduct in sport (b) process, procedure and decision-making through the independent mechanism for assessment, investigation and adjudication
-* **Empowerment** of (a) sporting organisations through capability development in creating healthy and safe environments (b) of the individuals involved through an understanding of appropriate interpersonal behaviour and best practice in their respective roles in the sporting environment
-* **Accessibility** to (a) channels for reporting concerns for affected persons and access to augmented psychosocial support (b) the Unified Code for any type of sporting organisation within the Singapore sporting ecosystem
-* **Respect** for (a) a sporting organisation’s ownership and governance over low level concerns (2) the agency of affected persons and the confidentiality of their disclosures (3) the principles of natural justice which include the right to be heard, clear procedures and impartial decision-making
