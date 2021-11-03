@@ -8,8 +8,10 @@ Whilst guided by international frameworks on safeguarding in sport, the Safe Spo
 ![Alt text for image on Isomer site](/images/SSUC%20Timeline.png)
 
 
-Over 200 stakeholders in the sporting community over 60 organisations across 58 sports participated in the community consultations. 
+Over 200 sporting community stakeholders in more than 64 organisations across 58 sports participated in the Safe Sport Unified Code community consultations. 
 
+
+Their stories, thoughts, feedback and insights are reflected in these reports: 
 
 
 
