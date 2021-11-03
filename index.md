@@ -29,10 +29,6 @@ sections:
       url: /safe-sport-programme
       image: /images/Reporting%20Image.jpg
       alt: Reporting
-  - infobar:
-      title: Centralised Disciplinary Data
-      button: Search the Database
-      url: /centraliseddisciplinarydata
   - infopic:
       title: Community Consultations
       button: Learn MORE
