@@ -18,7 +18,7 @@ sections:
           url: /safe-sport-programme
         - title: Safe Sport Commission
           description: Our Work
-          url: /who-are-we/safe-sport-commission
+          url: /who-are-we/safe-sport-commission/about
   - infopic:
       title: The Safe Sport UNIFIED CODE
       subtitle: Download
