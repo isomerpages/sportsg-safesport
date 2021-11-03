@@ -27,7 +27,7 @@ sections:
       subtitle: Download
       button: here
       url: /safe-sport-programme
-      image: /images/Reporting%20Image.jpg
+      image: /images/unifiedcode.png
       alt: Reporting
   - infopic:
       title: Community Consultations
