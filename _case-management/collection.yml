@@ -1,5 +1,5 @@
 collections:
-  reporting:
+  case-management:
     output: true
     order:
       - reporting.md
