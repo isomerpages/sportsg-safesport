@@ -4,11 +4,9 @@ permalink: /reporting/support-network
 ---
 #### What is the Safe Sport Support Network?
 
-The Safe Sport Support Network provides continued and/or enhanced psychosocial support to individuals affected by incidents relating to breaches of
-1. Safe Sport Unified Code
-2. Coach's Code of Ethics
+The Safe Sport Support Network provides continued and/or enhanced psychosocial support to individuals affected by incidents relating to breaches of Safe Sport Unified Code or to support.
 
-by members of the National Registry of Coaches (NROC).
+This support is extended to both affected persons as well as persons who are subject to reports of concern. 
 
 The Support Network, comprising of counselling and befriending services, is provided to individuals through partnership with **Team Nila, Singapore National Olympic Council, Athletes' Commission**, and **Women in Sport Committee**.
 
