@@ -17,6 +17,8 @@ Whilst guided by international frameworks on safeguarding in sport, the Safe Spo
 
 ### Guiding Principles – H.E.A.R.
 
+![Alt text for image on Isomer site](/images/hear.png)
+
 The design of the Unified Code and the Safe Sport Programme are based on the following principles:
 * **Harmonisation** of (a) behaviours which constitute Misconduct in sport (b) process, procedure and decision-making through the independent mechanism for assessment, investigation and adjudication <br><br>
 * **Empowerment** of (a) sporting organisations through capability development in creating healthy and safe environments (b) of the individuals involved through an understanding of appropriate interpersonal behaviour and best practice in their respective roles in the sporting environment <br><br>
