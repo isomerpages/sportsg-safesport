@@ -8,10 +8,12 @@ The Safe Sport Support Network provides continued and/or enhanced psychosocial s
 
 This support is extended to both affected persons as well as persons who are subject to reports of concern ("Respondents"). 
 
-The Support Network, comprising of counselling and befriending services, is provided to individuals through partnership with **Team Nila, Singapore National Olympic Council, Athletes' Commission**, and **Women in Sport Committee**.
+The Support Network, comprising of counselling and befriending services, is provided to individuals through partnership with **Team Nila, Singapore National Olympic Council (SNOC) Athletes' Commission** and **SNOC Women in Sport Committee**.
 
-The counselling service is conducted either face-to-face or via online zoom session. The cost for a 45-minutes block counselling session (physical/online) is between $20 to $40. The befriending service is provided at no cost.
+##### Process
 
-You may contact us at **Safe_sport@sport.gov.sg** if 
-1. You are or know of someone who is affected by Safe Sport incidents and/or breaches related to NROC Coach's of Ethics
+An needs assessment will be performed by the Case Management Team before a person is referred to the Safe Sport Support Network. The counselling service is conducted either face-to-face or via online zoom session. The cost for a 45-minutes block counselling session (physical/online) is between $20 to $40. The befriending service is provided at no cost.
+
+You may contact us at **Safe_sport@sport.gov.sg**  if 
+1. You are or know of someone who is requires augmented psychosocial support 
 2. You would like to join us as a counsellor or befriender. Please complete and submit the application form below.
