@@ -32,7 +32,7 @@ sections:
   - infopic:
       title: Community Consultations
       button: Learn MORE
-      url: /policiesandprocedures
+      url: /community-consultations
       image: /images/community.png
       alt: Policies And Procedures
       subtitle: "THE JOURNEY "
