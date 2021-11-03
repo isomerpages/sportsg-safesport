@@ -5,15 +5,26 @@ description: A National Framework For Safeguarding In Sport
 ---
 
 
-### The Safe Sport Unified Code 
-
-The Unified Code is the cornerstone of the Safe Sport Programme and sets out a unified reference for the Singapore sporting community that describes the forms of abuse and harassment which may take place in the sporting environment (“Misconduct”).
-The Unified Code may be adopted by any organisation by reference to the Unified Code in its member protection policies.
-
 ### The Safe Sport Programme (SSP)
  
-The Safe Sport Programme comprises all the elements required to optimize harmonisation and best practice for sporting organisations that are members of the Safe Sport Programme (“Member Organisations”)
+The Safe Sport Programme comprises all the elements required to optimize the implementation of the Unified Code for sporting organisations that subscribe to the Safe Sport Programme (“Member Organisations”).
+
+
+```
+The Safe Sport Programme supports Member Organisations through: 
+
+Policymaking – assistance with the development of safeguarding policies that incorporate the Unified Code and other best practices; access to safeguarding tool kits and risk and needs assessment frameworks
  
+3. Training and Education – for stakeholders through access to curriculum and advocacy materials for safeguarding officers and participants
+
+Case Management Service - an independent mechanism to receive, respond and resolve reports of concern. This includes the investigations by the case management unit of the Safe Sport Commission and where necessary are resolved though adjudication by an independently appointed Safe Sport Disciplinary Panel.
+6. 
+7. Access to systems for secure record-keeping and confidential reporting of incidents
+8. 
+9. Facilitating support for affected parties who require augmented psychosocial support through a network of befrienders and counsellors
+10. 
+11. Accreditation through a Safe Sport Safety Mark upon the implementation of the relevant safeguards
+```
 The Safe Sport Programme prescribes:  
  
 * Case Management -  an independent mechanism to receive, respond and resolve reports of concern. This includes the investigations by the case management unit of the Safe Sport Commission and adjudication by an independently appointed Safe Sport Disciplinary Panel
