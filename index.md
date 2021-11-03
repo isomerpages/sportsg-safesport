@@ -23,7 +23,7 @@ sections:
       title: The Safe Sport UNIFIED CODE
       subtitle: Download
       button: here
-      url: /safe-sport-programme
+      url: /safe-sport-programme/unified-code
       image: /images/unifiedcode.png
       alt: Reporting
   - infopic:
