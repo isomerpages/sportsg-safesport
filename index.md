@@ -23,8 +23,8 @@ sections:
           description: Our Work
           url: /who-are-we/safe-sport-commission
   - infopic:
-      title: Find out more
-      subtitle: Safe sport Unified Code
+      title: The Safe Sport Unified Code
+      subtitle: Download
       button: here
       url: /safe-sport-programme
       image: /images/Reporting%20Image.jpg
