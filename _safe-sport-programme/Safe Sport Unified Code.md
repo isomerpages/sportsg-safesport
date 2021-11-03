@@ -13,4 +13,4 @@ International Olympic Committee, Consensus Statement: harassment and abuse  (non
 
 The Unified Code is the cornerstone of the Safe Sport Programme and sets out a unified reference for the Singapore sporting community that describes the forms of abuse and harassment which may take place in the sporting environment (“Misconduct”).
 
-The Unified Code may be adopted by any organisation by reference to the Unified Code in its member protection policies.
+The Unified Code may be adopted by any organisation by reference to the Unified Code in its member protection policies. 
