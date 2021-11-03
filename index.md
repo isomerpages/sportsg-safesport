@@ -31,7 +31,7 @@ sections:
       alt: Reporting
   - infopic:
       title: Community Consultations
-      button: Learn MORE
+      button: view reports
       url: /community-consultations
       image: /images/community.png
       alt: Policies And Procedures
