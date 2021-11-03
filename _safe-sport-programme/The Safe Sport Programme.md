@@ -17,4 +17,10 @@ The Safe Sport Programme supports Member Organisations through:
 * **Accreditation** through a Safe Sport Safety Mark upon the implementation of the relevant safeguards
 
 
-
+The Safe Sport Programme prescribes:
+* **Process and Procedures** - clear guidelines on jurisdiction, confidentiality, assessment and
+investigation of reports of concern, a decision-making framework for the determination of severity and consequence(s) and hearing procedures which will ensure a consistent, fair and independent resolution process. <br><br>
+* **Measures** – protective and/or rehabilitative interventions including education, contact limitations
+and re-integration programmes.<br><br>
+* **Sanctions** – appropriate limitations, conditions, suspensions or denial of the privilege of
+participation as a consequence for engaging in Misconduct.
