@@ -2,5 +2,6 @@ collections:
   about:
     output: true
     order:
+      - History.md
       - Our Work.md
       - Safe Sport Commission Members.md
