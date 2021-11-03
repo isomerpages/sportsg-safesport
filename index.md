@@ -33,7 +33,7 @@ sections:
       title: Community Consultations
       button: Learn MORE
       url: /policiesandprocedures
-      image: /images/Cover%20Page.png
+      image: /images/consultations.png
       alt: Policies And Procedures
       subtitle: "THE JOURNEY "
   - resources:
