@@ -20,7 +20,7 @@ Sport Singapore established the Safe Sport Commission in 2019 as advisory panel 
 
 In 2021, the Safe Sport Commission pivoted from its advisory role to one that maintains a secretariat to perform the  necessary functions to administer the Safe Sport Programme. 
 
-Today secretariat performs 3 key functions:
+Today, the Safe Sport Commission's secretariat performs 3 key functions:
 
 * Policy & Advocacy
 
