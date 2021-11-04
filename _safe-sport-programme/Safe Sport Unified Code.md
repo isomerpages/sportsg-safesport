@@ -3,11 +3,8 @@ title: Safe Sport Unified Code
 permalink: /safe-sport-programme/unified-code
 description: A unified reference for inappropriate behaviors in the sporting environment
 ---
-### Safe Sport is
 
-> ##### *“...an athletic environment that is respectful, equitable and free from all forms of non-accidental violence ...”*
-> ###### International Olympic Committee, *Consensus Statement: harassment and abuse (non-accidental violence) in sport (2016)*
-
+![Alt text for image on Isomer site](/images/softball.png)
 ### The Safe Sport Unified Code
 
 The Unified Code is the cornerstone of the Safe Sport Programme and sets out a unified reference for the Singapore sporting community that defines, describes and explains the forms of abuse and harassment which may take place in the sporting environment (“Misconduct”).
