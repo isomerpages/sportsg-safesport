@@ -12,4 +12,3 @@ The three key signatories to the Unified Code are:
 
 As organisations of note in sport, these leading organisations recognise that only when sporting
 environments are safe, can their common values be realised.
-
