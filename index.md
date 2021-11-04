@@ -9,7 +9,7 @@ sections:
   - hero:
       title: Safeguarding in Sport
       subtitle: "#SGSafeSport Play Your Part"
-      background: /images/diving.png
+      background: /images/diving2.png
       button: What is SAFE SPORT
       url: /safe-sport-programme/unified-code
       key_highlights:
