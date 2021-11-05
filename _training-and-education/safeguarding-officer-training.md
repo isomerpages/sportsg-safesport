@@ -2,26 +2,19 @@
 title: Safeguarding Officer Training
 permalink: /training-and-education/so-training
 ---
-## How to become a Safeguarding Officer? 
+The Safeguarding Officer Training is only for appointed officers from sporting organisations in Singapore. It will equip officers with the relevant skills to respond and manage disclosures of abuse. They will also learn about Safe Sport, laws covering aspects of Safe Sport and their roles and responsibilities as a Safeguarding
+Officer including understanding the reporting procedures.  
 
-**Requirements:**
-* Good interpersonal and communication skills
-Background in Psychology or Counselling is a bonus but not a requirement
-* Comfortable in counselling victims
-* Knowledgeable in the sport
-* Experience in policy work is an advantage
-* Willing to learn on laws around harassment and abuse
-* Willing to learn and drive the Safe Sport efforts
-* Sensitive, understanding, mature, and patient
-* Minimally GCE O-Level
+The training covers the following:
+* Impact of Abuse
+* Understanding Offending Behaviour
+* Barriers to Reporting
+* Responding to Disclosure
+* Reporting Procedures
+* Laws on Harassment and Abuse
 
-#### Upcoming Training Schedule:
-***Registration for the Safeguarding Officer Training Course is strictly by selected Sporting Organisation. By Invitation Only.***
+Safeguarding Officers are required to complete the online Safeguarding Officer module in SportSG-ED (available from April 2022 onwards) as a pre-requisite to the classroom training where officers will be assessed on their skills. 
 
-The training will cover the following areas:
-* Overview of safe sport and the role of Safeguarding Officers
-* Understanding sexual offending and victim's responses
-* Understanding barriers and responding to disclosure
-* Strategies to engage victims and manage distress during disclosure
-* Develop a protocol to deal with allegations/disclosures of abuse
-* Laws covering harassment, abuse (including sexual, physical and psychological) and neglect, reporting assistance
+This training is chargeable. 
+
+Contact us at safe_sport@sport.gov.sg for more details.
