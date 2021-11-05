@@ -2,3 +2,30 @@
 title: Safe Sport Programme
 permalink: /faq/safe-sport-programme
 ---
+##### **1. What are the benefits to becoming a Member Organisation of the Safe Sport Programme?**
+
+The Safe Sport Programme provides a streamlined and harmonised approach to mitigating threats to Safe Sport and is designed to ease the administrative burden on sporting organisations. It also reduces the risk of accusations of bias and conflicts on interests often associated with non-independent investigations and disciplinary processes.
+
+The Safe Sport Programme supports Member Organisations in two main areas: <br><br>
+(1) creating a safe sporting environment underpinned by the Unified Code <br><br>
+(2) addressing reports of concern. <br>
+
+Member Organisations will receive support through training of the organisation’s safeguarding officer, access to
+model policies (e.g. child safeguarding, travel, recruitment, digital communications), training and education resources for participants in their sport to help them understand their roles and responsibilities.
+
+When a sporting organisation becomes a Member Organisation of the Safe Sport Programme, the Safe Sport Commission will manage the independent assessment and referral of complaints/reports which fall under its mandatory jurisdiction.
+
+##### **2.  Is becoming a member of the Safe Sport Programme necessary?**
+
+National Sports Associations (NSAs) recognised by SportSG will be required to become Member Organisations of the Safe Sport Programme in line with the Singapore National Olympic Council -SportSG National Governing Principles. Members and affiliates of the Singapore National Paralympic Council will also be required to adopt the framework.
+
+
+##### **3.  What does a Member Organisation need to do to fully implement the Safe Sport Programme?**
+
+To fully implement the Safe Sport Programme, a Member Organisation will have to:<br><br>
+(1) adopt the Unified Code and the rules of the Safe Sport Programme on case management and resolution by putting in place a Safe Sport Policy which applies to the relevant persons (i.e. employees, contractors, athletes or participants under its governance and jurisdiction)<br><br>
+(2) appoint a trained Safeguarding Officer<br><br>
+(3) enforce the terms of the Safe Sport Policy across its membership, programmes and/or sanctioned events <br><br>
+A model Safe Sport Policy will be made available to Member Organisations and the Safe Sport Commission will
+ undertake an onboarding process with each Member Organisation to ensure that the Safe Sport Policy is aligned
+ 
