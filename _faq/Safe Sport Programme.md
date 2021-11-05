@@ -27,5 +27,13 @@ To fully implement the Safe Sport Programme, a Member Organisation will have to:
 (2) appoint a trained Safeguarding Officer<br><br>
 (3) enforce the terms of the Safe Sport Policy across its membership, programmes and/or sanctioned events <br><br>
 A model Safe Sport Policy will be made available to Member Organisations and the Safe Sport Commission will
- undertake an onboarding process with each Member Organisation to ensure that the Safe Sport Policy is aligned
+ undertake an onboarding process with each Member Organisation to ensure that the Safe Sport Policy is aligned.
  
+
+##### **4. What happens to the NSA Commitment Statement on Safe Sport?**
+
+Implementing the framework of the Safe Sport Programme is the fulfilment of the NSA’s commitment statement to ensuring an environment which is free from harassment and abuse. The organisation’s Safe Sport Policy will
+ replace that commitment statement.
+ 
+ NSA should still develop sport-specific policies that relate to their activities and programs which relate to
+ interpersonal conduct (e.g. body positive guidelines, rooming policies for travelling).
