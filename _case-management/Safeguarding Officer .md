@@ -12,7 +12,9 @@ Safeguarding officers are appointed personnel from sporting organisations in Sin
 * To liaise with Safe Sport Commission on Safe Sport policy development and awareness training.
 * To promote Safe Sport practices to all staff, participants, and volunteers or to all members of the sporting fraternity.
 * Main point of contact and representative for the organisation for any safeguarding matters. 
-*Ensure safeguarding standards are met and maintained within the organisation. 
+* Ensure safeguarding standards are met and maintained within the organisation. 
 Lead in maintaining and reviewing the organisation’s implementation plan for safeguarding sport.
 
-All National Sports Associations are required to appoint a safeguarding officer for their sport, who will take on a two-year appointment.
+*All National Sports Associations are required to appoint a safeguarding officer for their sport, who will take on a two-year appointment.*
+
+**Who are these Safeguarding Officers? Check out the list here. **
