@@ -37,3 +37,19 @@ Implementing the framework of the Safe Sport Programme is the fulfilment of the 
  
  NSA should still develop sport-specific policies that relate to their activities and programs which relate to
  interpersonal conduct (e.g. body positive guidelines, rooming policies for travelling).
+ 
+##### **5. Can any other sporting organisation adopt the Unified Code?**
+
+Harmonisation and Accessibility are the two guiding principles of the Safe Sport Programme and providing a single framework for all levels of sport and different types of sporting organisations is one of the key objectives.<br>
+
+Any sports organisation may adopt the Unified Code by reference to it in their organisational safeguarding policies. For examples, commercial sports organisations that wish to have access to the policy repository, training and education resources and train a safeguarding officer may become Affiliate Members of the Safe Sport Programme.<br>
+
+A pilot scheme for Affiliate Members will commence in 2022.
+
+##### **6. When can an organisation get accredited with the Safety Mark start?**
+The aim of the accreditation scheme is to establish recognition for the quality of an organisation’s safeguarding efforts and established processes. The accreditation framework will be activated in **2023** following the rollout of the Safe Sport Programme to the NSAs in 2022.
+
+##### **7. Who was consulted in the Development of the Unified Code and the Safe Sport Programme?**
+Whilst guided by international frameworks on safeguarding in sport, the Safe Sport Unified Code and Safe Sport Programme has been contextualised for Singapore sporting landscape through extensive consultations with experts and sporting community stakeholders over a 10-month period.<br>
+
+The full list of consultation candidates and the organisations they represented are set out in the reports of the focus group discussions and the key stakeholder working group and are available at https://go.gov.sg/safesportprog.
