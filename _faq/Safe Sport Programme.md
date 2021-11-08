@@ -26,23 +26,20 @@ To fully implement the Safe Sport Programme, a Member Organisation will have to:
 (1) adopt the Unified Code and the rules of the Safe Sport Programme on case management and resolution by putting in place a Safe Sport Policy which applies to the relevant persons (i.e. employees, contractors, athletes or participants under its governance and jurisdiction)<br><br>
 (2) appoint a trained Safeguarding Officer<br><br>
 (3) enforce the terms of the Safe Sport Policy across its membership, programmes and/or sanctioned events <br><br>
-A model Safe Sport Policy will be made available to Member Organisations and the Safe Sport Commission will
- undertake an onboarding process with each Member Organisation to ensure that the Safe Sport Policy is aligned.
+A model Safe Sport Policy will be made available to Member Organisations and the Safe Sport Commission will undertake an onboarding process with each Member Organisation to ensure that the Safe Sport Policy is aligned.
  
 
 ##### **4. What happens to the NSA Commitment Statement on Safe Sport?**
 
-Implementing the framework of the Safe Sport Programme is the fulfilment of the NSA’s commitment statement to ensuring an environment which is free from harassment and abuse. The organisation’s Safe Sport Policy will
- replace that commitment statement.
+Implementing the framework of the Safe Sport Programme is the fulfilment of the NSA’s commitment statement to ensuring an environment which is free from harassment and abuse. The organisation’s Safe Sport Policy will replace that commitment statement.
  
- NSA should still develop sport-specific policies that relate to their activities and programs which relate to
- interpersonal conduct (e.g. body positive guidelines, rooming policies for travelling).
+ NSA should still develop sport-specific policies that relate to their activities and programs which relate to interpersonal conduct (e.g. body positive guidelines, rooming policies for travelling).
  
 ##### **5. Can any other sporting organisation adopt the Unified Code?**
 
 Harmonisation and Accessibility are the two guiding principles of the Safe Sport Programme and providing a single framework for all levels of sport and different types of sporting organisations is one of the key objectives.<br>
 
-Any sports organisation may adopt the Unified Code by reference to it in their organisational safeguarding policies. For examples, commercial sports organisations that wish to have access to the policy repository, training and education resources and train a safeguarding officer may become Affiliate Members of the Safe Sport Programme.<br>
+Any sports organisation may adopt the Unified Code by reference to it in their organisational safeguarding policies. For example, commercial sports organisations that wish to have access to the policy repository, training and education resources and train a safeguarding officer may become Affiliate Members of the Safe Sport Programme.<br>
 
 A pilot scheme for Affiliate Members will commence in 2022.
 
@@ -53,3 +50,11 @@ The aim of the accreditation scheme is to establish recognition for the quality 
 Whilst guided by international frameworks on safeguarding in sport, the Safe Sport Unified Code and Safe Sport Programme has been contextualised for Singapore sporting landscape through extensive consultations with experts and sporting community stakeholders over a 10-month period.<br>
 
 The full list of consultation candidates and the organisations they represented are set out in the reports of the focus group discussions and the key stakeholder working group and are available at https://go.gov.sg/safesportprog.
+
+##### **8. When will the Unified Code and the Safe Sport Programme be live?**
+
+Any organisation may adopt the Unified Code by reference to it in its organisational policies once it is launched on **23 November 2021.**
+
+ The terms and conditions for membership of the Safe Sport Programme will be completed by January 2022 in line with the community consulted structures and provisions for case management and resolution.<br>
+ 
+NSAs will be progressively onboarded to the Safe Sport Programme from **April 2022 to March 2023.**
