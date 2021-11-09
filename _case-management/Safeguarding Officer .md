@@ -17,4 +17,6 @@ Lead in maintaining and reviewing the organisation’s implementation plan for s
 
 *All National Sports Associations are required to appoint a safeguarding officer for their sport, who will take on a two-year appointment.*
 
-****Who are these Safeguarding Officers? Check out the list here.
+**Who are these Safeguarding Officers? Check out the list [here](/files/List%20of%20SO%20Updated%20as%20of%208%20Nov%2021.pdf).**
+
+[(/files/List%20of%20SO%20Updated%208%20Nov%202021.pdf).**
