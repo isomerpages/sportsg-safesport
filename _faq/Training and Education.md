@@ -2,7 +2,7 @@
 title: Training and Education
 permalink: /faq/training-education
 ---
-**How can I access SportSG-ED?** 
+####**How can I access SportSG-ED?** 
 <br>You may access SportSG-ED via www.sportsync.sg
 
 To create a SportSG -ED account, please refer to the video user guides:
