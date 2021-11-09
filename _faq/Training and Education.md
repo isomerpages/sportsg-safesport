@@ -20,8 +20,8 @@ Yes. You are required to achieve a minimum passing grade of 80% in the assessmen
 ##### **4. How different is the Awareness module in SportSG-ED from the workshop?** 
 The awareness module in SportSG-ED covers in-depth content on Safe Sport including an assessment component that you are required to pass to attain the certificate and deem as Safe Sport trained. The workshop covers only a portion of the content from the Awareness module in SportSG-ED and no assessment or certificate will be issued upon completion.  
  
-##### **I would like to conduct Safe Sport workshop for the community within my sport. Where can I gain access to resources or a trainer to conduct this workshop?  **
+##### **5. I would like to conduct a Safe Sport workshop for the community within my sport. Where can I gain access to resources or a trainer to conduct this workshop?**
 You may reach out to us at safe_sport@sport.gov.sg and we can discuss and customize the content to suit your target audience.
  
-##### **I am interested to attend the Safeguarding Officer training. When is the next run of this training?** 
+##### **6. I am interested to attend the Safeguarding Officer training. When is the next run of this training?** 
 The next run of the Safeguarding Officer will be in a hybrid format. You will be required to complete the online training in SportSG-ED (which will be available from April 2022 onwards) and subsequently attend the classroom training where you will be assessed on your competency.
