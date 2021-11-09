@@ -2,7 +2,7 @@
 title: Training and Education
 permalink: /faq/training-education
 ---
-####**How can I access SportSG-ED?** 
+##### **1. How can I access SportSG-ED?** 
 <br>You may access SportSG-ED via www.sportsync.sg
 
 To create a SportSG -ED account, please refer to the video user guides:
@@ -11,7 +11,7 @@ To create a SportSG -ED account, please refer to the video user guides:
 
 For any more FAQs on SportSG-ED, please visit [FAQ - Sport Sync](https://www.sportsync.sg/App/System/FAQ) or [go.gov.sg/sportsged](https://go.gov.sg/sportsged).</br>
 
-**Are the Awareness modules only available in SportSG-ED?**
+##### **2. Are the Awareness modules only available in SportSG-ED?**
 <br>Yes. The Awareness modules are only available in SportSG-ED. </br>
 
 **Do I get a certificate and deem as Safe Sport trained upon completing the Awareness module in SportSG-ED?**
