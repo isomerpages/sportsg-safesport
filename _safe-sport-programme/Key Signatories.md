@@ -3,6 +3,7 @@ title: Key Signatories
 permalink: /safe-sport-programme/key-signatories
 description: ""
 ---
+![Alt text for image on Isomer site](/images/handshake.jpg)
 #### Common Values
 The three key signatories to the Unified Code are:
 * [Singapore National Olympic Council ](https://www.singaporeolympics.com/)
