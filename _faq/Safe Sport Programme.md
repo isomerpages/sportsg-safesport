@@ -2,7 +2,28 @@
 title: Safe Sport Programme
 permalink: /faq/safe-sport-programme
 ---
-##### **1. What are the benefits to becoming a Member Organisation of the Safe Sport Programme?**
+##### **Who was consulted in the development of the Unified Code and the Safe Sport Programme?**
+
+Experts in safeguarding and many members of our sporting community. You can view the consultation documents here.
+
+
+##### **If I am not a National Sports Association, can I sporting organisation adopt the Unified Code?**
+
+Any sports organisation may adopt the Unified Code by reference to it in their organisational safeguarding policies.
+
+Harmonisation and Accessibility are the two guiding principles of the Safe Sport Programme and providing a single framework for all levels of sport and different types of sporting organisations is one of the key objectives.<br>
+
+ For example, commercial sports organisations that wish to have access to the policy repository, training and education resources and train a safeguarding officer may become Affiliate Members of the Safe Sport Programme.<br>
+
+A pilot scheme for Affiliate Members will commence in 2022.
+
+
+##### **Is becoming a Member Organisation of the Safe Sport Programme necessary?**
+
+Because  National Sports Associations (NSAs) recognised by SportSG will be required to become Member Organisations of the Safe Sport Programme in line with the Singapore National Olympic Council -SportSG National Governing Principles. Members and affiliates of the Singapore National Paralympic Council will also be required to adopt the framework.
+
+
+##### **What are the benefits to becoming a Member Organisation of the Safe Sport Programme?**
 
 The Safe Sport Programme provides a streamlined and harmonised approach to mitigating threats to Safe Sport and is designed to ease the administrative burden on sporting organisations. It also reduces the risk of accusations of bias and conflicts on interests often associated with non-independent investigations and disciplinary processes.
 
@@ -15,9 +36,8 @@ model policies (e.g. child safeguarding, travel, recruitment, digital communicat
 
 When a sporting organisation becomes a Member Organisation of the Safe Sport Programme, the Safe Sport Commission will manage the independent assessment and referral of complaints/reports which fall under its mandatory jurisdiction.
 
-##### **2.  Is becoming a member of the Safe Sport Programme necessary?**
 
-National Sports Associations (NSAs) recognised by SportSG will be required to become Member Organisations of the Safe Sport Programme in line with the Singapore National Olympic Council -SportSG National Governing Principles. Members and affiliates of the Singapore National Paralympic Council will also be required to adopt the framework.
+
 
 
 ##### **3.  What does a Member Organisation need to do to fully implement the Safe Sport Programme?**
@@ -29,32 +49,7 @@ To fully implement the Safe Sport Programme, a Member Organisation will have to:
 A model Safe Sport Policy will be made available to Member Organisations and the Safe Sport Commission will undertake an onboarding process with each Member Organisation to ensure that the Safe Sport Policy is aligned.
  
 
-##### **4. What happens to the NSA Commitment Statement on Safe Sport?**
-
-Implementing the framework of the Safe Sport Programme is the fulfilment of the NSA’s commitment statement to ensuring an environment which is free from harassment and abuse. The organisation’s Safe Sport Policy will replace that commitment statement.
- 
- NSA should still develop sport-specific policies that relate to their activities and programs which relate to interpersonal conduct (e.g. body positive guidelines, rooming policies for travelling).
- 
-##### **5. Can any other sporting organisation adopt the Unified Code?**
-
-Harmonisation and Accessibility are the two guiding principles of the Safe Sport Programme and providing a single framework for all levels of sport and different types of sporting organisations is one of the key objectives.<br>
-
-Any sports organisation may adopt the Unified Code by reference to it in their organisational safeguarding policies. For example, commercial sports organisations that wish to have access to the policy repository, training and education resources and train a safeguarding officer may become Affiliate Members of the Safe Sport Programme.<br>
-
-A pilot scheme for Affiliate Members will commence in 2022.
-
-##### **6. When can an organisation get accredited with the Safety Mark start?**
+##### **When can an organisation get accredited with the Safety Mark start?**
 The aim of the accreditation scheme is to establish recognition for the quality of an organisation’s safeguarding efforts and established processes. The accreditation framework will be activated in **2023** following the rollout of the Safe Sport Programme to the NSAs in 2022.
 
-##### **7. Who was consulted in the Development of the Unified Code and the Safe Sport Programme?**
-Whilst guided by international frameworks on safeguarding in sport, the Safe Sport Unified Code and Safe Sport Programme has been contextualised for Singapore sporting landscape through extensive consultations with experts and sporting community stakeholders over a 10-month period.<br>
 
-The full list of consultation candidates and the organisations they represented are set out in the reports of the focus group discussions and the key stakeholder working group and are available at https://go.gov.sg/safesportprog.
-
-##### **8. When will the Unified Code and the Safe Sport Programme be live?**
-
-Any organisation may adopt the Unified Code by reference to it in its organisational policies once it is launched on **23 November 2021.**
-
- The terms and conditions for membership of the Safe Sport Programme will be completed by January 2022 in line with the community consulted structures and provisions for case management and resolution.<br>
- 
-NSAs will be progressively onboarded to the Safe Sport Programme from **April 2022 to March 2023.**
