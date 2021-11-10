@@ -4,8 +4,7 @@ permalink: /report
 description: ""
 ---
 
-
-
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfy70To_wXw6ddOC5_zaL4hr0yWFR2vbWidOIRt5EVtpY4nMw/viewform?embedded=true" width="640" height="4319" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 <div style="background-color:#ECECEC; padding:20px">
 NOTE:<br>
 <br>We encourage you to provide as much information as possible. All information you are able to provide assists the Case Management Unit in promptly and effectively responding to reports. 
@@ -27,4 +26,3 @@ NOTE:<br>
 <iframe id="iframe" src=https://form.gov.sg/618322ee2487c60012395b37 style="width:100%;height:500px"></iframe>
 
  <div style="font-family:Sans-Serif;font-size:15px;color:#000;opacity:0.9;padding-top:5px;padding-bottom:8px">If the form below is not loaded, you can also fill it in at <a href=https://form.gov.sg/618322ee2487c60012395b37>here</a>.</div>
-
