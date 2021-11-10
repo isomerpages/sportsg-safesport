@@ -7,7 +7,7 @@ Safeguarding in sport is important as it helps to ensure that everyone participa
 
 Adults such as coaches, parents and sport administrators have a responsibility and duty of care to prevent any likelihood of harm occurring in sport. Hence, the awareness module is developed for different stakeholders in the sporting community to understand their role in safeguarding sport. 
 
-### SportSG-ED
+#### SportSG-ED
 
 There are 4 role-specific Safe Sport awareness modules on the digital learning platform, SportSG-ED. 
 1.	Building a Safe Sporting Organisation for Sport Administrators [Chargeable]
