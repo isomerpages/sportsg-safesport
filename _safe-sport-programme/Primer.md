@@ -10,9 +10,9 @@ description: ""
 
 Although sport is generally thought of as a force for good, the evidence points to the many risk factors within a sporting environment that can turn sport into a negative and damaging activity for persons affected.
 These include:<br><br>
-* inherent trust and power imbalance in favour of persons regarded to be persons of
+* inherent trust and **power imbalance** in favour of persons regarded to be persons of
 knowledge or authority in an environment that is generally perceived as safe<br><br>
-* children and young persons participating in a high performance and/or highly competitive
+***children and young persons** participating in a high performance and/or highly competitive
 environment where there is a heavy emphasis on winning<br><br>
 * lack of oversight and/or checks on poor organisational culture that tolerate poor practices<br><br>
 * little and/or lack of knowledge and requirements for organisational safeguarding policies and
