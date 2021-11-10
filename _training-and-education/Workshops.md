@@ -2,6 +2,8 @@
 title: Workshops
 permalink: /training-and-education/workshops
 ---
+![Alt text for image on Isomer site](/images/workshops.jpg)
+
 We have conducted customised Safe Sport Awareness, First Responder and Case Studies workshops to various sporting organisations
 and groups.
 
@@ -18,4 +20,4 @@ Here are a few organisations that we have worked with:
 * Singapore Sports School
 * Singapore Swimming Association
 
-Contact us at safe_sport@sport.gov.sg for more details. 
+Contact us at safe_sport@sport.gov.sg for more details.
