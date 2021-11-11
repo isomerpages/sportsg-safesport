@@ -11,7 +11,10 @@ This support is extended to both affected persons as well as persons who are sub
 
 <br>
 <div style=" font-family:Sans-Serif;font-size:18px;color:#202945; background-color:#ECECEC; padding:20px">
-The Safe Sport Support Network, comprising of counselling and befriending services, is provided to individuals through partnership with <b>Team Nila, Singapore National Olympic Council (SNOC) Athletes' Commission and SNOC Women in Sport Committee</b>.</div>
+<b>DID YOU KNOW?</b>
+	<br><br>The Safe Sport Support Network, comprising of counselling and befriending services, is provided to individuals through partnership with <b>Team Nila, Singapore National Olympic Council (SNOC) Athletes' Commission and SNOC Women in Sport Committee</b>.
+
+</div>
 
 ##### Process
 
