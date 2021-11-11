@@ -17,6 +17,6 @@ The training covers the following:
 
 Safeguarding Officers are required to complete the online Safeguarding Officer module in SportSG-ED (available from April 2022 onwards) as a pre-requisite to the classroom training where officers will be assessed on their skills. 
 
-This training is chargeable. 
+This training is chargeable for non-member organisations of the Safe Sport Programme. 
 
 Contact us at safe_sport@sport.gov.sg for more details.
