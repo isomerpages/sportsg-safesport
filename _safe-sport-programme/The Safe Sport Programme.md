@@ -25,4 +25,4 @@ investigation of reports of concern, a decision-making framework for the determi
 <li><b>Measures</b> – protective and/or rehabilitative interventions including education, contact limitations
 	and re-integration programmes.</li>
 <li><b>Sanctions</b> – appropriate limitations, conditions, suspensions or denial of the privilege of
-participation as a consequence for engaging in Misconduct.</li>
+participation as a consequence for engaging in Misconduct.</li></div>
