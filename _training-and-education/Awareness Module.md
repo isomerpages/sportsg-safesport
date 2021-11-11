@@ -17,6 +17,11 @@ There are 4 role-specific Safe Sport awareness modules on the digital learning p
 3.	Understanding Safe Sport as a Coach [Free for NROC Coaches]
 4.	Understanding Safe Sport as a Parent [Free]
 
+| Building a Safe Sporting Organisation for Sport Administrators | Chargeable |
+| Understanding Safe Sport as an Athlete                                      | FREE | 
+| Understanding Safe Sport as a Coach                                         | FREE for NROC Coaches |
+| Understanding Safe Sport as a Parent                                         | FREE |
+
 Upon completion of the modules, you will receive a certificate of achievement and deem as Safe Sport Trained. 
 
 Do check out the brochure below for more information. You may also contact us at safe_sport@sport.gov.sg for more details. 
