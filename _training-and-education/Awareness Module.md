@@ -12,15 +12,14 @@ Adults such as coaches, parents and sport administrators have a responsibility a
 #### SportSG-ED
 
 There are 4 role-specific Safe Sport awareness modules on the digital learning platform, SportSG-ED. 
-1.	Building a Safe Sporting Organisation for Sport Administrators [Chargeable]
-2.	Understanding Safe Sport as an Athlete [Free]
-3.	Understanding Safe Sport as a Coach [Free for NROC Coaches]
-4.	Understanding Safe Sport as a Parent [Free]
 
+
+| Module | Fee | 
+| --------   | -------- | 
 | Building a Safe Sporting Organisation for Sport Administrators | Chargeable |
-| Understanding Safe Sport as an Athlete                                      | FREE | 
-| Understanding Safe Sport as a Coach                                         | FREE for NROC Coaches |
-| Understanding Safe Sport as a Parent                                         | FREE |
+| Understanding Safe Sport as an Athlete                                      | Free | 
+| Understanding Safe Sport as a Coach                                         | Free for NROC Coaches |
+| Understanding Safe Sport as a Parent                                         | Free |
 
 Upon completion of the modules, you will receive a certificate of achievement and deem as Safe Sport Trained. 
 
