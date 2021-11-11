@@ -1,7 +1,7 @@
 ---
 layout: homepage
-title: Safeguarding Sport in Singapore
-description: Home of the Safe Sport Commission
+title: "Safeguarding in Sport "
+description: Home of the Singapore Safe Sport Commission
 image: /images/isomer-logo.svg
 permalink: /
 notification: ""
