@@ -17,7 +17,7 @@ You may contact your sporting organisation’s Safeguarding Officer or make a re
 
 <br>
 <div style="font-family:Sans-Serif;color:#FFF;background-color:#B12028;padding:20px">
-<b>For EMERGENCIES</b>
+<b>For EMERGENCIES</b><br>
 <br>Call 999 or SMS 71999 or Lodge a report at any Police station or on the “Police E-Service” page. 
 <br>More information on reporting sexual assault can be found here.</div>
 <br>
