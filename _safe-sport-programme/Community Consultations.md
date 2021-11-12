@@ -10,7 +10,7 @@ Whilst guided by international frameworks on safeguarding in sport, the Safe Spo
 ![Alt text for image on Isomer site](/images/SSUC%20Timeline.png)
 
 
-<div style="font-size:18px;color:#202945; background-color:#ECECEC; padding:30px"> <b>DID YOU KNOW?</b><br><br>Over 200 sporting community stakeholders in more than 64 organisations across 58 sports participated in the Safe Sport Unified Code Community Consultations over a 9 month period.</div>
+<div style="font-size:18px; background-color:#E38F8F; padding:30px"> <b>DID YOU KNOW?</b><br><br><b>Over 200 sporting community stakeholders in more than 64 organisations across 58 sports participated in the Safe Sport Unified Code Community Consultations over a 9 month period.</b></div>
 
 These consultations were made possible only through the partnership with these organisations
 * Athletes' Commission, Singapore National Olympic Council (SNOC)
