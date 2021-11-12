@@ -5,18 +5,16 @@ description: "Safe Sport Case Management "
 ---
 #### Case Management Service
 
-An independant case managament service is available to Member Organisations of the Safe Sport Programme.
+An independent case management service is available to Member Organisations of the Safe Sport Programme.
 
-The process of case management involves the 3Rs -  Receiving, Responding and Resolving incidents of concern.
-
-
+This helps to relieve the administrative burden on organisations and gives assurance to affected parties and respondents that reports will be managed fairly and independently.
 
 
+#### 3Rs -  Receiving, Responding and Resolving
 
- 
+
 
 ##### Receiving
-
 Anyone can make a Disclosures or a Formal Report related to incidents of harrassment or abuse.
 
 A Disclosure happens when a person wishes to seek support or is unsure of his/her experience. Subject to mandatory reporting laws, a Disclosure does not trigger a formal process. A person may elect to turn a Disclosure into a Formal Report any point. 
