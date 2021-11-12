@@ -9,8 +9,8 @@ It is mandatory for all officers to undergo a [Safeguarding Officer training](tr
 ##### Roles and Responsibilities of a Safeguarding Officer
 <br>
 <div style=";color:#202945; background-color:#ECECEC; padding:30px;"> 
-<ul>	<li> Act as the advocate and point of contact on any safeguarding matters which arise in the organisation by: </li><ul>
-<li>maintaining safeguarding standards  within the organisation </li>
+<ul>	<li> Act as the advocate and point of contact on any safeguarding matters which arise in the organisation by: <ul>
+	<li>maintaining safeguarding standards  within the organisation </li>
 <li> leading the organisation’s implementation plan for safeguarding sport</li>
 <li>liaising with Safe Sport Commission on Safe Sport policy development and awareness training</li>
 <li>promoting Safe Sport practices to all staff, participants, and volunteers or to all members of the sporting fraternity.</li></ul>
