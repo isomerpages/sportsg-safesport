@@ -4,7 +4,7 @@ permalink: /reporting/support-network
 ---
 #### What is the Safe Sport Support Network?
 
-The Safe Sport Support Network provides continued and/or enhanced psychosocial support to individuals affected by incidents relating to breaches of Safe Sport Unified Code.
+The Safe Sport Support Network provides continued and enhanced psychosocial support to individuals affected by incidents relating to breaches of Safe Sport Unified Code.
 
 This support is extended to both affected persons as well as persons who are subject to reports of concern ("Respondents"). 
 
