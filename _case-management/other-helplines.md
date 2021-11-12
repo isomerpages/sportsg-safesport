@@ -2,9 +2,7 @@
 title: Other Helplines
 permalink: /reporting/other-helplines
 ---
-
-
-### If you need help or feel unsure about an encounter, you can reach out to:
+#### If you need help or feel unsure about an encounter, you can reach out to:
 
 
 | National Anti-Violence Helpline | 
@@ -32,6 +30,6 @@ permalink: /reporting/other-helplines
 |1800 777 0000 (24-hour)| 
 
 
-### Other Useful Resources or Support for Reporting
+#### Other Useful Resources or Support for Reporting
 * [Reporting Helpline](/files/Other%20Useful%20Resources%20for%20Reporting-updated%20Mar%202021.pdf)
 * National Sports Associations [Contact Details](https://www.myactivesg.com/Sports/Find-a-National-Sports-Association)
