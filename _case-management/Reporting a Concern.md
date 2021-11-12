@@ -9,12 +9,11 @@ Anyone may make a report of concern if they have personally experienced or is aw
 
 You may contact your sporting organisation’s Safeguarding Officer or make a report directly to the Safe Sport Commission using the form below.
 
-<br>
+
 <div style="background-color:#ECECEC; padding:20px">
 <b>NOTE:</b><br>
 <br>We encourage you to provide as much information as possible. All information you are able to provide assists the Case Management Unit in promptly and effectively responding to reports. 
 <br><br>You may report anonymously by omitting your identifying information. However, remaining anonymous may limit the Case Management Unit's ability to investigate and/or respond to the information you provide.</div>
-
 <br>
 <div style="font-family:Sans-Serif;color:#202945;background-color:#CBCFD6;padding:20px">
 <b>For EMERGENCIES</b><br>
@@ -36,7 +35,7 @@ You may contact your sporting organisation’s Safeguarding Officer or make a re
       }
     </style>
 		
-<a style= "text-decoration: none; color:#FFFFFF" class="button" href="https://form.gov.sg/618322ee2487c60012395b37">REPORT A CONCERN</a> to open in a separate page or fill in the form below.
+<a style= "text-decoration: none; color:#FFFFFF" class="button" href="https://form.gov.sg/618322ee2487c60012395b37">REPORT A CONCERN</a> (to open in a separate page) or fill in the form below.
 
 <!-- Change the width and height values to suit you best -->
 
