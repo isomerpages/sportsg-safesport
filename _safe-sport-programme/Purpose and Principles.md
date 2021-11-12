@@ -13,7 +13,7 @@ The purpose of the Safe Sport Unified Code and the Safe Sport Programme which su
 
 Together, the Safe Sport Unified Code and the Safe Sport Programme form the national framework for safeguarding in sport.
 
-<div style="font-size:18px;color:#202945; background-color:#ECECEC; padding:30px"> <b>DID YOU KNOW?</b><br><br>Whilst guided by international frameworks on safeguarding in sport, the Safe Sport Unified Code and Safe Sport Programme has been contextualised for Singapore sporting landscape through [extensive consultations](/safe-sport-programme/community-consultation) with experts and sporting community stakeholders over a 9-month period.</div>
+<div style="font-size:18px;color:#202945; background-color:#E38F8F; padding:30px"> <b>DID YOU KNOW?</b><br><br><b>Whilst guided by international frameworks on safeguarding in sport, the Safe Sport Unified Code and Safe Sport Programme has been contextualised for Singapore sporting landscape through extensive consultations with experts and sporting community stakeholders over a 9-month period.</b></div>
 
 
 #### Guiding Principles – H.E.A.R.
