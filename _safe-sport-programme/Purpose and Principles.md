@@ -30,4 +30,3 @@ The design of the Unified Code and the Safe Sport Programme are based on the fol
 		<td style="  border: 20px solid white;padding: 20px; background-color:#ECECEC; "><b>ACCESSIBILITY</b><br> to (a) channels for reporting concerns for affected persons and access to augmented psychosocial support (b) the Unified Code for any type of sporting organisation within the Singapore sporting ecosystem</td>
 		<td style="border: 20px solid white;padding: 20px; background-color:#E38F8F; "><b>RESPECT</b> <br> for (a) a sporting organisation’s ownership and governance over sport-specific and low level concerns (b) the agency of affected persons and the confidentiality of their disclosures (c) the principles of natural justice which include the right to be heard, clear procedures and impartial decision-making</td>
 	</tr>
-
