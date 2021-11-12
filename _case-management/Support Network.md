@@ -12,7 +12,7 @@ This support is extended to both affected persons as well as persons who are sub
 <br>
 <div style="font-size:18px;color:#202945; background-color:#ECECEC; border:10px;border-color:#FFFFFF; padding:25px">
 <b>DID YOU KNOW?</b>
-	<br><br>The Safe Sport Support Network, comprising of counselling and befriending services, is provided to individuals through partnership with <b>Team Nila,  Athletes' Commission and Women in Sport Committee of the Singapore National Olympic Council</b>.
+	<br><br>The Safe Sport Support Network, comprising of qualified counsellors and trained befrienders, is provided to individuals through partnership with <b>Team Nila,  Athletes' Commission and Women in Sport Committee of the Singapore National Olympic Council</b>.
 
 </div>
 
@@ -27,4 +27,3 @@ The befriending service is free.
 You may contact us at **Safe_sport@sport.gov.sg**  if 
 1. You are or know of someone who is requires augmented psychosocial support 
 2. You would like to join us as a counsellor or befriender. Please complete and submit the application form below.
-
