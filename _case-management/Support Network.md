@@ -20,10 +20,13 @@ This support is extended to both affected persons as well as persons who are sub
 
 An needs assessment will be performed by the Case Management Team before a person is referred to the Safe Sport Support Network. 
 
-The counselling service is conducted either face-to-face or via online zoom session at a highly subsidised cost. 
+| **Psychosocial Support Service** |  | 
+| -------- | -------- | 
+| Befriender     | Free     | 
+| Counsellor - either face-to-face or via remote session     | Subsidised    | 
 
-The befriending service is free.
+
 
 You may contact us at **Safe_sport@sport.gov.sg**  if 
 1. You are or know of someone who is requires augmented psychosocial support 
-2. You would like to join us as a counsellor or befriender. Please complete and submit the application form below.
+2. You would like to join us as a counsellor or befriender. Please complete and submit this [application form](https://form.gov.sg/618382ad02e9a7001507e3bb).
