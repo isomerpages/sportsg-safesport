@@ -13,7 +13,7 @@ The Safe Sport Programme comprises all the elements required to optimize the imp
 The Safe Sport Programme supports Member Organisations through:
 <div style="font-size:18px;color:#202945; background-color:#ECECEC; padding:30px"> <li><b>Policymaking</b> – assistance with the development of safeguarding policies that incorporate the Unified Code and other best practices; access to safeguarding tool kits and risk and needs assessment frameworks <br></li>
 <li><b>Training and Education</b> – for stakeholders through access to curriculum and advocacy materials for safeguarding officers and participants </li>
-<li><b>Case Management Service</b> - an independent mechanism to receive, respond and resolve reports of concern. This includes the investigations by the case management unit of the Safe Sport Commission and where necessary are resolved though adjudication by an independently appointed Safe Sport Disciplinary Panel. </i>
+<li><b>Case Management Service</b> - an independent mechanism to receive, respond and resolve reports of concern. This includes the investigations by the case management unit of the Safe Sport Commission and where necessary are resolved though adjudication by an independently appointed Safe Sport Disciplinary Panel. </li>
 <li><b>Access to systems</b> for secure record-keeping and confidential reporting of incident. </li>
 <li><b>Facilitating support</b> for affected parties who require augmented psychosocial support through a network of befrienders and counsellor </li>
 <li><b>Accreditation</b> through a Safe Sport Safety Mark upon the implementation of the relevant safeguards</li></div>
