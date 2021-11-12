@@ -43,4 +43,4 @@ You may contact your sporting organisation’s Safeguarding Officer or make a re
       }
     </style>
 		
-<a class="button" href="https://form.gov.sg/618322ee2487c60012395b37l">REPORT A CONCERN</a>
+<a class="button" href="https://form.gov.sg/618322ee2487c60012395b37">REPORT A CONCERN</a>
