@@ -6,16 +6,23 @@ Safeguarding officers are personnel appointed by sporting organisations in Singa
 
 It is mandatory for all officers to undergo a [Safeguarding Officer training](training-and-education/safeguarding-officer-training) and to pass the assessment to be deem as competent. 
 
-#### Roles & Responsibilities of a Safeguarding Officer
-* To act as the main point of contact for participants on any safeguarding matters which arise in the organisation
-* Ensure safeguarding standards are met and maintained within the organisation. 
-* Lead in maintaining and reviewing the organisation’s implementation plan for safeguarding sport.
-* To liaise with Safe Sport Commission on Safe Sport policy development and awareness training.
-* To promote Safe Sport practices to all staff, participants, and volunteers or to all members of the sporting fraternity
-* To manage and report any concerns related to breaches of Safe Sport practices to Safe Sport Commission.
-* To be trained in responding to Safe Sport related cases and to be able to refer to the relevant authorities (e.g. Safe Sport Commission, Singapore Police Force etc.)
-* To be able to provide first responder support to victim who report of any Safe Sport related cases.
-* Act as a source of support, advice and expertise to staff, participants and volunteers in safeguarding-related matters.
+##### Roles and Responsibilities of a Safeguarding Officer
+<br>
+<div style=";color:#202945; background-color:#ECECEC; padding:30px;"> 
+<ul>	<li> Act as the advocate and point of contact on any safeguarding matters which arise in the organisation by: </li><ul>
+<li>maintaining safeguarding standards  within the organisation </li>
+<li> leading the organisation’s implementation plan for safeguarding sport</li>
+<li>liaising with Safe Sport Commission on Safe Sport policy development and awareness training</li>
+<li>promoting Safe Sport practices to all staff, participants, and volunteers or to all members of the sporting fraternity.</li></ul>
+
+
+<li>Manage Safe Sport concerns by:
+	<ul>
+	<li>providing first responder support to victim who report of any Safe Sport related cases</li>
+	<li> responding and referring appropriately to the relevant authorities (e.g. Safe Sport Commission, Singapore Police Force etc.)</li>
+	<li>providing support, advise and expertise to staff, participants and volunteers in safeguarding-related matters</li>
+	</ul></li></ul>
+</div>
 
 
 
