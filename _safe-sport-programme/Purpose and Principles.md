@@ -4,7 +4,7 @@ permalink: /safe-sport-programme/purpose-and-principles
 description: ""
 ---
 ![Alt text for image on Isomer site](/images/children.jpg)
-### A National Framework for Safeguarding
+### A National Framework for Safeguarding in Sport
 
 
 The purpose of the Safe Sport Unified Code and the Safe Sport Programme which supports it are:
