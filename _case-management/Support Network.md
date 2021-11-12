@@ -18,12 +18,13 @@ This support is extended to both affected persons as well as persons who are sub
 
 ##### Process
 
-An needs assessment will be performed by the Case Management Team before a person is referred to the Safe Sport Support Network. 
+An needs assessment will be performed by the Case Management Team before a person is referred to the Safe Sport Support Network. <br>
 
-| **Psychosocial Support Service** |  | 
+| **Psychosocial Support Service** | **Cost**  | 
 | -------- | -------- | 
 | Befriender     | Free     | 
 | Counsellor - either face-to-face or via remote session     | Subsidised    | 
+
 
 
 
