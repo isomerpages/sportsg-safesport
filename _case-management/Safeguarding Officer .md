@@ -26,6 +26,6 @@ It is mandatory for all officers to undergo a [Safeguarding Officer training](tr
 
 
 
-*All member organisations of the Safe Sport Programme are required to appoint a safeguarding officer for their sport, who will take on a two-year appointment.*
+*All Member Organisations of the Safe Sport Programme are required to appoint a safeguarding officer for their sport, who will take on a two-year appointment.*
 
 **Who are these Safeguarding Officers? Check the list [here](/files/List%20of%20Safeguarding%20Officers%20Updated%20as%20of%208%20Nov%2021.pdf).**
