@@ -16,7 +16,7 @@ You may contact your sporting organisation’s Safeguarding Officer or make a re
 <br><br>You may report anonymously by omitting your identifying information. However, remaining anonymous may limit the Case Management Unit's ability to investigate and/or respond to the information you provide.</div>
 
 <br>
-<div style="font-family:Sans-Serif;color:#FFF;background-color:#202945;padding:20px">
+<div style="font-family:Sans-Serif;color:#202945;background-color:#CBCFD6;padding:20px">
 <b>For EMERGENCIES</b><br>
 <br>Call 999 or SMS 71999 or Lodge a report at any Police station or on the “Police E-Service” page. 
 <br>More information on reporting sexual assault can be found here.</div>
