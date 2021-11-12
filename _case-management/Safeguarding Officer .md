@@ -4,7 +4,7 @@ permalink: /reporting/safeguarding-officer
 ---
 Safeguarding officers are personnel appointed by sporting organisations in Singapore be responsible for safeguarding matters within their organisations and first responders to affected parties.
 
-It is mandatory for all officers to undergo a [Safeguarding Officer training](training-and-education/safeguarding-officer-training) and to pass the assessment to be deem as competent. 
+It is mandatory for all officers to undergo a [Safeguarding Officer training](training-and-education/so-training) and to pass the assessment to be deem as competent. 
 
 ##### Roles and Responsibilities of a Safeguarding Officer
 <br>
