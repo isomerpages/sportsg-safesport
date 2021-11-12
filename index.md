@@ -8,17 +8,17 @@ notification: ""
 sections:
   - hero:
       title: Safeguarding in Sport
-      subtitle: "#SGSafeSport Play Your Part"
+      subtitle: "#SGSafesport"
       background: /images/unifiedcode.jpeg
       button: What is SAFE SPORT
-      url: /safe-sport-programme/unified-code
+      url: /safe-sport-programme/primer
       key_highlights:
         - title: Safe Sport Programme
           description: A National Framework
           url: /safe-sport-programme
         - title: Safe Sport Commission
           description: Our Work
-          url: /who-are-we/safe-sport-commission/about
+          url: /who-are-we/safe-sport-commission/our-work
   - infopic:
       title: The Safe Sport UNIFIED CODE
       subtitle: Download
