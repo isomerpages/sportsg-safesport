@@ -5,29 +5,40 @@ description: "Safe Sport Case Management "
 ---
 #### Case Management Service
 
-The Case Managament service is available to Member Organisations of the Safe Sport Programme.
+An independant case managament service is available to Member Organisations of the Safe Sport Programme.
 
-The process of case management involves:
-* **Receiving**  
-* **Responding** 
-* **Resolving** 
+The process of case management involves the 3Rs -  Receiving, Responding and Resolving incidents of concern.
+
+
+
+
+
+ 
 
 ##### Receiving
 
-Any can make a Disclosures or a Formal Report related to incidents of harrassment or abuse.
+Anyone can make a Disclosures or a Formal Report related to incidents of harrassment or abuse.
 
+A Disclosure happens when a person wishes to seek support or is unsure of his/her experience. Subject to mandatory reporting laws, a Disclosure does not trigger a formal process. A person may elect to turn a Disclosure into a Formal Report any point. 
 
-A Disclosure happens when 
-
-A Formal Report takes place
-
+A Formal Report takes place where a report provider would like for an incident to be assessed and investigated.
 
 
 ##### Responding
 
-Once the by involve referral to augmented [support services](/case-management/support-network), a preliminary assessment or a formal investigation  
+Depending on whether a Disclosure or a Formal Report has been made, the Case Management Unit will proceed to:
+* refer the affected party to to augmented [support services](/case-management/support-network), where appropriate
+* conduct a preliminary assessment to determine if there is breach of the Unified Code on the face of the evidence
+* commence a formal investigation to determine if Misconduct has taken place
 
 
 ##### Resolving
 
-T[ ]
+Resolution may take many forms and is specific to:
+* the needs and the value of the different outcomes for the affected party
+* the severity of the Misconduct which is unique to the circumstances of each incident  
+
+Clear process and procedures are set out in the rules of the Safe Sport Programme which include:
+* timelines and procedures to ensure due process for all parties
+* a decision-making framework
+* independent adjudication by a Safe Sport Disciplinary Panel, where the severity of the Misconduct is moderate or severe
