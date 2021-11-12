@@ -31,4 +31,4 @@ You may contact your sporting organisation’s Safeguarding Officer or make a re
 <iframe id="iframe" src=https://form.gov.sg/618322ee2487c60012395b37 style="width:100%;height:500px"></iframe>
 
 
-<button style="text-align: center; padding: 15px 32px; background-color: #B12028; font-size: 18px; color:#FFFFFF;  text-align: center; ">REPORT A CONCERN</button>
+<button style="border: none; text-align: center; padding: 15px 32px; background-color: #B12028; font-size: 18px; color:#FFFFFF;  text-align: center; ">REPORT A CONCERN</button>
