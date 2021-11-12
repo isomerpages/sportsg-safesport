@@ -10,9 +10,9 @@ This support is extended to both affected persons as well as persons who are sub
 
 
 <br>
-<div style="background-color:#ECECEC; border:10px;border-color:#FFFFFF; padding:25px">
+<div style="background-color:#E38F8F; border:10px; padding:25px">
 <b>DID YOU KNOW?</b>
-	<br><br>The Safe Sport Support Network, comprising of qualified counsellors and trained befrienders, is provided to individuals through partnership with <b>Team Nila,  Athletes' Commission and Women in Sport Committee of the Singapore National Olympic Council</b>.
+	<br><br><b>The Safe Sport Support Network, comprising of qualified counsellors and trained befrienders, is provided to individuals through a partnership with the Athletes' Commission and Women in Sport Committee of the Singapore National Olympic Counci and <i>Team Nila</i></b>.
 
 </div>
 
