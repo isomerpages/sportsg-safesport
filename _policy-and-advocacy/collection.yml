@@ -1,4 +1,5 @@
 collections:
   policy-and-advocacy:
     output: true
-    order: []
+    order:
+      - policies-and-procedures.md
