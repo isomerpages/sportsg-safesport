@@ -19,7 +19,9 @@ responsible which may lead to departure from those communities or sport altogeth
 * **damage the trust, goodwill and confidence** people have in the integrity of sport 
 
 <br>
-<div style="font-size:18px;color:#202945; background-color:#ECECEC; padding:30px">
+<div style="font-size:18px;color:#202945; background-color:#ECECEC; padding:30px">DID YOU KNOW?</div>
+<br>
+<div style="font-size:20px;color:#202945; background-color:#ECECEC; padding:30px">
 <b>ENVIRONMENTAL RISK FACTORS IN SPORT</b><br>
 <li>inherent trust and power imbalance in favour of persons regarded to be persons of
 knowledge or authority in an environment that is generally perceived as safe</li>
