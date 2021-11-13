@@ -6,10 +6,10 @@ Safeguarding officers are personnel appointed by sporting organisations in Singa
 
 It is mandatory for all officers to undergo a [Safeguarding Officer training](training-and-education/so-training) and to pass the assessment to be deem as competent. 
 
-##### Roles and Responsibilities of a Safeguarding Officer
 
 
-<div style=";color:#202945; background-color:#ECECEC; padding:30px;"> <b> ROLES AND RESPONSIBILITIES OF A SAFEGUARDING OFFICER</b><br><br><ul>
+
+<div style="font-size:20px;color:#202945; color:#202945; background-color:#ECECEC; padding:30px;"> <b> ROLES AND RESPONSIBILITIES OF A SAFEGUARDING OFFICER</b><br><br><ul>
 	<li> Act as the advocate and point of contact on any safeguarding matters which arise in the organisation by: <ul>
 	<li>maintaining safeguarding standards  within the organisation </li>
 <li> leading the organisation’s implementation plan for safeguarding sport</li>
