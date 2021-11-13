@@ -18,8 +18,7 @@ norms within sport overtime which may culminate into disciplinary issues or crim
 responsible which may lead to departure from those communities or sport altogether<br><br>
 * **damage the trust, goodwill and confidence** people have in the integrity of sport 
 
-<br>
-<div style="font-size:18px;color:#202945; background-color:#ECECEC; padding:30px">DID YOU KNOW?</div>
+
 <br>
 <div style="font-size:20px;color:#202945; background-color:#ECECEC; padding:30px">
 <b>ENVIRONMENTAL RISK FACTORS IN SPORT</b><br>
@@ -32,3 +31,11 @@ environment where there is a heavy emphasis on winning</li>
 training amongst sport coaching and instruction with differing accreditations</li> 
 <li> little and/or lack of awareness, and in turn demand from sport participants for such
 qualifications when engaging instructional services.</li></div>
+
+<br>
+<div style="font-size:18px;color:#202945; background-color:#ECECEC; padding:30px"><b>DID YOU KNOW?</b><br><br><b>In a 2020,  99 Safeguarding Officers across 64 organisations ranked these as the top 3 environmental risks to Safe Sport in their sporting environments:<br>
+<ol>
+<li>Fear of speaking up due to perceived consequences</li>
+<li>Culture of tolerance and poor practice from leadership & management</li>
+<li>Poor employment & volunteer screening</li>
+	</b></div>
