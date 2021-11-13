@@ -2,4 +2,4 @@ collections:
   policy-and-advocacy:
     output: true
     order:
-      - policies-and-procedures.md
+      - Policies And Procedures.md
