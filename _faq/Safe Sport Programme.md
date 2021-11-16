@@ -4,7 +4,9 @@ permalink: /faq/safe-sport-programme
 ---
 ##### **Who was consulted in the development of the Unified Code and the Safe Sport Programme?**
 
-Experts in safeguarding and many members of our sporting community. You can view the consultation documents here.
+Experts in safeguarding children and vulenrable groups from key governmental and non-governmental organisations, and various members of our sporting community comprising athletes, coaches, parents, volunteers, members of the disability sport community, organisational leaders, administrators, support staff, and programme providers. 
+
+You can view the consultation documents here.
 
 
 ##### **If I am not a National Sports Association, can sporting organisation adopt the Unified Code?**
