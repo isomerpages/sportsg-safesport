@@ -7,7 +7,7 @@ permalink: /faq/safe-sport-programme
 Experts in safeguarding and many members of our sporting community. You can view the consultation documents here.
 
 
-##### **If I am not a National Sports Association, can I sporting organisation adopt the Unified Code?**
+##### **If I am not a National Sports Association, can sporting organisation adopt the Unified Code?**
 
 Any sports organisation may adopt the Unified Code by reference to it in their organisational safeguarding policies.
 
@@ -51,5 +51,3 @@ A model Safe Sport Policy will be made available to Member Organisations and the
 
 ##### **When can an organisation get accredited with the Safety Mark start?**
 The aim of the accreditation scheme is to establish recognition for the quality of an organisation’s safeguarding efforts and established processes. The accreditation framework will be activated in **2023** following the rollout of the Safe Sport Programme to the NSAs in 2022.
-
-
