@@ -6,7 +6,7 @@ description: ""
 ![Alt text for image on Isomer site](/images/gymansticssafesportdefiniti.png)
 
 
-##### Why Safe Sport is important 
+##### Why is Safe Sport important? 
 
 Inappropriate behaviour in the community affects enjoyment and participation in sport at all levels. If left unaddressed, will:<br><br>
 * **compromise the safety and well-being of affected persons** which can have lifelong impact or worse, cause life threatening situations. This is especially grave when those concerned are minors, the vulnerable or persons with disabilities in our community <br><br>
