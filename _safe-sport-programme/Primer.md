@@ -38,4 +38,3 @@ qualifications when engaging instructional services.</li></div>
 <li>Fear of speaking up due to perceived consequences</li>
 <li>Culture of tolerance and poor practice from leadership & management</li>
 <li>Poor employment & volunteer screening</li>
-	</b></div>
