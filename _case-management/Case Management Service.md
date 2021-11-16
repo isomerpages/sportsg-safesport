@@ -25,7 +25,7 @@ A Formal Report takes place where a report provider would like for an incident t
 ##### Responding
 
 Depending on whether a Disclosure or a Formal Report has been made, the Case Management Unit will proceed to:
-* refer the affected party to to augmented [support services](/case-management/support-network), where appropriate
+* refer the affected party to  augmented [support services](/case-management/support-network), where appropriate
 * conduct a preliminary assessment to determine if there is breach of the Unified Code on the face of the evidence
 * commence a formal investigation to determine if Misconduct has taken place
 
