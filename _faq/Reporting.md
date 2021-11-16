@@ -23,8 +23,42 @@ The Case Management Unit which is staffed by persons who are experienced in prov
 will refer the Affected Party, where appropriate, to befrienders and/or counsellors under its Support Network.
 
 
-##### **3. Is my identity confidential?**
+##### **3. What constitutes as Safe Sport Misconduct?**
 
-##### **4. Do I need to make a police report?**
+Please refer to the [Safe Sport Unified Code](/safe-sport-programme/unified-code) for types of Misconduct.
+
+##### **4. How do I make a Safe Sport report?**
+
+You can report Safe Sport incidents either through the Safeguarding Officer of the member organisation or complete the incident report form [here](/case-management/reporting).
 
 ##### **5. Can I make a report on someone else's behalf?**
+
+Yes, you may. Do note that Safe Sport will contact the Affected Person to inform of its decision to proceed with the investigation if there is a risk of imminent harm to any person.
+
+##### **6. Can I choose to remain anonymous?**
+
+Yes, you may. However, providing your information will be vastly helpful to a swift and
+effective investigation.
+
+##### **7. What is the difference between ‘Disclosure” and ‘Formal Reporting’?**
+
+A **Disclosure** is simply sharing an experience of being subjected to incident of Misconduct. It
+does not launch any formal process such as investigation, disciplinary hearing. Safe Sport
+Taskforce will work with the Affected Person and the Respondent to come with a binding
+resolution.
+
+In a **Formal Reporting**, Safe Sport Taskforce will investigate if the Misconduct is substantiated.
+The Case Management Unit has the discretion to decide if the matter needs to be heard by the
+Disciplinary Committee.
+
+##### **8. How long will the investigation take to complete?**
+
+The duration taken to complete the investigation depends on the severity of the Misconduct.
+In certain circumstances, the investigation may be postponed until the law enforcement agency
+has completed their investigations. Temporary Sanction measures will be imposed in such cases.
+
+##### **9. Can I appeal if I do not agree with investigation outcome?**
+
+Yes, you may appeal in writing, within one month of the notice if you do not agree with the
+outcome. The Appeal Committee has the final decision to either hear the case or throw out the
+appeal. The appeal fee is $100 (to be determined).
