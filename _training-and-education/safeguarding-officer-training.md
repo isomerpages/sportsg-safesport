@@ -2,6 +2,8 @@
 title: Safeguarding Officer Training
 permalink: /training-and-education/so-training
 ---
+![Alt text for image on Isomer site](/images/SO%20Training.jpg)
+
 The Safeguarding Officer Training is for appointed officers from sporting organisations in Singapore. 
 
 It equips officers with the relevant skills to respond and manage disclosures of abuse. They will also learn about Safe Sport, policies and laws covering aspects of Safe Sport and their roles and responsibilities as a Safeguarding
