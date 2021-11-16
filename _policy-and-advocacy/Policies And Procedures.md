@@ -5,6 +5,8 @@ description: ""
 ---
 ##### Member organisations may adopt these policies and procedures into their organisational policies, contracts for services and employment terms:
 
+<br>
+
 * Recruitment policy
 * Training and onboarding policy
 * Reporting policy
