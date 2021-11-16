@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: Safeguarding in Sport
-      subtitle: "#SGSafesport"
+      subtitle: "#SGSafeSport Play Your Part"
       background: /images/unifiedcode.jpeg
       button: What is SAFE SPORT
       url: /safe-sport-programme/primer
