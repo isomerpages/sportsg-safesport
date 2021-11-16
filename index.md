@@ -15,7 +15,7 @@ sections:
       key_highlights:
         - title: Safe Sport Programme
           description: A National Framework
-          url: /safe-sport-programme
+          url: /safe-sport-programme/ssp
         - title: Safe Sport Commission
           description: Our Work
           url: /about/our-work
