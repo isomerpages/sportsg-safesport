@@ -2,7 +2,7 @@ collections:
   faq:
     output: true
     order:
-      - Support Network.md
       - Safe Sport Programme.md
       - Training and Education.md
       - Reporting.md
+      - Support Network.md
