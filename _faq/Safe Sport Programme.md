@@ -6,7 +6,7 @@ permalink: /faq/safe-sport-programme
 
 Experts in safeguarding children and vulnerable groups from key governmental and non-governmental organisations, and various members of our sporting community comprising athletes, coaches, parents, volunteers, members of the disability sport community, organisational leaders, administrators, support staff, and programme providers were consulted. 
 
-You can view the consultation documents here.
+You can view the consultation documents [here](/safe-sport-programme/community-consultations).
 
 
 ##### **2. If I am not a National Sports Association, can I adopt the Unified Code?**
