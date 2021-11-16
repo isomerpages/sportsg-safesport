@@ -3,8 +3,7 @@ title: Policies And Procedures
 permalink: /policiesandprocedures
 description: ""
 ---
-
-##### 
+##### Member organisations may adopt these policies and procedures into their organisational policies, contracts for services and employment terms.
 
 <br>
 <div style="font-size:18px;color:#202945; background-color:#E38F8F; padding:30px"><b>DID YOU KNOW?</b><br><br><b>In a 2020,  99 Safeguarding Officers across 64 organisations ranked these as the top 3 environmental risks to Safe Sport in their sporting environments:
