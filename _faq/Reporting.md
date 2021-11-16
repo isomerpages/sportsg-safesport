@@ -56,9 +56,3 @@ Disciplinary Committee.
 The duration taken to complete the investigation depends on the severity of the Misconduct.
 In certain circumstances, the investigation may be postponed until the law enforcement agency
 has completed their investigations. Temporary Sanction measures will be imposed in such cases.
-
-##### **9. Can I appeal if I do not agree with investigation outcome?**
-
-Yes, you may appeal in writing, within one month of the notice if you do not agree with the
-outcome. The Appeal Committee has the final decision to either hear the case or throw out the
-appeal. The appeal fee is $100 (to be determined).
