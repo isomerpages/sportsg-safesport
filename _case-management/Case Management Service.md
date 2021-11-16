@@ -15,7 +15,7 @@ This helps to relieve the administrative burden on organisations and gives assur
 
 
 ##### Receiving
-Anyone can make a Disclosures or a Formal Report related to incidents of harrassment or abuse.
+Anyone can make a Disclosure or a Formal Report related to incidents of harrassment or abuse.
 
 A Disclosure happens when a person wishes to seek support or is unsure of his/her experience. Subject to mandatory reporting laws, a Disclosure does not trigger a formal process. A person may elect to turn a Disclosure into a Formal Report any point. 
 
