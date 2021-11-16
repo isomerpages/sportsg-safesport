@@ -3,7 +3,6 @@ title: Other Helplines
 permalink: /case-management/other-helplines
 description: ""
 ---
-
 #### If you need help or feel unsure about an encounter, you can reach out to:
 
 
@@ -27,9 +26,6 @@ description: ""
 | -------- | 
 |1800-777 0000 (Operating Hours: Monday to Friday, 8.30am - 5.30pm) | 
 
-| National Anti-Violence Helpline | 
-| -------- | 
-|1800 777 0000 (24-hour)| 
 
 
 #### Other Useful Resources or Support for Reporting
