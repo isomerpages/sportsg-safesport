@@ -27,7 +27,7 @@ National Sports Associations (NSAs) recognised by SportSG will be required to be
 
 ##### **4. What are the benefits to becoming a Member Organisation of the Safe Sport Programme?**
 
-The Safe Sport Programme provides a streamlined and harmonised approach to mitigating threats to Safe Sport and is designed to ease the administrative burden on sporting organisations. It also reduces the risk of accusations of bias and conflicts of interests often associated with non-independent investigations and disciplinary processes.
+The Safe Sport Programme provides a streamlined and harmonised approach to mitigate threats to Safe Sport and is designed to ease the administrative burden on sporting organisations. It also reduces the risk of accusations of bias and conflicts of interests often associated with non-independent investigations and disciplinary processes.
 
 The Safe Sport Programme supports Member Organisations in two main areas: <br><br>
 (1) creating a safe sporting environment underpinned by the Unified Code <br><br>
