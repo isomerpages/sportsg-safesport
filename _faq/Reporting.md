@@ -2,7 +2,7 @@
 title: Reporting
 permalink: /frequently-asked-questions
 ---
-##### **1. What kind of reports will the Safe Sport Commission Manage?**
+##### **1. What kind of reports will the Safe Sport Commission manage?**
 
 The Case Management Unit of the Safe Sport Commission will only manage reports of concern that relate to
  Misconduct set out in the Unified Code which come under its mandatory jurisdiction (i.e. moderate to severe
