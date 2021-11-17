@@ -3,7 +3,6 @@ title: Reporting a Concern
 permalink: /case-management/reporting
 description: What to do if you have a Safe Sport concern
 ---
-
 #### Reporting a concern
  
 Anyone may make a report of concern if they have personally experienced or is aware of any inappropriate conduct which may raise concerns under the Safe Sport Unified Code.
