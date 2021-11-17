@@ -19,6 +19,19 @@ Categories of misconduct under the Unified Code:
 
 The Unified Code may be adopted by any organisation by reference to the Unified Code in its member protection policies and agreements.
 
+ <style>
+      .button {
+        display: inline-block;
+        padding: 10px 20px;
+        text-align: center;
+        text-decoration: none;
+        color: #ffffff;
+        background-color: #B12028;
+        border-radius: 6px;
+        outline: none;
+      }
+    </style>
+		
+<a style= "text-decoration: none; color:#FFFFFF" class="button" href="https://form.gov.sg/618322ee2487c60012395b37">DOWNLOAD THE UNIFIED CODE</a> 
+
 <button style="text-align: center; padding: 15px 32px; background-color: #B12028; font-size: 18px; color:#FFFFFF;  text-align: center; ">DOWNLOAD  THE UNIFIED CODE</button>
-	
-	
