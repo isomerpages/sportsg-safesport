@@ -1,0 +1,5 @@
+collections:
+  policy-and-advocacy:
+    output: true
+    order:
+      - Policies And Procedures.md

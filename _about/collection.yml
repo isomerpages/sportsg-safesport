@@ -1,0 +1,7 @@
+collections:
+  about:
+    output: true
+    order:
+      - Our Work.md
+      - Safe Sport Commission Members.md
+      - History.md
