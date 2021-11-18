@@ -23,7 +23,7 @@ There are 4 role-specific Safe Sport awareness modules on the digital learning p
 
 Upon completion of the modules, you will receive a certificate of achievement and deem as Safe Sport Trained. 
 
-Do check out the brochure below for more information. You may also contact us at safe_sport@sport.gov.sg for more details. 
+Do check out the brochure below for more information. You may also contact us at **contact@safesport.sg** for more details. 
 
 ![SportSG-ED Pg1](/images/sportsg-ed/1.png)
 
