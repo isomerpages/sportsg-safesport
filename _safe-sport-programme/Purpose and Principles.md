@@ -22,4 +22,4 @@ Together, the Safe Sport Unified Code and the Safe Sport Programme form the nati
 
 The design of the Unified Code and the Safe Sport Programme are based on the following principles:
 
-![Alt text for image on Isomer site](/images/guiding%20principles.png)
+![Alt text for image on Isomer site](/images/Guiding%20Principles_high_res.png)
