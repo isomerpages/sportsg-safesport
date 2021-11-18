@@ -6,11 +6,8 @@ permalink: /safe-sport-programme/community-consultations
 
 Whilst guided by international frameworks on safeguarding in sport, the Safe Sport Unified Code and Safe Sport Programme have been contextualised for Singapore sporting landscape and the sporting community through extensive consultations with sporting community stakeholders. 
 
+![Alt text for image on Isomer site](/images/consult%20timeline.png)
 
-![Alt text for image on Isomer site](/images/SSUC%20Timeline.png)
-
-
-<div style="font-size:18px; background-color:#E38F8F; padding:30px"> <b>DID YOU KNOW?</b><br><br><b>Over 200 sporting community stakeholders in more than 68 organisations across 58 sports participated in the Safe Sport Unified Code Community Consultations over a 9 month period.</b></div>
 
 These consultations were made possible only through the partnership with these organisations
 * Athletes' Commission, Singapore National Olympic Council (SNOC)
