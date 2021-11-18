@@ -33,4 +33,3 @@ Yes, you may. Do note that Safe Sport will contact the Affected Person to inform
 
 Yes, you may. However, providing your information will be vastly helpful to a swift and
 effective investigation.
-
