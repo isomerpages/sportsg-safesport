@@ -34,19 +34,3 @@ Yes, you may. Do note that Safe Sport will contact the Affected Person to inform
 Yes, you may. However, providing your information will be vastly helpful to a swift and
 effective investigation.
 
-##### **7. What is the difference between ‘Disclosure” and ‘Formal Reporting’?**
-
-A **Disclosure** is simply sharing an experience of being subjected to incident of Misconduct. It
-does not launch any formal process such as investigation, disciplinary hearing. Safe Sport
-Taskforce will work with the Affected Person and the Respondent to come with a binding
-resolution.
-
-In a **Formal Reporting**, Safe Sport Taskforce will investigate if the Misconduct is substantiated.
-The Case Management Unit has the discretion to decide if the matter needs to be heard by the
-Disciplinary Committee.
-
-##### **8. How long will the investigation take to complete?**
-
-The duration taken to complete the investigation depends on the severity of the Misconduct.
-In certain circumstances, the investigation may be postponed until the law enforcement agency
-has completed their investigations. Temporary Sanction measures will be imposed in such cases.
