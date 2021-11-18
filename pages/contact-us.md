@@ -14,4 +14,10 @@ locations:
         description: ""
     maps_link: ""
     title: Main Office
+contacts:
+  - content:
+      - phone: ""
+      - email: contact@safesport.sg
+      - other: ""
+    title: "Drop us an email here:"
 ---
