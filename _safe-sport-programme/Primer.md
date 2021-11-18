@@ -19,22 +19,4 @@ responsible which may lead to departure from those communities or sport altogeth
 * **damage the trust, goodwill and confidence** people have in the integrity of sport 
 
 
-<br>
-<div style="font-size:20px;color:#202945; background-color:#ECECEC; padding:30px">
-<b>ENVIRONMENTAL RISK FACTORS IN SPORT</b><br>
-<li>inherent trust and power imbalance in favour of persons regarded to be persons of
-knowledge or authority in an environment that is generally perceived as safe</li>
-	<li>children and young persons participating in a high performance and/or highly competitive
-environment where there is a heavy emphasis on winning</li>
-<li> lack of oversight and/or checks on poor organisational culture that tolerate poor practices</li>
-<li> little and/or lack of knowledge and requirements for organisational safeguarding policies and
-training amongst sport coaching and instruction with differing accreditations</li> 
-<li> little and/or lack of awareness, and in turn demand from sport participants for such
-qualifications when engaging instructional services.</li></div>
-
-<br>
-<div style="font-size:18px;color:#202945; background-color:#E38F8F; padding:30px"><b>DID YOU KNOW?</b><br><br><b>In a 2020,  99 Safeguarding Officers across 64 organisations ranked these as the top 3 environmental risks to Safe Sport in their sporting environments:<br>
-<ol>
-<li>Fear of speaking up due to perceived consequences</li>
-<li>Culture of tolerance and poor practice from leadership & management</li>
-<li>Poor employment & volunteer screening</li>
+![Alt text for image on Isomer site](/images/env%20risk%20factor.png)
