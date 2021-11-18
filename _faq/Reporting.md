@@ -21,9 +21,9 @@ will refer the Affected Party, where appropriate, to befrienders and/or counsell
 
 Please refer to the [Safe Sport Unified Code](/safe-sport-programme/unified-code) for types of Misconduct.
 
-##### **4. How do I make a Safe Sport report?**
+##### **4. How do raise an incident I am concerned about?**
 
-You can report Safe Sport incidents either through the Safeguarding Officer of the member organisation or complete the [incident report form](/case-management/reporting).
+You can make a report of concern either through the Safeguarding Officer of your organisation or directly to the Case Management Unit by completing the [incident report form](/case-management/reporting).
 
 ##### **5. Can I make a report on someone else's behalf?**
 
@@ -33,20 +33,3 @@ Yes, you may. Do note that Safe Sport will contact the Affected Person to inform
 
 Yes, you may. However, providing your information will be vastly helpful to a swift and
 effective investigation.
-
-##### **7. What is the difference between ‘Disclosure” and ‘Formal Reporting’?**
-
-A **Disclosure** is simply sharing an experience of being subjected to incident of Misconduct. It
-does not launch any formal process such as investigation, disciplinary hearing. Safe Sport
-Taskforce will work with the Affected Person and the Respondent to come with a binding
-resolution.
-
-In a **Formal Reporting**, Safe Sport Taskforce will investigate if the Misconduct is substantiated.
-The Case Management Unit has the discretion to decide if the matter needs to be heard by the
-Disciplinary Committee.
-
-##### **8. How long will the investigation take to complete?**
-
-The duration taken to complete the investigation depends on the severity of the Misconduct.
-In certain circumstances, the investigation may be postponed until the law enforcement agency
-has completed their investigations. Temporary Sanction measures will be imposed in such cases.
