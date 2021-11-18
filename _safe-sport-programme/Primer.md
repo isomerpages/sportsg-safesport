@@ -18,5 +18,4 @@ norms within sport over time which may culminate into disciplinary issues or cri
 responsible which may lead to departure from those communities or sport altogether<br><br>
 * **damage the trust, goodwill and confidence** people have in the integrity of sport 
 
-
-![Alt text for image on Isomer site](/images/Env%20Risk%20Factors_high_res.png)
+![Alt text for image on Isomer site](/images/env%20risk%20factor_updated.png)
