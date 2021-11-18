@@ -31,4 +31,4 @@ The Unified Code may be adopted by any organisation by reference to the Unified 
       }
     </style>
 		
-<a style= "text-decoration: none; color:#FFFFFF" class="button" href=" ">DOWNLOAD THE UNIFIED CODE</a>
+<a style= "text-decoration: none; color:#FFFFFF" class="button" href="http://safesport.sg/files/Safe%20Sport%20Unified%20Code.pdf">DOWNLOAD THE UNIFIED CODE</a> [Safe Sport Unified Code](/files/Safe%20Sport%20Unified%20Code.pdf)
