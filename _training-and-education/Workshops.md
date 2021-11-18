@@ -20,4 +20,4 @@ Here are a few organisations that we have worked with:
 * Singapore Sports School
 * Singapore Swimming Association
 
-Contact us at safe_sport@sport.gov.sg for more details.
+Contact us at **contact@safesport.sg** for more details.
