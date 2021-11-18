@@ -21,4 +21,4 @@ Safeguarding Officers are required to complete the online Safeguarding Officer m
 
 This training is chargeable for non-member organisations of the Safe Sport Programme. 
 
-Contact us at safe_sport@sport.gov.sg for more details.
+Contact us at **contact@safesport.sg** for more details.
