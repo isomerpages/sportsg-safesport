@@ -19,4 +19,4 @@ responsible which may lead to departure from those communities or sport altogeth
 * **damage the trust, goodwill and confidence** people have in the integrity of sport 
 
 
-![Alt text for image on Isomer site](/images/env%20risk%20factor.png)
+![Alt text for image on Isomer site](/images/Env%20Risk%20Factors_high_res.png)
