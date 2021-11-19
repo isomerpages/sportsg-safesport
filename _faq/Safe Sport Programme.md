@@ -11,7 +11,7 @@ The development of the Unified Code and the Safe Sport Programme was guided by t
 * [Canada's Universal Code of Conduct to Prevent and Address Maltreatment in Sport](https://sirc.ca/wp-content/uploads/2020/01/UCCMS-v5.1-FINAL-Eng.pdf)
 * [U.S. Center of Safe Sport's SafeSport Code](https://uscenterforsafesport.org/wp-content/uploads/2021/04/SafeSportCode2021_040121_V3.pdf)
 
-It is also contextualised for Singapore sporting landscape and the sporting community through extensive consultations with sporting community stakeholders. 
+It is also contextualised for Singapore's sporting landscape and the sporting community through extensive consultations with sporting community stakeholders. 
 
 You can view the consultation documents [here](/safe-sport-programme/community-consultations).
 
