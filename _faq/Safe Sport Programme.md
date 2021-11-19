@@ -6,14 +6,14 @@ image: /images/Code.jpg
 ---
 ##### **1. Who was consulted in the development of the Unified Code and the Safe Sport Programme?**
 
-The development of the Unified Code and the Safe Sport Programme was guided by the following international frameworks:
-* [International Olympic Committee's Consensus Statement: harassment and abuse (non-accidental violence) in sport (2016)](https://olympics.com/athlete365/what-we-do/integrity/safe-sport/)
-* [Canada's Universal Code of Conduct to Prevent and Address Maltreatment in Sport](https://sirc.ca/safesport/policies-practices/)
-* [U.S. Center of Safe Sport's SafeSport Code](https://uscenterforsafesport.org/response-and-resolution/safesport-code/)
+The development of the Unified Code and the Safe Sport Programme was guided by the following international frameworks on safeguarding in sport.
 
-It is also contextualised for Singapore's sporting landscape and the sporting community through extensive consultations with sporting community stakeholders. 
+The International Olympic Committes Prevention of Harrassment and Abuse Initiatives ([PHAS](https://olympics.com/ioc/safe-sport)) includes the *[2016](https://stillmed.olympic.org/media/Document%20Library/OlympicOrg/IOC/What-We-Do/Protecting-Clean-Athletes/Safeguarding/IOC-Consensus-Statement_Harassment-and-abuse-in-sport-2016.pdf) Consensus Statement: harassment and abuse (non-accidental violence) in pport*, which provides evidence and research regarding these harmful behaviours and their impacts.  
 
-You can view the consultation documents [here](/safe-sport-programme/community-consultations).
+Jurisdictions like the [US](https://uscenterforsafesport.org/response-and-resolution/safesport-code/), [Canada](https://sirc.ca/safesport/policies-practices/) and [Australia](https://www.sportintegrity.gov.au/what-we-do/national-integrity-framework) have developed frameworks appropriate to their sporting landscapes.
+
+The Safe Sport Unified Code and the Safe Sport Programme is based on these universal concepts and international evidence but also contextualised for Singapore's sporting landscape and the sporting community through [extensive consultations](/safe-sport-programme/community-consultations) with sporting community stakeholders. 
+
 
 
 ##### **2. If I am not a National Sports Association, can I adopt the Unified Code?**
