@@ -1,8 +1,11 @@
 ---
 title: Key Signatories
 permalink: /safe-sport-programme/key-signatories
-description: ""
+description: "A harmonised safeguarding framework for sport in Singapore "
+image: /images/handshake.jpg
 ---
+
+
 ![Alt text for image on Isomer site](/images/handshake.jpg)
 #### Common Core Values
 The three key signatories to the Unified Code are:

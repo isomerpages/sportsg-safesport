@@ -1,7 +1,10 @@
 ---
 title: Awareness Module
 permalink: /training-and-education/awareness-module
+description: SportSG-ED Online Safe Sport Module
+image: /images/softball.png
 ---
+
 ![Alt text for image on Isomer site](/images/ultimate.jpg)
 
 #### Raising awareness of the importance of safeguarding in sport

@@ -1,7 +1,10 @@
 ---
 title: Workshops
 permalink: /training-and-education/workshops
+description: safe spaces to create awareness and discuss experiences
+image: /images/SO%20Training.jpg
 ---
+
 ![Alt text for image on Isomer site](/images/workshops.jpg)
 
 We have conducted customised Safe Sport Awareness, First Responder and Case Studies workshops to various sporting organisations

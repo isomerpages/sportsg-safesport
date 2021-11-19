@@ -1,7 +1,10 @@
 ---
 title: Safeguarding Officer Training
 permalink: /training-and-education/so-training
+description: "First responder training "
+image: /images/workshops.jpg
 ---
+
 ![Alt text for image on Isomer site](/images/SO%20Training.jpg)
 
 The Safeguarding Officer Training is for appointed officers from sporting organisations in Singapore. 

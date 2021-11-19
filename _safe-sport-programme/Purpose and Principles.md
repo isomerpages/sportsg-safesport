@@ -1,8 +1,10 @@
 ---
 title: Purpose and Principles
 permalink: /safe-sport-programme/purpose-and-principles
-description: ""
+description: "A harmonised safeguarding framework for sport in Singapore "
+image: /images/Code.jpg
 ---
+
 ![Alt text for image on Isomer site](/images/children.jpg)
 ### A National Framework for Safeguarding in Sport
 

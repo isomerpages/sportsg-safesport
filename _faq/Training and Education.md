@@ -1,12 +1,16 @@
 ---
 title: Training and Education
 permalink: /faq/training-education
+description: Questions on Safe Sport Awareness Workshops and Modules
+image: /images/SO%20Training.jpg
 ---
+
 ##### **1. How can I access SportSG-ED?** 
 You may access SportSG-ED via www.sportsync.sg
 
 To create a SportSG -ED account, please refer to the video user guides:
-*  To create a SportSG-ED account with your existing ActiveSG account: https://www.youtube.com/watch?v=VDCeOSPZ2-E 
+*  To create a SportSG-ED account with your existing ActiveSG account:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VDCeOSPZ2-E?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 * To create a SportSG-ED account with a new ActiveSG account: https://www.youtube.com/watch?v=QxOGlmJd8BA 
 
 For any more FAQs on SportSG-ED, please visit [FAQ - Sport Sync](https://www.sportsync.sg/App/System/FAQ) or [go.gov.sg/sportsged](https://go.gov.sg/sportsged).

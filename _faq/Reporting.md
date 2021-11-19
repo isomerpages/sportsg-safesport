@@ -1,7 +1,10 @@
 ---
 title: Reporting
 permalink: /frequently-asked-questions
+description: "A harmonised safeguarding framework for sport in Singapore "
+image: /images/programme.jpg
 ---
+
 ##### **1. What kind of reports will the Safe Sport Commission manage?**
 
 The Case Management Service is available to a Member Organisations of the Safe Sport Programme. 

@@ -2,7 +2,9 @@
 title: Case Management Service
 permalink: /case-management/service
 description: "Safe Sport Case Management "
+image: /images/handshake.jpg
 ---
+
 #### Case Management Service
 
 An independent case management service is available to Member Organisations of the Safe Sport Programme.

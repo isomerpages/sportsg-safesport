@@ -1,8 +1,11 @@
 ---
 title: The Safe Sport Programme
 permalink: /safe-sport-programme/ssp
-description: A National Framework For Safeguarding In Sport
+description: "A harmonised safeguarding framework for sport in Singapore "
+image: /images/programme.jpg
 ---
+
+
 ![Alt text for image on Isomer site](/images/programme.jpg)
 
 ### The Safe Sport Programme

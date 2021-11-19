@@ -1,8 +1,10 @@
 ---
 title: Support Network
 permalink: /faq/support-network
-description: ""
+description: Augmented psychosocial support
+image: /images/ultimate.jpg
 ---
+
 ##### **1. Can anyone request for psychosocial support from Safe Sport Support Network?**
 
 No. This service is only available to person(s) affected by Safe Sport incidents.
