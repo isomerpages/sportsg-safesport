@@ -8,11 +8,11 @@ image: /images/Code.jpg
 
 The development of the Unified Code and the Safe Sport Programme was guided by the following international frameworks on safeguarding in sport.
 
-The International Olympic Committes Prevention of Harrassment and Abuse Initiatives ([PHAS](https://olympics.com/ioc/safe-sport)) includes the *[2016](https://stillmed.olympic.org/media/Document%20Library/OlympicOrg/IOC/What-We-Do/Protecting-Clean-Athletes/Safeguarding/IOC-Consensus-Statement_Harassment-and-abuse-in-sport-2016.pdf) Consensus Statement: harassment and abuse (non-accidental violence) in pport*, which provides evidence and research regarding these harmful behaviours and their impacts.  
+The International Olympic Committe's Prevention of Harrassment and Abuse Initiatives ([PHAS](https://olympics.com/ioc/safe-sport)) includes the *[2016](https://stillmed.olympic.org/media/Document%20Library/OlympicOrg/IOC/What-We-Do/Protecting-Clean-Athletes/Safeguarding/IOC-Consensus-Statement_Harassment-and-abuse-in-sport-2016.pdf) Consensus Statement: harassment and abuse (non-accidental violence) in sport*, which provides evidence and research regarding these harmful behaviours and their impacts.  
 
 Jurisdictions like the [US](https://uscenterforsafesport.org/response-and-resolution/safesport-code/), [Canada](https://sirc.ca/safesport/policies-practices/) and [Australia](https://www.sportintegrity.gov.au/what-we-do/national-integrity-framework) have developed frameworks appropriate to their sporting landscapes.
 
-The Safe Sport Unified Code and the Safe Sport Programme is based on these universal concepts and international evidence but also contextualised for Singapore's sporting landscape and the sporting community through [extensive consultations](/safe-sport-programme/community-consultations) with sporting community stakeholders. 
+The Safe Sport Unified Code and the Safe Sport Programme is based on these universal concepts and international evidence but also contextualised for Singapore's sporting landscape and the sporting community through [extensive consultations](/safe-sport-programme/community-consultations). 
 
 
 
