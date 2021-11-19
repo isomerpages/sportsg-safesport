@@ -7,9 +7,9 @@ image: /images/Code.jpg
 ##### **1. Who was consulted in the development of the Unified Code and the Safe Sport Programme?**
 
 The development of the Unified Code and the Safe Sport Programme was guided by the following international frameworks:
-* [International Olympic Committee's Consensus Statement: harassment and abuse (non-accidental violence) in sport (2016)](https://olympics.com/athlete365/app/uploads/2020/12/IOC-Consensus-Statement_Harassment-and-abuse-in-sport-2016.pdf)
-* [Canada's Universal Code of Conduct to Prevent and Address Maltreatment in Sport](https://sirc.ca/wp-content/uploads/2020/01/UCCMS-v5.1-FINAL-Eng.pdf)
-* [U.S. Center of Safe Sport's SafeSport Code](https://uscenterforsafesport.org/wp-content/uploads/2021/04/SafeSportCode2021_040121_V3.pdf)
+* [International Olympic Committee's Consensus Statement: harassment and abuse (non-accidental violence) in sport (2016)](https://olympics.com/athlete365/what-we-do/integrity/safe-sport/)
+* [Canada's Universal Code of Conduct to Prevent and Address Maltreatment in Sport](https://sirc.ca/safesport/policies-practices/)
+* [U.S. Center of Safe Sport's SafeSport Code](https://uscenterforsafesport.org/response-and-resolution/safesport-code/)
 
 It is also contextualised for Singapore's sporting landscape and the sporting community through extensive consultations with sporting community stakeholders. 
 
