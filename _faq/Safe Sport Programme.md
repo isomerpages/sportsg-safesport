@@ -4,10 +4,14 @@ permalink: /faq/safe-sport-programme
 description: "A harmonised safeguarding framework for sport in Singapore "
 image: /images/Code.jpg
 ---
-
 ##### **1. Who was consulted in the development of the Unified Code and the Safe Sport Programme?**
 
-Experts in safeguarding children and vulnerable groups from key governmental and non-governmental organisations, and various members of our sporting community comprising athletes, coaches, parents, volunteers, members of the disability sport community, organisational leaders, administrators, support staff, and programme providers were consulted. 
+The development of the Unified Code and the Safe Sport Programme was guided by the following international frameworks:
+* International Olympic Committee
+* [Canada's Universal Code of Conduct to Prevent and Address Maltreatment in Sport](https://sirc.ca/safesport/policies-practices/)
+* [U.S. Center of Safe Sport's SafeSport Code](https://uscenterforsafesport.org/response-and-resolution/safesport-code/)
+
+It is also contextualised for Singapore sporting landscape and the sporting community through extensive consultations with sporting community stakeholders. 
 
 You can view the consultation documents [here](/safe-sport-programme/community-consultations).
 
