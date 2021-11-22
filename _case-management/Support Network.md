@@ -13,7 +13,6 @@ This support is extended to both affected persons as well as persons who are sub
 
 ![Alt text for image on Isomer site](/images/Support%20Network.png)
 
-</div>
 
 ##### Process
 
