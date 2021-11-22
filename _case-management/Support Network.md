@@ -4,7 +4,6 @@ permalink: /case-management/support-network
 description: ""
 image: /images/community.png
 ---
-
 #### What is the Safe Sport Support Network?
 
 The Safe Sport Support Network provides continued and enhanced psychosocial support to individuals affected by incidents relating to breaches of Safe Sport Unified Code.
@@ -32,5 +31,5 @@ A needs assessment will be performed by the Case Management Team before a person
 
 
 You may contact us at **contact@safesport.sg**  if 
-1. You are or know of someone who is requires augmented psychosocial support 
+1. You are or know of someone who requires augmented psychosocial support 
 2. You would like to join us as a counsellor or befriender. Please complete and submit this [application form](https://form.gov.sg/618382ad02e9a7001507e3bb).
