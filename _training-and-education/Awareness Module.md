@@ -23,7 +23,7 @@ There are 4 role-specific Safe Sport awareness modules on the digital learning p
 | Understanding Safe Sport as a Coach                                         | Free for NROC Coaches |
 | Understanding Safe Sport as a Parent                                         | Free |
 
-Upon completion of the modules, you will receive a certificate of achievement and deem as Safe Sport Trained. 
+Upon completion of the modules, you will receive a certificate of achievement.
 
 Do check out the brochure below for more information. You may also contact us at **contact@safesport.sg** for more details. 
 
