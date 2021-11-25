@@ -31,4 +31,5 @@ Do check out the brochure below for more information. You may also contact us at
 
 ![SportSG-ED Pg2](/images/sportsg-ed/2.png)
 
-#### Get started at SportSG-ED [here](https://www.sportsync.sg/App/Login?ReturnUrl=%2fApp%2fHome%2fLaunchSMLP)
+#### Get started on SportSG-ED [here](https://www.sportsync.sg/App/Login?ReturnUrl=%2fApp%2fHome%2fLaunchSMLP)
+Need help? Refer to our [FAQ](https://coachsg.sportsingapore.gov.sg/faq?category=SportSG-ED&page=sub).
