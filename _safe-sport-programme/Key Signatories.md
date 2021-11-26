@@ -15,7 +15,7 @@ The three key signatories to the Unified Code are:
 As organisations of note in sport, these leading organisations recognise that only when sporting
 environments are safe, can their common values be realised.
 
-![Alt text for image on Isomer site](/images/signing.jpeg)
+![Alt text for image on Isomer site](/images/keysignatories.jpg)
 
 By adopting the Safe Sport Unified Code, each of the key signatories underlies their commitment to the common values they hold.
 
