@@ -17,6 +17,6 @@ environments are safe, can their common values be realised.
 
 ![Alt text for image on Isomer site](/images/keysignatories.jpg)
 
-By adopting the Safe Sport Unified Code, each of the key signatories underlies their commitment to the common values they hold.
+By adopting the Safe Sport Unified Code, each of the key signatories underlies their commitment to the principle that all participants in sport should expect to play, practise, compete, officiate, work, volunteer and interact in an
+environment that is free from harassment and abuse.
 
-As organisations of note in sport, these leading organisations recognise that only when sporting environments are safe, can their common values be realized.
