@@ -19,4 +19,3 @@ environments are safe, can their common values be realised.
 
 By adopting the Safe Sport Unified Code, each of the key signatories underlies their commitment to the principle that all participants in sport should expect to play, practise, compete, officiate, work, volunteer and interact in an
 environment that is free from harassment and abuse.
-
