@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: "Safeguarding in Sport "
-description: Home of the Singapore Safe Sport Commission
+description: "Home of the Safe Sport Commission Singapore "
 image: /images/isomer-logo.svg
 permalink: /
 notification: ""
@@ -34,3 +34,4 @@ sections:
       alt: Policies And Procedures
       subtitle: "THE JOURNEY "
 ---
+
