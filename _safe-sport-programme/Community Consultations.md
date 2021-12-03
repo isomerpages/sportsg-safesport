@@ -19,12 +19,11 @@ These consultations were made possible only through the partnership with these o
 * Singapore National Paralympic Committee
 * Singapore Disability Sports Council
 
-
+The Safe Sport Commission is full of gratitude to the participants for sharing their stories, thoughts, feedback and insights, which are reflected in these reports.
 
 ![Alt text for image on Isomer site](/images/consult%20timeline.png)
 
 
-The Safe Sport Commission is full of gratitude to the participants for sharing their stories, thoughts, feedback and insights, which are reflected in these reports.
 
 | **Phase 1 - Experts & Leaders** | Report | 
 | -------- | -------- | 
