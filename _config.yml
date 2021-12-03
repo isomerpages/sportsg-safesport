@@ -16,7 +16,7 @@ colors:
     - title: media-color-five
       color: "#4a4a4a"
 resources_name: example-resource
-description: Home of the Singapore Safe Sport Commission
+description: "Home of the Safe Sport Commission Singapore "
 permalink: none
 baseurl: ""
 exclude:
