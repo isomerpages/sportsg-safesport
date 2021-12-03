@@ -4,13 +4,12 @@ permalink: /safe-sport-programme/community-consultations
 description: ""
 image: /images/community.png
 ---
-
 #### A community driven framework
+
 
 Whilst guided by international frameworks on safeguarding in sport, the Safe Sport Unified Code and Safe Sport Programme have been contextualised for Singapore sporting landscape and the sporting community through extensive consultations with sporting community stakeholders. 
 
-![Alt text for image on Isomer site](/images/consult%20timeline.png)
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/weBLKTO-eNA?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 These consultations were made possible only through the partnership with these organisations
 * Athletes' Commission, Singapore National Olympic Council (SNOC)
@@ -18,6 +17,10 @@ These consultations were made possible only through the partnership with these o
 * Singapore Para Athletes Commission
 * Singapore National Paralympic Committee
 * Singapore Disability Sports Council
+
+
+
+![Alt text for image on Isomer site](/images/consult%20timeline.png)
 
 
 The Safe Sport Commission is full of gratitude to the participants for sharing their stories, thoughts, feedback and insights, which are reflected in these reports.
