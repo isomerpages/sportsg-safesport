@@ -9,7 +9,7 @@ image: /images/community.png
 
 Whilst guided by international frameworks on safeguarding in sport, the Safe Sport Unified Code and Safe Sport Programme have been contextualised for Singapore sporting landscape and the sporting community through extensive consultations with sporting community stakeholders. 
 
-<iframe src="https://player.vimeo.com/video/648987858?h=5f9a89c757&amp;app_id=122963" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" style="width: 100%; height: 100%; border: none;"></iframe>
+<iframe src="https://player.vimeo.com/video/648987858?h=5f9a89c757&amp;app_id=122963" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture"></iframe>
  
 
 These consultations were made possible only through the partnership with these organisations
