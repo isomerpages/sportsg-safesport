@@ -21,8 +21,8 @@ They were [developed in consultation](https://www.safesport.sg/safe-sport-progra
 
  Ms Chan Yen San, Chairperson of the Safe Sport Commission
  
- ![key sigatories](/images/keysignatories.jpg)
-*Mr Chris Chan (Sec-Gen, Singapore National Olympic Council), Mr Kon Yin Tong (Chairman, Sport Singapore) and A/P Teo-Koh Sock Miang (President, Singapore National Paralympic Council)*
+![Alt text for image on Isomer site](/images/Launchvips.jpg)
+*From Left to Right:  Mr Chris Chan (Secretary-General, Singapore National Olympic Council), Ms Chan Yen San (Chairperson, Safe Sport Commission), Mr Kon Yin Tong (Chairman, Sport Singapore), Minister Edwin Tong and A/P Teo-Koh Sock Miang (President, Singapore National Paralympic Council)*
  
 The launch also included the the formal adoption of the Unified Code by Sport Singapore (SportSG) together with Singapore National Olympic Council (SNOC) and Singapore National Paralympic Council (SNPC). The signing ceremony by the three key signatories was witnessed by Mr Edwin Tong, Minister for Culture, Community and Youth and Second Minister for Law. 
 
