@@ -33,5 +33,7 @@ sections:
       image: /images/community.png
       alt: Policies And Procedures
       subtitle: "THE JOURNEY "
+  - resources:
+      subtitle: Latest
+      button: more
 ---
-
