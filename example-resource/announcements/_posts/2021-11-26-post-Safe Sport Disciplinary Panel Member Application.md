@@ -20,4 +20,4 @@ Appointment of the members of the Safe Sport Disciplinary Panel will be made by 
 | Download [Application Form](https://file.go.gov.sg/ssdpapplication.docx)    | 
 
 
-Please return the application form to contact@safesport.sg by 17 December 2021.
+Please return the application form to [contact@safesport.sg](mailto:contact@safesport.sg) by 17 December 2021.
