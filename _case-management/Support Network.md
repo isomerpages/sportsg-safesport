@@ -8,7 +8,7 @@ image: /images/community.png
 
 The Safe Sport Support Network provides continued and enhanced psychosocial support to individuals affected by incidents relating to breaches of Safe Sport Unified Code.
 
-This support is extended to both affected persons as well as persons who are subject to reports of concern ("Respondents"). 
+This support is extended to both affected persons as well as persons who are subject to the reports of concern ("Respondents"). 
 
 
 ![Alt text for image on Isomer site](/images/Support%20Network.png)
