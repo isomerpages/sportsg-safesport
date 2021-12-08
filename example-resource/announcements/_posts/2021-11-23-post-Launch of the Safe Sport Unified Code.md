@@ -6,7 +6,6 @@ layout: post
 description: Launch of the Safe Sport Unified Code
 image: /images/keysignatories.jpg
 ---
-
 ![Alt text for image on Isomer site](/images/LaunchGroupPic.jpg)
 
 The Safe Sport Commission today announced the launch of the Safe Sport Unified Code, to provide the sporting community with a clear reference on what constitutes inappropriate behaviour.
@@ -25,7 +24,7 @@ They were [developed in consultation](https://www.safesport.sg/safe-sport-progra
  ![key sigatories](/images/keysignatories.jpg)
 *Mr Chris Chan (Sec-Gen, Singapore National Olympic Council), Mr Kon Yin Tong (Chairman, Sport Singapore) and A/P Teo-Koh Sock Miang (President, Singapore National Paralympic Council)*
  
-The launch also included the the formal adoption of the Unified Code by Sport Singapore (SportSG) together with Singapore National Olympic Council (SNOC) and Singapore National Paralympic Council (SNPC), form the three key signatories to the Unified Code which was witnessed by Mr Edwin Tong, Minister for Culture, Community and Youth and Second Minister for Law. 
+The launch also included the the formal adoption of the Unified Code by Sport Singapore (SportSG) together with Singapore National Olympic Council (SNOC) and Singapore National Paralympic Council (SNPC). The signing ceremony by the three key signatories was witnessed by Mr Edwin Tong, Minister for Culture, Community and Youth and Second Minister for Law. 
 
 The Unified Code forms the bedrock of the Safe Sport Programme, a harmonised safeguarding framework for effectively implementing the Unified Code across the sporting ecosystem. Under the Safe Sport Programme, member organisations will receive support through training of the organisation’s safeguarding officer, access to model policies (e.g. child safeguarding, travel, recruitment, digital communications), training and education resources for participants in their sport to help them understand their roles and responsibilities. Should there be reports of misconduct within the sport organisation, the Safe Sport Commission will also manage and investigate the case under its jurisdiction.
 
