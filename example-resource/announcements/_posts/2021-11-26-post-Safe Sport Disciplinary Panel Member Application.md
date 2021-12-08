@@ -5,8 +5,7 @@ date: 2021-11-26
 layout: post
 description: ""
 ---
-
-Application to be a member of the Safe Sport Disciplinary Panel is open until 17 December 2021.
+****Application to be a member of the Safe Sport Disciplinary Panel is open until 17 December 2021.
 
 Disciplinary Committees and Appeal Committees will be appointed from the Safe Sport Disciplinary Panel on matters which fall under the jurisdiction of the Safe Sport Programme. 
 
