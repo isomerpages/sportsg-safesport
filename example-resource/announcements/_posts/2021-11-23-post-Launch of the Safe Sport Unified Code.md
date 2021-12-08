@@ -5,6 +5,8 @@ date: 2021-11-23
 layout: post
 description: ""
 ---
+![Alt text for image on Isomer site](/images/LaunchGroupPic.jpg)
+
 The Safe Sport Commission today announced the launch of the Safe Sport Unified Code, to provide the sporting community with a clear reference on what constitutes inappropriate behaviour.
 
 The Unified Code set out the community agreed standards of misconduct which threaten the core values of sport, including sexual, psychological, and physical misconduct, as well as other inappropriate acts such as grooming, wilful tolerance and abuse of processes related to reporting. These inappropriate behaviours transcend sport-specific cultures or codes and undermine both the mental and physical health of participants and the integrity of sport. 
@@ -29,5 +31,4 @@ Affected parties will also be able to tap onto the Safe Sport Support Network wh
 
 National Sports Associations and National Sports Federations recognised and supported by SportSG, as well as members and affiliates of the SNOC and SNPC will be progressively onboarded to the Safe Sport Programme in 2022. Whilst the national governing bodies for sport are the immediate priority, the framework was designed so that any sporting organisation may adopt the Unified Code into their organisational policies, contracts for services and employment terms. 
 
-To access the full suite of member services under the Safe Sport Programme, other types of sporting organisations such as commercial sport programme providers may apply to be in a pilot programme in 2022. 
- 
+To access the full suite of member services under the Safe Sport Programme, other types of sporting organisations such as commercial sport programme providers may apply to be in a pilot programme in 2022.
