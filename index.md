@@ -36,4 +36,5 @@ sections:
   - resources:
       subtitle: Latest
       button: more
+      title: Resources
 ---
