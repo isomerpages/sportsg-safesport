@@ -28,4 +28,4 @@ A needs assessment will be performed by the Case Management Team before a person
 
 You may contact us at **contact@safesport.sg**  if 
 1. You are or know of someone who requires augmented psychosocial support 
-2. You would like to join us as a counsellor or befriender. Please complete and submit this [application form](https//form.gov.sg/#!/61d4e012f46e87001200c9fa/admin) .
+2. You would like to join us as a counsellor or befriender. Please complete and submit this [application form](https://form.gov.sg/61d4e012f46e87001200c9fa) (https//form.gov.sg/#!/61d4e012f46e87001200c9fa/admin) .
