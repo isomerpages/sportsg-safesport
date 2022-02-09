@@ -30,7 +30,7 @@ The Safe Sport Commission comprises representatives of the different stakeholder
 
  
 ###### Members representing relevant Government Agencies
- 
+
 | Name | Role| 
 | ---------- | ---------- |
 | Dr. Su Chun Wei      | Chief, Singapore Sport Institute |
@@ -38,7 +38,3 @@ The Safe Sport Commission comprises representatives of the different stakeholder
 | Jennifer Teoh  | Director and Senior Principal Forensic Psychologist, Ministry of Social and Family Development     |
 | Ng Chen Kee   | Divisional Director, Student Development Curriculum, Ministry of Education   |
 | Tan Tin Wee  | Deputy Director, Current Ops, Singapore Police Force  | **
-
-
-
-
