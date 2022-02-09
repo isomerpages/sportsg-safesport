@@ -16,6 +16,8 @@ As organisations of note in sport, these leading organisations recognise that on
 environments are safe, can their common values be realised.
 
 ![Alt text for image on Isomer site](/images/keysignatories.jpg)
+Left to Right: Mr Chris Chan, Mr Kon Yin Tong, Dr Teo-Koh Sock Miang
+
 
 By adopting the Safe Sport Unified Code, each of the key signatories underlies their commitment to the principle that all participants in sport should expect to play, practise, compete, officiate, work, volunteer and interact in an
 environment that is free from harassment and abuse.
