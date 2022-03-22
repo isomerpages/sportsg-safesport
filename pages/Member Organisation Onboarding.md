@@ -8,7 +8,8 @@ Important documents for Onboarding
 
 | Document | Download | 
 | -------- | -------- | 
-| Guide to the Safe Sport Programme for NSAs   | Text     | 
 | Onboarding Toolkit     | Text     | 
+| Safe Sport Programme Handbook    | Text     | 
 | Risk Assessment Tool    | Text     | 
 | Safe Sport Policy Template    | Text     |
+| Guide to the Safe Sport Programme for NSAs  | Text     | 
