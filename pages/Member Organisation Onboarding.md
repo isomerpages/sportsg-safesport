@@ -3,13 +3,21 @@ title: Member Organisation Onboarding
 permalink: /onboarding
 description: Adoption Documents for Member Organisations
 ---
-Important documents for Onboarding
+Welcome to the Safe Sport Programme!
+
+![](/images/Onboarding%20Toolkit.png)
+
+These are all the documents you wil need to help you ensure your organisation properly adopts the Safe Sport Programme.
 
 
-| Document | Download | 
+
+| **Start here!** | Download | 
 | -------- | -------- | 
-| Onboarding Toolkit     | Text     | 
-| Safe Sport Programme Handbook    | Text     | 
-| Risk Assessment Tool    | Text     | 
+| Onboarding Toolkit  | Text     | 
+
+| **Other Documents** | Download | 
+| -------- | -------- | 
+| Safe Sport Programme Handbook   | Text     | 
 | Safe Sport Policy Template    | Text     |
-| Guide to the Safe Sport Programme for NSAs  | Text     | 
+| Risk Assessment Tool   | Text     | 
+| Guide to the Safe Sport Programme for NSAs (November 2021)  | Text     |
