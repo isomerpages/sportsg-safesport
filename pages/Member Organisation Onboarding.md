@@ -6,7 +6,7 @@ description: Adoption Documents for Member Organisations
 Important documents for Onboarding
 
 
-| Document | Column 2 | 
+| Document | Download | 
 | -------- | -------- | 
 | Guide to the Safe Sport Programme     | Text     | 
 | Onboarding Toolkit     | Text     | 
