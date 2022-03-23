@@ -15,9 +15,13 @@ These are all the documents you wil need to help you ensure your organisation pr
 | -------- | -------- | 
 | Onboarding Toolkit  | Text     | 
 
+| **Core Documents** | Download | 
+| -------- | -------- | 
+| Safe Sport Unified Code   | Text     |
+| Safe Sport Programme Handbook   | Text     | 
+
 | **Other Documents** | Download | 
 | -------- | -------- | 
-| Safe Sport Programme Handbook   | Text     | 
 | Safe Sport Policy Template    | Text     |
 | Risk Assessment Tool   | Text     | 
 | Guide to the Safe Sport Programme for NSAs (November 2021)  | Text     |
