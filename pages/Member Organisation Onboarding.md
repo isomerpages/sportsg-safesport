@@ -13,7 +13,7 @@ These are all the documents you wil need to help you ensure your organisation pr
 
 | **Start here!** | Download | 
 | -------- | -------- | 
-| Onboarding Toolkit  | [](/files/Safe%20Sport%20Programme%20Onboarding%20Toolkit_final.pdf)     | 
+| Safe Sport Onboarding Toolkit   | [](/files/Safe%20Sport%20Programme%20Onboarding%20Toolkit_final.pdf)     | 
 
 | **Core Documents** | Download | 
 | -------- | -------- | 
@@ -23,5 +23,5 @@ These are all the documents you wil need to help you ensure your organisation pr
 | **Other Documents** | Download | 
 | -------- | -------- | 
 | Safe Sport Policy Template    | [](/files/Safe%20Sport%20Policy%20Template.pdf)     |
-| Risk Assessment Tool   | [NSA Risk and Needs Assessment Tool](https://go.gov.sg/riskassessment)    | 
-| Guide to the Safe Sport Programme for NSAs (November 2021)  | [](/files/NSA%20Guide%20to%20the%20Safe%20Sport%20Programme.pdf)     |
+| Risk Assessment Tool   | [Assessment Tool](https://go.gov.sg/riskassessment)    | 
+| Guide to the Safe Sport Programme for NSAs (November 2021)  | [](/files/NSA%20Guide%20to%20the%20Safe%20Sport%20Programme.pdf)    |
