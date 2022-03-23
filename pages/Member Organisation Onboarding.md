@@ -17,7 +17,7 @@ These are all the documents you wil need to help you ensure your organisation pr
 
 | **Core Documents** | Download | 
 | -------- | -------- | 
-| Safe Sport Unified Code   | Text     |
+| Safe Sport Unified Code   | [](/files/Safe%20Sport%20Unified%20Code%20v4.pdf)     |
 | Safe Sport Programme Handbook   | Text     | 
 
 | **Other Documents** | Download | 
