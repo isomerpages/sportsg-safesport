@@ -18,10 +18,10 @@ These are all the documents you wil need to help you ensure your organisation pr
 | **Core Documents** | Download | 
 | -------- | -------- | 
 | Safe Sport Unified Code   | [](/files/Safe%20Sport%20Unified%20Code%20v4.pdf)     |
-| Safe Sport Programme Handbook   | Text     | 
+| Safe Sport Programme Handbook   |      | 
 
 | **Other Documents** | Download | 
 | -------- | -------- | 
 | Safe Sport Policy Template    | Text     |
 | Risk Assessment Tool   | Text     | 
-| Guide to the Safe Sport Programme for NSAs (November 2021)  | Text     |
+| Guide to the Safe Sport Programme for NSAs (November 2021)  | [](/files/NSA%20Guide%20to%20the%20Safe%20Sport%20Programme.pdf)     |
