@@ -5,7 +5,7 @@ description: Adoption Documents for Member Organisations
 ---
 Welcome to the Safe Sport Programme!
 
-![](/images/onboarding%20infographic.png)
+![](/images/SS%20Toolkit-min.png)
 
 These are all the documents you will need to help you ensure your organisation properly adopts the Safe Sport Programme.
 
