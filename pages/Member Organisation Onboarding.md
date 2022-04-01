@@ -7,7 +7,7 @@ Welcome to the Safe Sport Programme!
 
 ![](/images/TK(600%20×%20800%20px).png)
 
-These are all the documents you will need to help you ensure your organisation properly adopts the Safe Sport Programme.
+These are all the documents your organisations will need to help you ensure it properly adopts the Safe Sport Programme.
 
 
 
