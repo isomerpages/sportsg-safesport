@@ -11,4 +11,4 @@ It is mandatory for all officers to undergo a [Safeguarding Officer training](/t
 ![Alt text for image on Isomer site](/images/Safeguarding%20roles_high_res.png)
 
 
-**Who are these Safeguarding Officers? Check out the list [here](/files/List%20of%20Safeguarding%20Officers%20Updated%20as%20of%208%20Nov%2021.pdf).**
+**Who are these Safeguarding Officers? Check out the list [here](/files/List%20of%20Safeguarding%20Officers%20(Updated%20as%20of%2021%20Apr%2022).pdf).**
