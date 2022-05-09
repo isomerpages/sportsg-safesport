@@ -13,7 +13,7 @@ The Safe Sport Programme comprises all the elements required to optimize the imp
 
 ![](/images/Safe%20Sport%20Programme.png)
 
-Safe Sport Programme Handbook
+[Safe Sport Programme Handbook](/files/Safe%20Sport%20Programme%20Handbook.pdf)
 
 The Safe Sport Programme also prescribes:
 
