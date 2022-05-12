@@ -4,7 +4,6 @@ permalink: /case-management/service
 description: "Safe Sport Case Management "
 image: /images/handshake.jpg
 ---
-
 #### Case Management Service
 
 An independent case management service is available to Member Organisations of the Safe Sport Programme.
@@ -42,3 +41,5 @@ Clear process and procedures are set out in the rules of the Safe Sport Programm
 * timelines and procedures to ensure due process for all parties
 * a decision-making framework
 * independent adjudication by a Safe Sport Disciplinary Panel, where the severity of the Misconduct is moderate or severe
+
+[Overview of Response and Resolution Process](/files/Response%20and%20Resolution%20Process%20Final%2011May.pdf)
