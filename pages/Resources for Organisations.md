@@ -14,4 +14,3 @@ description: Resources for Member Organisations
 
 ****Other Useful Resources
 * IOC's Educational Video on Consent
-
