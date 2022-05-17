@@ -13,6 +13,8 @@ The Safe Sport Programme comprises all the elements required to optimize the imp
 
 ![](/images/Safe%20Sport%20Programme.png)
 
+[Safe Sport Programme Handbook](/files/Safe%20Sport%20Programme%20Handbook.pdf)
+
 The Safe Sport Programme also prescribes:
 
 <li><b>Process and Procedures</b> - clear guidelines on jurisdiction, confidentiality, assessment and
@@ -20,4 +22,3 @@ investigation of reports of concern, a decision-making framework for the determi
 <li><b>Measures</b> – protective and/or rehabilitative interventions including education, contact limitations and re-integration programmes.</li>
 <li><b>Sanctions</b> – appropriate limitations, conditions, suspensions or denial of the privilege of
 participation as a consequence for engaging in Misconduct.</li>
-
