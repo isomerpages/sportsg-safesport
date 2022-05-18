@@ -11,7 +11,7 @@ description: Resources for Member Organisations
 
 ### Safe Sport Awareness Briefing
 
-### Recruitment Related Resources
+### Policy Related Resources
 * Suggested Declaration Form
 
 ### Other Useful Resources
