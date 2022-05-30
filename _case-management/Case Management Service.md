@@ -12,6 +12,9 @@ This helps to relieve the administrative burden on organisations and gives assur
 
 ![](/images/QuickGuideResponseandResolution.png)
 
+> [Overview of Response and Resolution Process](/files/Response%20and%20Resolution%20Process%20Final%2011May.pdf)
+
+
 #### 3Rs -  Receiving, Responding and Resolving
 
 
@@ -42,5 +45,3 @@ Clear process and procedures are set out in the rules of the Safe Sport Programm
 * timelines and procedures to ensure due process for all parties
 * a decision-making framework
 * independent adjudication by a Safe Sport Disciplinary Panel, where the severity of the Misconduct is moderate or severe
-
-> [Overview of Response and Resolution Process](/files/Response%20and%20Resolution%20Process%20Final%2011May.pdf)
