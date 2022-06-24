@@ -4,7 +4,6 @@ permalink: /training-and-education/workshops
 description: safe spaces to create awareness and discuss experiences
 image: /images/SO%20Training.jpg
 ---
-
 ![Alt text for image on Isomer site](/images/workshops.jpg)
 
 We have conducted customised Safe Sport Awareness, First Responder and Case Studies workshops to various sporting organisations
@@ -16,9 +15,11 @@ Here are a few organisations that we have worked with:
 * ActiveSG Sport Operations 
 * Fencing Singapore
 * Football Association of Singapore
+* Singapore Life Saving Society
 * Singapore Gymnastics
 * Singapore National Olympic Council
 * Singapore National Paralympic Council 
+* Singapore Shooting Association
 * Singapore Sport Institute
 * Singapore Sports School
 * Singapore Swimming Association
