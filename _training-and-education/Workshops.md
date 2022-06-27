@@ -24,4 +24,16 @@ Here are a few organisations that we have worked with:
 * Singapore Sports School
 * Singapore Swimming Association
 
+
+We have also presented in these conferences:
+*   NYSI Youth Conference (2018)
+*   Safe Sport in Asia Webinar (2020)
+*   5th Asia Congress (2021)
+*   SNOC Women in Sport Committee Webinar Series: What Women Want (2021)
+*   CoachSG Conference (2018 – 2021)
+*   Singapore Gymnastics Congress (2021 – 2022)
+*   Safe Sport International Conference (2022)
+*   Sports Medicine Association of Singapore (SMAS) Series (2022)
+*   Singapore Drama Educators Association's (SDEA) Connections: Safeguarding Policies in Singapore (2022)
+
 Contact us at **contact@safesport.sg** for more details.
