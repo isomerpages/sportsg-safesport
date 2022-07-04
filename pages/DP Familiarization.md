@@ -1,8 +1,9 @@
 ---
 title: DP Familiarization
-permalink: /DPFamilirization
+permalink: /DPFamiliarization
 description: ""
 ---
+
 Dear Disciplinary Panel Member
 
 Please find attached all the documents you will need for our session on 30 July 2022.
