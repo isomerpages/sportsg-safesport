@@ -18,4 +18,3 @@ description: ""
 
 <br><br>
 
-This page is still developing. Stay tuned for more updates.
