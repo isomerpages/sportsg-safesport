@@ -15,6 +15,6 @@ description: ""
 * Changing Room Policy
 * Safe Sport Training & Education Policy
 * Intimate relationships policy
+<br>
 
-<br><br>
-
+[Safe Sport Policy Template](/files/Template%20Safe%20Sport%20Policy.pdf)
