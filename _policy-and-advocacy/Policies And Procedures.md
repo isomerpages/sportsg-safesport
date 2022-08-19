@@ -17,4 +17,4 @@ description: ""
 * Intimate relationships policy
 <br>
 
-[Safe Sport Policy Template](/files/Template%20Safe%20Sport%20Policy.pdf)
+> [Safe Sport Policy Template](/files/Template%20Safe%20Sport%20Policy.pdf)
