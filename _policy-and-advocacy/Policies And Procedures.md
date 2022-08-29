@@ -7,14 +7,14 @@ description: ""
 
 <br>
 
-* Recruitment policy
-* Training and onboarding policy
-* Reporting policy
-* Digital communications policy
-* Travel policy
+* Recruitment Policy
+* Travel Policy
+* One-on-One Interactions
+* Massage and Rubdowns
+* Social Media, Mobile and Electronic Communications Policy
+* Changing Room Policy
+* Safe Sport Training & Education Policy
 * Intimate relationships policy
-* Physical contact policy
+<br>
 
-<br><br>
-
-This page is still developing. Stay tuned for more updates.
+> [Safe Sport Policy Template](/files/Template%20Safe%20Sport%20Policy.pdf)
