@@ -11,8 +11,11 @@ description: "Classification Guidelines for measuring the severity of sexual,
 
 ![Picture of Graph with two Axis](/images/CGGrid.png)
 
-Severity of Non Accidental Violence based on 
-the Degree of Culpability and Degree of Harm
+
+The Safe Sport Commission has developed a Classification Guidelines for detemining the severity of non-accidental in sport.
+
+Severity is measured based on the degree of culpability relating to abusive behaviour and degree of harm caused to the affected party. 
+
 
 ##### **Documentation**
 
