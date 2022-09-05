@@ -11,6 +11,9 @@ description: "Classification Guidelines for measuring the severity of sexual,
 
 ![Picture of Graph with two Axis](/images/CGGrid.png)
 
+Severity of Non Accidental Violence based on 
+the Degree of Culpability and Degree of Harm
+
 ##### **Documentation**
 
 Download [Classificaiton Guidelines]
@@ -32,7 +35,5 @@ Classification of severity is necessary for:
 
 
 
-##### **Methodology**
 
-
-![Pictures showing different developmental stages](/images/CGStages.png)
+![Picture of Consultations](/images/CG.png)
