@@ -16,7 +16,7 @@ the Degree of Culpability and Degree of Harm
 
 ##### **Documentation**
 
-Download [Classificaiton Guidelines]
+Download [Classification Guidelines]
 
 Download [Full Report]
 
