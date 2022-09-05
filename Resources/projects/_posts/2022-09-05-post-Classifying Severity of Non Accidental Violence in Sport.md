@@ -34,3 +34,5 @@ Classification of severity is necessary for:
 
 ##### **Methodology**
 
+
+![Pictures showing different developmental stages](/images/CGStages.png)
