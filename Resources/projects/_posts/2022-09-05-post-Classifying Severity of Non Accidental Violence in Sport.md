@@ -11,12 +11,25 @@ description: "Classification Guidelines for measuring the severity of sexual,
 
 
 
-
-**Documentation
-**
+##### **Documentation**
 
 Download [Classificaiton Guidelines]
 
 Download [Full Report]
 
-**Purpose**
+
+##### **Purpose**
+
+Classification of severity is necessary for:
+
+* recognising the psychological impact of non-accidental violence on affected parties;
+
+* introducing interventions such as provision of psychosocial support
+
+* raising awareness about the long-term effects non-accidental violence
+
+* supplementing disciplinary process  
+
+
+
+##### **Methodology**
