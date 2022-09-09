@@ -11,6 +11,9 @@ description: Resources for Member Organisations
 ### Other Educational Resources
 * Download IOC [Video on Consent In Sport ](https://app.frame.io/presentations/a8e9fa18-7ca5-4363-a433-cb77b6638b86) (for Athletes) - *Available subtitles in English, Chinese and Arabic*
 
+### Safe Sport Programme
+* Affiliate Guide*
+
 ### User Guides to Access Safe Sport Online Modules
 * [Athletes](/files/Athletes%20Safe%20Sport%20SportSG-ED%20User%20Guide.pdf)
 * [Coaches (NROC only)](/files/NROC%20Coaches%20Safe%20Sport%20SportSG-ED%20User%20Guide.pdf)
