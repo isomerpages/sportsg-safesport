@@ -9,7 +9,7 @@ description: "Classification Guidelines for measuring the severity of sexual,
 *This webpage reflects the [ ] the Commission cannot be held responsible for any use which may be made of the information contained therein.]*
 
 
-![Picture of Graph with two Axis](/images/CGGrid.png)
+![](/images/CG%20Grid.png)
 
 
 The Safe Sport Commission has developed a Classification Guidelines for detemining the severity of non-accidental in sport.
