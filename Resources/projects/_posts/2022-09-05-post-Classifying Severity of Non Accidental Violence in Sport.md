@@ -21,7 +21,7 @@ Severity is measured based on the degree of culpability relating to abusive beha
 
 Download [Classification Guidelines]
 
-Download [Full Report]
+Download [Full Report](/files/Guidelines%20for%20the%20Classification%20of%20Severity%20of%20Non-accidental%20Violence%20in%20Sport.pdf)
 
 
 ##### **Purpose**
