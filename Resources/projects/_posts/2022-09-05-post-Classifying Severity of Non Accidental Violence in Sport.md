@@ -6,13 +6,14 @@ layout: post
 description: "Classification Guidelines for measuring the severity of sexual,
   physical and psychological abuse in sport "
 ---
-*This webpage reflects the [ ] the Commission cannot be held responsible for any use which may be made of the information contained therein.]*
+*This webpage reflects the [ ] 
+<br> The Commission cannot be held responsible for any use which may be made of the information contained therein.*
 
 
 ![](/images/CG%20Grid.png)
 
 
-The Safe Sport Commission has developed a Classification Guidelines for detemining the severity of non-accidental in sport.
+The Safe Sport Commission has developed a set of Classification Guidelines for detemining the severity of non-accidental violence in sport.
 
 Severity is measured based on the degree of culpability relating to abusive behaviour and degree of harm caused to the affected party. 
 
