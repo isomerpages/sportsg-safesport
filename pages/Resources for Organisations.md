@@ -10,7 +10,7 @@ description: Resources for Member Organisations
 
 
 #### Other Educational Resources
-* International Olympic Committeee [Video on Consent In Sport ](https://app.frame.io/presentations/a8e9fa18-7ca5-4363-a433-cb77b6638b86) (**for Athletes**) - *Available subtitles in English, Chinese and Arabic*
+*  [Consent In Sport ](https://app.frame.io/presentations/a8e9fa18-7ca5-4363-a433-cb77b6638b86) by the International Olympic Committee (**for Athletes**) - *Available subtitles in English, Chinese and Arabic*
 
 
 #### Online Trauma Self-Assessment
