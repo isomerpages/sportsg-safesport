@@ -25,7 +25,7 @@ The tools can be used as a brief screen to identify levels of distress in adults
 
 
 #### Safe Sport Programme
-* [Affiliate Guide](/files/SAFE%20SPORT%20PROGRAMME%20FOR%20AFFILIATE%20MEMBERS%20FINAL.pdf) (**for organisations**)
+* [Affiliate Guide](/files/SAFE%20SPORT%20PROGRAMME%20FOR%20AFFILIATE%20MEMBERS%20FINAL.pdf) (for organisations)
 
 
 
