@@ -17,7 +17,8 @@ description: Resources for Member Organisations
 
 The tools can be used as a brief screen to identify levels of distress in adults and children.
 
-*Please note that these are NOT adiagnostic tools. If you have any concerns about yourself or your loved ones, please seek professional support.*
+*Please note that these are NOT diagnostic tools. If you have any concerns about yourself or your loved ones, please seek professional support.*
+
 *   [K10 Psychological Distress Scale](https://www.beyondblue.org.au/the-facts/anxiety-and-depression-checklist-k10) (for adults or parents)
 * [CTQ PTSD Screen](https://www.ementalhealth.ca/index.php?m=survey&ID=31%29) (for children aged 7 to 16 yrs old)
 
