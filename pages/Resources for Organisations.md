@@ -4,13 +4,14 @@ permalink: /resources/
 description: Resources for Member Organisations
 ---
 #### General Safe Sport Awareness 
-*  Types of Abuse and Harrassment in the Sporting Environment  (Info Sheet/Slides)
-*  Creating Safe Sporting Environments  (Info Sheet/Slides)
+*  [Types of Abuse and Harrassment](/files/Types%20of%20Safe%20Sport%20Misconduct.pdf)  (Info Sheet/Slides)
+*  [Creating a Safe Sporting Environements](/files/Creating%20a%20Safe%20Sporting%20Environment.pdf)  (Info Sheet/Slides)
 *  Safe Sport Unified Code (Poster Up to B3 size)
 
 
 #### Other Educational Resources
-*  [Consent In Sport ](https://app.frame.io/presentations/a8e9fa18-7ca5-4363-a433-cb77b6638b86) by the International Olympic Committee (**for Athletes**) - *Available subtitles in English, Chinese and Arabic*
+*For Athletes*
+*  [Consent In Sport ](https://app.frame.io/presentations/a8e9fa18-7ca5-4363-a433-cb77b6638b86) by the International Olympic Committee (Video) - *Available subtitles in English, Chinese and Arabic*
 
 
 #### Online Trauma Self-Assessment
