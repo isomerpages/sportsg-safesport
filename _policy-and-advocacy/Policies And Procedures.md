@@ -6,29 +6,23 @@ description: ""
 #####  What is a safeguarding policy?
 
 A safeguarding policy is a best practice framework for your organisation to:
-*  **guide interactions** between all participants
-*  provide **clarity on responsibilities** persons in authority or in positions of trust
+*  **guide and set expectations for interactions**  of between all participants
+*  provide **clarity on responsibilities** for persons in authority or in positions of trust
 *  set **procedures for reporting and responding** to incidents 
+
 
 #####  Why is a safeguarding policy important for your organisation?
 
-Reflects good governance taht reflects rleadersg refers to the way an organisation is run and makes decisions including:
+Having a safeguarding policy reflects on an organisation's commitment to: 
+* protecting the core values of sport 
+* good governance 
 
-*   The systems, processes, policies, controls and authorities they have in place.
-*   How the people that lead the organisation are held to account about the direction they set and the decisions they make.
 
-##### Member organisations may adopt these policies and procedures into their organisational policies, contracts for services and employment terms:
+#####  Benefits to having a safeguarding policy
 
-<br>
+*   fostering a welcoming and inclusive environement that meets people’s needs
+*   managing and controlling risks
+*   having robust and reliable systems, processes, and policies in place.
+*   improving your efficiency, giving you more time to focus on core activities  having open and transparent reporting and decision-making processes
+*   building the confidence of participants, sponsors, employees and stakeholders
 
-* Recruitment Policy
-* Travel Policy
-* One-on-One Interactions
-* Massage and Rubdowns
-* Social Media, Mobile and Electronic Communications Policy
-* Changing Room Policy
-* Safe Sport Training & Education Policy
-* Intimate relationships policy
-<br>
-
-> [Safe Sport Policy Template](/files/Template%20Safe%20Sport%20Policy.pdf)
