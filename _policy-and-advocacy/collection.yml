@@ -3,3 +3,4 @@ collections:
     output: true
     order:
       - Policies And Procedures.md
+      - Policy Resources.md
