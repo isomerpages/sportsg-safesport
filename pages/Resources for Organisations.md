@@ -5,7 +5,7 @@ description: Resources for Member Organisations
 ---
 #### General Safe Sport Awareness 
 *  [Types of Abuse and Harrassment](/files/Types%20of%20Safe%20Sport%20Misconduct.pdf)  (Info Sheet/Slides)
-*  [Creating a Safe Sporting Environements](/files/Creating%20a%20Safe%20Sporting%20Environment.pdf)  (Info Sheet/Slides)
+*  [Creating a Safe Sporting Environment](/files/Creating%20a%20Safe%20Sporting%20Environment.pdf)  (Info Sheet/Slides)
 *  Safe Sport Unified Code (Poster Up to B3 size)
 
 
