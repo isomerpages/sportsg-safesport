@@ -25,5 +25,6 @@ participation as a consequence for engaging in Misconduct.</li>
 
 <br> 
 
-> [Safe Sport Programme Handbook](/files/Safe%20Sport%20Programme%20Handbook%20101.pdf)
+Find out more here 
 
+> [Safe Sport Programme Handbook](/files/Safe%20Sport%20Programme%20Handbook%20101.pdf)
