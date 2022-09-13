@@ -47,10 +47,9 @@ Resolution may take many forms and is specific to:
 * the severity of the Misconduct which is unique to the circumstances of each incident  
 
 
-[Safe Sport Programme Handbook](/files/Safe%20Sport%20Programme%20Handbook%20101.pdf) 
+> [Safe Sport Programme Handbook](/files/Safe%20Sport%20Programme%20Handbook%20101.pdf) 
 
 Clear process and procedures are set out in the rules of the Safe Sport Programme Handbook which include:
 * timelines and procedures to ensure due process for all parties
 * a decision-making framework
 * independent adjudication by a Safe Sport Disciplinary Panel, where the severity of the Misconduct is moderate or severe
-
