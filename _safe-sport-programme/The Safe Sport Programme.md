@@ -23,8 +23,4 @@ investigation of reports of concern, a decision-making framework for the determi
 <li><b>Sanctions</b> – appropriate limitations, conditions, suspensions or denial of the privilege of
 participation as a consequence for engaging in Misconduct.</li>
 
-<br> 
-
-Find out more here 
-
-> [Safe Sport Programme Handbook](/files/Safe%20Sport%20Programme%20Handbook%20101.pdf)
+<br> Contact us at contact@safesport.sg to find out how to become a Member Organisation or Affiliate.
