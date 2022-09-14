@@ -8,7 +8,7 @@ Safeguarding officers are personnel appointed by sporting organisations in Singa
 
 It is mandatory for all officers to undergo a [Safeguarding Officer training](/training-and-education/so-training) and to pass the assessment to be deemed competent. 
 
-Safeguarding officers can download the [Triaging Form](https://go.gov.sg/triagingform) to guide them on the most appropriate decision following a report of concern. 
+Upon receiving a report of concern, Safeguarding Officers can use the  [Triaging Form](https://go.gov.sg/triagingform)  to guide them on the most appropriate decision.
 
 ![Alt text for image on Isomer site](/images/Safeguarding%20roles_high_res.png)
 
