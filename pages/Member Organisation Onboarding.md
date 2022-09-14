@@ -22,6 +22,6 @@ These are all the documents your organisations will need to help you ensure it p
 
 | **Other Documents** | Download | 
 | -------- | -------- | 
-| Safe Sport Policy Template    | [Safe Sport Policy ](/files/Safe%20Sport%20Policy%20Template.pdf)     |
+| Safe Sport Policy Template    | [](/files/Safe%20Sport%20Policy%20Template.pdf)     |
 | Risk Assessment Tool   | [Assessment Tool](https://go.gov.sg/riskassessment)    | 
 | Guide to the Safe Sport Programme for NSAs (November 2021)  | [](/files/NSA%20Guide%20to%20the%20Safe%20Sport%20Programme.pdf)    |
