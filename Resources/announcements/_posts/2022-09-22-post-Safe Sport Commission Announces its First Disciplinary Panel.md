@@ -6,13 +6,12 @@ layout: post
 description: Members of First Safe Sport Disciplinary Panel Announced
 image: ""
 ---
+![Disciplinary Panel Training](/images/DisciplinaryPanel.jpg)
+
 The Safe Sport Commission today announced its first Safe Sport Disciplinary Panel to hear, resolve and adjudicate safe sport reports and violations for member organisations under the Safe Sport Programme.
 
 Since the Safe Sport Commission was established in 2019, it has laid foundations for the Safe Sport Programme in areas such as training and education, policymaking and advocacy, and partners engagement. Last November, it launched the Safe Sport Unified Code, the cornerstone of the Safe Sport Programme that sets out the community agreed standards of misconduct which may take place in the sporting environment. Consultations with the sporting fraternity are also being held regularly, to ensure a community-driven framework that is applicable to the Singapore sporting landscape, as well as a fair and consistent approach when managing cases of misconduct. The Safe Sport Disciplinary Panel is a further development of the Programme and part of its phased approach to roll out the Safe Sport Programme over the next three years.
 
-![Disciplinary Panel Training](/images/DisciplinaryPanel.jpg)
-
-<br>
 
 > "Now, with the establishment of the Disciplinary Panel, we have created an independent channel for resolution to ensure cases will be handled fairly. ”
 
@@ -34,7 +33,10 @@ A decision-making framework is in place to guide the Safe Sport Commission and D
 
 Since April 2022, the Safe Sport Commission has begun to roll out the Safe Sport Programme to the sporting fraternity. This onboarding process is being done progressively, starting with a comprehensive outreach to the National Sports Associations (NSAs) to establish important policies covering sporting activities, training sessions and competitions, and is targeted to be completed by first quarter of 2023. Pilot programmes with commercial sport programme providers are also underway. Following that, the Safe Sport Commission will conduct its outreach to various organisations to assimilate the larger sporting community with the Unified Code. There are also plans to develop design guidelines to assist facility providers in developing safe sporting spaces which give consideration for entrapment areas or blind spots.
 
-### Legal members
+
+### Safe Sport Disciplinary Panel 
+
+#### Legal members
 
 *   Molly Lim (chair, senior counsel)
 *   Paul Sandosham (partner, Clifford Chance Asia)
@@ -42,7 +44,7 @@ Since April 2022, the Safe Sport Commission has begun to roll out the Safe Sport
 *   Just Wang (lead counsel, IP and Content at Meta)
 *   Edward Tiong (partner, Allen & Gledhill)
 
-### Ordinary members
+#### Ordinary members
 
 *   Ng Mui Kim (former police superintendent)
 *   Koh Jian Ying (national water polo player and legal counsel, Avnet Asia)
