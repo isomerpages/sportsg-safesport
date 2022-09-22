@@ -36,5 +36,5 @@ Since April 2022, the Safe Sport Commission has begun to roll out the Safe Sport
 
 See Decisoin Making Framework
 
-
+[Athletes, coaches and lawyers for Safe Sport Commission's first disciplinary panel | The Straits Times](https://www.straitstimes.com/sport/athletes-coaches-and-lawyers-for-safe-sport-commissions-first-disciplinary-panel)
 
