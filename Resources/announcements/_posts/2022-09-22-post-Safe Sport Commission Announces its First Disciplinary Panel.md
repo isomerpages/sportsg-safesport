@@ -39,6 +39,6 @@ Since April 2022, the Safe Sport Commission has begun to roll out the Safe Sport
 
 **Press Coverage**:
 
-[Athletes, coaches and lawyers for Safe Sport Commission's first disciplinary panel The Straits Times](https://www.straitstimes.com/sport/athletes-coaches-and-lawyers-for-safe-sport-commissions-first-disciplinary-panel) 
+The Straits Times - [Athletes, coaches and lawyers for Safe Sport Commission's first disciplinary panel](https://www.straitstimes.com/sport/athletes-coaches-and-lawyers-for-safe-sport-commissions-first-disciplinary-panel) 
 
-[Disciplinary panel formed to tackle abuse, harassment in Singapore sports | Channel News Asia](https://www.channelnewsasia.com/watch/disciplinary-panel-formed-tackle-abuse-harassment-singapore-sports-video-2929901)
+Channel News Asia - [Disciplinary panel formed to tackle abuse, harassment in Singapore sports](https://www.channelnewsasia.com/watch/disciplinary-panel-formed-tackle-abuse-harassment-singapore-sports-video-2929901)
