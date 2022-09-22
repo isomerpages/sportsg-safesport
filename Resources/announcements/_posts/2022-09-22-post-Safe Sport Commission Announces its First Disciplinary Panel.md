@@ -34,6 +34,30 @@ A decision-making framework is in place to guide the Safe Sport Commission and D
 
 Since April 2022, the Safe Sport Commission has begun to roll out the Safe Sport Programme to the sporting fraternity. This onboarding process is being done progressively, starting with a comprehensive outreach to the National Sports Associations (NSAs) to establish important policies covering sporting activities, training sessions and competitions, and is targeted to be completed by first quarter of 2023. Pilot programmes with commercial sport programme providers are also underway. Following that, the Safe Sport Commission will conduct its outreach to various organisations to assimilate the larger sporting community with the Unified Code. There are also plans to develop design guidelines to assist facility providers in developing safe sporting spaces which give consideration for entrapment areas or blind spots.
 
+### Legal members
+
+*   Molly Lim (chair, senior counsel)
+*   Paul Sandosham (partner, Clifford Chance Asia)
+*   Spring Tan (partner, Withers KhattarWong LLP)
+*   Just Wang (lead counsel, IP and Content at Meta)
+*   Edward Tiong (partner, Allen & Gledhill)
+
+### Ordinary members
+
+*   Ng Mui Kim (former police superintendent)
+*   Koh Jian Ying (national water polo player and legal counsel, Avnet Asia)
+*   P Sivakumar (Asian Football Confederation and Fifa match commissioner)
+*   Melanie Martens (former national hockey player)
+*   Pearline Chan (former national netball captain)
+*   Ruth Ng (former national fencer)
+*   Nicholas Paul De Cruz (former sailing coach)
+*   Desmond Tong (former para athlete - archery, athletics)
+*   Natalie Tan (former national equestrienne)
+*   Adnan Omar (head of department of physical education and co-curricular activities, Sin Ming Primary School)
+*   Nur Aini Yasli (national para powerlifter)
+*   Taufeek Ramlan (PE teacher, Changkat Primary)
+*   Qua Bi Qi (former national runner)
+
 
 [Safe Sport Programme - Decision Making Framework](/files/Decision%20Making%20Framework%20from%20Safe%20Sport%20Programme%20Handbook.pdf)
 
