@@ -34,7 +34,8 @@ A decision-making framework is in place to guide the Safe Sport Commission and D
 Since April 2022, the Safe Sport Commission has begun to roll out the Safe Sport Programme to the sporting fraternity. This onboarding process is being done progressively, starting with a comprehensive outreach to the National Sports Associations (NSAs) to establish important policies covering sporting activities, training sessions and competitions, and is targeted to be completed by first quarter of 2023. Pilot programmes with commercial sport programme providers are also underway. Following that, the Safe Sport Commission will conduct its outreach to various organisations to assimilate the larger sporting community with the Unified Code. There are also plans to develop design guidelines to assist facility providers in developing safe sporting spaces which give consideration for entrapment areas or blind spots.
 
 
-See Decisoin Making Framework
+Safe Sport Programme - Decision Making Framework
 
-[Athletes, coaches and lawyers for Safe Sport Commission's first disciplinary panel | The Straits Times](https://www.straitstimes.com/sport/athletes-coaches-and-lawyers-for-safe-sport-commissions-first-disciplinary-panel)
+[Athletes, coaches and lawyers for Safe Sport Commission's first disciplinary panel | The Straits Times](https://www.straitstimes.com/sport/athletes-coaches-and-lawyers-for-safe-sport-commissions-first-disciplinary-panel) 
 
+[Disciplinary panel formed to tackle abuse, harassment in Singapore sports | Channel News Asia](https://www.channelnewsasia.com/watch/disciplinary-panel-formed-tackle-abuse-harassment-singapore-sports-video-2929901)
