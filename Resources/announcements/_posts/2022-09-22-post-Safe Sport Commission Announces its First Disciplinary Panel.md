@@ -10,9 +10,11 @@ The Safe Sport Commission today announced its first Safe Sport Disciplinary Pane
 
 Since the Safe Sport Commission was established in 2019, it has laid foundations for the Safe Sport Programme in areas such as training and education, policymaking and advocacy, and partners engagement. Last November, it launched the Safe Sport Unified Code, the cornerstone of the Safe Sport Programme that sets out the community agreed standards of misconduct which may take place in the sporting environment. Consultations with the sporting fraternity are also being held regularly, to ensure a community-driven framework that is applicable to the Singapore sporting landscape, as well as a fair and consistent approach when managing cases of misconduct. The Safe Sport Disciplinary Panel is a further development of the Programme and part of its phased approach to roll out the Safe Sport Programme over the next three years.
 
-> "Now, with the establishment of the Disciplinary Panel, we have created an independent channel for resolution to ensure cases will be handled fairly. ”<br>
-> -*Mr Edwin Tong, Minister for Culture, Community and Youth & Second Minister for Law*
+![Disciplinary Panel Training](/images/DisciplinaryPanel.jpg)
 
+<br>
+
+> "Now, with the establishment of the Disciplinary Panel, we have created an independent channel for resolution to ensure cases will be handled fairly. ”
 
 Mr Edwin Tong, Minister for Culture, Community and Youth & Second Minister for Law, said, “Everyone should be able to participate in sports in a safe space, free from harassment and abuse. The Safe Sport Programme demonstrates not just the government’s commitment, but also the sporting fraternity’s promise to protect this space. When we launched the Unified Code in November 2021, we set out the community-agreed standards of misconduct in sport.  Now, with the establishment of the Disciplinary Panel, we have created an independent channel for resolution to ensure cases will be handled fairly. Our quest for safe sport does not end here. We will continue working with the community to build a home where all of us can enjoy sport and share great sporting moments together.”
 
@@ -21,8 +23,7 @@ The Safe Sport Disciplinary Panel comprises independent individuals appointed by
 
 
 
-> "Within its ambit, the Disciplinary Panel plays a critical role in assessing allegations, establishing facts and taking appropriate actions where necessary. It is important that all affected parties are given a fair hearing while considering the bearing on the people involved and the sport community at large” <br>
->   *-Ms Molly Lim*.
+> "Within its ambit, the Disciplinary Panel plays a critical role in assessing allegations, establishing facts and taking appropriate actions where necessary. It is important that all affected parties are given a fair hearing while considering the bearing on the people involved and the sport community at large” 
 
 
 “All of us know the values of sport and how it contributes to better living. Safe Sport is an initiative that allows our people to engage and enjoy sports without any fear of abuse.ithin its ambit, the Disciplinary Panel plays a critical role in assessing allegations, establishing facts and taking appropriate actions where necessary. It is important that all affected parties are given a fair hearing while considering the bearing on the people involved and the sport community at large,” said Ms Molly Lim.
@@ -38,6 +39,6 @@ Since April 2022, the Safe Sport Commission has begun to roll out the Safe Sport
 
 **Press Coverage**:
 
-[Athletes, coaches and lawyers for Safe Sport Commission's first disciplinary panel | The Straits Times](https://www.straitstimes.com/sport/athletes-coaches-and-lawyers-for-safe-sport-commissions-first-disciplinary-panel) 
+[Athletes, coaches and lawyers for Safe Sport Commission's first disciplinary panel The Straits Times](https://www.straitstimes.com/sport/athletes-coaches-and-lawyers-for-safe-sport-commissions-first-disciplinary-panel) 
 
 [Disciplinary panel formed to tackle abuse, harassment in Singapore sports | Channel News Asia](https://www.channelnewsasia.com/watch/disciplinary-panel-formed-tackle-abuse-harassment-singapore-sports-video-2929901)
