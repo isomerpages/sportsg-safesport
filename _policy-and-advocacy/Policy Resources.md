@@ -5,7 +5,6 @@ description: template policies for safeguarding in sport
 ---
 ##### Member organisations may adopt these policies and procedures into their organisational policies, contracts for services and employment terms:
 
-<br>
 
 * Recruitment Policy
 * Travel Policy
