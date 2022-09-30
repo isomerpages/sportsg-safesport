@@ -2,7 +2,7 @@ collections:
   policy-and-advocacy:
     output: true
     order:
-      - Safe Recruitment.md
       - Policies And Procedures.md
       - Policy Resources.md
       - Assessing Risks.md
+      - Safe Recruitment.md
