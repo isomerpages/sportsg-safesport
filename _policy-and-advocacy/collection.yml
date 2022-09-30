@@ -2,6 +2,6 @@ collections:
   policy-and-advocacy:
     output: true
     order:
-      - Assessing Risks.md
       - Policies And Procedures.md
       - Policy Resources.md
+      - Assessing Risks.md
