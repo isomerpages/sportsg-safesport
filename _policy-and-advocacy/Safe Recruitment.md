@@ -6,7 +6,7 @@ description: ""
 #### Ensuring Safe Recruitment Processes
 People who work or volunteer in your organisation have the responsibility to ensure and promote a safe sporting environment for all participants, especially Vulnerable Persons. 
 
-This is only possible if the people recruited are qualified  and suitable
+This is only possible if the people recruited are qualified  and suitable.
 
 #### Role of Organisations 
 As an organisation, your role is to ensure an effective recruitment and selection process for staff and/or volunteers.
