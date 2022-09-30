@@ -16,6 +16,7 @@ In the context of Safe Sport, risk refers to the likelihood of a [Misconduct](ww
 
 
 #### Why is Risk Assessment and Management important for your organisation?
+
 * builds the confidence of participants, sponsors, employees and stakeholders
 * reduces
  the potential for liability by the organisation
@@ -23,4 +24,4 @@ In the context of Safe Sport, risk refers to the likelihood of a [Misconduct](ww
  
  
 #### Download the Organisational Risk Assessment 
->[Risk Assessment](https://go.gov.sg/riskassessment)
+>[Risk Assessment Tool](https://go.gov.sg/riskassessment)
