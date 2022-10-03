@@ -5,7 +5,7 @@ description: ""
 ---
 #### What is Risk Assessment and Management?
 
-In the context of Safe Sport, risk refers to the likelihood of a [Misconduct](safe-sport-programme/unified-code) occurring in the sporting community. 
+In the context of Safe Sport, risk refers to the likelihood of a [Misconduct](/safe-sport-programme/unified-code) occurring in the sporting community. 
 
 **Risk assessment** involves:
 * Identifying risk factors that can lead to a Misconduct
