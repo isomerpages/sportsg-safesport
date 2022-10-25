@@ -10,7 +10,8 @@ An independent case management service is available to Member Organisations of t
 
 ![](/images/QuickGuideResponseandResolution.png)
 
-[Overview of Response and Resolution Process](/files/Response%20and%20Resolution%20Process%20Final%2029June%20WSI.pdf)
+
+[Overview of Response and Resolution Process](/files/Response%20and%20Resolution%20Process%20Final25Oct.pdf)
 
 
 This helps to relieve the administrative burden on organisations and gives assurance to affected parties and respondents that reports will be managed fairly and independently.
