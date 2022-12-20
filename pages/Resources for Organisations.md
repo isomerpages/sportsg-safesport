@@ -34,3 +34,8 @@ The tools can be used as a brief screen to identify levels of distress in adults
 * [Coaches (NROC only)](/files/NROC%20Coaches%20Safe%20Sport%20SportSG-ED%20User%20Guide.pdf)
 * [Parents](/files/Parents%20Safe%20Sport%20SportSG-ED%20User%20Guide.pdf)
 * [Sport Administrators](/files/Sport%20Admin%20Safe%20Sport%20SportSG-ED%20User%20Guide.pdf)
+
+
+
+#### Safeguarding Officer Pulse Survey
+[2020 Pulse Survey Results](/files/2020%20Safeguarding%20Officer%20Pulse%20Survey.pdf)
