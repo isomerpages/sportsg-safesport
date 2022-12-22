@@ -15,7 +15,7 @@ description: "Classification Guidelines for measuring the severity of sexual,
 ![](/images/CG%20Grid.png)
 
 
-Severity is measured based on the degree of culpability relating to abusive behaviour and degree of harm caused to the affected party. 
+Severity and/or seriousness is measured based on the degree of culpability relating to abusive behaviour and degree of harm caused to the affected party. 
 
 
 ##### **Documentation**
@@ -45,6 +45,6 @@ When “fault” is objectively measured and harm caused is recognised, this not
 ![Picture of Consultations](/images/CG.png)
 
 
-This is a working document which the Safe Sport Commission will regularly seek views on as the information and research in this space develops.
+This is a working document which the Safe Sport Commission will regularly update and seek views on as the information and research in this space develops.
 
-If you wish to find out more or contribute to our efforts please email contact@safesport.sg. 
+If you wish to find out more or contribute to our efforts please email contact@safesport.sg.
