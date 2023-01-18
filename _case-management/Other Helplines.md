@@ -1,6 +1,6 @@
 ---
 title: Other Helplines
-permalink: /case-management/other-helplines
+permalink: /case-management/other-helplines/
 description: ""
 ---
 #### If you need help or feel unsure about an encounter, you can reach out to:
@@ -31,3 +31,4 @@ description: ""
 #### Other Useful Resources or Support for Reporting
 * [Reporting Helpline](/files/Other%20Useful%20Resources%20for%20Reporting-updated%20Mar%202021.pdf)
 * National Sports Associations [Contact Details](https://www.myactivesg.com/Sports/Find-a-National-Sports-Association)
+* [Find your nearest Family Service Centre](https://www.msf.gov.sg/dfcs/familyservice/default.aspx) 
