@@ -2,8 +2,8 @@ collections:
   about:
     output: true
     order:
-      - Member Organisations.md
       - Our Work.md
       - Safe Sport Commission Members.md
+      - Member Organisations.md
       - History.md
       - Newsletter.md
