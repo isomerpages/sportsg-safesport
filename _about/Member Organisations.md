@@ -5,9 +5,7 @@ description: ""
 ---
 What does it mean to be a member organisation? What will you find within the Safe Sport Page on their websites? Contact details of SO?
 
-*   Fencing Singapore
-
-
+*   Fencing Singapore [![](/images/logos/SSCS_PANTONE_H_Blue.png)](https://www.fencingsingapore.org.sg/safe-sport/#)
     
 *   Sport Boules Singapore
     
@@ -24,6 +22,3 @@ What does it mean to be a member organisation? What will you find within the Saf
 *   Singapore Shooting Association
     
 *   Singapore Table Tennis Association
-    
-
-**
