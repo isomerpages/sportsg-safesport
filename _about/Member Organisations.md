@@ -5,7 +5,10 @@ description: ""
 ---
 ##### What does it mean to be a member? 
 
- Member organisations have been fully onboarded to the Safe Sport Programme. Working together with Safe Sport, these organisations have undergone a risk assessment to develop a sport-specific Safe Sport policy. Find your sport's policy and other Safe Sport resources by clicking the links below.
+ Member organisations have been fully onboarded to the Safe Sport Programme. Working together with Safe Sport, these organisations have undergone a risk assessment to develop a sport-specific Safe Sport policy. 
+
+##### List of member organisations
+Find your sport's policy and other Safe Sport resources by clicking the links below.
 
 
 
