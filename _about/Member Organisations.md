@@ -3,23 +3,26 @@ title: Member Organisations
 permalink: /about/MemberOrganisations/
 description: ""
 ---
-What does it mean to be a member organisation? What will you find within the Safe Sport Page on their websites? Contact details of SO?
+##### What does it mean to be a member? 
 
-Fencing Singapore
-[![(/images/logos/SSCS_PANTONE_H_Blue.png)](https://www.fencingsingapore.org.sg/safe-sport/#)]
+ Member organisations have been fully onboarded to the Safe Sport Programme. Working together with Safe Sport, these organisations have undergone a risk assessment to develop a sport-specific Safe Sport policy. Find your sport's policy and other Safe Sport resources by clicking the links below.
+
+
+
+* [Fencing Singapore](https://www.fencingsingapore.org.sg/safe-sport/#)
     
-Sport Boules Singapore
+* [Sport Boules Singapore](https://www.sportsboules.org.sg/our-polices)
     
-*   Singapore Cycling Association
+*   [Singapore Cycling Association](https://singaporecycling.org.sg/pages/safe-sport-commitment)
     
-*   Singapore Esports Federation
+*   [Singapore Esports Federation](https://esports.org.sg/policies-and-handbooks/)
     
-*   Singapore Gymnastics
+*   [Singapore Gymnastics](https://www.singaporegymnastics.org.sg/safe-sport/)
     
-*   Singapore Hockey Federation
+*   [Singapore Hockey Federation](https://www.singaporehockey.org/resources/shf-safe-sport-policy/)
     
-*   Singapore Judo Association
+*   [Singapore Judo Association](https://www.sjf.sg/safesport)
     
-*   Singapore Shooting Association
+*   [Singapore Shooting Association](https://singaporeshooting.org/portal/hi-performance-2/singapore-shooting-association-safe-sport-policy/)
     
-*   Singapore Table Tennis Association
+*   [Singapore Table Tennis Association](https://www.stta.org.sg/about-us/policies/)
