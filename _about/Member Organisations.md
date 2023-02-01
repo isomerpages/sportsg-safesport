@@ -12,7 +12,7 @@ Find your sport's policy and other Safe Sport resources by clicking the links be
 
 <div class="row">
 	<div class="col-sm-12 col-md-6 col-lg-4 p-2 m-2 text-center">
-		<img src="/images/logos/Blue%20Pic%20Only.png" width="80%" >
+		<img src="/images/logos/Blue%20Pic%20Only.png" width="30%" >
 		<a href="https://www.sportsboules.org.sg/our-polices" target="_blank">Fencing Singapore</a>	
 	</div>
 	<div class="col-sm-12 col-md-6 col-lg-4 p-2 m-2 text-center">
@@ -42,4 +42,3 @@ Find your sport's policy and other Safe Sport resources by clicking the links be
 	<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30%" ></td><td><a href="https://www.sportsboules.org.sg/our-polices" target="_blank">Fencing Singapore</a></td></tr>
 	<tr><td><img src="/images/logos/SSCS_PANTONE_V_Black.png" width="30%" ></td><td><a href="https://www.sportsboules.org.sg/our-polices" target="_blank">Sport Boules Singapore</a></td></tr>
 </table>
-
