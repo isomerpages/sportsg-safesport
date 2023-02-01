@@ -34,12 +34,12 @@ Find your sport's policy and other Safe Sport resources by clicking the links be
 
 </div>
 <br>
-
-
-<table>
-	<tr><td width="30%"><img src="/images/logos/Blue%20Pic%20Only.png" width="80%" ></td><td><a href="https://www.sportsboules.org.sg/our-polices" target="_blank">Fencing Singapore</a></td></tr>
-	<tr><td width="30%"><img src="/images/logos/SSCS_PANTONE_V_Black.png" width="80%" ></td><td><a href="https://www.sportsboules.org.sg/our-polices" target="_blank">Sport Boules Singapore</a></td></tr>
+<style>
+	td {border-style:none !important}
+</style
+<p>YTAVLE</p>
+<table >
+	<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30%" ></td><td><a href="https://www.sportsboules.org.sg/our-polices" target="_blank">Fencing Singapore</a></td></tr>
+	<tr><td><img src="/images/logos/SSCS_PANTONE_V_Black.png" width="30%" ></td><td><a href="https://www.sportsboules.org.sg/our-polices" target="_blank">Sport Boules Singapore</a></td></tr>
 </table>
 
-<br>
-<hr>
