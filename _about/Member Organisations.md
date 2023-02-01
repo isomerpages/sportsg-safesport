@@ -39,8 +39,8 @@ TABLE
 
 
 <table>
-	<tr><td width="30%"><img src="/images/logos/Blue%20Pic%20Only.png" width="80%" ><td><a href="https://www.sportsboules.org.sg/our-polices" target="_blank">Fencing Singapore</a></td><tr>
-	<tr><td width="30%"><img src="/images/logos/SSCS_PANTONE_V_Black.png" width="80%" ><td><a href="https://www.sportsboules.org.sg/our-polices" target="_blank">Sport Boules Singapore</a></td><tr>
+	<tr><td width="30%"><img src="/images/logos/Blue%20Pic%20Only.png" width="80%" ></td><td><a href="https://www.sportsboules.org.sg/our-polices" target="_blank">Fencing Singapore</a></td></tr>
+	<tr><td width="30%"><img src="/images/logos/SSCS_PANTONE_V_Black.png" width="80%" ></td><td><a href="https://www.sportsboules.org.sg/our-polices" target="_blank">Sport Boules Singapore</a></td></tr>
 </table>
 
 * [Fencing Singapore](https://www.fencingsingapore.org.sg/safe-sport/#)
