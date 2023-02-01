@@ -34,8 +34,6 @@ Find your sport's policy and other Safe Sport resources by clicking the links be
 
 </div>
 <br>
-vghvgjhj
-TABLE
 
 
 <table>
@@ -43,20 +41,5 @@ TABLE
 	<tr><td width="30%"><img src="/images/logos/SSCS_PANTONE_V_Black.png" width="80%" ></td><td><a href="https://www.sportsboules.org.sg/our-polices" target="_blank">Sport Boules Singapore</a></td></tr>
 </table>
 
-* [Fencing Singapore](https://www.fencingsingapore.org.sg/safe-sport/#)
-    
-* [Sport Boules Singapore](https://www.sportsboules.org.sg/our-polices)
-    
-*   [Singapore Cycling Association](https://singaporecycling.org.sg/pages/safe-sport-commitment)
-    
-*   [Singapore Esports Federation](https://esports.org.sg/policies-and-handbooks/)
-    
-*   [Singapore Gymnastics](https://www.singaporegymnastics.org.sg/safe-sport/)
-    
-*   [Singapore Hockey Federation](https://www.singaporehockey.org/resources/shf-safe-sport-policy/)
-    
-*   [Singapore Judo Association](https://www.sjf.sg/safesport)
-    
-*   [Singapore Shooting Association](https://singaporeshooting.org/portal/hi-performance-2/singapore-shooting-association-safe-sport-policy/)
-    
-*   [Singapore Table Tennis Association](https://www.stta.org.sg/about-us/policies/)
+<br>
+<hr>
