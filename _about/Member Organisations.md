@@ -11,23 +11,23 @@ description: ""
 Find your sport's policy and other Safe Sport resources by clicking the links below.
 
 <div class="row">
-	<div class="col-sm-12 col-md-4 col-lg-3">
+	<div class="col-sm-12 col-md-6 col-lg-4">
 		<img src="/images/logos/Blue%20Pic%20Only.png" width="80%" >
 		<a href="https://www.sportsboules.org.sg/our-polices" target="_blank">Fencing Singapore</a>	
 	</div>
-	<div class="col-sm-12 col-md-4 col-lg-3">
+	<div class="col-sm-12 col-md-6 col-lg-4">
 		<img src="/images/logos/Blue%20Pic%20Only.png" width="80%" >
 		<a href="https://www.sportsboules.org.sg/our-polices" target="_blank">Fencing Singapore</a>	
 	</div>
-	<div class="col-sm-12 col-md-4 col-lg-3">
+	<div class="col-sm-12 col-md-6 col-lg-4">
 		<img src="/images/logos/Blue%20Pic%20Only.png" width="80%" >
 		<a href="https://www.sportsboules.org.sg/our-polices" target="_blank">Fencing Singapore</a>	
 	</div>
-	<div class="col-sm-12 col-md-4 col-lg-3">
+	<div class="col-sm-12 col-md-6 col-lg-4">
 		<img src="/images/logos/Blue%20Pic%20Only.png" width="80%" >
 		<a href="https://www.sportsboules.org.sg/our-polices" target="_blank">Fencing Singapore</a>	
 	</div>
-	<div class="col-sm-12 col-md-4 col-lg-3">
+	<div class="col-sm-12 col-md-6 col-lg-4">
 		<img src="/images/logos/Blue%20Pic%20Only.png" width="80%" >
 		<a href="https://www.sportsboules.org.sg/our-polices" target="_blank">Fencing Singapore</a>	
 	</div>
