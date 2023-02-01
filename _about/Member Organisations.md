@@ -36,12 +36,6 @@ Find your sport's policy and other Safe Sport resources by clicking the links be
 </div>
 <br>
 <p>TABLE</p>
-<style>
-	td {
-	border-style:none;
-	border:0px;
-	}
-</style>
 <table >
 	<tr><th style="width:30%"></th><th style="width:70%"></th>
 	<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px" ></td><td><a href="https://www.sportsboules.org.sg/our-polices" target="_blank">Fencing Singapore</a></td></tr>
