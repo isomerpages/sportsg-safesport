@@ -10,7 +10,14 @@ description: ""
 ##### List of member organisations
 Find your sport's policy and other Safe Sport resources by clicking the links below.
 
-
+<div class="row">
+	<div class="col-sm-12 col-md-4 col-lg-3">
+		<img src="/images/logos/Blue%20Pic%20Only.png">
+	</div>
+	<div class="col-sm-9 col-md-4 col-lg-9">
+		* [Fencing Singapore]
+	</div>
+</div>
 
 * [Fencing Singapore](https://www.fencingsingapore.org.sg/safe-sport/#)
     
