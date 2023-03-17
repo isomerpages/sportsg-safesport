@@ -68,7 +68,7 @@ Find your sport's policy and other Safe Sport resources by clicking the links be
 	<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px" ></td><td><a href="https://www.sportsboules.org.sg/our-polices" target="_blank">Wrestling Federation of Singapore</a></td></tr>
 	<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px" ></td><td><a href="https://www.sportsboules.org.sg/our-polices" target="_blank">Basketball  Association of Singapore</a></td></tr>
 	<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px" ></td><td><a href="https://www.sportsboules.org.sg/our-polices" target="_blank">Singapore Baseball and Softball Association</a></td></tr>
-	<tr><td><img src="/images/SCA%20Logo.png" width="30px" ></td><td><a href="https://www.sportsboules.org.sg/our-polices" target="_blank">Singapore Cricket Association</a></td></tr>
+	<tr><td><img src="/images/high%20res%20SCA%20Logo.png" width="30px" ></td><td><a href="https://www.sportsboules.org.sg/our-polices" target="_blank">Singapore Cricket Association</a></td></tr>
 	<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px" ></td><td><a href="https://www.sportsboules.org.sg/our-polices" target="_blank">Handball Federation of Singapore</a></td></tr>
 	<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px" ></td><td><a href="https://www.sportsboules.org.sg/our-polices" target="_blank">Singapore Hockey Federation</a></td></tr>
 	<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px" ></td><td><a href="https://www.sportsboules.org.sg/our-polices" target="_blank">Singapore Squash Rackets Association</a></td></tr>
