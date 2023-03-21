@@ -11,7 +11,6 @@ These organisations have adopted:
  
 ##### List of member organisations
 	
-<p></p>
 <table>
 	<tr><th style="width:30%"></th><th style="width:70%"></th>
 	<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px" ></td><td><a href="[Singapore Swimming Association - Safe Aquatics](https://swimming.org.sg/Safe-Aquatics.aspx)" target="_blank">Singapore Swimming Association</a></td></tr>
