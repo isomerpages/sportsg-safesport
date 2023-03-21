@@ -5,8 +5,10 @@ description: ""
 ---
 ##### What does it mean to be a member? 
 
- Member organisations have been fully onboarded to the Safe Sport Programme. Working together with Safe Sport, these organisations have undergone a risk assessment to develop a sport-specific Safe Sport policy. 
-
+These organisations have adopted:  
+* the Safe Sport Unified Code;  
+* the mechanisms for response and resolution for handling allegations of misconduct as set out in the Safe Sport Programme Handbook
+ 
 ##### List of member organisations
 Find your sport's policy and other Safe Sport resources by clicking the links below.
 
