@@ -7,7 +7,7 @@ description: ""
 
 These organisations have adopted:  
 * the Safe Sport Unified Code;  
-* the mechanisms for response and resolution for handling allegations of misconduct as set out in the Safe Sport Programme Handbook
+* the mechanisms for response and resolution for handling allegations of misconduct as set out in the Safe Sport Programme Handbook.
  
 ##### List of member organisations
 <table>
