@@ -11,7 +11,6 @@ These organisations have adopted:
  
 ##### List of member organisations
 	
-</div>
 <br>
 <p></p>
 <table >
