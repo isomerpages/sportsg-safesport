@@ -10,37 +10,10 @@ These organisations have adopted:
 * the mechanisms for response and resolution for handling allegations of misconduct as set out in the Safe Sport Programme Handbook
  
 ##### List of member organisations
-Find your sport's policy and other Safe Sport resources by clicking the links below.
-
-
-<div class="row">
-	<div class="col-sm-12 col-md-6 col-lg-4 p-2 m-2 text-center">
-		<img src="/images/logos/Blue%20Pic%20Only.png" width="30%" >
-		<a href="https://www.sportsboules.org.sg/our-polices" target="_blank">Fencing Singapore</a>	
-	</div>
-	<div class="col-sm-12 col-md-6 col-lg-4 p-2 m-2 text-center">
-		<img src="/images/logos/Blue%20Pic%20Only.png" width="80%" >
-		<a href="https://www.sportsboules.org.sg/our-polices" target="_blank">Fencing Singapore</a>	
-	</div>
-	<div class="col-sm-12 col-md-6 col-lg-4 p-2 m-2 text-center">
-		<img src="/images/logos/Blue%20Pic%20Only.png" width="80%" >
-		<a href="https://www.sportsboules.org.sg/our-polices" target="_blank">Fencing Singapore</a>	
-	</div>
-	<div class="col-sm-12 col-md-6 col-lg-4 p-2 m-2 text-center">
-		<img src="/images/logos/Blue%20Pic%20Only.png" width="80%" >
-		<a href="https://www.sportsboules.org.sg/our-polices" target="_blank">Fencing Singapore</a>	
-	</div>
-	<div class="col-sm-12 col-md-6 col-lg-4 p-2 m-2 text-center">
-		<img src="/images/logos/Blue%20Pic%20Only.png" width="80%" >
-		<a href="https://www.sportsboules.org.sg/our-polices" target="_blank">Fencing Singapore</a>	
-	</div>
-
-	
-	
 	
 </div>
 <br>
-<p>TABLE</p>
+<p></p>
 <table >
 	<tr><th style="width:30%"></th><th style="width:70%"></th>
 	<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px" ></td><td><a href="[Singapore Swimming Association - Safe Aquatics](https://swimming.org.sg/Safe-Aquatics.aspx)" target="_blank">Singapore Swimming Association</a></td></tr>
