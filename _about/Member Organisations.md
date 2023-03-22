@@ -38,7 +38,7 @@ These organisations have adopted:
 	<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px" ></td><td><a href="https://www.stta.org.sg/about-us/policies/" target="_blank">Singapore Table Tennis Association</a></td></tr>
 	<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px" ></td><td><a href="https://www.sportsboules.org.sg/our-polices" target="_blank">Wrestling Federation of Singapore</a></td></tr>
 	<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px" ></td><td><a href="https://bas.org.sg/?a=about" target="_blank">Basketball  Association of Singapore</a></td></tr>
-	<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px" ></td><td><a href="https://www.sportsboules.org.sg/our-polices" target="_blank">Singapore Baseball and Softball Association</a></td></tr>
+	<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px" ></td><td><a href="https://www.sbsa.org.sg/safe-sport-programme" target="_blank">Singapore Baseball and Softball Association</a></td></tr>
 	<tr><td><img src="/images/high%20res%20SCA%20Logo.png" width="30px" ></td><td><a href="https://www.sportsboules.org.sg/our-polices" target="_blank">Singapore Cricket Association</a></td></tr>
 	<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px" ></td><td><a href="https://www.sportsboules.org.sg/our-polices" target="_blank">Handball Federation of Singapore</a></td></tr>
 	<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px" ></td><td><a href="https://www.sportsboules.org.sg/our-polices" target="_blank">Singapore Hockey Federation</a></td></tr>
