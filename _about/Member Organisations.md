@@ -13,7 +13,7 @@ These organisations have adopted:
 <table>
 	<tr><th style="width:30%"></th><th style="width:70%"></th>
 	<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px" ></td><td><a href="[Singapore Swimming Association - Safe Aquatics](https://www.swimming.org.sg/Safe-Aquatics.aspx)" target="_blank">Singapore Swimming Association</a></td></tr>
-	<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px" ></td><td><a href="[Safe Sport - Singapore Gymnastics](https://www.singaporegymnastics.org.sg/safe-sport/)" target="_blank">Singapore Gymnastics</a></td></tr>
+	<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px" ></td><td><a href="[Safe Sport - Singapore Gymnastics](https://www.singaporegymnastics.org.sg/safe-sport/child-safety/)" target="_blank">Singapore Gymnastics</a></td></tr>
 		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px" ></td><td><a href="[Safe Sport Policy - Archery Association of Singapore (AAS) (archerysingapore.org.sg)](https://archerysingapore.org.sg/high-performance/safe-sport)" target="_blank">Archery Association of Singapore</a></td></tr>
 		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px" ></td><td><a href="[Safe Sport Policy – Singapore Cycling Federation](https://singaporecycling.org.sg/pages/safe-sport-commitment)" target="_blank">Singapore Cycling Federation</a></td></tr>
 		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px" ></td><td><a href="[Safeguarding Policy | Singapore Rugby Union](https://www.singaporerugby.com/safeguarding-policy/)" target="_blank">Singapore Rugby Union</a></td></tr>
