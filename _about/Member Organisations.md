@@ -55,7 +55,8 @@ These organisations have adopted:
 	<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px" ></td><td><a href="https://www.sportsboules.org.sg/our-polices" target="_blank">Singapore Golf Association</a></td></tr>
 	<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px" ></td><td><a href="https://www.sportsboules.org.sg/our-polices" target="_blank">Singapore Wushu Dragon and Lion Dance Federation</a></td></tr>
 	<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px" ></td><td><a href="https://www.sjf.sg/safesport" target="_blank">Singapore Judo Federation</a></td></tr>
-	<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px" ></td><td><a href="https://www.sportsboules.org.sg/our-polices" target="_blank">Singapore Ice Skating Association</a></td></tr>
+		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px" ></td><td><a href="http://cuesports.org.sg/safe-sport-policy/" target="_blank">Sport Boules</a></td></tr>
+		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px" ></td><td><a href="http://cuesports.org.sg/safe-sport-policy/" target="_blank">Singapore Rollersports Federation</a></td></tr><tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px" ></td><td><a href="https://www.sportsboules.org.sg/our-polices" target="_blank">Singapore Ice Skating Association</a></td></tr>
 	<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px" ></td><td><a href="https://www.sportsboules.org.sg/our-polices" target="_blank">Singapore Rowing Association</a></td></tr>
 	<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px" ></td><td><a href="https://www.sportsboules.org.sg/our-polices" target="_blank">Singapore Dragon Boat Association</a></td></tr>
 	<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px" ></td><td><a href="https://www.sportsboules.org.sg/our-polices" target="_blank">Singapore Dragon Boat Association</a></td></tr>
