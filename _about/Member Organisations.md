@@ -12,6 +12,7 @@ These organisations have adopted:
 ##### List of member organisations
 <table>
 	<tr><th style="width:30%"></th><th style="width:70%"></th>
+		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px" ></td><td><a href="https://archerysingapore.org.sg/high-performance/safe-sport" target="_blank">Archery Association of Singapore</a></td></tr>
 	<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px" ></td><td><a href="https://www.swimming.org.sg/Safe-Aquatics.aspx" target="_blank">Singapore Swimming Association</a></td></tr>
 	<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px" ></td><td><a href="https://www.singaporegymnastics.org.sg/safe-sport/child-safety/" target="_blank">Singapore Gymnastics</a></td></tr>
 		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px" ></td><td><a href="[Safe Sport Policy - Archery Association of Singapore (AAS) (archerysingapore.org.sg)](https://archerysingapore.org.sg/high-performance/safe-sport)" target="_blank">Archery Association of Singapore</a></td></tr>
@@ -68,10 +69,8 @@ These organisations have adopted:
 	<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px" ></td><td><a href="https://www.sportsboules.org.sg/our-polices" target="_blank">Singapore Muay Thai Federation</a></td></tr>
 	<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px" ></td><td><a href="https://www.sportsboules.org.sg/our-polices" target="_blank">Karate-Do Union of Singapore</a></td></tr>
 	<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px" ></td><td><a href="https://www.sportsboules.org.sg/our-polices" target="_blank">Singapore Underwater Federation</a></td></tr>
-	<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px" ></td><td><a href="https://www.sportsboules.org.sg/our-polices" target="_blank">Singapore Power Boat Association</a></td></tr>
-	<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px" ></td><td><a href="https://www.sportsboules.org.sg/our-polices" target="_blank">Motor Sports Singapore</a></td></tr>
 	<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px" ></td><td><a href="https://www.sportsboules.org.sg/our-polices" target="_blank">Singapore Ski and Snowboarding Association</a></td></tr>
 	<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px" ></td><td><a href="https://www.sportsboules.org.sg/our-polices" target="_blank">Singapore Kendo Club</a></td></tr>
-	<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px" ></td><td><a href="https://www.sportsboules.org.sg/our-polices" target="_blank">Singapore Waterski and Wakeboard Federation</a></td></tr>
-	<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px" ></td><td><a href="https://www.sportsboules.org.sg/our-polices" target="_blank">Singapore DanceSport Federation</a></td></tr>
+
+
 <table>
