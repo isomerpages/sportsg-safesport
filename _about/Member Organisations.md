@@ -63,13 +63,7 @@ These organisations have adopted:
 		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px" ></td><td><a href="http://cuesports.org.sg/safe-sport-policy/" target="_blank">Singapore Qiangqi General Association</a></td></tr>
 		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px" ></td><td><a href="http://cuesports.org.sg/safe-sport-policy/" target="_blank">Singapore Life Saving Society</a></td></tr>
 		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px" ></td><td><a href="http://cuesports.org.sg/safe-sport-policy/" target="_blank">Singapore Pickle-ball Association</a></td></tr>
-	<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px" ></td><td><a href="https://www.sportsboules.org.sg/our-polices" target="_blank">Singapore Rowing Association</a></td></tr>
 	<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px" ></td><td><a href="https://www.sportsboules.org.sg/our-polices" target="_blank">Singapore Esports Association</a></td></tr>
-	<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px" ></td><td><a href="https://www.sportsboules.org.sg/our-polices" target="_blank">Singapore Muay Thai Federation</a></td></tr>
-	<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px" ></td><td><a href="https://www.sportsboules.org.sg/our-polices" target="_blank">Karate-Do Union of Singapore</a></td></tr>
-	<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px" ></td><td><a href="https://www.sportsboules.org.sg/our-polices" target="_blank">Singapore Underwater Federation</a></td></tr>
-	<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px" ></td><td><a href="https://www.sportsboules.org.sg/our-polices" target="_blank">Singapore Ski and Snowboarding Association</a></td></tr>
-	<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px" ></td><td><a href="https://www.sportsboules.org.sg/our-polices" target="_blank">Singapore Kendo Club</a></td></tr>
 
 
 <table>
