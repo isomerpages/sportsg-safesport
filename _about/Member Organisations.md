@@ -49,7 +49,7 @@ These organisations have adopted:
 		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px" ></td><td><a href="https://www.sportsboules.org.sg/our-polices" target="_blank">Singapore Xiangqi General Association</a></td></tr>
 		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px" ></td><td><a href="https://www.sportsboules.org.sg/our-polices" target="_blank">Sports Boules Singapore</a></td></tr>
 		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px" ></td><td><a href="https://www.sportsboules.org.sg/our-polices" target="_blank">Triathlon Association of Singapore</a></td></tr>
-		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px" ></td><td><a href="https://www.sportsboules.org.sg/our-polices" target="_blank">Volleyball Association of Singapore</a></td></tr>
+		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px" ></td><td><a href="https://volleyball.org.sg/constitution-annual-report-policies/" target="_blank">Volleyball Association of Singapore</a></td></tr>
 		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px" ></td><td><a href="https://www.sportsboules.org.sg/our-polices" target="_blank">Wrestling Federation of Singapore</a></td></tr>
 	<tr><td><img src="/images/SO_Singapore_Mark_XXX_XXX-22.jpg" width="30px" ></td><td><a href="https://www.sportsboules.org.sg/our-polices" target="_blank">Special Olympics</a></td></tr>
 			<tr><td><img src="/images/FAS%20Logo.png" width="30px" ></td><td><a href="https://www.sportsboules.org.sg/our-polices" target="_blank">Football Association of Singapore</a></td></tr>
