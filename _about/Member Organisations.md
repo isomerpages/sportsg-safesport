@@ -13,7 +13,7 @@ These organisations have adopted:
 <table>
 	<tr><th style="width:30%"></th><th style="width:70%"></th>
 		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px" ></td><td><a href="https://archerysingapore.org.sg/high-performance/safe-sport" target="_blank">Archery Association of Singapore</a></td></tr>
-		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px" ></td><td><a href="https://www.sportsboules.org.sg/our-polices" target="_blank">Singapore Disability Sports Council</a></td></tr>
+		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px" ></td><td><a href="https://www.sportsboules.org.sg/our-polices" target="_blank">Basketball Association of Singapore</a></td></tr>
 	<tr><td><img src="/images/SO_Singapore_Mark_XXX_XXX-22.jpg" width="30px" ></td><td><a href="https://www.sportsboules.org.sg/our-polices" target="_blank">Special Olympics</a></td></tr>
 			<tr><td><img src="/images/FAS%20Logo.png" width="30px" ></td><td><a href="https://www.sportsboules.org.sg/our-polices" target="_blank">Football Association of Singapore</a></td></tr>
 	<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px" ></td><td><a href="https://singaporebowling.org.sg/wp-content/uploads/2023/03/0.16-Safe-Sport-Policy-GC-Approved.pdf" target="_blank">Singapore Bowling Federation</a></td></tr>
