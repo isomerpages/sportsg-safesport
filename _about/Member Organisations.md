@@ -53,6 +53,5 @@ These organisations have adopted:
 		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px" ></td><td><a href="https://www.sportsboules.org.sg/our-polices" target="_blank">Wrestling Federation of Singapore</a></td></tr>
 	<tr><td><img src="/images/SO_Singapore_Mark_XXX_XXX-22.jpg" width="30px" ></td><td><a href="https://www.sportsboules.org.sg/our-polices" target="_blank">Special Olympics</a></td></tr>
 			<tr><td><img src="/images/FAS%20Logo.png" width="30px" ></td><td><a href="https://www.sportsboules.org.sg/our-polices" target="_blank">Football Association of Singapore</a></td></tr>
-	<tr><td><img src="/images/STF%20Logo.png" width="30px" ></td><td><a href="https://www.stf.sg/reference-documents/safe-sport-policy/" target="_blank">Singapore Taekwondo Federation</a></td></tr>
 	<tr><td><img src="/images/high%20res%20SCA%20Logo.png" width="30px" ></td><td><a href="https://singaporecricket.org/safe-sport-policy/" target="_blank">Singapore Cricket Association</a></td></tr>	
 <table>
