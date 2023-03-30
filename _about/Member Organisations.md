@@ -14,7 +14,7 @@ These organisations have adopted:
 	<tr><th style="width:30%"></th><th style="width:70%"></th>
 		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px" ></td><td><a href="https://archerysingapore.org.sg/high-performance/safe-sport" target="_blank">Archery Association of Singapore</a></td></tr>
 		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px" ></td><td><a href="https://bas.org.sg/uploads/sites/bas/Policy%20-%20Safe%20Sport%2020230118.pdf" target="_blank">Basketball Association of Singapore</a></td></tr>	
-		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px" ></td><td><a href="https://www.sportsboules.org.sg/our-polices" target="_blank">Bowls Singapore</a></td></tr>
+		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px" ></td><td><a href="https://www.bowlssingapore.org/safe-sport-policy/" target="_blank">Bowls Singapore</a></td></tr>
 		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px" ></td><td><a href="http://cuesports.org.sg/safe-sport-policy/" target="_blank">Cuesports Singapore</a></td></tr>	
 		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px" ></td><td><a href="https://equestrianfederationsg.com/safe-sports-policy" target="_blank">Equestrian Federation of Singapore</a></td></tr>
 		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px" ></td><td><a href="https://www.fencingsingapore.org.sg/safe-sport/" target="_blank">Fencing Singapore</a></td></tr>
