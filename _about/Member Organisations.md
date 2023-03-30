@@ -27,7 +27,7 @@ These organisations have adopted:
 		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px"></td><td><a href="https://scf.org.sg/pages/details/safe-sport">Singapore Canoe Federation</a></td></tr>	
 		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px"></td><td><a href="https://www.sportsboules.org.sg/our-polices">Singapore Chess Federation</a></td></tr>	
 			<tr><td><img src="/images/high%20res%20SCA%20Logo.png" width="30px"></td><td><a href="https://singaporecricket.org/safe-sport-policy/">Singapore Cricket Association</a></td></tr>	
-		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px"></td><td><a href="https://singaporecycling.org.sg/pages/safe-sport-commitment">Singapore Cycling Federation</a></td></tr>
+		<tr><td><img src="/images/scf%20logo.png" width="30px"></td><td><a href="https://singaporecycling.org.sg/pages/safe-sport-commitment">Singapore Cycling Federation</a></td></tr>
 		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px"></td><td><a href="https://esports.org.sg/policies-and-handbooks/">Singapore Disability Sports Council</a></td></tr>	
 		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px"></td><td><a href="https://esports.org.sg/policies-and-handbooks/">Singapore Esports Association</a></td></tr>
 		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px"></td><td><a href="https://www.revolutionise.sg/sgfloorball/news/sfa-launches-1st-safe-sport-policy-/">Singapore Floorball Association</a></td></tr>
