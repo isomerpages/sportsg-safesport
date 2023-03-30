@@ -35,7 +35,7 @@ These organisations have adopted:
 		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px" ></td><td><a href="https://www.sportsboules.org.sg/our-polices" target="_blank">Singapore Ice Skating Association</a></td></tr>
 		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px" ></td><td><a href="https://www.sportsboules.org.sg/our-polices" target="_blank">Singapore Judo Federation</a></td></tr>
 		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px" ></td><td><a href="https://www.sportsboules.org.sg/our-polices" target="_blank">Singapore RollerSports Federation</a></td></tr>
-		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px" ></td><td><a href="https://www.sgsepaktakraw.org/safe-sports-policy" target="_blank">Singapore Rugby Union</a></td></tr>	
+		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px" ></td><td><a href="https://www.singaporerugby.com/what-is-safeguarding/" target="_blank">Singapore Rugby Union</a></td></tr>	
 		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px" ></td><td><a href="https://www.sgsepaktakraw.org/safe-sports-policy" target="_blank">Singapore Sailing Federation</a></td></tr>	
 		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px" ></td><td><a href="https://www.sgsepaktakraw.org/safe-sports-policy" target="_blank">Singapore Sepak Takraw Federation</a></td></tr>
 		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px" ></td><td><a href="https://singaporeshooting.org/portal/hi-performance-2/singapore-shooting-association-safe-sport-policy/" target="_blank">Singapore Shooting Association</a></td></tr>
