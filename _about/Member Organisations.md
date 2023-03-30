@@ -29,7 +29,7 @@ These organisations have adopted:
 			<tr><td><img src="/images/high%20res%20SCA%20Logo.png" width="30px" ></td><td><a href="https://singaporecricket.org/safe-sport-policy/" target="_blank">Singapore Cricket Association</a></td></tr>	
 		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px" ></td><td><a href="https://www.sportsboules.org.sg/our-polices" target="_blank">Singapore Cycling Federation</a></td></tr>
 		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px" ></td><td><a href="https://www.sportsboules.org.sg/our-polices" target="_blank">Singapore Esports Association</a></td></tr>
-		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px" ></td><td><a href="https://www.sportsboules.org.sg/our-polices" target="_blank">Singapore Floorball Association</a></td></tr>
+		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px" ></td><td><a href="https://www.revolutionise.sg/sgfloorball/news/sfa-launches-1st-safe-sport-policy-/" target="_blank">Singapore Floorball Association</a></td></tr>
 		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px" ></td><td><a href="https://www.singaporegymnastics.org.sg/safe-sport/child-safety/" target="_blank">Singapore Gymnastics</a></td></tr>
 		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px" ></td><td><a href="https://www.singaporehockey.org/resources/shf-safe-sport-policy/" target="_blank">Singapore Hockey Federation</a></td></tr>
 		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px" ></td><td><a href="https://www.sisa.org.sg/safe-sport" target="_blank">Singapore Ice Skating Association</a></td></tr>
