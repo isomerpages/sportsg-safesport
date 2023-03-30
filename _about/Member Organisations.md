@@ -24,7 +24,7 @@ These organisations have adopted:
 		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px" ></td><td><a href="https://www.sportsboules.org.sg/our-polices" target="_blank">Singapore Baseball and Softball Association</a></td></tr>
 		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px" ></td><td><a href="https://www.sportsboules.org.sg/our-polices" target="_blank">Singapore Bowling Federation</a></td></tr>
 		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px" ></td><td><a href="https://www.sportsboules.org.sg/our-polices" target="_blank">Singapore Boxing Federation</a></td></tr>	
-		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px" ></td><td><a href="https://www.sportsboules.org.sg/our-polices" target="_blank">Singapore Canoe Federation</a></td></tr>	
+		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px" ></td><td><a href="https://scf.org.sg/pages/details/safe-sport" target="_blank">Singapore Canoe Federation</a></td></tr>	
 		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px" ></td><td><a href="https://www.sportsboules.org.sg/our-polices" target="_blank">Singapore Chess Federation</a></td></tr>	
 			<tr><td><img src="/images/high%20res%20SCA%20Logo.png" width="30px" ></td><td><a href="https://singaporecricket.org/safe-sport-policy/" target="_blank">Singapore Cricket Association</a></td></tr>	
 		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px" ></td><td><a href="https://singaporecycling.org.sg/pages/safe-sport-commitment" target="_blank">Singapore Cycling Federation</a></td></tr>
