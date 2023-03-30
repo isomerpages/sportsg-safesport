@@ -50,8 +50,8 @@ These organisations have adopted:
 		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px"></td><td><a href="https://www.sportsboules.org.sg/our-polices">Singapore Weiqi Association</a></td></tr>
 		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px"></td><td><a href="https://www.sportsboules.org.sg/our-polices">Singapore Wushu Dragon &amp; Lion Dance Federation</a></td></tr>
 		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px"></td><td><a href="http://www.xiangqi.sg/xqsite/sixga-safe-sport-policy/">Singapore Xiangqi General Association</a></td></tr>
-		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px"></td><td><a href="https://www.sportsboules.org.sg/our-polices">Sports Boules Singapore</a></td></tr>
-		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px"></td><td><a href="https://www.triathlonsingapore.org/about/safe-sport/">Triathlon Association of Singapore</a></td></tr>
+		<tr><td><img src="/images/sport%20boules%20logo.png" width="30px"></td><td><a href="https://www.sportsboules.org.sg/our-polices">Sports Boules Singapore</a></td></tr>
+		<tr><td><img src="/images/triathlon%20logo.png" width="30px"></td><td><a href="https://www.triathlonsingapore.org/about/safe-sport/">Triathlon Association of Singapore</a></td></tr>
 		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px"></td><td><a href="https://volleyball.org.sg/constitution-annual-report-policies/">Volleyball Association of Singapore</a></td></tr>
 		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px"></td><td><a href="https://www.sportsboules.org.sg/our-polices">Wrestling Federation of Singapore</a></td></tr>
 	<tr><td><img src="/images/SO_Singapore_Mark_XXX_XXX-22.jpg" width="30px"></td><td><a href="https://www.sportsboules.org.sg/our-polices">Special Olympics</a></td></tr>
