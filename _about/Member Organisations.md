@@ -17,7 +17,7 @@ These organisations have adopted:
 		<tr><td><img src="/images/bowls%20sg%20logo.png" width="30px"></td><td><a href="https://www.bowlssingapore.org/safe-sport-policy/">Bowls Singapore</a></td></tr>
 		<tr><td><img src="/images/cuesports%20logo.png" width="30px"></td><td><a href="http://cuesports.org.sg/safe-sport-policy/">Cuesports Singapore</a></td></tr>	
 		<tr><td><img src="/images/efs%20logo.png" width="30px"></td><td><a href="https://equestrianfederationsg.com/safe-sports-policy">Equestrian Federation of Singapore</a></td></tr>
-		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px"></td><td><a href="https://www.fencingsingapore.org.sg/safe-sport/">Fencing Singapore</a></td></tr>
+		<tr><td><img src="/images/fs%20logo.png" width="30px"></td><td><a href="https://www.fencingsingapore.org.sg/safe-sport/">Fencing Singapore</a></td></tr>
 		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px"></td><td><a href="https://www.sportsboules.org.sg/our-polices">Netball Singapore</a></td></tr>
 		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px"></td><td><a href="https://www.singaporeathletics.org.sg/wp-content/uploads/2023/01/SAA-Safe-Sport-Policy-FINAL.pdf">Singapore Athletics</a></td></tr>
 		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px"></td><td><a href="https://singaporebadminton.org.sg/site/singapore-badminton-associations-safe-sport-commitment/">Singapore Badminton Association</a></td></tr>	
