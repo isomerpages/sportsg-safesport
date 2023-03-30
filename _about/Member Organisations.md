@@ -9,9 +9,10 @@ These organisations have adopted:
 * the Safe Sport Unified Code;  
 * the mechanisms for response and resolution for handling allegations of misconduct as set out in the Safe Sport Programme Handbook.
  
-##### List of member organisations
+##### List of Member Organisations
 <table>
 	<tr><th style="width:30%"></th><th style="width:70%"></th>
+			<tr><td><img src="/images/high%20res%20SCA%20Logo.png" width="30px" ></td><td><a href="https://singaporecricket.org/safe-sport-policy/" target="_blank">Singapore Cricket Association</a></td></tr>	
 		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px" ></td><td><a href="https://archerysingapore.org.sg/high-performance/safe-sport" target="_blank">Archery Association of Singapore</a></td></tr>
 		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px" ></td><td><a href="https://bas.org.sg/uploads/sites/bas/Policy%20-%20Safe%20Sport%2020230118.pdf" target="_blank">Basketball Association of Singapore</a></td></tr>
 			<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px" ></td><td><a href="https://www.sportsboules.org.sg/our-polices" target="_blank">Bowls Singapore</a></td></tr>
@@ -53,5 +54,4 @@ These organisations have adopted:
 		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px" ></td><td><a href="https://www.sportsboules.org.sg/our-polices" target="_blank">Wrestling Federation of Singapore</a></td></tr>
 	<tr><td><img src="/images/SO_Singapore_Mark_XXX_XXX-22.jpg" width="30px" ></td><td><a href="https://www.sportsboules.org.sg/our-polices" target="_blank">Special Olympics</a></td></tr>
 			<tr><td><img src="/images/FAS%20Logo.png" width="30px" ></td><td><a href="https://www.sportsboules.org.sg/our-polices" target="_blank">Football Association of Singapore</a></td></tr>
-	<tr><td><img src="/images/high%20res%20SCA%20Logo.png" width="30px" ></td><td><a href="https://singaporecricket.org/safe-sport-policy/" target="_blank">Singapore Cricket Association</a></td></tr>	
 <table>
