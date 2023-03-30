@@ -37,7 +37,7 @@ These organisations have adopted:
 		<tr><td><img src="/images/sjf%20logo.png" width="30px"></td><td><a href="https://www.sjf.sg/safesport">Singapore Judo Federation</a></td></tr>
 		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px"></td><td><a href="https://www.sportsboules.org.sg/our-polices">Singapore RollerSports Federation</a></td></tr>
 		<tr><td><img src="/images/sru%20logo.png" width="30px"></td><td><a href="https://www.singaporerugby.com/what-is-safeguarding/">Singapore Rugby Union</a></td></tr>	
-		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px"></td><td><a href="https://www.sgsepaktakraw.org/safe-sports-policy">Singapore Sailing Federation</a></td></tr>	
+		<tr><td><img src="/images/ssf%20logo%202018_full%20colour.jpg" width="30px"></td><td><a href="https://www.sgsepaktakraw.org/safe-sports-policy">Singapore Sailing Federation</a></td></tr>	
 		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px"></td><td><a href="https://www.sgsepaktakraw.org/safe-sports-policy">Singapore Sepak Takraw Federation</a></td></tr>
 		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px"></td><td><a href="https://singaporeshooting.org/portal/hi-performance-2/singapore-shooting-association-safe-sport-policy/">Singapore Shooting Association</a></td></tr>
 		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px"></td><td><a href="https://persisi.org/uploads/events/40/attachments/Singapore%20Silat%20Federation%20-%20Safe%20Sport%20Policy.pdf">Singapore Silat Federation</a></td></tr>
