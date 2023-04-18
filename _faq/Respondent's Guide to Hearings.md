@@ -9,11 +9,11 @@ description: ""
 
 No. It depends on the seriousness of the alleged breach of the [Safe Sport Unified Code](https://www.safesport.sg/files/Safe%20Sport%20Unified%20Code%20v4.pdf) (“Unified Code”).
 
-Breaches are classified as low level of seriousness, or medium to high level of seriousness based on the Assessment of Seriousness.
+The level of seriousness of a breach can be classified as low, medium or high based on the Assessment of Seriousness.
 
-Breaches that are low in seriousness are usually managed by the Member Organisations.
+A breach that is classified at a low level of seriousness will be managed by the Member Organisation.
 
-Only cases that have been investigated by the [Safe Sport Commission](https://www.safesport.sg/about/commission-members) (“Commission”) and determined to be of medium to high level of seriousness will have a hearing convened.
+A breach that is classified at a medium or high level of seriousness will be managed by the [Safe Sport Commission](https://www.safesport.sg/about/commission-members) (“Commission”) and subjected to a hearing.
 
 To learn more about the Assessment of Seriousness, see Appendix 1 &amp; 2 of the [Safe Sport Programme Handbook](%5bhttps:/www.safesport.sg/files/Safe%20Sport%20Programme%20Handbook%20101.pdf%5d) (“Handbook”).
 
@@ -117,7 +117,7 @@ You may appeal the Decision of the Disciplinary Committee on the following groun
 
 The Commission may also lodge an appeal against the Decision of the Disciplinary Committee.
 
-For more information on Appeals, please see Section 9 of the Handbook.
+For more information on appeals, please see Section 9 of the Handbook.
 
 ##### **3\. How much time do I have to lodge an appeal?**
 
@@ -127,7 +127,7 @@ For more information on Appeals, please see Section 9 of the Handbook.
 
 ##### **4\. Who will be on the Appeal Committee?**&nbsp;
 
-The Disciplinary Panel Chairperson will appoint a Legal Member from the Disciplinary Panel as the Chair of the Appeal Committee and shall be entitled at his/her discretion to appoint Appeal Committees of such number as he/she considers appropriate, up to a maximum of five (5) and a minimum of two (2) from Members of the Disciplinary Panel.
+The Disciplinary Panel Chairperson will appoint a Legal Member from the Disciplinary Panel as the Chair of the Appeal Committee. The Appeal Committee will be formed of Disciplinary Panel Members that have not already heard the case.
 
 ##### **5\. Is there a guideline/directive/framework that assists the Appeal Committee to reach an outcome?**
 
