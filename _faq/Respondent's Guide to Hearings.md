@@ -21,9 +21,9 @@ To learn more about the Assessment of Seriousness, see Appendix 1 &amp; 2 of the
 
 The purpose of a hearing is twofold:
 
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; to allow the Respondent an opportunity to provide their account to an independent Disciplinary Committee
+*  to allow the Respondent an opportunity to provide their account to an independent Disciplinary Committee
 
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; to determine the appropriate sanctions where the Disciplinary Committee decides that a breach of the Unified Code has occurred
+*  to determine the appropriate sanctions where the Disciplinary Committee decides that a breach of the Unified Code has occurred
 
 ##### **3\. Who will be on the Disciplinary Committee?**
 
@@ -31,9 +31,9 @@ The Discipline Panel Chairperson will appoint 3 Members from the Disciplinary Pa
 
 These 3 Members will be from the sporting community and will be made up of:
 
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1 Legal Member, who will chair the hearing
+*  1 Legal Member, who will chair the hearing
 
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2 Ordinary Members
+*  2 Ordinary Members
 
 ##### **4\. How are the Disciplinary Panel Members appointed?**
 
@@ -55,11 +55,11 @@ For more information, please see Section 8.6 and Appendix 3 of the Handbook.
 
 There is a possibility that temporary measures may be imposed pending investigations based on:
 
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; severity of the Misconduct
+* severity of the Misconduct
 
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; sufficiency of evidence
+* sufficiency of evidence
 
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; risk of further harm
+*  risk of further harm
 
 For more information on this, please see Section 6.11 of the Handbook.
 
@@ -107,13 +107,13 @@ You can find a non-exhaustive list of measures and sanctions in Appendix 3 of th
 
 You may appeal the Decision of the Disciplinary Committee on the following grounds:
 
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; error in application of rules and/or in a central finding of fact,
+* error in application of rules and/or in a central finding of fact,
 
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; that a sanction is manifestly excessive and/or wrong in in principle
+* that a sanction is manifestly excessive and/or wrong in in principle
 
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; that a sanction was unduly lenient
+*  that a sanction was unduly lenient
 
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; that a decision should be overturned in the interests of natural justice.
+*  that a decision should be overturned in the interests of natural justice.
 
 The Commission may also lodge an appeal against the Decision of the Disciplinary Committee.
 
@@ -143,11 +143,11 @@ The measures/sanctions imposed by the Disciplinary Committee remain in place pen
 
 This will depend on:
 
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; the grounds of appeal (whether the matter of appeal relates to a question or law and/or fact)
+*  the grounds of appeal (whether the matter of appeal relates to a question or law and/or fact)
 
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; whether the Appeal Committee needs to hear the matter afresh
+*  whether the Appeal Committee needs to hear the matter afresh
 
-&nbsp;For more information, please see Section 19 of the Handbook.
+For more information, please see Section 19 of the Handbook.
 
 ##### **8\. Are there further avenues of appeal after the Appeal Committee’s decision?**
 
