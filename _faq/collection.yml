@@ -2,8 +2,8 @@ collections:
   faq:
     output: true
     order:
-      - Guide to Hearings.md
       - Safe Sport Programme.md
       - Training and Education.md
       - Reporting.md
+      - Guide to Hearings.md
       - Support Network.md
