@@ -117,7 +117,7 @@ You may appeal the Decision of the Disciplinary Committee on the following groun
 
 The Commission may also lodge an appeal against the Decision of the Disciplinary Committee.
 
-For more information on appeals, please see Section 9 of the Handbook.
+For more information on Appeals, please see Section 9 of the Handbook.
 
 ##### **3\. How much time do I have to lodge an appeal?**
 
