@@ -27,13 +27,13 @@ The purpose of a hearing is twofold:
 
 ##### **3\. Who will be on the Disciplinary Committee?**
 
-The Discipline Panel Chairperson will appoint 3 Members from the Disciplinary Panel to form the Disciplinary Committee for the hearing.
+The Discipline Panel Chairperson will appoint three (3) Members from the Disciplinary Panel to form the Disciplinary Committee for the hearing.
 
-These 3 Members will be from the sporting community and will be made up of:
+These three (3) Members will be from the sporting community and will be made up of:
 
-*  1 Legal Member, who will chair the hearing
+* one (1) Legal Member, who will chair the hearing
 
-*  2 Ordinary Members
+*  two (2) Ordinary Members
 
 ##### **4\. How are the Disciplinary Panel Members appointed?**
 
@@ -75,7 +75,7 @@ The hearing may still proceed in your absence under certain circumstances as per
 
 You would have received a Notice of Hearing which comprises the details of the documents and the procedures involved in the hearing process.
 
-Where the case is complex, the Disciplinary Committee Chair may decide that a pre-hearing meeting with you may be necessary to assist the Disciplinary Committee managing the hearing process. &nbsp;
+Where the case is complex, the Disciplinary Committee Chair may decide that a pre-hearing meeting with you may be necessary to assist the Disciplinary Committee managing the hearing process.
 
 You can find out more of the hearing procedures in Section 18 of the Handbook.
 
@@ -89,7 +89,7 @@ You can find out more about this in Section 8.4 and Appendix 2 of the Handbook.
 
 ##### **4\. Will I be able to ask the Affected Party, or any of the witnesses, any questions during the hearing?**
 
-Unlike court processes which are adversarial, the objective of these proceedings is inquisitorial in nature in that the hearing will be conducted more like an official inquiry. Therefore, there is no direct questioning of the Affected Party and/or other witnesses except by the Disciplinary Committee.&nbsp; &nbsp;
+Unlike court processes which are adversarial, the objective of these proceedings is inquisitorial in nature in that the hearing will be conducted more like an official inquiry. Therefore, there is no direct questioning of the Affected Party and/or other witnesses except by the Disciplinary Committee.
 
 For more information, please see Section 18.11 of the Handbook.
 
@@ -99,7 +99,7 @@ For more information, please see Section 18.11 of the Handbook.
 
 The sanctions for breach of the Unified Code pertain to a person’s participation in sport.
 
-You could receive a warning, a direction to do something (e.g. attend a course, contact limitations) or your participation may be limited (e.g. &nbsp;probation, suspension, permanent ineligibility).
+You could receive a warning, a direction to do something (e.g. attend a course, contact limitations) or your participation may be limited (e.g. probation, suspension, permanent ineligibility).
 
 You can find a non-exhaustive list of measures and sanctions in Appendix 3 of the Handbook.
 
