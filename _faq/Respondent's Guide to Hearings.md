@@ -3,7 +3,7 @@ title: Respondent's Guide to Hearings
 permalink: /faq/respondents-guide-to-hearings/
 description: ""
 ---
-*BEFORE THE HEARING*
+**BEFORE THE HEARING**
 
 ##### **1\. Does every case lead to a hearing before a Disciplinary Committee?**
 
@@ -63,7 +63,7 @@ There is a possibility that temporary measures may be imposed pending investigat
 
 For more information on this, please see Section 6.11 of the Handbook.
 
-*AT THE HEARING*
+**AT THE HEARING**
 
 ##### **1\. What if I am unable to attend the hearing?**
 
