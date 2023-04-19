@@ -7,20 +7,20 @@ description: ""
 
 
   
-###### AWARE Women's Helpline
+##### AWARE Women's Helpline
 * Hotline: 1800 777 5555 | Operating Hours: Monday to Friday, 10am to 6pm
 
 ---
-###### Care Corner Project StART (Family & Sexual Violence)
+##### Care Corner Project StART (Family & Sexual Violence)
 * Hotline: 6476 1482
 * Email: [projectstart@carecorner.org.sg](mailto:projectstart@carecorner.org.sg)
 
 ---
-###### Care Corner Toll-Free Mandarin Counselling
+##### Care Corner Toll-Free Mandarin Counselling
 * Hotline: 1800 3535 800
 
 ---
-###### ComCare
+##### ComCare
 * Hotline: 1800 222 0000
 
 ---
@@ -28,34 +28,34 @@ description: ""
 * Hotline: 6536 6366 
 
 ---
-###### IMH Mental Health Helpline
+##### IMH Mental Health Helpline
 * Hotline: 6389 2222 (24-hour)
 
 ---
-###### Ministry of Social and Family Development's Child Protective Service
+##### Ministry of Social and Family Development's Child Protective Service
 * Hotline: 1800 777 0000 
 | Operating Hours: Monday to Friday, 8.30am to 5pm
 
 ---
-###### National Anti-Violence Helpline
+##### National Anti-Violence Helpline
 * Hotline: 1800 777 0000 (24-hour)
 
 ---
-###### Samaritans of Singapore (SOS) Helpline
+##### Samaritans of Singapore (SOS) Helpline
 * Hotline: 1800 221 4444 (24-hour)
 * Email Befriending: pat@sos.org.sg
 
 ---
-###### Sexual Assault Care Centre
+##### Sexual Assault Care Centre
 * Hotline: 6779 0282 
 | Operating Hours: Monday to Friday, 10am to 10pm
 
 ---
-###### **Singapore Association for Mental Health**
+##### **Singapore Association for Mental Health**
 * Hotline: 1800 283 7019 (24-hour)
 
 ---
-###### **TOUCHline (Counselling)**
+##### **TOUCHline (Counselling)**
 * Hotline: 1800 377 2252
 
 ---
@@ -67,5 +67,4 @@ description: ""
 * Find your nearest [Family Service Centre](https://www.msf.gov.sg/dfcs/familyservice/default.aspx)
 
 
-[Click here to go back to top](##if-you-need-help-or-feel-unsure-about-an-encounter-you-can-reach-out-to)
-
+[Click here to go back to top](#if-you-need-help-or-feel-unsure-about-an-encounter-you-can-reach-out-to)
