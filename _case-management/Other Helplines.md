@@ -3,7 +3,7 @@ title: Other Helplines
 permalink: /case-management/other-helplines/
 description: ""
 ---
-#### If you need help or feel unsure about an encounter, you can reach out to:
+### If you need help or feel unsure about an encounter, you can reach out to:
 
 
   
@@ -24,7 +24,7 @@ description: ""
 * Hotline: 1800 222 0000
 
 ---
-###### Counselling & Care Centre
+##### Counselling & Care Centre
 * Hotline: 6536 6366 
 
 ---
@@ -61,7 +61,7 @@ description: ""
 ---
 
 
-#### Other Useful Resources or Support for Reporting
+### Other Useful Resources or Support for Reporting
 * [Reporting Helpline](/files/Other%20Useful%20Resources%20for%20Reporting-updated%20Mar%202021.pdf)
 * National Sports Associations [Contact Details](https://www.myactivesg.com/Sports/Find-a-National-Sports-Association)
 * Find your nearest [Family Service Centre](https://www.msf.gov.sg/dfcs/familyservice/default.aspx)
