@@ -56,4 +56,4 @@ These organisations have adopted:
 		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px"></td><td><a href="https://www.sportsboules.org.sg/our-polices">Wrestling Federation of Singapore</a></td></tr>
 </tbody></table><table></table>
 
-[Click here to go back to top](#####What-does-it-mean-to-be-a-member?)
+[Click here to go back to top](##### What does it mean to be a member?)
