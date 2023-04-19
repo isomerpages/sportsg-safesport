@@ -55,3 +55,5 @@ These organisations have adopted:
 		<tr><td><img src="/images/volleyball%20logo.png" width="30px"></td><td><a href="https://volleyball.org.sg/constitution-annual-report-policies/">Volleyball Association of Singapore</a></td></tr>
 		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px"></td><td><a href="https://www.sportsboules.org.sg/our-polices">Wrestling Federation of Singapore</a></td></tr>
 </tbody></table><table></table>
+
+[Click here to go back to top](#####What-does-it-mean-to-be-a-member?)
