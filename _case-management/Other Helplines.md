@@ -33,8 +33,7 @@ description: ""
 
 ---
 ##### Ministry of Social and Family Development's Child Protective Service
-* Hotline: 1800 777 0000 
-| Operating Hours: Monday to Friday, 8.30am to 5pm
+* Hotline: 1800 777 0000 | Operating Hours: Monday to Friday, 8.30am to 5pm
 
 ---
 ##### National Anti-Violence Helpline
