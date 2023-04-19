@@ -6,29 +6,66 @@ description: ""
 #### If you need help or feel unsure about an encounter, you can reach out to:
 
 
-| National Anti-Violence Helpline | 
-| -------- | 
-|1800 777 0000 (24-hour)| 
+  
+###### AWARE Women's Helpline
+* Hotline: 1800 777 5555 | Operating Hours: Monday to Friday, 10am to 6pm
 
-| Samaritans of Singapore (SOS) Helpline | 
-| -------- | 
-|1800 221 4444 (24-hour) Email Befriending: pat@sos.org.sg| 
+---
+###### Care Corner Project StART (Family & Sexual Violence)
+* Hotline: 6476 1482
+* Email: [projectstart@carecorner.org.sg](mailto:projectstart@carecorner.org.sg)
 
-|  [Sexual Assault Care Centre ](https://sacc.aware.org.sg/)  | 
-| -------- | 
-| 6779 0282 (Operating Hours: Monday to Friday, 10am to 10pm) | 
+---
+###### Care Corner Toll-Free Mandarin Counselling
+* Hotline: 1800 3535 800
 
-| [Women’s Helpline](https://www.aware.org.sg/womens-care-centre/helpline/) | 
-| -------- | 
-|1800 777 5555 (Operating Hours: Monday to Friday, 10am to 6pm) | 
+---
+###### ComCare
+* Hotline: 1800 222 0000
 
-| Ministry of Social and Family Development’s Child Protective Service | 
-| -------- | 
-|1800-777 0000 (Operating Hours: Monday to Friday, 8.30am - 5.30pm) | 
+---
+###### Counselling & Care Centre
+* Hotline: 6536 6366 
 
+---
+###### IMH Mental Health Helpline
+* Hotline: 6389 2222 (24-hour)
+
+---
+###### Ministry of Social and Family Development's Child Protective Service
+* Hotline: 1800 777 0000 
+| Operating Hours: Monday to Friday, 8.30am to 5pm
+
+---
+###### National Anti-Violence Helpline
+* Hotline: 1800 777 0000 (24-hour)
+
+---
+###### Samaritans of Singapore (SOS) Helpline
+* Hotline: 1800 221 4444 (24-hour)
+* Email Befriending: pat@sos.org.sg
+
+---
+###### Sexual Assault Care Centre
+* Hotline: 6779 0282 
+| Operating Hours: Monday to Friday, 10am to 10pm
+
+---
+###### **Singapore Association for Mental Health**
+* Hotline: 1800 283 7019 (24-hour)
+
+---
+###### **TOUCHline (Counselling)**
+* Hotline: 1800 377 2252
+
+---
 
 
 #### Other Useful Resources or Support for Reporting
 * [Reporting Helpline](/files/Other%20Useful%20Resources%20for%20Reporting-updated%20Mar%202021.pdf)
 * National Sports Associations [Contact Details](https://www.myactivesg.com/Sports/Find-a-National-Sports-Association)
 * Find your nearest [Family Service Centre](https://www.msf.gov.sg/dfcs/familyservice/default.aspx)
+
+
+[Click here to go back to top](##if-you-need-help-or-feel-unsure-about-an-encounter-you-can-reach-out-to)
+
