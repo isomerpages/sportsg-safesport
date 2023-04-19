@@ -6,8 +6,8 @@ description: ""
 ##### What does it mean to be a member? 
 
 These organisations have adopted:  
-* the Safe Sport Unified Code;  
-* the mechanisms for response and resolution for handling allegations of misconduct as set out in the Safe Sport Programme Handbook.
+* the [Safe Sport Unified Code](https://www.safesport.sg/files/Safe%20Sport%20Unified%20Code%20v4.pdf);  
+* the mechanisms for response and resolution for handling allegations of misconduct as set out in the [Safe Sport Programme Handbook](https://www.safesport.sg/files/Safe%20Sport%20Programme%20Handbook%20101.pdf).
  
 ##### List of Member Organisations
 <table>
