@@ -31,10 +31,10 @@ Whilst guided by international frameworks on safeguarding in sport, the Safe Spo
 These consultations were made possible only through the partnership with these organisations
 
 * [Singapore National Olympic Council (SNOC) Athletes' Commission](https://www.singaporeolympics.com/about-snoc/snoc-athletes-commission/)
-* [SNOC Women in Sport Committee (WSC)](https://www.singaporeolympics.com/snoc-women-in-sport-committee/)
-* Singapore Para Athletes Commission (SPAC)
-* [Singapore National Paralympic Committee (SNPC)](https://www.snpc.org.sg/about/)
-* [Singapore Disability Sports Council (SDSC)](https://sdsc.org.sg/about-us/)
+* [SNOC Women in Sport Committee](https://www.singaporeolympics.com/snoc-women-in-sport-committee/)
+* Singapore Para Athletes Commission
+* [Singapore National Paralympic Committee](https://www.snpc.org.sg/about/)
+* [Singapore Disability Sports Council](https://sdsc.org.sg/about-us/)
 
 The Safe Sport Commission is full of gratitude to the participants for sharing their stories, thoughts, feedback and insights, which are reflected in these reports.
 
