@@ -3,7 +3,7 @@ title: Respondent's Guide to Hearings
 permalink: /faq/respondents-guide-to-hearings/
 description: ""
 ---
-**BEFORE THE HEARING**
+##### *BEFORE THE HEARING*
 
 ##### **1\. Does every case lead to a hearing before a Disciplinary Committee?**
 
@@ -15,7 +15,7 @@ A breach that is classified at a low level of seriousness will be managed by the
 
 A breach that is classified at a medium or high level of seriousness will be managed by the [Safe Sport Commission](https://www.safesport.sg/about/commission-members) (“Commission”) and subjected to a hearing.
 
-To learn more about the Assessment of Seriousness, see Appendix 1 &amp; 2 of the [Safe Sport Programme Handbook](%5bhttps:/www.safesport.sg/files/Safe%20Sport%20Programme%20Handbook%20101.pdf%5d) (“Handbook”).
+To learn more about the Assessment of Seriousness, see Appendix 1 & 2 of the [Safe Sport Programme Handbook](https://www.safesport.sg/files/Safe%20Sport%20Programme%20Handbook%20101.pdf) (“Handbook”).
 
 ##### **2\. Why is there a need for a hearing?**
 
@@ -65,7 +65,7 @@ For more information on this, please see Section 6.11 of the Handbook.
 
 -----
 
-**AT THE HEARING**
+##### *AT THE HEARING*
 
 ##### **1\. What if I am unable to attend the hearing?**
 
@@ -97,7 +97,7 @@ For more information, please see Section 18.11 of the Handbook.
 
 ---
 
-**AFTER THE HEARING**
+##### *AFTER THE HEARING*
 
 ##### **1\. What are some of the possible sanctions which I could be subjected to?**
 
