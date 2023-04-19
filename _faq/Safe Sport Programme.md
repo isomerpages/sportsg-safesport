@@ -52,5 +52,3 @@ A model Safe Sport Policy will be made available to Member Organisations and the
 
 ##### **5. When can an organisation get accredited with the Safety Mark?**
 The aim of the accreditation scheme is to establish recognition for the quality of an organisation’s safeguarding efforts and established processes. The accreditation framework will be activated following the roll out of the Safe Sport Programme in 2022.
-
-[Click here to go back to top](##1.-Who-was-consulted-in-the-development-of-the-Unified-Code-and the-Safe-Sport-Programme-?)
