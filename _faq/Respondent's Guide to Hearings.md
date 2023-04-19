@@ -172,5 +172,12 @@ For more information, please see Section 10.6 of the [Handbook](https://www.safe
 
 _If you have more questions, please email us at_ [_report@safesport.sg_](mailto:report@safesport.sg)
 
+---
+
+Quick Downloads:
+
+[Safe Sport Unified Code v4](/files/Safe%20Sport%20Unified%20Code%20v4.pdf)
+
+[Safe Sport Programme Handbook 101](/files/Safe%20Sport%20Programme%20Handbook%20101.pdf)
 
 [Click here to go back to top](#before-the-hearing)
