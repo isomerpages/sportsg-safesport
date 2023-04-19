@@ -63,6 +63,8 @@ There is a possibility that temporary measures may be imposed pending investigat
 
 For more information on this, please see Section 6.11 of the Handbook.
 
+-----
+
 **AT THE HEARING**
 
 ##### **1\. What if I am unable to attend the hearing?**
@@ -92,6 +94,8 @@ You can find out more about this in Section 8.4 and Appendix 2 of the Handbook.
 Unlike court processes which are adversarial, the objective of these proceedings is inquisitorial in nature in that the hearing will be conducted more like an official inquiry. Therefore, there is no direct questioning of the Affected Party and/or other witnesses except by the Disciplinary Committee.
 
 For more information, please see Section 18.11 of the Handbook.
+
+---
 
 **AFTER THE HEARING**
 
