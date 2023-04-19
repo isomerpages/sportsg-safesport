@@ -180,4 +180,4 @@ Quick Downloads:
 
 [Safe Sport Programme Handbook 101](/files/Safe%20Sport%20Programme%20Handbook%20101.pdf)
 
-[Click here to go back to top](#before-the-hearing)
+[Click here to go back to top](#####BEFORE-THE-HEARING)
