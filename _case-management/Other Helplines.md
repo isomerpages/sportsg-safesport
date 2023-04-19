@@ -46,8 +46,7 @@ description: ""
 
 ---
 ##### Sexual Assault Care Centre
-* Hotline: 6779 0282 
-| Operating Hours: Monday to Friday, 10am to 10pm
+* Hotline: 6779 0282 | Operating Hours: Monday to Friday, 10am to 10pm
 
 ---
 ##### **Singapore Association for Mental Health**
