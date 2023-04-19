@@ -171,3 +171,6 @@ For more information, please see Section 10.6 of the [Handbook](https://www.safe
 
 
 _If you have more questions, please email us at_ [_report@safesport.sg_](mailto:report@safesport.sg)
+
+
+[Click here to go back to top](#before-the-hearing)
