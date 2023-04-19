@@ -8,7 +8,8 @@ description: ""
 
   
 ###### **AWARE Women's Helpline**
-* Hotline: 1800 777 5555 | Operating Hours: Monday to Friday, 10am to 6pm
+* Hotline: 1800 777 5555
+| Operating Hours: Monday to Friday, 10am to 6pm
 
 ###### **Care Corner Project StART (Family & Sexual Violence)**
 * Hotline: 6476 1482
@@ -27,7 +28,8 @@ description: ""
 * Hotline: 6389 2222 (24-hour)
 
 ###### **Ministry of Social and Family Development's Child Protective Service**
-* Hotline: 1800 777 0000 | Operating Hours: Monday to Friday, 8.30am to 5pm
+* Hotline: 1800 777 0000
+| Operating Hours: Monday to Friday, 8.30am to 5pm
 
 ###### **National Anti-Violence Helpline**
 * Hotline: 1800 777 0000 (24-hour)
@@ -37,7 +39,8 @@ description: ""
 * Email Befriending: pat@sos.org.sg
 
 ###### **Sexual Assault Care Centre**
-* Hotline: 6779 0282 | Operating Hours: Monday to Friday, 10am to 10pm
+* Hotline: 6779 0282
+| Operating Hours: Monday to Friday, 10am to 10pm
 
 ###### **Singapore Association for Mental Health**
 * Hotline: 1800 283 7019 (24-hour)
