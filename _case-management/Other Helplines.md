@@ -36,7 +36,8 @@ description: ""
 
 ###### **Samaritans of Singapore (SOS) Helpline**
 * Hotline: 1800 221 4444 (24-hour)
-* Email Befriending: pat@sos.org.sg
+* Hotline: 1 767 (24-hour)
+* Email Befriending: [pat@sos.org.sg](mailto:pat@sos.org.sg)
 
 ###### **Sexual Assault Care Centre**
 * Hotline: 6779 0282
@@ -48,6 +49,8 @@ description: ""
 ###### **TOUCHline (Counselling)**
 * Hotline: 1800 377 2252
 
+##### **Tinkle Friend (Primary School Aged Children)**
+* Hotline: 1800 274 4788
 ---
 
 
