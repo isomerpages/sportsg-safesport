@@ -54,7 +54,7 @@ These organisations have adopted:
 		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px"></td><td><a href="https://www.singtennis.org.sg/resource-center-download.aspx?token=GY7N4B9f5n9KBNDx7IwPco0blaZCSSXO">Singapore Tennis Association</a></td></tr>		
 		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px"></td><td><a href="https://www.swf.org.sg/policies/swf-safe-sport-policy">Singapore Weightlifting Federation</a></td></tr>
 		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px"></td><td><a href="https://www.sportsboules.org.sg/our-polices">Singapore Weiqi Association</a></td></tr>
-		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px"></td><td><a href="">Singapore Wushu Dragon and Lion Dance Federation</a></td></tr>
+		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px"></td><td><a>Singapore Wushu Dragon and Lion Dance Federation</a></td></tr>
 		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px"></td><td><a href="http://www.xiangqi.sg/xqsite/sixga-safe-sport-policy/">Singapore Xiangqi General Association</a></td></tr>
 		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px"></td><td><a href="https://www.specialolympics.org.sg/media/b10bwfuv/sosg-safe-sport-policy.pdf">Special Olympics Singapore</a></td></tr>
 		<tr><td><img src="/images/sport%20boules%20logo.png" width="30px"></td><td><a href="https://www.sportsboules.org.sg/our-polices">Sports Boules Singapore</a></td></tr>
@@ -62,5 +62,7 @@ These organisations have adopted:
 		<tr><td><img src="/images/volleyball%20logo.png" width="30px"></td><td><a href="https://volleyball.org.sg/constitution-annual-report-policies/">Volleyball Association of Singapore</a></td></tr>
 		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px"></td><td><a>Wrestling Federation of Singapore</a></td></tr>
 </tbody></table><table></table>
+
+.container}
 
 [Click here to go back to top](#what-does-it-mean-to-be-a-member)
