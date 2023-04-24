@@ -29,3 +29,4 @@ You may reach out to us at safe_sport@sport.gov.sg and we can discuss and custom
 ##### **6. I am interested to attend the Safeguarding Officer training. When is the next run of this training?** 
 The next run of the Safeguarding Officer will be in a hybrid format. You will be required to complete the online training in SportSG-ED (which will be available from April 2022 onwards) and subsequently attend the classroom training where you will be assessed on your competency.
 
+[Click her to go back to top](#how-can-i-access-sportsg-ed)
