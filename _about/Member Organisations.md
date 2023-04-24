@@ -31,7 +31,7 @@ These organisations have adopted:
 		<tr><td><img src="/images/chess%20logo.png" width="30px"></td><td><a href="https://www.sportsboules.org.sg/our-polices">Singapore Chess Federation</a></td></tr>	
 			<tr><td><img src="/images/high%20res%20SCA%20Logo.png" width="30px"></td><td><a href="https://singaporecricket.org/safe-sport-policy/">Singapore Cricket Association</a></td></tr>	
 		<tr><td><img src="/images/scf%20logo.png" width="30px"></td><td><a href="https://singaporecycling.org.sg/pages/safe-sport-commitment">Singapore Cycling Federation</a></td></tr>
-		<tr><td><img src="/images/sdsc%20logo.jpg" width="30px"></td><td><a href="">Singapore Disability Sports Council</a></td></tr>	
+		<tr><td><img src="/images/sdsc%20logo.jpg" width="30px"></td><td><a>Singapore Disability Sports Council</a></td></tr>	
 		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px"></td><td><a href="https://sdba.org.sg/wp-content/uploads/2023/04/SDBA-Safe-Sport-Policy-30-Mar-2023.pdf">Singapore Dragon Boat Association</a></td></tr>		
 		<tr><td><img src="/images/sgea%20logo.png" width="30px"></td><td><a href="https://esports.org.sg/wp-content/uploads/2022/11/Safe-Sport-Policy-SGEA-1.pdf">Singapore Esports Association</a></td></tr>
 		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px"></td><td><a href="https://www.revolutionise.sg/sgfloorball/news/sfa-launches-1st-safe-sport-policy-/">Singapore Floorball Association</a></td></tr>
