@@ -63,6 +63,5 @@ These organisations have adopted:
 		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px"></td><td><a>Wrestling Federation of Singapore</a></td></tr>
 </tbody></table><table></table>
 
-.container}
 
 [Click here to go back to top](#what-does-it-mean-to-be-a-member)
