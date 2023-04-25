@@ -179,4 +179,4 @@ _If you have more questions, please email us at_ [report@safesport.sg](mailto:re
 [Safe Sport Unified Code v4](https://www.safesport.sg/safe-sport-programme/unified-code)
 [Safe Sport Programme Handbook 101](TO EDIT AFTER MOVING WEBPAGE
 
-[Click here to go back to top](####BEFORE-THE-HEARING)
+[Click here to go back to top](#before-the-hearing)
