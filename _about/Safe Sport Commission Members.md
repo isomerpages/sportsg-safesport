@@ -1,10 +1,10 @@
 ---
 title: Safe Sport Commission Members
-permalink: /about/commission-members
+permalink: /about/commission-members/
 description: Safe Sport Commission Members
 image: /images/shareicon.png
 ---
-### Safe Sport Commission 
+### **Safe Sport Commission** 
 
 The Safe Sport Commission comprises representatives of the different stakeholders in our sporting community to bring together participants and organisations in fostering a healthy and positive climate for all involved.
 
@@ -40,4 +40,4 @@ The Safe Sport Commission comprises representatives of the different stakeholder
 | Andy Hoe     | Director, Lifeskills & Lifestyle Division, Peoples Association | 
 | Jennifer Teoh  | Director and Senior Principal Forensic Psychologist, Ministry of Social and Family Development     |
 | Ng Chen Kee   | Divisional Director, Student Development Curriculum, Ministry of Education   |
-| Tan Tin Wee  | Deputy Director, Current Ops, Singapore Police Force  | 
+| Devrajan s/o Bala  | Deputy Director, Current Ops, Singapore Police Force  |
