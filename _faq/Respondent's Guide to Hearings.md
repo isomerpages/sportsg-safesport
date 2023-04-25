@@ -13,7 +13,7 @@ The level of seriousness of a breach can be classified as low, medium or high ba
 
 A breach that is classified at a low level of seriousness will be managed by the Member Organisation. Breaches of higher levels of seriousness will be managed by the [Safe Sport Commission](https://www.safesport.sg/about/commission-members) (“Commission”).
 
-To learn more about the Assessment of Seriousness, see Appendix 1 &amp; 2 of the [Safe Sport Programme Handbook](TO EDIT AFTER MOVING WEBPAGE) (“Handbook”).
+To learn more about the Assessment of Seriousness, see Appendix 1 &amp; 2 of the [Safe Sport Programme Handbook](https://www.safesport.sg/safe-sport-programme/ssp/) (“Handbook”).
 
 ##### **2\. Why is there a need for a hearing?**
 
@@ -177,6 +177,6 @@ _If you have more questions, please email us at_ [report@safesport.sg](mailto:re
 ###### Quick Links:
 
 [Safe Sport Unified Code v4](https://www.safesport.sg/safe-sport-programme/unified-code) <br>
-[Safe Sport Programme Handbook 101](TO EDIT AFTER MOVING WEBPAGE
+[Safe Sport Programme Handbook 101](https://www.safesport.sg/safe-sport-programme/ssp/)
 
 [Click here to go back to top](#before-the-hearing)
