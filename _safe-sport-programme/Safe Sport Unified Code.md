@@ -1,17 +1,17 @@
 ---
 title: Safe Sport Unified Code
-permalink: /safe-sport-programme/unified-code
+permalink: /safe-sport-programme/unified-code/
 description: A unified reference for inappropriate behaviors in the sporting environment
 image: /images/Code.jpg
 ---
 ![Alt text for image on Isomer site](/images/softball.png)
-### The Safe Sport Unified Code
+### **The Safe Sport Unified Code**
 
 The Unified Code was launched on 23 November 2021. It is the cornerstone of the Safe Sport Programme and sets out a unified reference for the Singapore sporting community that defines, describes and explains the forms of abuse and harassment which may take place in the sporting environment.
 
 <br>
 
-> [Safe Sport Unified Code](/files/Safe%20Sport%20Unified%20Code%20v4.pdf)
+&gt; [Safe Sport Unified Code](/files/Safe%20Sport%20Unified%20Code%20v4.pdf)
 	
 
 Categories of misconduct under the Unified Code:
