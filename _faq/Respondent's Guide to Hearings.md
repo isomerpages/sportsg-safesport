@@ -7,15 +7,13 @@ description: ""
 
 ##### **1\. Does every case lead to a hearing before a Disciplinary Committee?**
 
-No. It depends on the seriousness of the alleged breach of the [Safe Sport Unified Code](https://www.safesport.sg/files/Safe%20Sport%20Unified%20Code%20v4.pdf) (“Unified Code”).
+No. It depends on the seriousness of the alleged breach of the [Safe Sport Unified Code](https://www.safesport.sg/safe-sport-programme/unified-code) (“Unified Code”).
 
 The level of seriousness of a breach can be classified as low, medium or high based on the Assessment of Seriousness.
 
-A breach that is classified at a low level of seriousness will be managed by the Member Organisation.
+A breach that is classified at a low level of seriousness will be managed by the Member Organisation. Breaches of higher levels of seriousness will be managed by the [Safe Sport Commission](https://www.safesport.sg/about/commission-members) (“Commission”).
 
-A breach that is classified at a medium or high level of seriousness will be managed by the [Safe Sport Commission](https://www.safesport.sg/about/commission-members) (“Commission”) and subjected to a hearing.
-
-To learn more about the Assessment of Seriousness, see Appendix 1 & 2 of the [Safe Sport Programme Handbook](https://www.safesport.sg/files/Safe%20Sport%20Programme%20Handbook%20101.pdf) (“Handbook”).
+To learn more about the Assessment of Seriousness, see Appendix 1 &amp; 2 of the [Safe Sport Programme Handbook](TO EDIT AFTER MOVING WEBPAGE) (“Handbook”).
 
 ##### **2\. Why is there a need for a hearing?**
 
@@ -47,7 +45,7 @@ You may object to any Disciplinary Committee Member on the case by writing to th
 
 ##### **6\. May I admit to the breach(es) before the hearing?**
 
-Yes, you may admit to the alleged breach(es) by emailing the secretariat ([report@safesport.sg](mailto:report@safesport.sg)). Upon which, the Disciplinary Committee will determine if any sanction(s) should be imposed and in the process, mitigating or aggravating factor(s) will be considered.
+Yes, you may admit to the alleged breach(es) at any time before the hearing or even during the hearing. If you do so, the Disciplinary Committee will proceed to determine if any sanction(s) should be imposed and in the process, mitigating or aggravating factor(s) will be considered.
 
 For more information, please see Section 8.6 and Appendix 3 of the Handbook.
 
@@ -65,7 +63,7 @@ For more information on this, please see Section 6.11 of the Handbook.
 
 -----
 
-##### *AT THE HEARING*
+#### *AT THE HEARING*
 
 ##### **1\. What if I am unable to attend the hearing?**
 
@@ -97,7 +95,7 @@ For more information, please see Section 18.11 of the Handbook.
 
 ---
 
-##### *AFTER THE HEARING*
+#### *AFTER THE HEARING*
 
 ##### **1\. What are some of the possible sanctions which I could be subjected to?**
 
@@ -167,17 +165,19 @@ More on confidentiality can be read from Section 10 of the Handbook.
 
 The Commission may maintain a publicly available, searchable register on the outcome of disciplinary processes.
 
-For more information, please see Section 10.6 of the [Handbook](https://www.safesport.sg/files/Safe%20Sport%20Programme%20Handbook%20101.pdf).
+For more information, please see Section 10.6 of the Handbook.
 
+<br>
+<br>
 
-_If you have more questions, please email us at_ [_report@safesport.sg_](mailto:report@safesport.sg)
+_If you have more questions, please email us at_ [report@safesport.sg](mailto:report@safesport.sg).
 
 ---
 
-Quick Downloads:
+Quick Links:
 
-[Safe Sport Unified Code v4](/files/Safe%20Sport%20Unified%20Code%20v4.pdf)
+[Safe Sport Unified Code v4](https://www.safesport.sg/safe-sport-programme/unified-code)
 
-[Safe Sport Programme Handbook 101](/files/Safe%20Sport%20Programme%20Handbook%20101.pdf)
+[Safe Sport Programme Handbook 101](TO EDIT AFTER MOVING WEBPAGE
 
-[Click here to go back to top](#####BEFORE-THE-HEARING)
+[Click here to go back to top](#BEFORE-THE-HEARING)
