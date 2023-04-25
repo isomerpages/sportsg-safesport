@@ -16,4 +16,4 @@ description: template policies for safeguarding in sport
 * Intimate relationships policy
 <br>
 
-&gt; [Safe Sport Policy Template](/files/safe%20sport%20policy%20template.pdf)
+&gt; [Safe Sport Policy Template](/files/safe%20sport%20policy%20template%20250423.pdf)
