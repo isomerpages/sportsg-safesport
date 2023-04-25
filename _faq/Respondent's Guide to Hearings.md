@@ -3,7 +3,7 @@ title: Respondent's Guide to Hearings
 permalink: /faq/respondents-guide-to-hearings/
 description: ""
 ---
-##### BEFORE THE HEARING
+#### BEFORE THE HEARING
 
 ##### **1\. Does every case lead to a hearing before a Disciplinary Committee?**
 
