@@ -1,16 +1,15 @@
 ---
 title: Training and Education
-permalink: /faq/training-education
+permalink: /faq/training-education/
 description: Questions on Safe Sport Awareness Workshops and Modules
 image: /images/SO%20Training.jpg
 ---
-
 ##### **1. How can I access SportSG-ED?** 
-You may access SportSG-ED via www.sportsync.sg
+You may access SportSG-ED via [www.sportsync.sg](https://www.sportsync.sg/App/Login).
 
 To create a SportSG -ED account, please refer to the video user guides:
 *  To create a SportSG-ED account with your existing ActiveSG account:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VDCeOSPZ2-E?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VDCeOSPZ2-E?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 * To create a SportSG-ED account with a new ActiveSG account: https://www.youtube.com/watch?v=QxOGlmJd8BA 
 
 For any more FAQs on SportSG-ED, please visit [FAQ - Sport Sync](https://www.sportsync.sg/App/System/FAQ) or [go.gov.sg/sportsged](https://go.gov.sg/sportsged).
@@ -29,3 +28,5 @@ You may reach out to us at safe_sport@sport.gov.sg and we can discuss and custom
  
 ##### **6. I am interested to attend the Safeguarding Officer training. When is the next run of this training?** 
 The next run of the Safeguarding Officer will be in a hybrid format. You will be required to complete the online training in SportSG-ED (which will be available from April 2022 onwards) and subsequently attend the classroom training where you will be assessed on your competency.
+
+[Click her to go back to top](#how-can-i-access-sportsg-ed)

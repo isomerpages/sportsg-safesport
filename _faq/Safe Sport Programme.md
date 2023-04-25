@@ -1,7 +1,7 @@
 ---
 title: Safe Sport Programme
-permalink: /faq/safe-sport-programme
-description: "A harmonised safeguarding framework for sport in Singapore "
+permalink: /faq/safe-sport-programme/
+description: A harmonised safeguarding framework for sport in Singapore
 image: /images/Code.jpg
 ---
 ##### **1. Who was consulted in the development of the Unified Code and the Safe Sport Programme?**

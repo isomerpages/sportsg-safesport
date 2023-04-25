@@ -1,6 +1,6 @@
 ---
 title: Workshops
-permalink: /training-and-education/workshops
+permalink: /training-and-education/workshops/
 description: safe spaces to create awareness and discuss experiences
 image: /images/SO%20Training.jpg
 ---
@@ -15,6 +15,7 @@ Here are a few organisations that we have worked with:
 * ActiveSG Sport Operations 
 * Fencing Singapore
 * Football Association of Singapore
+* Singapore Badminton Association
 * Singapore Life Saving Society
 * Singapore Gymnastics
 * Singapore National Olympic Council
@@ -36,4 +37,4 @@ We have also presented in these conferences:
 *   Sports Medicine Association of Singapore (SMAS) Series (2022)
 *   Singapore Drama Educators Association's (SDEA) Connections: Safeguarding Policies in Singapore (2022)
 
-Contact us at **contact@safesport.sg** for more details.
+Contact us at [**contact@safesport.sg**](mailto:contact@safesport.sg) for more details.

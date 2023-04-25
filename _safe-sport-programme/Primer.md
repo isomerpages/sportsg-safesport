@@ -1,13 +1,13 @@
 ---
 title: Primer
-permalink: /safe-sport-programme/primer
-description: "A harmonised safeguarding framework for sport in Singapore "
+permalink: /safe-sport-programme/primer/
+description: A harmonised safeguarding framework for sport in Singapore
 image: /images/IOC-definition.png
 ---
 ![Alt text for image on Isomer site](/images/safesportprimer.png)
 
 
-##### Why is Safe Sport important? 
+##### **Why is Safe Sport important?**
 
 Abuse, harassment and other inappropriate interpersonal behaviours in the community affect enjoyment and participation in sport at all levels. If left unaddressed, it will:<br><br>
 * **Compromise the safety and well-being of affected persons** which can have lifelong impact or worse, cause life threatening situations. This is especially grave when those concerned are minors, the vulnerable or persons with disabilities in our community <br><br>

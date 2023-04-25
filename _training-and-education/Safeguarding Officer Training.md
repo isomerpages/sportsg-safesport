@@ -1,7 +1,7 @@
 ---
 title: Safeguarding Officer Training
-permalink: /training-and-education/so-training
-description: "First responder training "
+permalink: /training-and-education/so-training/
+description: First responder training
 image: /images/workshops.jpg
 ---
 ![Alt text for image on Isomer site](/images/SO%20Training.jpg)
@@ -23,4 +23,4 @@ Safeguarding Officers are required to complete the online Safeguarding Officer m
 
 This training is chargeable for non-member organisations of the Safe Sport Programme. 
 
-Contact us at **contact@safesport.sg** for more details.
+Contact us at [**contact@safesport.sg**](mailto:contact@safesport.sg) for more details.
