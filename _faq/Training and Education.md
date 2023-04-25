@@ -26,5 +26,5 @@ The awareness module in SportSG-ED covers in-depth content on Safe Sport includi
 ##### **5. I would like to conduct a Safe Sport workshop for the community within my sport. Where can I gain access to resources or a trainer to conduct this workshop?**
 You may reach out to us at safe_sport@sport.gov.sg and we can discuss and customize the content to suit your target audience.
  
-##### **6. I am interested to attend the Safeguarding Officer training. When is the next run of this training?** 
+##### **6. I am interested to attend the Safeguarding Officer Training. When is the next run of this training?** 
 The next run of the Safeguarding Officer will be in a hybrid format. You will be required to complete the online training in SportSG-ED (which will be available from April 2022 onwards) and subsequently attend the classroom training where you will be assessed on your competency.
