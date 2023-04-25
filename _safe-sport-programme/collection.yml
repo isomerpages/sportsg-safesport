@@ -2,6 +2,7 @@ collections:
   safe-sport-programme:
     output: true
     order:
+      - Member Organisations.md
       - Primer.md
       - Purpose and Principles.md
       - Safe Sport Unified Code.md
