@@ -8,7 +8,7 @@ image: /images/shareicon.png
 
 The Safe Sport Commission comprises representatives of the different stakeholders in our sporting community to bring together participants and organisations in fostering a healthy and positive climate for all involved.
 
-### List of Commission Members 
+### **List of Commission Members** 
 ##### Term 2021- 2023
 
 
@@ -24,7 +24,7 @@ The Safe Sport Commission comprises representatives of the different stakeholder
 | -------- | ---------------|
 | Chris Chan     | Secretary General, Singapore National Olympic Council (SNOC) / President, Global Esports  Federation  |
 | Lau Kok Keng    | Partner, Rajah & Tann Singapore LLP  / Member, SNOC Executive Committee    | 
-| Lee Kok Choy    | President, Singapore Swimming Association / SportSG Board Member  |
+| Lee Kok Choy    | NSA Representative / SportSG Board Member  |
 | Lim Chea Rong     | Head Coach, Shooting, Singapore Sports School     |
 | Nurulasyiqah Mohammad Taha     | Paralympian / Member, Singapore Para-Athletes Commission / Member, International Paralympic Committee | 
 | Shayna Ng   | National Athlete / Member, Athlete's Commission, SNOC  |  
