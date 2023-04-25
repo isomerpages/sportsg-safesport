@@ -3,7 +3,7 @@ title: Policy Resources
 permalink: /policy-and-advocacy/resources/
 description: template policies for safeguarding in sport
 ---
-##### **Member organisations may adopt these policies and procedures into their organisational policies, contracts for services and employment terms:**
+##### **Member Organisations may adopt these policies and procedures into their organisational policies, contracts for services and employment terms:**
 
 
 * Recruitment Policy
@@ -13,7 +13,7 @@ description: template policies for safeguarding in sport
 * Social Media, Mobile and Electronic Communications Policy
 * Changing Room Policy
 * Safe Sport Training &amp; Education Policy
-* Intimate relationships policy
+* Intimate Relationships policy
 <br>
 
 &gt; [Safe Sport Policy Template](/files/safe%20sport%20policy%20template%20250423.pdf)
