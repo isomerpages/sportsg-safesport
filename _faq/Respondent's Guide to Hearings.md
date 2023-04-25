@@ -174,8 +174,8 @@ _If you have more questions, please email us at_ [report@safesport.sg](mailto:re
 
 ---
 
-&gt; ###### Quick Links: <br>
-&gt;&gt; [Safe Sport Unified Code v4](https://www.safesport.sg/safe-sport-programme/unified-code) <br>
-&gt;&gt; [Safe Sport Programme Handbook 101](https://www.safesport.sg/safe-sport-programme/ssp/)
+###### Quick Links: <br>
+[Safe Sport Unified Code v4](https://www.safesport.sg/safe-sport-programme/unified-code) <br>
+[Safe Sport Programme Handbook 101](https://www.safesport.sg/safe-sport-programme/ssp/)
 
 [Click here to go back to top](#before-the-hearing)
