@@ -3,7 +3,7 @@ title: Respondent's Guide to Hearings
 permalink: /faq/respondents-guide-to-hearings/
 description: ""
 ---
-##### *BEFORE THE HEARING*
+##### <a>BEFORE THE HEARING</a>
 
 ##### **1\. Does every case lead to a hearing before a Disciplinary Committee?**
 
@@ -145,7 +145,7 @@ The measures/sanctions imposed by the Disciplinary Committee remain in place pen
 
 This will depend on:
 
-*  the grounds of appeal (whether the matter of appeal relates to a question or law and/or fact)
+*  the grounds of appeal (whether the matter of appeal relates to a question of law and/or fact)
 
 *  whether the Appeal Committee needs to hear the matter afresh
 
@@ -174,10 +174,10 @@ _If you have more questions, please email us at_ [report@safesport.sg](mailto:re
 
 ---
 
-Quick Links:
-
-[Safe Sport Unified Code v4](https://www.safesport.sg/safe-sport-programme/unified-code)
-
-[Safe Sport Programme Handbook 101](TO EDIT AFTER MOVING WEBPAGE
+&gt; ###### Quick Links:
+&gt;
+&gt;&gt; [Safe Sport Unified Code v4](https://www.safesport.sg/safe-sport-programme/unified-code)
+&gt;
+&gt;&gt;[Safe Sport Programme Handbook 101](TO EDIT AFTER MOVING WEBPAGE
 
 [Click here to go back to top](#BEFORE-THE-HEARING)
