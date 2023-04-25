@@ -3,7 +3,7 @@ title: Respondent's Guide to Hearings
 permalink: /faq/respondents-guide-to-hearings/
 description: ""
 ---
-##### <a>BEFORE THE HEARING</a>
+ ##### <a>BEFORE THE HEARING</a>
 
 ##### **1\. Does every case lead to a hearing before a Disciplinary Committee?**
 
@@ -178,6 +178,6 @@ _If you have more questions, please email us at_ [report@safesport.sg](mailto:re
 &gt;
 &gt;&gt; [Safe Sport Unified Code v4](https://www.safesport.sg/safe-sport-programme/unified-code)
 &gt;
-&gt;&gt;[Safe Sport Programme Handbook 101](TO EDIT AFTER MOVING WEBPAGE
+&gt;&gt; [Safe Sport Programme Handbook 101](TO EDIT AFTER MOVING WEBPAGE
 
 [Click here to go back to top](#BEFORE-THE-HEARING)
