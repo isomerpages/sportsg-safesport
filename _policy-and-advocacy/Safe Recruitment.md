@@ -20,6 +20,6 @@ This would include:
 
 #### **Template Forms**
 The following template forms are available for your organisation's use:
-> [Application Form](https://go.gov.sg/recruitment-application)
+> [Application Form for working with Vulnerable Persons](https://go.gov.sg/recruitment-application)
 
 > [Reference Check Form](https://go.gov.sg/recruitment-referencecheck)
