@@ -9,7 +9,7 @@ Welcome to the Safe Sport Programme!
 
 These are all the documents your organisations will need to help you ensure it properly adopts the Safe Sport Programme.
 
-
+<p style="text-align:right">Download</p>
 
 | **Start here!** | <p style="text-align:right"> Download </p> | 
 | -------- | -------- | 
