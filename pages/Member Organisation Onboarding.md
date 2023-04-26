@@ -11,7 +11,7 @@ These are all the documents your organisations will need to help you ensure it p
 
 
 
-| **Start here!** | <p align="right"> Download </p> | 
+| **Start here!** | <div align="right"> Download </div> | 
 | -------- | -------- | 
 | Safe Sport Onboarding Toolkit   | [](/files/Safe%20Sport%20Programme%20Onboarding%20Toolkit_final.pdf)     | 
 
