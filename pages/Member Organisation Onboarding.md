@@ -11,16 +11,16 @@ These are all the documents your organisations will need to help you ensure it p
 
 
 
-| **Start here!** | <div align="right"> Download </div> | 
+| **Start here!** | <p style="text-align:right"> Download </p> | 
 | -------- | -------- | 
 | Safe Sport Onboarding Toolkit   | [](/files/Safe%20Sport%20Programme%20Onboarding%20Toolkit_final.pdf)     | 
 
-| **Core Documents** | <p align="right">Download</p> | 
+| **Core Documents** | <p style="text-align:right">Download</p> | 
 | -------- | -------- | 
 | Safe Sport Unified Code   | [](/files/Safe%20Sport%20Unified%20Code%20v4.pdf)     |
 | Safe Sport Programme Handbook   |  [](/files/Safe%20Sport%20Programme%20Handbook%20101.pdf)    | 
 
-| **Other Documents** | <p align="right">Download</p> | 
+| **Other Documents** | <p style="text-align:right">Download</p> | 
 | -------- | -------- | 
 | Safe Sport Policy Template    | [](/files/Safe%20Sport%20Policy%20Template.pdf)     |
 | Risk Assessment Tool   | [Assessment Tool](https://go.gov.sg/riskassessment)    | 
