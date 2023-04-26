@@ -33,34 +33,34 @@ These organisations have adopted:
 		<tr><td><img src="/images/scf%20logo.png" height="30px" width="30px"></td><td><a href="https://singaporecycling.org.sg/pages/safe-sport-commitment">Singapore Cycling Federation</a></td></tr>
 		<tr><td><img src="/images/sdsc%20logo.jpg" height="30px" width="30px"></td><td><a>Singapore Disability Sports Council</a></td></tr>	
 		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" height="30px" width="30px"></td><td><a href="https://sdba.org.sg/wp-content/uploads/2023/04/SDBA-Safe-Sport-Policy-30-Mar-2023.pdf">Singapore Dragon Boat Association</a></td></tr>		
-		<tr><td><img src="/images/sgea%20logo.png" width="30px"></td><td><a href="https://esports.org.sg/wp-content/uploads/2022/11/Safe-Sport-Policy-SGEA-1.pdf">Singapore Esports Association</a></td></tr>
-		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px"></td><td><a href="https://cdn.revolutionise.com.au/news/inis3fjuvite6aad.docx">Singapore Floorball Association</a></td></tr>
-		<tr><td><img src="/images/gymnastics%20logo.png" width="30px"></td><td><a href="https://www.singaporegymnastics.org.sg/safe-sport/child-safety/">Singapore Gymnastics</a></td></tr>
-		<tr><td><img src="/images/hockey%20logo.png" width="30px"></td><td><a href="https://www.singaporehockey.org/resources/shf-safe-sport-policy/">Singapore Hockey Federation</a></td></tr>
-		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px"></td><td><a href="https://www.sisa.org.sg/safe-sport">Singapore Ice Skating Association</a></td></tr>
-		<tr><td><img src="/images/sjf%20logo.png" width="30px"></td><td><a href="https://www.sjf.sg/safesport">Singapore Judo Federation</a></td></tr>
-		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px"></td><td><a>Singapore RollerSports Federation</a></td></tr>
-		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px"></td><td><a>Singapore Rowing Association</a></td></tr>		
-		<tr><td><img src="/images/sru%20logo.png" width="30px"></td><td><a>Singapore Rugby Union</a></td></tr>	
-		<tr><td><img src="/images/ssf%20logo%202018_full%20colour.jpg" width="30px"></td><td><a href="https://sailing.org.sg/wp-content/uploads/2023/03/SSF-Safe-Sport-Policy.pdf">Singapore Sailing Federation</a></td></tr>	
-		<tr><td><img src="/images/perses%20logo.png" width="30px"></td><td><a href="https://www.sgsepaktakraw.org/safe-sports-policy">Singapore Sepak Takraw Federation</a></td></tr>
-		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px"></td><td><a href="https://singaporeshooting.org/portal/wp-content/uploads/Singapore-Shooting-Association_Safe-Sport-Policy-as-of-27-July-2022.pdf">Singapore Shooting Association</a></td></tr>
-		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px"></td><td><a href="https://persisi.org/uploads/events/40/attachments/Singapore%20Silat%20Federation%20-%20Safe%20Sport%20Policy.pdf">Singapore Silat Federation</a></td></tr>
-		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px"></td><td><a>Singapore Sport Climbing and Mountaineering Federation</a></td></tr>
-		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px"></td><td><a>Singapore Squash Rackets Association</a></td></tr>
-		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px"></td><td><a href="https://www.swimming.org.sg/getattachment/SSA/Safe-Sport/Safe-Aquatics/V1-0_SSA-Safe-Sport-Policy_FINAL-(1).pdf.aspx">Singapore Swimming Association</a></td></tr>
-		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px"></td><td><a href="https://www.stta.org.sg/wp-content/uploads/2022/12/Safe-Sport-Policy-Template_STTA.docx-dated-9-Dec-2022.pdf">Singapore Table Tennis Association</a></td></tr>
-	<tr><td><img src="/images/STF%20Logo.png" width="30px"></td><td><a href="https://www.stf.sg/wp-content/uploads/2023/03/Safe-Sport-Policy_STF_21-Feb-2023_compressed-1.pdf">Singapore Taekwondo Federation</a></td></tr>
-		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px"></td><td><a href="https://www.singtennis.org.sg/resource-center-download.aspx?token=GY7N4B9f5n9KBNDx7IwPco0blaZCSSXO">Singapore Tennis Association</a></td></tr>		
-		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px"></td><td><a href="https://www.swf.org.sg/policies/swf-safe-sport-policy">Singapore Weightlifting Federation</a></td></tr>
-		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px"></td><td><a href="https://www.sportsboules.org.sg/our-polices">Singapore Weiqi Association</a></td></tr>
-		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px"></td><td><a>Singapore Wushu Dragon and Lion Dance Federation</a></td></tr>
-		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px"></td><td><a href="http://www.xiangqi.sg/xqsite/sixga-safe-sport-policy/">Singapore Xiangqi General Association</a></td></tr>
-		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px"></td><td><a href="https://www.specialolympics.org.sg/media/b10bwfuv/sosg-safe-sport-policy.pdf">Special Olympics Singapore</a></td></tr>
-		<tr><td><img src="/images/sport%20boules%20logo.png" width="30px"></td><td><a href="https://www.sportsboules.org.sg/our-polices">Sports Boules Singapore</a></td></tr>
-		<tr><td><img src="/images/triathlon%20logo.png" width="30px"></td><td><a href="https://www.triathlonsingapore.org/about/safe-sport/">Triathlon Association of Singapore</a></td></tr>
-		<tr><td><img src="/images/volleyball%20logo.png" width="30px"></td><td><a href="https://volleyball.org.sg/constitution-annual-report-policies/">Volleyball Association of Singapore</a></td></tr>
-		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px"></td><td><a>Wrestling Federation of Singapore</a></td></tr>
+		<tr><td><img src="/images/sgea%20logo.png" height="30px" width="30px"></td><td><a href="https://esports.org.sg/wp-content/uploads/2022/11/Safe-Sport-Policy-SGEA-1.pdf">Singapore Esports Association</a></td></tr>
+		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" height="30px" width="30px"></td><td><a href="https://cdn.revolutionise.com.au/news/inis3fjuvite6aad.docx">Singapore Floorball Association</a></td></tr>
+		<tr><td><img src="/images/gymnastics%20logo.png" height="30px" width="30px"></td><td><a href="https://www.singaporegymnastics.org.sg/safe-sport/child-safety/">Singapore Gymnastics</a></td></tr>
+		<tr><td><img src="/images/hockey%20logo.png" height="30px" width="30px"></td><td><a href="https://www.singaporehockey.org/resources/shf-safe-sport-policy/">Singapore Hockey Federation</a></td></tr>
+		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" height="30px" width="30px"></td><td><a href="https://www.sisa.org.sg/safe-sport">Singapore Ice Skating Association</a></td></tr>
+		<tr><td><img src="/images/sjf%20logo.png" height="30px" width="30px"></td><td><a href="https://www.sjf.sg/safesport">Singapore Judo Federation</a></td></tr>
+		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" height="30px" width="30px"></td><td><a>Singapore RollerSports Federation</a></td></tr>
+		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" height="30px" width="30px"></td><td><a>Singapore Rowing Association</a></td></tr>		
+		<tr><td><img src="/images/sru%20logo.png" height="30px" width="30px"></td><td><a>Singapore Rugby Union</a></td></tr>	
+		<tr><td><img src="/images/ssf%20logo%202018_full%20colour.jpg" height="30px" width="30px"></td><td><a href="https://sailing.org.sg/wp-content/uploads/2023/03/SSF-Safe-Sport-Policy.pdf">Singapore Sailing Federation</a></td></tr>	
+		<tr><td><img src="/images/perses%20logo.png" height="30px" width="30px"></td><td><a href="https://www.sgsepaktakraw.org/safe-sports-policy">Singapore Sepak Takraw Federation</a></td></tr>
+		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" height="30px" width="30px"></td><td><a href="https://singaporeshooting.org/portal/wp-content/uploads/Singapore-Shooting-Association_Safe-Sport-Policy-as-of-27-July-2022.pdf">Singapore Shooting Association</a></td></tr>
+		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" height="30px" width="30px"></td><td><a href="https://persisi.org/uploads/events/40/attachments/Singapore%20Silat%20Federation%20-%20Safe%20Sport%20Policy.pdf">Singapore Silat Federation</a></td></tr>
+		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" height="30px" width="30px"></td><td><a>Singapore Sport Climbing and Mountaineering Federation</a></td></tr>
+		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" height="30px" width="30px"></td><td><a>Singapore Squash Rackets Association</a></td></tr>
+		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" height="30px" width="30px"></td><td><a href="https://www.swimming.org.sg/getattachment/SSA/Safe-Sport/Safe-Aquatics/V1-0_SSA-Safe-Sport-Policy_FINAL-(1).pdf.aspx">Singapore Swimming Association</a></td></tr>
+		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" height="30px" width="30px"></td><td><a href="https://www.stta.org.sg/wp-content/uploads/2022/12/Safe-Sport-Policy-Template_STTA.docx-dated-9-Dec-2022.pdf">Singapore Table Tennis Association</a></td></tr>
+	<tr><td><img src="/images/STF%20Logo.png" height="30px" width="30px"></td><td><a href="https://www.stf.sg/wp-content/uploads/2023/03/Safe-Sport-Policy_STF_21-Feb-2023_compressed-1.pdf">Singapore Taekwondo Federation</a></td></tr>
+		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" height="30px" width="30px"></td><td><a href="https://www.singtennis.org.sg/resource-center-download.aspx?token=GY7N4B9f5n9KBNDx7IwPco0blaZCSSXO">Singapore Tennis Association</a></td></tr>		
+		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" height="30px" width="30px"></td><td><a href="https://www.swf.org.sg/policies/swf-safe-sport-policy">Singapore Weightlifting Federation</a></td></tr>
+		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" height="30px" width="30px"></td><td><a href="https://www.sportsboules.org.sg/our-polices">Singapore Weiqi Association</a></td></tr>
+		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" height="30px" width="30px"></td><td><a>Singapore Wushu Dragon and Lion Dance Federation</a></td></tr>
+		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" height="30px" width="30px"></td><td><a href="http://www.xiangqi.sg/xqsite/sixga-safe-sport-policy/">Singapore Xiangqi General Association</a></td></tr>
+		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" height="30px" width="30px"></td><td><a href="https://www.specialolympics.org.sg/media/b10bwfuv/sosg-safe-sport-policy.pdf">Special Olympics Singapore</a></td></tr>
+		<tr><td><img src="/images/sport%20boules%20logo.png" height="30px" width="30px"></td><td><a href="https://www.sportsboules.org.sg/our-polices">Sports Boules Singapore</a></td></tr>
+		<tr><td><img src="/images/triathlon%20logo.png" height="30px" width="30px"></td><td><a href="https://www.triathlonsingapore.org/about/safe-sport/">Triathlon Association of Singapore</a></td></tr>
+		<tr><td><img src="/images/volleyball%20logo.png" height="30px" width="30px"></td><td><a href="https://volleyball.org.sg/constitution-annual-report-policies/">Volleyball Association of Singapore</a></td></tr>
+		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" height="30px" width="30px"></td><td><a>Wrestling Federation of Singapore</a></td></tr>
 </tbody></table><table></table>
 
 
