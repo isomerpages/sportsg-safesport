@@ -29,7 +29,7 @@ These organisations have adopted:
 		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" height="30px" width="30px"></td><td><a href="https://www.singapore-boxing.org/safe-sport-policy">Singapore Boxing Federation</a></td></tr>	
 		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" height="30px" width="30px"></td><td><a href="https://scf.org.sg/pages/details/safe-sport">Singapore Canoe Federation</a></td></tr>	
 		<tr><td><img src="/images/chess%20logo.png" height="30px" width="30px"></td><td><a href="https://singaporechess.org.sg/wp-content/uploads/2023/02/Safe-Sport-Policy-SCF-2.pdf">Singapore Chess Federation</a></td></tr>	
-			<tr><td><img src="/images/high%20res%20SCA%20Logo.png" style="max-height:100px"></td><td><a href="https://singaporecricket.org/safe-sport-policy/">Singapore Cricket Association</a></td></tr>	
+			<tr><td><img src="/images/high%20res%20SCA%20Logo.png" style="max-height:100px; min-width:75px"></td><td><a href="https://singaporecricket.org/safe-sport-policy/">Singapore Cricket Association</a></td></tr>	
 		<tr><td><img src="/images/scf%20logo.png" height="30px" width="30px"></td><td><a href="https://singaporecycling.org.sg/pages/safe-sport-commitment">Singapore Cycling Federation</a></td></tr>
 		<tr><td><img src="/images/sdsc%20logo.jpg" height="30px" width="30px"></td><td><a>Singapore Disability Sports Council</a></td></tr>	
 		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" height="30px" width="30px"></td><td><a href="https://sdba.org.sg/wp-content/uploads/2023/04/SDBA-Safe-Sport-Policy-30-Mar-2023.pdf">Singapore Dragon Boat Association</a></td></tr>		
