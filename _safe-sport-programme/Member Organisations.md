@@ -11,9 +11,9 @@ These organisations have adopted:
  
 ##### List of Member Organisations
 <table>
-	<tbody><tr style="height:30%"><th style="width:30%"></th><th style="width:70%"></th>		
-		</tr><tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px"></td><td><a href="https://archerysingapore.org.sg/high-performance/safe-sport">Archery Association of Singapore</a></td></tr>
-		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" width="30px"></td><td><a href="https://bas.org.sg/uploads/sites/bas/Policy%20-%20Safe%20Sport%2020230118.pdf">Basketball Association of Singapore</a></td></tr>	
+	<tbody><tr style="height:30%"></tr><tr><th style="width:30%"></th><th style="width:70%"></th>		
+		</tr><tr><td><img src="/images/logos/Blue%20Pic%20Only.png" height="30px" width="30px"></td><td><a href="https://archerysingapore.org.sg/high-performance/safe-sport">Archery Association of Singapore</a></td></tr>
+		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" height="30px" width="30px"></td><td><a href="https://bas.org.sg/uploads/sites/bas/Policy%20-%20Safe%20Sport%2020230118.pdf">Basketball Association of Singapore</a></td></tr>	
 		<tr><td><img src="/images/bowls%20sg%20logo.png" width="30px"></td><td><a href="https://www.bowlssingapore.org/safe-sport-policy/">Bowls Singapore</a></td></tr>
 		<tr><td><img src="/images/cuesports%20logo.png" width="30px"></td><td><a href="http://cuesports.org.sg/safe-sport-policy/">Cuesports Singapore</a></td></tr>	
 		<tr><td><img src="/images/efs%20logo.png" width="30px"></td><td><a href="https://equestrianfederationsg.com/safe-sports-policy">Equestrian Federation of Singapore</a></td></tr>
