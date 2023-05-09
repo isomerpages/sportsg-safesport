@@ -21,13 +21,13 @@ description: ""
 ###### **Care Corner Toll-Free Mandarin Counselling (免费华语辅导服务)**
 * Hotline: 1800 3535 800
 
-###### **ComCare**
+###### **ComCare (Ministry of Social and Family Development)**
 * Hotline: 1800 222 0000
 
-###### **Counselling & Care Centre**
+###### **Counselling & Care Centre (National Council of Social Service)**
 * Hotline: 6536 6366 
 
-###### **IMH Mental Health Helpline**
+###### **Institute of Mental Health's Mental Health Helpline**
 * Hotline: 6389 2222 (24-hour)
 
 ###### **Ministry of Social and Family Development's Child Protective Service**
@@ -55,7 +55,7 @@ description: ""
 ###### **TOUCHline Care Line (for seniors, caregivers)**
 * Hotline: 6804 6555
 
-###### **Tinkle Friend (Primary School Aged Children)**
+###### **Tinkle Friend (Primary School-Aged Children)**
 * Hotline: 1800 274 4788
 ---
 
