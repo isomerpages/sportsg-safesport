@@ -38,8 +38,8 @@ description: ""
 * Hotline: 1800 777 0000 (24-hour)
 
 ###### **Samaritans of Singapore (SOS) Helpline**
-* Hotline: 1800 221 4444 (24-hour)
 * Hotline: 1-767 (24-hour)
+* CareText (Whatsapp messaging service): [9151 1767](https://wa.me/6591511767) (24-hour)
 * Email Befriending: [pat@sos.org.sg](mailto:pat@sos.org.sg)
 
 ###### **Sexual Assault Care Centre**
