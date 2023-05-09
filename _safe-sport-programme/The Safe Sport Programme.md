@@ -9,20 +9,22 @@ image: /images/programme.jpg
 ### **The Safe Sport Programme**
  
 The Safe Sport Programme comprises all the elements required to optimize the implementation of the Unified Code for sporting organisations that subscribe to the Safe Sport Programme (“Member Organisations”).
-<br><br>
 
+\
+\
 ![](/images/Safe%20Sport%20Programme.png)
-<br>
 
 
+\
 The Safe Sport Programme also prescribes:
 
-<li><b>Process and Procedures</b> - clear guidelines on jurisdiction, confidentiality, assessment and
-investigation of reports of concern, a decision-making framework for the determination of severity and consequence(s) and hearing procedures which will ensure a consistent, fair and independent resolution process. </li>
-<li><b>Measures</b> – protective and/or rehabilitative interventions including education, contact limitations and re-integration programmes.</li>
-<li><b>Sanctions</b> – appropriate limitations, conditions, suspensions or denial of the privilege of
-participation as a consequence for engaging in Misconduct.</li>
+* **Process and Procedures** - clear guidelines on jurisdiction, confidentiality, assessment and
+investigation of reports of concern, a decision-making framework for the determination of severity and consequence(s) and hearing procedures which will ensure a consistent, fair and independent resolution process. 
+* **Measures** – protective and/or rehabilitative interventions including education, contact limitations and re-integration programmes.
+* **Sanctions** – appropriate limitations, conditions, suspensions or denial of the privilege of
+participation as a consequence for engaging in Misconduct.
 
-&gt; [Safe Sport Programme Handbook](/files/Safe%20Sport%20Programme%20Handbook%20101.pdf)
+> [Safe Sport Programme Handbook](/files/Safe%20Sport%20Programme%20Handbook%20101.pdf)
 
-<br> Contact us at [contact@safesport.sg](mailto:contact@safesport.sg) to find out how to become a [Member Organisation](https://www.safesport.sg/about/memberorganisations/) or Affiliate.
+\
+Contact us at [contact@safesport.sg](mailto:contact@safesport.sg) to find out how to become a [Member Organisation](https://www.safesport.sg/about/memberorganisations/) or Affiliate.
