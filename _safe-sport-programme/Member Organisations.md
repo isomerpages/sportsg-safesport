@@ -1,6 +1,6 @@
 ---
 title: Member Organisations
-permalink: /about/MemberOrganisations/
+permalink: /about/memberorganisations/
 description: ""
 ---
 ##### What does it mean to be a member? 

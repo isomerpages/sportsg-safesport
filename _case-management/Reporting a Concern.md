@@ -1,6 +1,6 @@
 ---
 title: Reporting a Concern
-permalink: /case-management/reporting
+permalink: /case-management/reporting/
 description: What to do if you have a Safe Sport concern
 image: /images/Code.jpg
 ---

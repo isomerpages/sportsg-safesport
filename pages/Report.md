@@ -1,5 +1,5 @@
 ---
 title: Report
-permalink: /report
+permalink: /report/
 description: ""
 ---

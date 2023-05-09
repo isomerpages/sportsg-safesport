@@ -1,6 +1,6 @@
 ---
 title: Disciplinary Panel Member Application
-permalink: /resource/announcements/DPApplication
+permalink: /resource/announcements/dpapplication/
 date: 2021-11-19
 layout: post
 description: ""

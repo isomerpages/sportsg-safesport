@@ -1,6 +1,6 @@
 ---
 title: Key Signatories
-permalink: /safe-sport-programme/key-signatories
+permalink: /safe-sport-programme/key-signatories/
 description: "A harmonised safeguarding framework for sport in Singapore "
 image: /images/handshake.jpg
 ---

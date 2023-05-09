@@ -1,6 +1,6 @@
 ---
 title: Support Network
-permalink: /faq/support-network
+permalink: /faq/support-network/
 description: Augmented psychosocial support
 image: /images/ultimate.jpg
 ---
