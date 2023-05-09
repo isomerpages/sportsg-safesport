@@ -50,7 +50,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-staging: https://sportsg-safesport-staging.netlify.app
-prod: https://sportsg-safesport-prod.netlify.app
+staging: https://staging.dro5w6zlj5mvl.amplifyapp.com/
+prod: https://master.dro5w6zlj5mvl.amplifyapp.com/
 is_government: false
 shareicon: /images/shareicon.png
