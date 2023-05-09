@@ -11,7 +11,11 @@ The Unified Code was launched on 23 November 2021. It is the cornerstone of the 
 
 <br>
 
-<blockquote><a href="/files/Safe%20Sport%20Unified%20Code%20v4.pdf">Safe Sport Unified Code</a></blockquote>
+<blockquote>
+	<p>
+	Safe Sport Unified Code
+	</p>
+</blockquote>
 	
 
 Categories of misconduct under the Unified Code:
