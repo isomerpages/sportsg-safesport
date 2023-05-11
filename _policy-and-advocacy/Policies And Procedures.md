@@ -6,8 +6,8 @@ description: ""
 #####  **What is a safeguarding policy?**
 
 A safeguarding policy is a best practice framework for your organisation to:
-*  **guide and set expectations for interactions**  of between all participants
-*  provide **clarity on responsibilities** for persons in authority or in positions of trust
+*  **guide and set expectations for interactions** between all participants
+*  provide **clarity on responsibilities** for Persons In Authority or in positions of trust
 *  set **procedures for reporting and responding** to incidents 
 
 
