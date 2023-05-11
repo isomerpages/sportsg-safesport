@@ -14,7 +14,7 @@ To create a SportSG -ED account, please refer to the video user guides:
 
 For any more FAQs on SportSG-ED, please visit [FAQ - Sport Sync](https://www.sportsync.sg/App/System/FAQ) or [go.gov.sg/sportsged](https://go.gov.sg/sportsged).
 
-##### **2. Are the Awareness modules only available in SportSG-ED?**
+##### **2. Are the Awareness modules only available on SportSG-ED?**
 Yes. The Awareness modules are only available on SportSG-ED.
 
 ##### **3. Do I get a certificate and am I deemed as Safe Sport trained upon completing the Awareness module in SportSG-ED?**
