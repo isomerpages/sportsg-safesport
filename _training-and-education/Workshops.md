@@ -14,9 +14,9 @@ and groups.
 
 | Description | Cost | Duration | Class Size |Remarks |
 | -------- | -------- | -------- | -------- | -------- |
-| Workshop Fee | $90/hr | Minimally 2 hrs |Maximum 20 pax | Comes with 1 Trainer &amp; 1 Assistant Facilitator | 
+| Workshop Fee | $90/hr | Minimum 2 hrs |Maximum 20 pax | Facilitated by 1 Trainer &amp; 1 Assistant | 
 
-*For all other enquiries regarding workshop rates, please contact us at [contact@safesport.sg](mailto:contact@safesport.sg).*
+###### *For rates on larger workshops, please contact us at [contact@safesport.sg](mailto:contact@safesport.sg).*
 
 <br>
 
