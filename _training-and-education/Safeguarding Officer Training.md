@@ -43,7 +43,7 @@ Sign up for our upcoming Safeguarding Officer Training session here:
       }
     </style>
 		
-<a target="_blank" href="https://form.gov.sg/5fd0341bfc3f3100111264b5a" class="button" style="text-decoration: none; color:#FFFFFF">Safeguarding Officer Training</a> , or fill in the form below.
+<a target="_blank" href="https://go.gov.sg/sotrg/" class="button" style="text-decoration: none; color:#FFFFFF">Safeguarding Officer Training</a> to open in a new tab, or fill in the form below.
 
 <iframe id="iframe" src="https://form.gov.sg/5fd0341bfc3f3100111264b5" style="width:100%;height:1000px"></iframe>
 
