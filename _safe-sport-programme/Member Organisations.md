@@ -9,8 +9,6 @@ These organisations have adopted:
 * the [Safe Sport Unified Code](https://www.safesport.sg/files/Safe%20Sport%20Unified%20Code%20v4.pdf);  
 * the mechanisms for response and resolution for handling allegations of misconduct as set out in the [Safe Sport Programme Handbook](https://www.safesport.sg/files/Safe%20Sport%20Programme%20Handbook%20101.pdf).
  
- code ref
- <img src="/images/high%20res%20SCA%20Logo.png" style="height:30%; width:70%"><a href="https://singaporecricket.org/safe-sport-policy/">Singapore Cricket Association</a>
  
 ##### List of Member Organisations
 <table>
