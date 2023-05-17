@@ -35,6 +35,6 @@ You may contact your sporting organisation’s Safeguarding Officer or make a re
       }
     </style>
 		
-<a style= "text-decoration: none; color:#FFFFFF" class="button" href="https://form.gov.sg/#!/61a58d94e6d425001302b74a">REPORT A CONCERN</a> (to open in a separate page) or fill in the form below.
+<a style="text-decoration: none; color:#FFFFFF" class="button" target="_blank" href="https://form.gov.sg/#!/61a58d94e6d425001302b74a">REPORT A CONCERN</a> to open in a new tab, or fill in the form below.
 
 <iframe style="width:100%;height:1000px" src="https://form.gov.sg/#!/61a58d94e6d425001302b74a" id="iframe"></iframe>
