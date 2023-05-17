@@ -10,7 +10,7 @@ We have conducted customised Safe Sport Awareness, First Responder and Case Stud
 and groups.
 
 
-##### Workshop Rates
+##### **Workshop Rates**
 
 | Description | Cost | Duration | Class Size |Remarks |
 | -------- | -------- | -------- | -------- | -------- |
@@ -20,7 +20,7 @@ and groups.
 
 <br>
 
-##### Here are a few organisations that we have worked with:
+##### **Here are a few organisations that we have worked with:**
 * Active Health
 * ActiveSG Academies and Clubs (Coaches, Sport Administrators &amp; Parents)
 * ActiveSG Sport Operations 
@@ -37,7 +37,7 @@ and groups.
 * Singapore Swimming Association
 
 
-##### We have also presented in these conferences:
+##### **We have also presented in these conferences:**
 *   NYSI Youth Conference (2018)
 *   Safe Sport in Asia Webinar (2020)
 *   5th&nbsp;Asia Congress (2021)
