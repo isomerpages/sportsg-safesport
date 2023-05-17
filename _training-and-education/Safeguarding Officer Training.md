@@ -35,3 +35,5 @@ Sign up for our upcoming Safeguarding Officer Training session [here](https://go
 
 
 Contact us at [contact@safesport.sg](mailto:contact@safesport.sg) for more details.
+
+[Click here to go back to top](#safeguarding-officers)
