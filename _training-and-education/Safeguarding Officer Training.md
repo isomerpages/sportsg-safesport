@@ -28,12 +28,30 @@ Safeguarding Officers are required to complete the online Safeguarding Officer m
 This training is chargeable for non-[member organisations](/about/memberorganisations) of the Safe Sport Programme. 
 
 ##### Registration Form
-Sign up for our upcoming Safeguarding Officer Training session [here](https://go.gov.sg/sotrg) (to open in a new tab) or fill in the form below.
+Sign up for our upcoming Safeguarding Officer Training session here:
 
+<style>
+      .button {
+        display: inline-block;
+        padding: 10px 20px;
+        text-align: center;
+        text-decoration: none;
+        color: #ffffff;
+        background-color: #B12028;
+        border-radius: 6px;
+        outline: none;
+      }
+    </style>
+		
+<a style="text-decoration: none; color:#FFFFFF" class="button" href="https://form.gov.sg/5fd0341bfc3f3100111264b5a">Safeguarding Officer Training</a> to open in a new tab, or fill in the form below.
 
+<iframe style="width:100%;height:1000px" src="https://form.gov.sg/5fd0341bfc3f3100111264b5" id="iframe"></iframe>
 
+<br>
 
-
+---
 Contact us at [contact@safesport.sg](mailto:contact@safesport.sg) for more details.
+
+<br>
 
 [Click here to go back to top](#safeguarding-officers)
