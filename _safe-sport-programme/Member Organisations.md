@@ -3,14 +3,14 @@ title: Member Organisations
 permalink: /about/memberorganisations/
 description: ""
 ---
-##### What does it mean to be a member? 
+##### **What does it mean to be a member? **
 
 These organisations have adopted:  
 * the [Safe Sport Unified Code](https://www.safesport.sg/files/Safe%20Sport%20Unified%20Code%20v4.pdf);  
 * the mechanisms for response and resolution for handling allegations of misconduct as set out in the [Safe Sport Programme Handbook](https://www.safesport.sg/files/Safe%20Sport%20Programme%20Handbook%20101.pdf).
  
  
-##### List of Member Organisations
+##### **List of Member Organisations**
 <table>
 	<tbody><tr style="height:30%"></tr><tr><th style="width:30%"></th><th style="width:70%"></th>		
 		</tr><tr><td><img src="![](/images/archery.png)" style="height:100%; width:70%"></td><td><a href="https://archerysingapore.org.sg/high-performance/safe-sport">Archery Association of Singapore</a></td></tr>
