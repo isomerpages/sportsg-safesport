@@ -13,7 +13,7 @@ These organisations have adopted:
 ##### List of Member Organisations
 <table>
 	<tbody><tr style="height:30%"></tr><tr><th style="width:30%"></th><th style="width:70%"></th>		
-		</tr><tr><td><img src="/images/logos/Blue%20Pic%20Only.png" style="height:100%; width:70%"></td><td><a href="https://archerysingapore.org.sg/high-performance/safe-sport">Archery Association of Singapore</a></td></tr>
+		</tr><tr><td><img src="![](/images/archery.png)" style="height:100%; width:70%"></td><td><a href="https://archerysingapore.org.sg/high-performance/safe-sport">Archery Association of Singapore</a></td></tr>
 		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" style="height:100%; width:70%"></td><td><a href="https://bas.org.sg/uploads/sites/bas/Policy%20-%20Safe%20Sport%2020230118.pdf">Basketball Association of Singapore</a></td></tr>	
 		<tr><td><img src="/images/bowls%20sg%20logo.png" style="height:100%; width:70%"></td><td><a href="https://www.bowlssingapore.org/safe-sport-policy/">Bowls Singapore</a></td></tr>
 		<tr><td><img src="/images/cuesports%20logo.png" style="height:100%; width:70%"></td><td><a href="http://cuesports.org.sg/safe-sport-policy/">Cuesports Singapore</a></td></tr>	
@@ -24,6 +24,7 @@ These organisations have adopted:
 				<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" style="height:100%; width:70%"></td><td><a href="http://kus.org.sg/KUSSafeSport.pdf">Karate-Do Union of Singapore</a></td></tr>				
 		<tr><td><img src="/images/netball%20logo.png" style="height:100%; width:70%"></td><td><a href="https://www.netball.org.sg/wp-content/uploads/2023/02/NETBALL-SINGAPORE-SAFE-SPORT-PROGRAMME-updated-2-Nov-2022-002_Safe-Sport-inputs-003-desktop-1.pdf">Netball Singapore</a></td></tr>
 		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" style="height:100%; width:70%"></td><td><a href="https://www.singaporeathletics.org.sg/wp-content/uploads/2023/01/SAA-Safe-Sport-Policy-FINAL.pdf">Singapore Athletics</a></td></tr>
+				<tr><td><img src="![](/images/aquatics%20saq.png)" style="height:100%; width:70%"></td><td><a href="https://www.swimming.org.sg/getattachment/SSA/Safe-Sport/Safe-Aquatics/V1-0_SSA-Safe-Sport-Policy_FINAL-(1).pdf.aspx">Singapore Aquatics</a></td></tr>
 		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" style="height:100%; width:70%"></td><td><a href="https://singaporebadminton.org.sg/site/singapore-badminton-associations-safe-sport-commitment/">Singapore Badminton Association</a></td></tr>	
 		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" style="height:100%; width:70%"></td><td><a href="https://www.sbsa.org.sg/safe-sport-programme">Singapore Baseball and Softball Association</a></td></tr>
 		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" style="height:100%; width:70%"></td><td><a href="https://singaporebowling.org.sg/wp-content/uploads/2023/03/0.16-Safe-Sport-Policy-GC-Approved.pdf">Singapore Bowling Federation</a></td></tr>
@@ -49,7 +50,6 @@ These organisations have adopted:
 		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" style="height:100%; width:70%"></td><td><a href="https://persisi.org/uploads/events/40/attachments/Singapore%20Silat%20Federation%20-%20Safe%20Sport%20Policy.pdf">Singapore Silat Federation</a></td></tr>
 		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" style="height:100%; width:70%"></td><td><a>Singapore Sport Climbing and Mountaineering Federation</a></td></tr>
 		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" style="height:100%; width:70%"></td><td><a>Singapore Squash Rackets Association</a></td></tr>
-		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" style="height:100%; width:70%"></td><td><a href="https://www.swimming.org.sg/getattachment/SSA/Safe-Sport/Safe-Aquatics/V1-0_SSA-Safe-Sport-Policy_FINAL-(1).pdf.aspx">Singapore Swimming Association</a></td></tr>
 		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" style="height:100%; width:70%"></td><td><a href="https://www.stta.org.sg/wp-content/uploads/2022/12/Safe-Sport-Policy-Template_STTA.docx-dated-9-Dec-2022.pdf">Singapore Table Tennis Association</a></td></tr>
 	<tr><td><img src="/images/STF%20Logo.png" style="height:100%; width:70%"></td><td><a href="https://www.stf.sg/wp-content/uploads/2023/03/Safe-Sport-Policy_STF_21-Feb-2023_compressed-1.pdf">Singapore Taekwondo Federation</a></td></tr>
 		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" style="height:100%; width:70%"></td><td><a href="https://www.singtennis.org.sg/resource-center-download.aspx?token=GY7N4B9f5n9KBNDx7IwPco0blaZCSSXO">Singapore Tennis Association</a></td></tr>		
