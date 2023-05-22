@@ -1,6 +1,6 @@
 ---
 title: DP Familiarization
-permalink: /DPFamiliarization
+permalink: /dpfamiliarization/
 description: ""
 ---
 Dear Disciplinary Panel Member

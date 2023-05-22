@@ -9,9 +9,20 @@ image: /images/SO%20Training.jpg
 We have conducted customised Safe Sport Awareness, First Responder and Case Studies workshops to various sporting organisations
 and groups.
 
-Here are a few organisations that we have worked with:
+
+##### **Workshop Rates**
+
+| Description | Cost | Duration | Class Size |Remarks |
+| -------- | -------- | -------- | -------- | -------- |
+| Workshop Fee | $90/hr | Minimum 2 hrs |Maximum 20 pax | Facilitated by 1 Trainer &amp; 1 Assistant | 
+
+###### *For rates on larger workshops, please contact us at [contact@safesport.sg](mailto:contact@safesport.sg).*
+
+<br>
+
+##### **Here are a few organisations that we have worked with:**
 * Active Health
-* ActiveSG Academies and Clubs (Coaches, Sport Administrators & Parents)
+* ActiveSG Academies and Clubs (Coaches, Sport Administrators &amp; Parents)
 * ActiveSG Sport Operations 
 * Fencing Singapore
 * Football Association of Singapore
@@ -26,10 +37,10 @@ Here are a few organisations that we have worked with:
 * Singapore Swimming Association
 
 
-We have also presented in these conferences:
+##### **We have also presented in these conferences:**
 *   NYSI Youth Conference (2018)
 *   Safe Sport in Asia Webinar (2020)
-*   5th Asia Congress (2021)
+*   5th&nbsp;Asia Congress (2021)
 *   SNOC Women in Sport Committee Webinar Series: What Women Want (2021)
 *   CoachSG Conference (2018 – 2021)
 *   Singapore Gymnastics Congress (2021 – 2022)
@@ -37,4 +48,5 @@ We have also presented in these conferences:
 *   Sports Medicine Association of Singapore (SMAS) Series (2022)
 *   Singapore Drama Educators Association's (SDEA) Connections: Safeguarding Policies in Singapore (2022)
 
-Contact us at [**contact@safesport.sg**](mailto:contact@safesport.sg) for more details.
+
+[Click here to go back to top](#workshop-rates)

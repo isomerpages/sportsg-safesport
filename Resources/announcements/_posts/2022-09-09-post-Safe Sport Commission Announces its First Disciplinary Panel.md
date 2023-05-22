@@ -1,6 +1,6 @@
 ---
 title: Safe Sport Commission Announces its First Disciplinary Panel
-permalink: /Resources/announcements/disciplinarypanel/
+permalink: /resources/announcements/disciplinarypanel/
 date: 2022-09-09
 layout: post
 description: Members of First Safe Sport Disciplinary Panel Announced

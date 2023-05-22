@@ -4,6 +4,8 @@ permalink: /training-and-education/so-training/
 description: First responder training
 image: /images/workshops.jpg
 ---
+### **Safeguarding Officer Training **
+
 ![Alt text for image on Isomer site](/images/SO%20Training.jpg)
 
 The [Safeguarding Officer](https://www.safesport.sg/case-management/safeguarding-officer) Training is for appointed officers from sporting organisations in Singapore. 
@@ -19,8 +21,38 @@ The training covers the following:
 * Reporting Procedures
 * Laws on Harassment and Abuse
 
-Safeguarding Officers are required to complete the online Safeguarding Officer module in SportSG-ED (available from April 2022 onwards) as a pre-requisite to the classroom training where officers will be assessed on their skills. 
+##### **Requirements to becoming a Safeguarding Officer**
 
-This training is chargeable for non-member organisations of the Safe Sport Programme. 
+Safeguarding Officers are required to complete the online Safeguarding Officer module on [SportSG-ED](https://www.sportsync.sg/App/Login?ReturnUrl=%2fApp%2fHome%2fLaunchSMLP) (available from April 2022 onwards) as a pre-requisite to the classroom training where officers will be assessed on their skills. 
 
-Contact us at [**contact@safesport.sg**](mailto:contact@safesport.sg) for more details.
+This training is chargeable for non-[member organisations](/about/memberorganisations) of the Safe Sport Programme. 
+
+##### **Registration Form**
+Sign up for our upcoming Safeguarding Officer Training session here:
+
+<style>
+      .button {
+        display: inline-block;
+        padding: 10px 20px;
+        text-align: center;
+        text-decoration: none;
+        color: #ffffff;
+        background-color: #B12028;
+        border-radius: 6px;
+        outline: none;
+      }
+    </style>
+		
+<a target="_blank" href="https://form.gov.sg/5fd0341bfc3f3100111264b5" class="button" style="text-decoration: none; color:#FFFFFF">Safeguarding Officer Training</a> to open in a new tab, or fill in the form below.
+
+<iframe id="iframe" src="https://form.gov.sg/5fd0341bfc3f3100111264b5" style="width:100%;height:1000px"></iframe>
+
+---
+Contact us at [contact@safesport.sg](mailto:contact@safesport.sg) for more details.
+
+<br>
+
+
+[Click here to go back to top](#safeguarding-officer-training)
+
+

@@ -1,6 +1,6 @@
 ---
 title: Reporting
-permalink: /frequently-asked-questions
+permalink: /frequently-asked-questions/
 description: "A harmonised safeguarding framework for sport in Singapore "
 image: /images/programme.jpg
 ---

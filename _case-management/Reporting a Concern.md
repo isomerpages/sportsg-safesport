@@ -1,10 +1,10 @@
 ---
 title: Reporting a Concern
-permalink: /case-management/reporting
+permalink: /case-management/reporting/
 description: What to do if you have a Safe Sport concern
 image: /images/Code.jpg
 ---
-#### Reporting a concern
+#### **Reporting a concern**
  
 Anyone may make a report of concern if they have personally experienced or is aware of any inappropriate conduct which may raise concerns under the Safe Sport Unified Code.
 
@@ -35,6 +35,6 @@ You may contact your sporting organisation’s Safeguarding Officer or make a re
       }
     </style>
 		
-<a style= "text-decoration: none; color:#FFFFFF" class="button" href="https://form.gov.sg/#!/61a58d94e6d425001302b74a">REPORT A CONCERN</a> (to open in a separate page) or fill in the form below.
+<a style="text-decoration: none; color:#FFFFFF" class="button" target="_blank" href="https://form.gov.sg/#!/61a58d94e6d425001302b74a">REPORT A CONCERN</a> (to open in a new tab) or fill in the form below.
 
 <iframe style="width:100%;height:1000px" src="https://form.gov.sg/#!/61a58d94e6d425001302b74a" id="iframe"></iframe>

@@ -1,6 +1,6 @@
 ---
 title: Awareness Module
-permalink: /training-and-education/awareness-module
+permalink: /training-and-education/awareness-module/
 description: SportSG-ED Online Safe Sport Module
 image: /images/softball.png
 ---

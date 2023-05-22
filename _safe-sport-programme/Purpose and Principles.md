@@ -1,6 +1,6 @@
 ---
 title: Purpose and Principles
-permalink: /safe-sport-programme/purpose-and-principles
+permalink: /safe-sport-programme/purpose-and-principles/
 description: "A harmonised safeguarding framework for sport in Singapore "
 image: /images/Code.jpg
 ---

@@ -1,6 +1,6 @@
 ---
 title: Our Work
-permalink: /about/our-work
+permalink: /about/our-work/
 description: "Safe Sport Commission Singapore "
 image: /images/shareicon.png
 ---

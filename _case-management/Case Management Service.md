@@ -1,10 +1,10 @@
 ---
 title: Case Management Service
 permalink: /case-management/service/
-description: "Safe Sport Case Management "
+description: Safe Sport Case Management
 image: /images/handshake.jpg
 ---
-#### Case Management Service
+#### **Case Management Service**
 
 An independent case management service is available to Member Organisations of the Safe Sport Programme.
 
@@ -21,11 +21,11 @@ This helps to relieve the administrative burden on organisations and gives assur
 
 
 
-#### 3Rs -  Receiving, Responding and Resolving
+#### **3Rs -  Receiving, Responding and Resolving**
 
 
 
-##### Receiving
+##### **Receiving**
 Anyone can make a Disclosure or a Formal Report related to incidents of harrassment or abuse.
 
 A Disclosure happens when a person wishes to seek support or is unsure of his/her experience. Subject to mandatory reporting laws, a Disclosure does not trigger a formal process. A person may elect to turn a Disclosure into a Formal Report any point. 
@@ -33,15 +33,15 @@ A Disclosure happens when a person wishes to seek support or is unsure of his/he
 A Formal Report takes place where a report provider would like for an incident to be assessed and investigated.
 
 
-##### Responding
+##### **Responding**
 
 Depending on whether a Disclosure or a Formal Report has been made, the Case Management Unit will proceed to:
-* refer the affected party to  augmented [support services](/case-management/support-network), where appropriate
+* refer the affected party to  augmented [support services](https://www.safesport.sg/case-management/support-network), where appropriate
 * conduct a preliminary assessment to determine if there is breach of the Unified Code on the face of the evidence
 * commence a formal investigation to determine if Misconduct has taken place
 
 
-##### Resolving
+##### **Resolving**
 
 Resolution may take many forms and is specific to:
 * the needs and the value of the different outcomes for the affected party

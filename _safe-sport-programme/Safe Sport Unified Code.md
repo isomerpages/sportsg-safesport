@@ -9,7 +9,6 @@ image: /images/Code.jpg
 
 The Unified Code was launched on 23 November 2021. It is the cornerstone of the Safe Sport Programme and sets out a unified reference for the Singapore sporting community that defines, describes and explains the forms of abuse and harassment which may take place in the sporting environment.
 
-<br>
 
 &gt; [Safe Sport Unified Code](/files/Safe%20Sport%20Unified%20Code%20v4.pdf)
 	

@@ -1,6 +1,6 @@
 ---
 title: History
-permalink: /about/history
+permalink: /about/history/
 description: Safe Sport Commission Singapore
 image: /images/shareicon.png
 ---
