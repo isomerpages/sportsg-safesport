@@ -4,7 +4,7 @@ permalink: /training-and-education/so-training/
 description: First responder training
 image: /images/workshops.jpg
 ---
-### **Safeguarding Officer Training **
+### **Safeguarding Officer Training**
 
 ![Alt text for image on Isomer site](/images/SO%20Training.jpg)
 
@@ -54,5 +54,3 @@ Contact us at [contact@safesport.sg](mailto:contact@safesport.sg) for more detai
 
 
 [Click here to go back to top](#safeguarding-officer-training)
-
-
