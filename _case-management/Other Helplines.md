@@ -11,6 +11,7 @@ description: ""
 * Hotline: 1800 777 5555
 | Operating Hours: Monday to Friday, 10am to 6pm
 
+
 ###### **Care Corner Counselling Centre**
 * Hotline: 6353 1180
 
@@ -28,6 +29,7 @@ description: ""
 * Hotline: 6536 6366 
 
 ###### **Institute of Mental Health's Mental Health Helpline**
+
 * Hotline: 6389 2222 (24-hour)
 
 ###### **Ministry of Social and Family Development's Child Protective Service**
@@ -55,7 +57,7 @@ description: ""
 ###### **TOUCHline Care Line (for seniors, caregivers)**
 * Hotline: 6804 6555
 
-###### **Tinkle Friend (Primary School-Aged Children)**
+###### **Tinkle Friend (Primary School Aged Children)**
 * Hotline: 1800 274 4788
 ---
 
@@ -63,7 +65,9 @@ description: ""
 #### Other Useful Resources or Support for Reporting
 * [Reporting Helpline](/files/Other%20Useful%20Resources%20for%20Reporting-updated%20Mar%202021.pdf)
 * National Sports Associations [Contact Details](https://www.myactivesg.com/Sports/Find-a-National-Sports-Association)
+
 * Find your nearest [Family Service Centre](https://www.msf.gov.sg/our-services/directories)
+
 
 
 [Click here to go back to top](#if-you-need-help-or-feel-unsure-about-an-encounter-you-can-reach-out-to)

@@ -3,6 +3,7 @@ title: Respondent's Guide to Hearings
 permalink: /faq/respondents-guide-to-hearings/
 description: ""
 ---
+
 #### *BEFORE THE HEARING*
 
 ##### **1\. Does every case lead to a hearing before a Disciplinary Committee?**
@@ -13,7 +14,11 @@ The level of seriousness of a breach can be classified as low, medium or high ba
 
 A breach that is classified at a low level of seriousness will be managed by the Member Organisation. Breaches of higher levels of seriousness will be managed by the [Safe Sport Commission](https://www.safesport.sg/about/commission-members) (“Commission”).
 
+
 To learn more about the Assessment of Seriousness, see Appendix 1 &amp; 2 of the [Safe Sport Programme Handbook](https://www.safesport.sg/safe-sport-programme/ssp/) (“Handbook”).
+
+
+
 
 ##### **2\. Why is there a need for a hearing?**
 
@@ -45,7 +50,11 @@ You may object to any Disciplinary Committee Member on the case by writing to th
 
 ##### **6\. May I admit to the breach(es) before the hearing?**
 
+
+
 Yes, you may admit to the alleged breach(es) at any time before the hearing or even during the hearing. If you do so, the Disciplinary Committee will proceed to determine if any sanction(s) should be imposed and in the process, mitigating or aggravating factor(s) will be considered.
+
+
 
 For more information, please see Section 8.6 and Appendix 3 of the Handbook.
 
@@ -61,9 +70,10 @@ There is a possibility that temporary measures may be imposed pending investigat
 
 For more information on this, please see Section 6.11 of the Handbook.
 
------
 
 #### *AT THE HEARING*
+
+
 
 ##### **1\. What if I am unable to attend the hearing?**
 
@@ -145,7 +155,10 @@ The measures/sanctions imposed by the Disciplinary Committee remain in place pen
 
 This will depend on:
 
+
 *  the grounds of appeal (whether the matter of appeal relates to a question of law and/or fact)
+
+
 
 *  whether the Appeal Committee needs to hear the matter afresh
 
@@ -165,10 +178,13 @@ More on confidentiality can be read from Section 10 of the Handbook.
 
 The Commission may maintain a publicly available, searchable register on the outcome of disciplinary processes.
 
+
 For more information, please see Section 10.6 of the Handbook.
+
 
 <br>
 <br>
+
 
 _If you have more questions, please email us at_ [report@safesport.sg](mailto:report@safesport.sg).
 
@@ -179,3 +195,7 @@ _If you have more questions, please email us at_ [report@safesport.sg](mailto:re
 [Safe Sport Programme Handbook 101](https://www.safesport.sg/safe-sport-programme/ssp/)
 
 [Click here to go back to top](#before-the-hearing)
+
+_If you have more questions, please email us at [_report@safesport.sg_](mailto:report@safesport.sg)._
+
+

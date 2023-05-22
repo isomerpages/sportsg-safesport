@@ -52,4 +52,7 @@ Contact us at [contact@safesport.sg](mailto:contact@safesport.sg) for more detai
 
 <br>
 
+
 [Click here to go back to top](#safeguarding-officer-training)
+
+
