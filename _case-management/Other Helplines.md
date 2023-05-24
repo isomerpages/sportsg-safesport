@@ -15,7 +15,7 @@ description: ""
 ###### **Care Corner Counselling Centre**
 * Hotline: [6353 1180](tel:+6563531180)
 
-###### **Care Corner Project StART (Family & Sexual Violence)**
+###### **Care Corner Project StART (Family &amp; Sexual Violence)**
 * Hotline: [6476 1482](tel:+6564761482)
 * Email: [projectstart@carecorner.org.sg](mailto:projectstart@carecorner.org.sg)
 
@@ -25,7 +25,7 @@ description: ""
 ###### **ComCare (Ministry of Social and Family Development)**
 * Hotline: [1800 222 0000](tel:18002220000)
 
-###### **Counselling & Care Centre (National Council of Social Service)**
+###### **Counselling &amp; Care Centre (National Council of Social Service)**
 * Hotline: [6536 6366](tel:+6565366366)
 
 ###### **Institute of Mental Health's Mental Health Helpline**
@@ -69,5 +69,6 @@ description: ""
 * Find your nearest [Family Service Centre](https://www.msf.gov.sg/our-services/directories)
 
 
+<br>
 
 [Click here to go back to top](#if-you-need-help-or-feel-unsure-about-an-encounter-you-can-reach-out-to)
