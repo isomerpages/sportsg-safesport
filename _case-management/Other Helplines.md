@@ -34,7 +34,8 @@ description: ""
 * Hotline: [6536 6366](tel:+6565366366)
 
 ###### **HEART@FeiYue**
-* Hotline: [6819 9170](tel:+6568199170) | Operating Hours: Monday to Friday, 9.30am to 5.30pm
+* Hotline: [6819 9170](tel:+6568199170) 
+| Operating Hours: Monday to Friday, 9.30am to 5.30pm
 * Email: [HEARTAdmin@fycs.org](mailto:HEARTAdmin@fycs.org)
 * Location: 20 Lengkok Bahru, Playground Block, #03-02, S(159053)
 
