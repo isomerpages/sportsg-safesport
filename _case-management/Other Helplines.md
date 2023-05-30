@@ -33,7 +33,7 @@ description: ""
 ###### **Counselling &amp; Care Centre (National Council of Social Service)**
 * Hotline: [6536 6366](tel:+6565366366)
 
-###### **HEART@FeiYue**
+###### **HEART@FeiYue Child Protection Specialist Centre**
 * Hotline: [6819 9170](tel:+6568199170) 
 | Operating Hours: Monday to Friday, 9.30am to 5.30pm
 * Email: [HEARTAdmin@fycs.org](mailto:HEARTAdmin@fycs.org)
