@@ -11,6 +11,11 @@ description: ""
 * Hotline: [1800 777 5555](tel:18007775555)
 | Operating Hours: Monday to Friday, 10am to 6pm
 
+###### **Big Love Child Protection Specialist Centre**
+* Hotline: [6445 0400](tel:+6564450400) 
+| Operating Hours: Monday to Friday (except PH), 9am to 6pm
+* Email: [contact@biglove.org.sg](mailto:contact@biglove.oorg.sg)
+* Address: 7A Toa Payoh Lorong 8, #02-05/06, S(319264)
 
 ###### **Care Corner Counselling Centre**
 * Hotline: [6353 1180](tel:+6563531180)
@@ -27,6 +32,12 @@ description: ""
 
 ###### **Counselling &amp; Care Centre (National Council of Social Service)**
 * Hotline: [6536 6366](tel:+6565366366)
+
+###### **HEART@FeiYue Child Protection Specialist Centre**
+* Hotline: [6819 9170](tel:+6568199170) 
+| Operating Hours: Monday to Friday, 9.30am to 5.30pm
+* Email: [HEARTAdmin@fycs.org](mailto:HEARTAdmin@fycs.org)
+* Location: 20 Lengkok Bahru, Playground Block, #03-02, S(159053)
 
 ###### **Institute of Mental Health's Mental Health Helpline**
 
@@ -59,6 +70,8 @@ description: ""
 
 ###### **Tinkle Friend (Primary School Aged Children)**
 * Hotline: [1800 274 4788](tel:18002744788)
+
+
 ---
 
 

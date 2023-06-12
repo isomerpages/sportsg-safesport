@@ -1,6 +1,6 @@
 ---
 title: Member Organisations
-permalink: /about/memberorganisations/
+permalink: /safe-sport-programme/memberorganisations/
 description: ""
 ---
 ##### **What does it mean to be a member?**
