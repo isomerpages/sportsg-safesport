@@ -57,7 +57,7 @@ These organisations have adopted:
 		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" style="height:100%; width:70%"></td><td><a href="https://www.singtennis.org.sg/resource-center-download.aspx?token=GY7N4B9f5n9KBNDx7IwPco0blaZCSSXO">Singapore Tennis Association</a></td></tr>		
 		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" style="height:100%; width:70%"></td><td><a href="https://www.swf.org.sg/policies/swf-safe-sport-policy">Singapore Weightlifting Federation</a></td></tr>
 		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" style="height:100%; width:70%"></td><td><a href="https://www.sportsboules.org.sg/our-polices">Singapore Weiqi Association</a></td></tr>
-		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" style="height:100%; width:70%"></td><td><a>Singapore Wushu Dragon and Lion Dance Federation</a></td></tr>
+		<tr><td><img src="/images/wuzong.PNG" style="height:100%; width:70%"></td><td><a href="https://wuzong.com/wp-content/uploads/2023/03/SWDLDF-Safe-Sport-Policy.pdf">Singapore Wushu Dragon and Lion Dance Federation</a></td></tr>
 		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" style="height:100%; width:70%"></td><td><a href="http://www.xiangqi.sg/xqsite/sixga-safe-sport-policy/">Singapore Xiangqi General Association</a></td></tr>
 		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" style="height:100%; width:70%"></td><td><a href="https://www.specialolympics.org.sg/media/b10bwfuv/sosg-safe-sport-policy.pdf">Special Olympics Singapore</a></td></tr>
 		<tr><td><img src="/images/sport%20boules%20logo.png" style="height:100%; width:70%"></td><td><a href="https://www.sportsboules.org.sg/our-polices">Sports Boules Singapore</a></td></tr>
