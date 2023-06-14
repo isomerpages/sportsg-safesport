@@ -26,6 +26,7 @@ and groups.
 * ActiveSG Sport Operations 
 * Fencing Singapore
 * Football Association of Singapore
+* Singapore Aquatics
 * Singapore Badminton Association
 * Singapore Life Saving Society
 * Singapore Gymnastics
@@ -34,7 +35,6 @@ and groups.
 * Singapore Shooting Association
 * Singapore Sport Institute
 * Singapore Sports School
-* Singapore Swimming Association
 
 
 ##### **We have also presented in these conferences:**
