@@ -58,8 +58,8 @@ These organisations have adopted:
 		<tr><td><img src="/images/weightlifting.PNG" style="height:100%; width:70%"></td><td><a href="https://www.swf.org.sg/policies/swf-safe-sport-policy">Singapore Weightlifting Federation</a></td></tr>
 		<tr><td><img src="/images/singapore%20weiqi.PNG" style="height:100%; width:70%"></td><td><a href="https://www.sportsboules.org.sg/our-polices">Singapore Weiqi Association</a></td></tr>
 		<tr><td><img src="/images/wuzong.PNG" style="height:100%; width:70%"></td><td><a href="https://wuzong.com/wp-content/uploads/2023/03/SWDLDF-Safe-Sport-Policy.pdf">Singapore Wushu Dragon and Lion Dance Federation</a></td></tr>
-		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" style="height:100%; width:70%"></td><td><a href="http://www.xiangqi.sg/xqsite/sixga-safe-sport-policy/">Singapore Xiangqi General Association</a></td></tr>
-		<tr><td><img src="/images/logos/Blue%20Pic%20Only.png" style="height:100%; width:70%"></td><td><a href="https://www.specialolympics.org.sg/media/b10bwfuv/sosg-safe-sport-policy.pdf">Special Olympics Singapore</a></td></tr>
+		<tr><td><img src="/images/xiangqi.PNG" style="height:100%; width:70%"></td><td><a href="http://www.xiangqi.sg/xqsite/sixga-safe-sport-policy/">Singapore Xiangqi General Association</a></td></tr>
+		<tr><td><img src="/images/special%20o.PNG" style="height:100%; width:70%"></td><td><a href="https://www.specialolympics.org.sg/media/b10bwfuv/sosg-safe-sport-policy.pdf">Special Olympics Singapore</a></td></tr>
 		<tr><td><img src="/images/sport%20boules%20logo.png" style="height:100%; width:70%"></td><td><a href="https://www.sportsboules.org.sg/our-polices">Sports Boules Singapore</a></td></tr>
 		<tr><td><img src="/images/triathlon%20logo.png" style="height:100%; width:70%"></td><td><a href="https://www.triathlonsingapore.org/about/safe-sport/">Triathlon Association of Singapore</a></td></tr>
 		<tr><td><img src="/images/volleyball%20logo.png" style="height:100%; width:70%"></td><td><a href="https://volleyball.org.sg/constitution-annual-report-policies/">Volleyball Association of Singapore</a></td></tr>
