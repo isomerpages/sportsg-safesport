@@ -45,6 +45,7 @@ These organisations have adopted:
 		<tr><td><img src="/images/hockey%20logo.png" style="height:100%; width:70%"></td><td><a href="https://www.singaporehockey.org/resources/shf-safe-sport-policy/">Singapore Hockey Federation</a></td></tr>
 		<tr><td><img src="/images/iceskating.PNG" style="height:100%; width:70%"></td><td><a href="https://www.sisa.org.sg/safe-sport">Singapore Ice Skating Association</a></td></tr>
 		<tr><td><img src="/images/sjf%20logo.png" style="height:100%; width:70%"></td><td><a href="https://www.sjf.sg/safesport">Singapore Judo Federation</a></td></tr>
+		<tr><td><img src="/images/modernpen.PNG" style="height:100%; width:70%"></td><td><a href="https://www.singaporepentathlon.org.sg/safe-sport">Singapore Modern Pentathlon Association</a></td></tr>
 		<tr><td><img src="/images/rollersports.PNG" style="height:100%; width:70%"></td><td><a>Singapore RollerSports Federation</a></td></tr>
 		<tr><td><img src="/images/rowing.PNG" style="height:100%; width:70%"></td><td><a>Singapore Rowing Association</a></td></tr>		
 		<tr><td><img src="/images/sru%20logo.png" style="height:100%; width:70%"></td><td><a>Singapore Rugby Union</a></td></tr>	
@@ -63,6 +64,7 @@ These organisations have adopted:
 		<tr><td><img src="/images/xiangqi.PNG" style="height:100%; width:70%"></td><td><a href="http://www.xiangqi.sg/xqsite/sixga-safe-sport-policy/">Singapore Xiangqi General Association</a></td></tr>
 		<tr><td><img src="/images/special%20o.PNG" style="height:100%; width:70%"></td><td><a href="https://www.specialolympics.org.sg/media/b10bwfuv/sosg-safe-sport-policy.pdf">Special Olympics Singapore</a></td></tr>
 		<tr><td><img src="/images/sport%20boules%20logo.png" style="height:100%; width:70%"></td><td><a href="https://www.sportsboules.org.sg/our-polices">Sports Boules Singapore</a></td></tr>
+		<tr><td><img src="/images/tchoukball.PNG" style="height:100%; width:70%"></td><td><a>Tchoukball Association of Singapore</a></td></tr>
 		<tr><td><img src="/images/triathlon%20logo.png" style="height:100%; width:70%"></td><td><a href="https://www.triathlonsingapore.org/about/safe-sport/">Triathlon Association of Singapore</a></td></tr>
 		<tr><td><img src="/images/volleyball%20logo.png" style="height:100%; width:70%"></td><td><a href="https://volleyball.org.sg/constitution-annual-report-policies/">Volleyball Association of Singapore</a></td></tr>
 		<tr><td><img src="/images/wrestling%20federation.png" style="height:100%; width:70%"></td><td><a>Wrestling Federation of Singapore</a></td></tr>
