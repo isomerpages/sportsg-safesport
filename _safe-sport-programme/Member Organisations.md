@@ -36,7 +36,7 @@ These organisations have adopted:
 			<tr><td><img src="/images/contract%20bridge.png" style="height:100%; width:70%"></td><td>Singapore Contract Bridge Association</td></tr>
 					<tr><td><img src="/images/high%20res%20SCA%20Logo.png" style="height:100%; width:70%"></td><td><a href="https://singaporecricket.org/safe-sport-policy/">Singapore Cricket Association</a></td></tr>	
 		<tr><td><img src="/images/scf%20logo.png" style="height:100%; width:70%"></td><td><a href="https://singaporecycling.org.sg/pages/safe-sport-commitment">Singapore Cycling Federation</a></td></tr>
-		<tr><td><img src="/images/sdsc%20logo.jpg" style="height:100%; width:70%"></td><td><a>Singapore Disability Sports Council</a></td></tr>	
+		<tr><td><img src="/images/sdsc%20logo.jpg" style="height:100%; width:70%"></td><td><a href="https://sdsc.org.sg/governance/">Singapore Disability Sports Council</a></td></tr>	
 		<tr><td><img src="/images/dragonboat.jpg" style="height:100%; width:70%"></td><td><a href="https://sdba.org.sg/wp-content/uploads/2023/04/SDBA-Safe-Sport-Policy-30-Mar-2023.pdf">Singapore Dragon Boat Association</a></td></tr>		
 		<tr><td><img src="/images/sgea%20logo.png" style="height:100%; width:70%"></td><td><a href="https://esports.org.sg/wp-content/uploads/2022/11/Safe-Sport-Policy-SGEA-1.pdf">Singapore Esports Association</a></td></tr>
 		<tr><td><img src="/images/floorball.jpg" style="height:100%; width:70%"></td><td><a href="https://cdn.revolutionise.com.au/news/inis3fjuvite6aad.docx">Singapore Floorball Association</a></td></tr>
@@ -47,7 +47,7 @@ These organisations have adopted:
 		<tr><td><img src="/images/sjf%20logo.png" style="height:100%; width:70%"></td><td><a href="https://www.sjf.sg/safesport">Singapore Judo Federation</a></td></tr>
 		<tr><td><img src="/images/modernpen.PNG" style="height:100%; width:70%"></td><td><a href="https://www.singaporepentathlon.org.sg/safe-sport">Singapore Modern Pentathlon Association</a></td></tr>
 		<tr><td><img src="/images/rollersports.PNG" style="height:100%; width:70%"></td><td><a>Singapore RollerSports Federation</a></td></tr>
-		<tr><td><img src="/images/rowing.PNG" style="height:100%; width:70%"></td><td><a>Singapore Rowing Association</a></td></tr>		
+		<tr><td><img src="/images/rowing.PNG" style="height:100%; width:70%"></td><td><a href="https://sgrowing.org/about.html">Singapore Rowing Association</a></td></tr>		
 		<tr><td><img src="/images/sru%20logo.png" style="height:100%; width:70%"></td><td><a>Singapore Rugby Union</a></td></tr>	
 		<tr><td><img src="/images/ssf%20logo%202018_full%20colour.jpg" style="height:100%; width:70%"></td><td><a href="https://sailing.org.sg/wp-content/uploads/2023/03/SSF-Safe-Sport-Policy.pdf">Singapore Sailing Federation</a></td></tr>	
 		<tr><td><img src="/images/perses%20logo.png" style="height:100%; width:70%"></td><td><a href="https://www.sgsepaktakraw.org/safe-sports-policy">Singapore Sepak Takraw Federation</a></td></tr>
