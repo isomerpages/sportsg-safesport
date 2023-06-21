@@ -16,7 +16,7 @@ These organisations have adopted:
 <table>
 	<tbody><tr style="height:30%"></tr><tr><th style="width:30%"></th><th style="width:70%"></th>		
 		</tr><tr><td><img src="/images/archery.png" style="height:100%; width:70%"></td><td><a href="https://archerysingapore.org.sg/high-performance/safe-sport">Archery Association of Singapore</a></td></tr>
-		<tr><td><img src="/images/basketball.jpg" style="height:100%; width:70%"></td><td><a href="(https://bas.org.sg/?a=about">Basketball Association of Singapore</a></td></tr>	
+		<tr><td><img src="/images/basketball.jpg" style="height:100%; width:70%"></td><td><a href="https://bas.org.sg/?a=about">Basketball Association of Singapore</a></td></tr>	
 		<tr><td><img src="/images/bowls%20sg%20logo.png" style="height:100%; width:70%"></td><td><a href="https://www.bowlssingapore.org/safe-sport-policy/">Bowls Singapore</a></td></tr>
 		<tr><td><img src="/images/cuesports%20logo.png" style="height:100%; width:70%"></td><td><a href="http://cuesports.org.sg/safe-sport-policy/">Cuesports Singapore</a></td></tr>	
 		<tr><td><img src="/images/efs%20logo.png" style="height:100%; width:70%"></td><td><a href="https://equestrianfederationsg.com/safe-sports-policy">Equestrian Federation of Singapore</a></td></tr>
