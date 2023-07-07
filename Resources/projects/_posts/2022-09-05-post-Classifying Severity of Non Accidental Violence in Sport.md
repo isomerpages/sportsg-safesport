@@ -23,7 +23,7 @@ Severity and/or seriousness is measured based on the degree of culpability relat
 * [Classification Guidelines](/files/Guidelines%20for%20the%20Classification%20of%20Severity%20of%20Non-accidental%20Violence%20in%20Sport_Brief.pdf) 
 
 * [Full Paper](/files/Guidelines%20for%20the%20Classification%20of%20Severity%20of%20Non-accidental%20Violence%20in%20Sport_Full.pdf)  - including a description of the background, rationale, process and list of contributors.
-* [Safe Sport Programme Handbook]() applied in conjunction with the Harmonised Decision Making Framework, Section 8.4
+* [Safe Sport Programme Handbook](/files/Safe%20Sport%20Programme%20Handbook%20101.pdf) - applied in conjunction with the Harmonised Decision Making Framework, Section 8.4
 
 
 ##### **Purpose**
