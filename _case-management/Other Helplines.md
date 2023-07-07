@@ -50,6 +50,9 @@ description: ""
 ###### **National Anti-Violence Helpline**
 * Hotline: [1800 777 0000](tel:18007770000) (24-hour)
 
+###### **PAVE Integrated Services for Individual and Family Protection Specialist Centre (ISIFPSC)**
+* Hotline: [65550390](tel:+6565550390)
+
 ###### **Samaritans of Singapore (SOS) Helpline**
 * Hotline: [1-767](tel:1767) (24-hour)
 * CareText (Whatsapp messaging service): [9151 1767](https://wa.me/6591511767) (24-hour)
@@ -62,14 +65,17 @@ description: ""
 ###### **Singapore Association for Mental Health**
 * Hotline: [1800 283 7019](tel:18002837019) (24-hour)
 
+###### **Tinkle Friend (Primary School Aged Children)**
+* Hotline: [1800 274 4788](tel:18002744788)
+
 ###### **TOUCHline (Counselling)**
 * Hotline: [1800 377 2252](tel:18003772252)
 
 ###### **TOUCHline Care Line (for seniors, caregivers)**
 * Hotline: [6804 6555](tel:+6568046555)
 
-###### **Tinkle Friend (Primary School Aged Children)**
-* Hotline: [1800 274 4788](tel:18002744788)
+###### **TRANS SAFE Centre**
+* Hotline: [64499088](tel:+6564499088)
 
 
 ---
