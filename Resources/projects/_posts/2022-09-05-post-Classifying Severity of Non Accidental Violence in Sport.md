@@ -3,10 +3,10 @@ title: Classifying Severity of Non Accidental Violence in Sport
 permalink: /resources/projects/classification/
 date: 2022-09-05
 layout: post
-description: "Classification Guidelines for measuring the severity of sexual,
-  physical and psychological abuse in sport "
+description: Classification Guidelines for measuring the severity of sexual,
+  physical and psychological abuse in sport
 ---
-<span style = "font-size: 16px">*The information set out in the documents are guidelines only. The Safe Sport Commission cannot be held responsible for any outcomes arising from the use of the guidelines.*</span>
+<span style="font-size: 16px">*The information set out in the documents are guidelines only. The Safe Sport Commission cannot be held responsible for any outcomes arising from the use of the guidelines.*</span>
 <hr>
 <br><br>Together with the input of over 40 experts from child protection, sexual abuse case managers, sport psychology practitioners and stakeholders in the sporting community, the Safe Sport Commission has developed a set of Classification Guidelines for determining the severity of non-accidental violence.
 
@@ -23,6 +23,7 @@ Severity and/or seriousness is measured based on the degree of culpability relat
 * [Classification Guidelines](/files/Guidelines%20for%20the%20Classification%20of%20Severity%20of%20Non-accidental%20Violence%20in%20Sport_Brief.pdf) 
 
 * [Full Paper](/files/Guidelines%20for%20the%20Classification%20of%20Severity%20of%20Non-accidental%20Violence%20in%20Sport_Full.pdf)  - including a description of the background, rationale, process and list of contributors.
+* [Safe Sport Programme Handbook](/files/Safe%20Sport%20Programme%20Handbook%20101.pdf) - applied in conjunction with the Harmonised Decision Making Framework, Section 8.4
 
 
 ##### **Purpose**
