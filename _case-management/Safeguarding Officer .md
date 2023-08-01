@@ -13,4 +13,6 @@ It is mandatory for all officers to undergo a [Safeguarding Officer Training](ht
 
 Upon receiving a report of concern, Safeguarding Officers can use the  [Preliminary Assessment Form](https://go.gov.sg/preliminaryassessment) to guide them on the most appropriate decision.
 
+Safeguarding Officers are also required to adhere to the [Code of Conduct](https://go.gov.sg/so-codeofconduct)
+
 ![Alt text for image on Isomer site](/images/Safeguarding%20roles_high_res.png)
