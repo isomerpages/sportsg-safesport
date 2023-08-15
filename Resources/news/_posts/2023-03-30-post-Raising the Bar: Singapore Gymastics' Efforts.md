@@ -19,9 +19,13 @@ As members of the Safe Sport Programme, every National Sporting Association (NSA
 > 
 > **Singapore Gymnastics**
 
-The training, consisting of e-learning modules, a half-day online session and a full day in-person session, was well-received by participants. 
+The training, consisting of E-Learning modules, a half-day online session and a full day in-person session, was well-received by participants. 
 
 
 > “The role-playing portion was the most useful in terms of applying the techniques learned…I will take steps to further improve our current policies with regards to complaints or concerns communicated by parents to us, taking into consideration the reporting protocol and the assistance that the Safe Sport Commission can provide.  It is our responsibility to take the necessary steps to continue to Safeguard our stakeholders and developing athletes in sport.”
 >
 >**An-Jian Ong Garcia, Bianka Panova Academy**
+
+See what Singapore Gymnastics had to say [here.](https://www.singaporegymnastics.org.sg/news/conclusion-of-safeguarding-officer-training-2023/)
+
+To arrange [Safeguarding Officer Training](https://www.safesport.sg/training-and-education/so-training/) sessions for your organisation, write to us at contact@safesport.sg.
