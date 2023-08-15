@@ -14,12 +14,14 @@ The most recent additions to the group are representatives from Singapore Gymnas
 
 As members of the Safe Sport Programme, every National Sporting Association (NSA) must appoint at least one Safeguarding Officer. Singapore Gymnastics becomes the first NSA to extend their Safeguarding efforts to its affiliates, solidifying a commitment to Safe Sport across the Gymnastics community.
 
-"We take child safety seriously and it is something that has been weaved into our club affiliation exercise. We must raise the bar and continually work towards becoming a safer organisation - we have an obligation to our community"
 
-**Singapore Gymnastics**
+> "We take child safety seriously and it is something that has been weaved into our club affiliation exercise. We must raise the bar and continually work towards becoming a safer organisation - we have an obligation to our community"
+> 
+> **Singapore Gymnastics**
 
 The training, consisting of e-learning modules, a half-day online session and a full day in-person session, was well-received by participants. 
 
-“The role-playing portion was the most useful in terms of applying the techniques learned…I will take steps to further improve our current policies with regards to complaints or concerns communicated by parents to us, taking into consideration the reporting protocol and the assistance that the Safe Sport Commission can provide.  It is our responsibility to take the necessary steps to continue to Safeguard our stakeholders and developing athletes in sport.”
 
-**An-Jian Ong Garcia, Bianka Panova Academy**
+> “The role-playing portion was the most useful in terms of applying the techniques learned…I will take steps to further improve our current policies with regards to complaints or concerns communicated by parents to us, taking into consideration the reporting protocol and the assistance that the Safe Sport Commission can provide.  It is our responsibility to take the necessary steps to continue to Safeguard our stakeholders and developing athletes in sport.”
+>
+>**An-Jian Ong Garcia, Bianka Panova Academy**
