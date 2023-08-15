@@ -12,6 +12,8 @@ Safeguarding Officers are appointed by their organisations to advocate for Safeg
 
 The most recent additions to the group are representatives from Singapore Gymnastics’ member clubs. Every club nominated a staff member to attend the training, where they learnt how to identify and respond to alleged misconduct.
 
+![Participants pose for a group picture after completing the training](/images/sg%20so%20training.JPG)
+
 As members of the Safe Sport Programme, every National Sporting Association (NSA) must appoint at least one Safeguarding Officer. Singapore Gymnastics becomes the first NSA to extend their Safeguarding efforts to its affiliates, solidifying a commitment to Safe Sport across the Gymnastics community.
 
 
