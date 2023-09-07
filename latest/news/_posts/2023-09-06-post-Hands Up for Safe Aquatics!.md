@@ -12,7 +12,7 @@ Singapore Aquatics launches the Hands up for Safe Aquatics Campaign on 6 Septemb
 
 &gt; “It’s important for everyone to understand that abuse and neglect do not just come physically, as athletes also need a nurturing environment free from other forms of abuse to thrive and enjoy their sport.
 
-***Vivien Tai (artistic swimming)***
+*** Vivien Tai (artistic swimming)***
 
 
 
