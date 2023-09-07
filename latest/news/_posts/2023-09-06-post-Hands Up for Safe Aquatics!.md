@@ -16,7 +16,7 @@ Singapore Aquatics launched the Hands Up for Aquatics Campaign on 6 September 20
 
 Following the launch, Singapore Aquatics and Safe Sport Commission Singapore held a series of workshops for various stakeholders including athletes, coaches and sport administrators. 
 
-<br><br>
+<br>
 Check out the media coverage of the launch below:
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/JRcImMLJA5w?si=vwoQaE1-LxKB_Wkx" height="315" width="560"></iframe>
