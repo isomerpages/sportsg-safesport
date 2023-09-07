@@ -7,7 +7,7 @@ description: ""
 image: ""
 ---
 ![](/images/saq_picture%201.jpeg)
-Singapore Aquatics launches the Hands up for Safe Aquatics Campaign on 6 September 2023 
+*Singapore Aquatics launches the Hands up for Safe Aquatics Campaign on 6 September 2023 *
 
 
 &gt; “It’s important for everyone to understand that abuse and neglect do not just come physically, as athletes also need a nurturing environment free from other forms of abuse to thrive and enjoy their sport.
