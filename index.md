@@ -1,8 +1,8 @@
 ---
 layout: homepage
-title: "Safeguarding in Sport "
-description: "Home of the Safe Sport Commission Singapore "
-image: /images/isomer-logo.svg
+title: Safeguarding Sport in Singapore
+description: Home of Safe Sport Commission Singapore
+image: /images/shareicon.png
 permalink: /
 notification: ""
 sections:
@@ -19,6 +19,10 @@ sections:
         - title: Safe Sport Commission
           description: Our Work
           url: /about/our-work
+  - resources:
+      subtitle: Latest
+      button: more
+      title: Resources
   - infopic:
       title: The Safe Sport UNIFIED CODE
       subtitle: Download
@@ -32,9 +36,5 @@ sections:
       url: /safe-sport-programme/community-consultations
       image: /images/community.png
       alt: Policies And Procedures
-      subtitle: "THE JOURNEY "
-  - resources:
-      subtitle: Latest
-      button: more
-      title: Resources
+      subtitle: THE JOURNEY
 ---

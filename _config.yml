@@ -1,5 +1,5 @@
-title: "Safeguarding in Sport "
-url: ""
+title: Safeguarding Sport in Singapore
+url: https://www.safesport.sg
 favicon: /images/ssc-favicon.ico
 colors:
   primary-color: "#202945"
@@ -12,11 +12,11 @@ colors:
     - title: media-color-three
       color: "#b12028"
     - title: media-color-four
-      color: "#4a4a4a"
+      color: "#cccccc"
     - title: media-color-five
       color: "#4a4a4a"
-resources_name: Resources
-description: "Home of the Safe Sport Commission Singapore "
+resources_name: latest
+description: Home of Safe Sport Commission Singapore
 permalink: none
 baseurl: ""
 exclude:
@@ -54,3 +54,6 @@ staging: https://staging.dro5w6zlj5mvl.amplifyapp.com/
 prod: https://master.dro5w6zlj5mvl.amplifyapp.com/
 is_government: false
 shareicon: /images/shareicon.png
+facebook-pixel: ""
+google_analytics_ga4: ""
+linkedin-insights: ""
