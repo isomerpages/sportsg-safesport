@@ -17,12 +17,11 @@ Singapore Aquatics launched the Hands Up for Aquatics Campaign on 6 September 20
 Following the launch, Singapore Aquatics and Safe Sport Commission Singapore held a series of workshops for various stakeholders including athletes, coaches and sport administrators. 
 
 <br><br>
+Check out the media coverage of the launch below:
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/JRcImMLJA5w?si=vwoQaE1-LxKB_Wkx" height="315" width="560"></iframe>
 
 
-<b>Press coverage: <b>
-
 The Straits Times - [Singapore Aquatics launches Hands Up for Safe Aquatics campaign](https://www.straitstimes.com/sport/singapore-aquatics-launches-hands-up-for-safe-aquatics-campaign)
 
-Yahoo News - [Singapore Aquatics launches campaign to keep sport safe from abuse](https://sg.news.yahoo.com/singapore-aquatics-campaign-keep-sport-safe-abuse-014513873.html?guccounter=1&amp;guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&amp;guce_referrer_sig=AQAAAImqfuTOjg47AOD5J3-Lg3OAaJcCB2cMBPiZNyotU3konwMCRm8MrFsfuHeyDX5OlwxSQC2gXgMTQ6ZCVH89cFgbn_7_pU0eiUt-TXGWxXbYccXEihn8VulcgWdB2Ye0dRiJGGVeRtOhksfZcxE0712ut9XMdP1MMJubwXCNaLQl)</b></b>
+Yahoo News - [Singapore Aquatics launches campaign to keep sport safe from abuse](https://sg.news.yahoo.com/singapore-aquatics-campaign-keep-sport-safe-abuse-014513873.html?guccounter=1&amp;guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&amp;guce_referrer_sig=AQAAAImqfuTOjg47AOD5J3-Lg3OAaJcCB2cMBPiZNyotU3konwMCRm8MrFsfuHeyDX5OlwxSQC2gXgMTQ6ZCVH89cFgbn_7_pU0eiUt-TXGWxXbYccXEihn8VulcgWdB2Ye0dRiJGGVeRtOhksfZcxE0712ut9XMdP1MMJubwXCNaLQl)
