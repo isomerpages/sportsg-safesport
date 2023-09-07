@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-![Hands Up for Safe Aquatics Campaign](/images/saq_picture%201.jpeg)
+
 
 Singapore Aquatics launched the Hands up for Safe Aquatics Campaign on 6 September 2023 
 
