@@ -9,14 +9,15 @@ image: ""
 ![](/images/saq_picture%201.jpeg)
 <i> <font size="-1"> Launch of Hands Up for Safe Aquatics Campaign at OCBC Aquatic Centre </font></i>
 <br><br>
-Singapore Aquatics launched the Hands Up for Aquatics Campaign on 6 September 2023 to raise awareness of the types of abuse and harassment that may happen in the sporting environment.
+Singapore Aquatics launched the Hands Up for Aquatics Campaign on 6 September 2023 to raise awareness of the types of abuse and harassment that may happen in the sporting environment. Launched by Mr Eric Chua, Senior Parliamentary Secretary for Culture, Community and Youth as well as Social and Family Development, and Singapore Aquatics president Mark Chay, the campaign also aims to educate various stakeholders through a series of workshops. The workshops are conducted by the Safe Sport Commission Singapore for young athletes, coaches and parents.
 
 <h4> <i> “It’s important for everyone to understand that abuse and neglect do not just come physically, as athletes also need a nurturing environment free from other forms of abuse to thrive and enjoy their sport. </i> </h4>
-<b> - Vivien Tai (artistic swimming)</b>
+<b> - Vivien Tai, Artistic Swimmer</b>
 
-Following the launch, Singapore Aquatics and Safe Sport Commission Singapore held a series of workshops for various stakeholders including athletes, coaches and sport administrators. 
 
-<br>
+
+
+<br><br>
 Check out the media coverage of the launch below:
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/JRcImMLJA5w?si=vwoQaE1-LxKB_Wkx" height="315" width="560"></iframe>
