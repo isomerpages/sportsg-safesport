@@ -6,13 +6,13 @@ colors:
   secondary-color: "#b12028"
   media-colors:
     - title: media-color-one
-      color: "#eceaea"
+      color: "#b1b0b0"
     - title: media-color-two
       color: "#202945"
     - title: media-color-three
       color: "#b12028"
     - title: media-color-four
-      color: "#b1b0b0"
+      color: "#cccccc"
     - title: media-color-five
       color: "#4a4a4a"
 resources_name: latest
