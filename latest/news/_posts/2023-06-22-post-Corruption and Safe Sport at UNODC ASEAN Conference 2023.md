@@ -19,4 +19,4 @@ The report also recognized the “elevated levels of autonomy, lack of transpare
 Underlying the importance of developing and implementing policies and legislative and regulatory frameworks that facilitate reporting, the Safe Sport Commission was invited to make a presentation to the conference delegates on the Singapore’s framework for safeguarding in sport and how it had come to develop and implemet the Safe Sport Programme. 
 
 
-Section 7 of the UNODC Global Report on Corruption in Sport can be viewed at https://www.unodc.org/unodc/en/safeguardingsport/grcs/section-7.html
+**Section 7 of the UNODC Global Report on Corruption in Sport** can be viewed at https://www.unodc.org/unodc/en/safeguardingsport/grcs/section-7.html
