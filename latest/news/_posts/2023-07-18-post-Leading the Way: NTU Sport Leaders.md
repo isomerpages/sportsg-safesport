@@ -12,4 +12,4 @@ The Safe Sport Commission conducted a workshop for Sport Leaders from Nanyang Te
 <br>
 As the first Institute of Higher Learning (IHL) to increase the awareness of Safe Sport for its sporting community, NTU has taken a big step in promoting a safe, positive and equitable sporting environment. 
 
-To arrange [workshops](https://www.safesport.sg/training-and-education/workshops/) for your organisation, write to us at contact@safesport.sg
+To arrange [workshops](https://www.safesport.sg/training-and-education/workshops/) for your organisation, write to us at [contact@safesport.sg](contact@safesport.sg)
