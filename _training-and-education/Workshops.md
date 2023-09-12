@@ -4,10 +4,16 @@ permalink: /training-and-education/workshops/
 description: safe spaces to create awareness and discuss experiences
 image: /images/SO%20Training.jpg
 ---
-![Alt text for image on Isomer site](/images/workshops.jpg)
+![Group of Children at Workshop](/images/workshopscover.jpg)
 
-We have conducted customised Safe Sport Awareness, First Responder and Case Studies workshops to various sporting organisations
-and groups.
+We have conducted range of different workshops for sporting organisations and groups.
+
+Every workshops starts with an understanding of where your organisation is and what you would like to achieve.
+
+Depending on your organisations needs, we can tailor the sessions to suit your organisations:
+* Objectives (e.g. create awareness, intervention, assess policy gaps)
+* Different stakeholder roles and age ranges (i.e. parents,  children, coaches, administrators)
+
 
 
 ##### **Workshop Rates**
@@ -26,6 +32,7 @@ and groups.
 * ActiveSG Sport Operations 
 * Fencing Singapore
 * Football Association of Singapore
+* JSSL Singapore FC
 * Singapore Aquatics
 * Singapore Badminton Association
 * Singapore Life Saving Society
@@ -33,6 +40,7 @@ and groups.
 * Singapore National Olympic Council
 * Singapore National Paralympic Council 
 * Singapore Shooting Association
+* Singapore Squash Raquets Association
 * Singapore Sport Institute
 * Singapore Sports School
 
@@ -47,6 +55,7 @@ and groups.
 *   Safe Sport International Conference (2022)
 *   Sports Medicine Association of Singapore (SMAS) Series (2022)
 *   Singapore Drama Educators Association's (SDEA) Connections: Safeguarding Policies in Singapore (2022)
+*   UNODC 
 
 
 [Click here to go back to top](#workshop-rates)

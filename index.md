@@ -9,20 +9,21 @@ sections:
   - hero:
       title: Safeguarding in Sport
       subtitle: "#SGSafeSport Play Your Part"
-      background: /images/unifiedcode.jpeg
-      button: What is SAFE SPORT
-      url: /safe-sport-programme/primer
-      key_highlights:
-        - title: Safe Sport Programme
-          description: A National Framework
-          url: /safe-sport-programme/ssp
-        - title: Safe Sport Commission
-          description: Our Work
-          url: /about/our-work
+      background: /images/herocover.png
+      dropdown:
+        title: Looking for something?
+        options:
+          - title: Report a Concern
+            url: https://www.safesport.sg/case-management/reporting/
+          - title: Download the Unified Code
+            url: https://www.safesport.sg/safe-sport-programme/unified-code/
+          - title: Sign Up for a Course
+            url: https://www.safesport.sg/training-and-education/awareness-module/
+          - title: Find a Member Organisation
+            url: https://www.safesport.sg/safe-sport-programme/memberorganisations/
   - resources:
       subtitle: Latest
-      button: more
-      title: Resources
+      button: See ALL
   - infopic:
       title: The Safe Sport UNIFIED CODE
       subtitle: Download
