@@ -23,8 +23,7 @@ sections:
             url: https://www.safesport.sg/safe-sport-programme/memberorganisations/
   - resources:
       subtitle: Latest
-      button: more
-      title: Resources
+      button: See ALL
   - infopic:
       title: The Safe Sport UNIFIED CODE
       subtitle: Download
