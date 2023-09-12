@@ -8,11 +8,13 @@ image: /images/SO%20Training.jpg
 
 We have conducted range of different workshops for sporting organisations and groups.
 
-Dpending on your organisations needs, we can tailor the sessions to suit your organisations:
+Every workshops starts with an understanding of where your organisation is and what you would like to achieve.
+
+Depending on your organisations needs, we can tailor the sessions to suit your organisations:
 * Objectives (e.g. create awareness, intervention, assess policy gaps)
 * Different stakeholder roles and age ranges (i.e. parents,  children, coaches, administrators)
 
-Email us at contact@safesport.sg to find out more about how we can support you.
+
 
 ##### **Workshop Rates**
 
