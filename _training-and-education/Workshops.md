@@ -8,11 +8,11 @@ image: /images/SO%20Training.jpg
 
 We have conducted range of different workshops for sporting organisations and groups.
 
-Every workshops starts with an understanding of where your organisation is and what you would like to achieve.
+Every workshop starts with an understanding of where your organisation is and what you would like to achieve.
 
-Depending on your organisations needs, we can tailor the sessions to suit your organisations:
-* Objectives (e.g. create awareness, intervention, assess policy gaps)
-* Different stakeholder roles and age ranges (i.e. parents,  children, coaches, administrators)
+Depending on your organisations needs, our team will tailor the sessions to suit its
+* Objectives - (e.g. create awareness, intervention, assess policy gaps)
+* Different stakeholder roles and age ranges - (i.e. parents,  children, coaches, administrators)
 
 
 
@@ -24,6 +24,9 @@ Depending on your organisations needs, we can tailor the sessions to suit your o
 
 ###### *For rates on larger workshops, please contact us at [contact@safesport.sg](mailto:contact@safesport.sg).*
 
+<br>
+
+![testimonials](/images/testimonials.png)
 <br>
 
 ##### **Here are a few organisations that we have worked with:**
