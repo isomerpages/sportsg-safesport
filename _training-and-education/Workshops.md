@@ -26,6 +26,9 @@ Depending on your organisations needs, our team will tailor the sessions to suit
 
 <br>
 
+![testimonials](/images/testimonials.png)
+<br>
+
 ##### **Here are a few organisations that we have worked with:**
 * Active Health
 * ActiveSG Academies and Clubs (Coaches, Sport Administrators &amp; Parents)
