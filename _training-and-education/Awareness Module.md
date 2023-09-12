@@ -4,8 +4,6 @@ permalink: /training-and-education/awareness-module/
 description: SportSG-ED Online Safe Sport Module
 image: /images/softball.png
 ---
-
-
 #### Raising awareness of the importance of safeguarding in sport
 
 Our awareness modules are developed for the different roles that exist within sport. 
@@ -18,10 +16,13 @@ For athletes, knowing that they may set their personal boundaries and understand
 #### SportSG-ED
 
 ![](/images/sportsg-ed/sportsged.png)
+
 There are 4 role-specific Safe Sport awareness modules on the digital learning platform, SportSG-ED. 
 
+Upon completion of the modules, learners will receive a certificate of achievement.
 
 
+**Role-Diffentiated Modules**
 
 | Module | Fee | 
 | --------   | -------- | 
@@ -31,9 +32,12 @@ There are 4 role-specific Safe Sport awareness modules on the digital learning p
 | Understanding Safe Sport as a Parent                                         | Free |
 
 
+
+
+
 ![](/images/sportsg-ed/sportsged2.png)
 
-Upon completion of the modules, learners will receive a certificate of achievement.
+
 
 Do check out the brochure below for more information. 
 
