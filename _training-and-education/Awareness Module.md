@@ -7,13 +7,21 @@ image: /images/softball.png
 ![Alt text for image on Isomer site](/images/ultimate.jpg)
 
 #### Raising awareness of the importance of safeguarding in sport
-Safeguarding in sport is important as it helps to ensure that everyone participating in sport has a positive experience. Sport contributes to the overall well-being of children and vulnerable adults and it is a platform for them to grow and develop holistically as a person. 
 
-Adults such as coaches, parents and sport administrators have a responsibility and duty of care to prevent any likelihood of harm occurring in sport. Hence, the awareness module is developed for different stakeholders in the sporting community to understand their role in safeguarding sport. 
+Our awareness modules are developed for the different roles that exist within sport. 
+
+Adults such as coaches, parents and sport administrators have a different responsibilities and duty of care to prevent any likelihood of harm occurring in sport. 
+
+For athletes, knowing that they may set their personal boundaries and understanding their own responsbilities towards fellow participants helps to foster a positive environment where inappropriate behaviours are recognized and flagged early.  
+
 
 #### SportSG-ED
 
+![Picture of Application on Screen](/images/sportsged.png)
+
 There are 4 role-specific Safe Sport awareness modules on the digital learning platform, SportSG-ED. 
+
+
 
 
 | Module | Fee | 
@@ -23,13 +31,13 @@ There are 4 role-specific Safe Sport awareness modules on the digital learning p
 | Understanding Safe Sport as a Coach                                         | Free for NROC Coaches |
 | Understanding Safe Sport as a Parent                                         | Free |
 
-Upon completion of the modules, you will receive a certificate of achievement.
 
-Do check out the brochure below for more information. You may also contact us at **contact@safesport.sg** for more details. 
+![SportSG-ED Interface](/images/sportsgedinterface.png)
 
-![SportSG-ED Pg1](/images/sportsg-ed/1.png)
+Upon completion of the modules, learners will receive a certificate of achievement.
 
-![SportSG-ED Pg2](/images/sportsg-ed/2.png)
+Do check out the brochure below for more information. 
+
 
 Follow the steps in this [guide](/files/Safe%20Sport%20-%20SportSG-ED%20User%20Guide.pdf) to start your online learning journey.
 
