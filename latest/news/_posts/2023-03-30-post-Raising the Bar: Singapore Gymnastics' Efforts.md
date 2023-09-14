@@ -6,13 +6,13 @@ layout: post
 description: Safeguarding Officer Training Singapore Gymnastics
 image: ""
 ---
-Since its inception in 2018, Safe Sport has trained over 280 Safeguarding Officers. 
+As of March 2023, Safe Sport has trained more than 280 Safeguarding Officers over four years since it formalised the Safeguaring Officer Training curriculum
 
-Safeguarding Officers are appointed by their organisations to advocate for Safeguarding in their community and manage Safe Sport concerns.
+Safeguarding Officers are appointed by their organisations to advocate for safeguarding in their community and act as first responders for Safe Sport concerns.
 
-The most recent additions to the group are representatives from Singapore Gymnastics’ member clubs. Every club nominated a staff member to attend the training, where they learnt how to identify and respond to alleged misconduct.
+The most recent additions to the group are over 30 representatives from Singapore Gymnastics’ member clubs. Every club nominated a staff member to attend the training, where they learnt how to identify and respond to alleged misconduct.
 
-![Participants pose for a group picture after completing the training](/images/sg%20so%20training.JPG)
+![participants post for a group picture after completing the training](/images/Resources%20Images/sg%20so%20training.JPG)
 
 As members of the Safe Sport Programme, every National Sporting Association (NSA) must appoint at least one Safeguarding Officer. Singapore Gymnastics becomes the first NSA to extend their Safeguarding efforts to its affiliates, solidifying a commitment to Safe Sport across the Gymnastics community.
 

@@ -6,7 +6,7 @@ layout: post
 description: Singapore's Safe Sport Framework featured in IOC Course
 image: /images/ioccourse.png
 ---
-![Screengrab of IOC Course on Sportoracle](/images/ioccourse.png)
+![Screengrab of IOC course](/images/Resources%20Images/ioccourse.png)
 
 The Safe Sport Commission have been invited by the course directors of the International Olympic Committee's ("IOC") [Safeguarding Officer in Sport](https://olympics.com/ioc/news/ioc-launches-the-international-safeguarding-officer-in-sport-certificate) certificate course to present a lecture on the development and implementation of Singapore’s national framework for safeguarding in sport, the Safe Sport Programme.
 

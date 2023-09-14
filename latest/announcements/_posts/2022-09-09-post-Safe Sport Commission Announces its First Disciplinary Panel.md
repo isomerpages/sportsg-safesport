@@ -4,10 +4,9 @@ permalink: /resources/announcements/disciplinarypanel/
 date: 2022-09-09
 layout: post
 description: Members of First Safe Sport Disciplinary Panel Announced
-image: ""
+image: /images/Resources Images/DisciplinaryPanel.jpg
 ---
-
-![Disciplinary Panel Training](/images/DisciplinaryPanel.jpg)
+![DP Panel Training](/images/Resources%20Images/DisciplinaryPanel.jpg)
 
 The Safe Sport Commission today announced its first Safe Sport Disciplinary Panel to hear, resolve and adjudicate safe sport reports and violations for member organisations under the Safe Sport Programme.
 
