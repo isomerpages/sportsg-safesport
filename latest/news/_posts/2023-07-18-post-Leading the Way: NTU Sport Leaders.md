@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-![](/images/ntu%20workshop.JPG)
+![group picture of student athlete leaders](/images/Resources%20Images/ntu%20workshop.JPG)
 
 The Safe Sport Commission conducted a workshop for Sport Leaders from Nanyang Technological University (NTU) on 18 July 2023. As Captains or Vice-captains of their respective sport clubs, they hold the important role of influencing the culture in their sporting environments. Through the workshop, the participants learned about the different types of abuse and harassment, and engaged in lively discussions on how they would react to case scenarios of safe sport misconducts. &nbsp;&nbsp;&nbsp;
 <br>
