@@ -6,7 +6,8 @@ layout: post
 description: Launch of the Safe Sport Unified Code
 image: /images/keysignatories.jpg
 ---
-![Alt text for image on Isomer site](/images/LaunchGroupPic.jpg)
+![](/images/Resources%20Images/LaunchGroupPic.jpg)
+
 
 The Safe Sport Commission today announced the launch of the Safe Sport Unified Code, to provide the sporting community with a clear reference on what constitutes inappropriate behaviour.
 
