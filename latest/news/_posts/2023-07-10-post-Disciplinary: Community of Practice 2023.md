@@ -8,7 +8,7 @@ image: /images/dpcop2023.jpg
 ---
 Members of the Safe Sport Disciplinary Panel and the Safe Sport Support Network gathered to share and share thoughts and views over several topics over the weekend.
 
-![members at several tables in small group discussions](/images/dpcop2023.jpg)
+![members having discussions over the table](/images/Resources%20Images/dpcop2023.jpg)
 
 
 Discussions included the application of the standard of proof to incidents where conflicting accounts from primary witnesses were presented.
