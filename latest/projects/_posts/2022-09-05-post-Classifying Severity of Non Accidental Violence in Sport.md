@@ -12,7 +12,7 @@ description: Classification Guidelines for measuring the severity of sexual,
 
 
 
-![](/images/CG%20Grid.png)
+![Decision Making Framwork](/images/Resources%20Images/CG%20Grid.png)
 
 
 Severity and/or seriousness is measured based on the degree of culpability relating to abusive behaviour and degree of harm caused to the affected party. 
@@ -43,7 +43,7 @@ The [effects of abuse and harassment](https://stillmed.olympic.org/media/Documen
 When “fault” is objectively measured and harm caused is recognised, this not only informs accountability but provides a basis to extend the appropriate level of psychological support to the Affected Party.
 
 
-![Picture of Consultations](/images/CG.png)
+![Stages of Development](/images/Resources%20Images/CG.png)
 
 
 This is a working document which the Safe Sport Commission will regularly update and seek views on as the information and research in this space develops.
