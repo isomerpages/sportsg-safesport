@@ -2,9 +2,9 @@ collections:
   case-management:
     output: true
     order:
-      - Assessing Seriousness.md
-      - Case Management Service.md
       - Reporting a Concern.md
+      - Case Management Service.md
+      - Assessing Seriousness.md
       - Support Network.md
       - Safeguarding Officer .md
       - Other Helplines.md
