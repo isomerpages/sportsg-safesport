@@ -9,7 +9,7 @@ image: /images/Resources Images/acsotraining.JPG
 ![Trainers and participants pose for a photo next to a navy blue Safe Sport pull up banner](/images/Resources%20Images/acsotraining.JPG)
 *Pictured: Twenty one newly trained athlete Safeguarding Officers*
 
-In July, Safe Sport and Singapore National Olympic Council Athlete’s Commission (SNOCAC) held a Safeguarding Officer training session exclusively for SNOCAC members and Athlete’s Commission representatives. Twenty one athletes representing thirteen National Sporting Associations successfully completed the training.&nbsp;
+In July, Safe Sport and Singapore National Olympic Council Athletes' Commission (SNOCAC) held a Safeguarding Officer training session exclusively for SNOCAC members and Athlete’s Commission representatives. Twenty one athletes representing thirteen National Sporting Associations successfully completed the training.&nbsp;
 
 Safe sporting environments should empower athletes, and we are proud to have increased athlete representation among Safeguarding Officers. Participants learnt how to support peers who may be in distress and reporting protocol for Safe Sport misconduct.
 
