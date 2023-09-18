@@ -13,4 +13,5 @@ There are many factors which contribute to this assessment and the list of non-e
 ![](/images/assessmentofseriousness.png)
 
 
-The Commission continues to examine and conduct research in this area and have developed some  [Guidelines for Classification](https://www.safesport.sg/resources/projects/classification/)
+
+The Commission continues to examine and conduct research in this area and have developed some  [Guidelines for Classification](https://www.safesport.sg/resources/projects/classification/) with the help of experts and members of our community.
