@@ -4,7 +4,7 @@ permalink: /resources/news/singaporegymnastics/
 date: 2023-03-30
 layout: post
 description: Safeguarding Officer Training Singapore Gymnastics
-image: ""
+image: /images/Resources Images/sg so training.JPG
 ---
 As of March 2023, Safe Sport has trained more than 280 Safeguarding Officers over four years since it formalised the Safeguaring Officer Training curriculum
 
