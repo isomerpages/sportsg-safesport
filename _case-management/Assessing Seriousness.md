@@ -4,6 +4,8 @@ permalink: /case-management/assessingseriousness/
 description: How the Commission determines the severity of Misconduct
 image: /images/Resources Images/CG Grid.png
 ---
+##### **Assessment of Seriousness**
+
 An important part of the Response and Resolution process is determining how serious Misconduct is. 
 
 There are many factors which contribute to this assessment and the list of non-exhaustive factors are listed in the harmonised decision-making Framework which is set out at the Safe Sport Programme Handbook.
