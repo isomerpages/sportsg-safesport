@@ -52,5 +52,5 @@ Resolution may take many forms and is specific to:
 
 Clear process and procedures are set out in the rules of the Safe Sport Programme Handbook which include:
 * timelines and procedures to ensure due process for all parties
-* a framework for [assessing seriousness](case-management/assessingseriousness/)
+* a framework for [assessing seriousness](https://www.safesport.sg/case-management/assessingseriousness/)
 * independent adjudication by a Safe Sport Disciplinary Panel, where the severity of the Misconduct is moderate or severe
