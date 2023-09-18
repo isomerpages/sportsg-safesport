@@ -8,9 +8,11 @@ image: /images/Resources Images/CG Grid.png
 
 An important part of the Response and Resolution process is determining how serious Misconduct is. 
 
-There are many factors which contribute to this assessment and the list of non-exhaustive factors are listed in the harmonised decision-making Framework which are set out at the Safe Sport Programme Handbook.
+There are many factors which contribute to this assessment and the list of non-exhaustive factors are listed in the harmonised decision-making Framework which are set out at the [Safe Sport Programme Handbook](/files/Safe%20Sport%20Programme%20Handbook%20101.pdf).
 
 ![](/images/assessmentofseriousness.png)
+
+
 
 
 
