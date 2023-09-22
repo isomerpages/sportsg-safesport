@@ -32,7 +32,7 @@ Sporting organisations interested to be an affiliate member will be provided wit
 		<tr>
 			<td> Stage 2 </td>
 			<td> Onboarding Session </td>
-			<td> This in-person session will be used to review the results of the risk assessment exercise. The session will be facilitated by the Safe Sport Commission and attended by the key personnel of the organisation (e.g., staff who oversees the policy direction and management).</td>
+			<td> This in-person session will be used to review the results of the risk assessment exercise. The session will be facilitated by the Safe Sport Commission and attended by the key personnel of the organisation (e.g., staff who oversees the policy direction and implementation of safeguarding guidelines).</td>
 			</tr>
 		<tr>
 			<td> Stage 3 </td>
