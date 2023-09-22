@@ -18,7 +18,7 @@ Sporting organisations interested to be an affiliate member will be provided wit
 
 <table>
 	<thead>
-		<tr><th> Stages </th>
+		<tr><th style="width:15%"> Stages </th>
 		<th> Description </th>
 		<th> Rationale </th>
 	</tr></thead>
