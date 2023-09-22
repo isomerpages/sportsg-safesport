@@ -41,7 +41,7 @@ Sporting organisations interested to be an affiliate member will be provided wit
 		<tr>
 			<td> Stage 4 </td>
 			<td> Training and Education </td>
-			<td> Key stakeholders (e.g., coaches, staff, athletes, parents, volunteers) can undergo training/workshop sessions to increase their awareness of Safe Sport.<br><br>Organisations can also send representatives to be trained as a Safeguarding Officer<br></td>
+			<td> Key stakeholders (e.g., coaches, staff, athletes, parents, volunteers) can undergo training/workshop sessions to increase their awareness of Safe Sport.<br><br>Organisations can also send representatives to be trained as a Safeguarding Officer.<br></td>
 			</tr>
 	</tbody></table>
 
