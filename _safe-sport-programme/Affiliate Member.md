@@ -25,7 +25,8 @@ Sporting organisations interested to be an affiliate member will be provided wit
 	<tbody>
 		<tr>
 			<td> Stage 1 </td>
-			<td> Risk Assessment Exercise </td>
+			<td> 
+				<a href="https://www.safesport.sg/policy-and-advocacy/risk/">Risk Assessment Exercise</a></td>
 			<td> By going through the risk assessment exercise, organisations will be able to identify the gaps and needs in areas of concerns. For example, whether the organisation needs to revise its digital communication policy.</td>
 		</tr>
 		<tr>
@@ -35,7 +36,8 @@ Sporting organisations interested to be an affiliate member will be provided wit
 			</tr>
 		<tr>
 			<td> Stage 3 </td>
-			<td> Developing a Safe Sport Policy </td>
+			<td> 
+				<a href="https://www.safesport.sg/policy-and-advocacy/resources/">Developing a Safe Sport Policy </a></td>
 			<td> After the onboarding session, the organisation can work on the Safe Sport Policy to develop/revise the guidelines relevant to their organisation.</td>
 			</tr>
 		<tr>
