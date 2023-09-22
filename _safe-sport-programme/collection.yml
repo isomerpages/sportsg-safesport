@@ -2,7 +2,6 @@ collections:
   safe-sport-programme:
     output: true
     order:
-      - Affiliate Member.md
       - Primer.md
       - Purpose and Principles.md
       - Safe Sport Unified Code.md
@@ -10,3 +9,4 @@ collections:
       - Community Consultations.md
       - Key Signatories.md
       - Member Organisations.md
+      - Affiliate Member.md
