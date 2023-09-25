@@ -21,6 +21,10 @@ The training covers the following:
 * Reporting Procedures
 * Laws on Harassment and Abuse
 
+
+##### **Training Materials**
+![Graphic of training materials provided to Safeguarding Officers](/images/safeguarding%20officer%20notebook%20web%20banner.png)
+
 ##### **Requirements to becoming a Safeguarding Officer**
 
 Safeguarding Officers are required to complete the online Safeguarding Officer module on [SportSG-ED](https://www.sportsync.sg/App/Login?ReturnUrl=%2fApp%2fHome%2fLaunchSMLP) (available from April 2022 onwards) as a pre-requisite to the classroom training where officers will be assessed on their skills. 
