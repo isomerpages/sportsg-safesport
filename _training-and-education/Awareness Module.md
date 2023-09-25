@@ -34,12 +34,6 @@ Upon completion of the modules, learners will receive a certificate of achieveme
 | Understanding Safe Sport as a Parent     | Free     | Register [here](https://sportsg-ed.csod.com/selfreg/register.aspx?c=%255e%255e%255eL22Iv55qWgHU%252bNO4TN0Z%252b8Ppzq1f9Yqmcl3PyeQBgP4%253d) using organisation code "WEB"     |
 | Understanding Safe Sport as a Volunteer     | Free     | Register [here](https://sportsg-ed.csod.com/selfreg/register.aspx?c=%255e%255e%255eL22Iv55qWgHU%252bNO4TN0Z%252b8Ppzq1f9Yqmcl3PyeQBgP4%253d) using organisation code "WEB"     |
 
-| Module | Fee | 
-| --------   | -------- | 
-| Building a Safe Sporting Organisation for Sport Administrators | Chargeable |
-| Understanding Safe Sport as an Athlete                                      | Free | 
-| Understanding Safe Sport as a Coach                                         | Free for NROC Coaches |
-| Understanding Safe Sport as a Parent                                         | Free |
 
 
 
