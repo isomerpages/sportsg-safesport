@@ -17,19 +17,23 @@ For athletes, knowing that they may set their personal boundaries and understand
 
 ![](/images/sportsg-ed/sportsged.png)
 
-There are 4 role-specific Safe Sport awareness modules on the digital learning platform, SportSG-ED. 
+There are 5 role-specific Safe Sport awareness modules on the digital learning platform, SportSG-ED. 
 
 Upon completion of the modules, learners will receive a certificate of achievement.
 
 
 **Role-Diffentiated Modules**
 
-| Module | Fee | 
-| --------   | -------- | 
-| Building a Safe Sporting Organisation for Sport Administrators | Chargeable |
-| Understanding Safe Sport as an Athlete                                      | Free | 
-| Understanding Safe Sport as a Coach                                         | Free for NROC Coaches |
-| Understanding Safe Sport as a Parent                                         | Free |
+
+
+| Module | Fee | How to Access |
+| -------- | -------- | -------- |
+| Building a Safe Sporting Organisation for Sport Administrators     | Chargeable     | Only for member organisations of the Safe Sport Programme - contact your organisation for details    |
+| Understanding Safe Sport as an Athlete     | Free     | Register [here](https://sportsg-ed.csod.com/selfreg/register.aspx?c=%255e%255e%255eL22Iv55qWgHU%252bNO4TN0Z%252b8Ppzq1f9Yqmcl3PyeQBgP4%253d) using organisation code "WEB"     |
+| Understanding Safe Sport as a Coach     | Free for NROC coaches only     | Login [here](https://sportsg-ed.csod.com/client/sportsg-ed/default.aspx). Refer to the user guide below for instructions|
+| Understanding Safe Sport as a Parent     | Free     | Register [here](https://sportsg-ed.csod.com/selfreg/register.aspx?c=%255e%255e%255eL22Iv55qWgHU%252bNO4TN0Z%252b8Ppzq1f9Yqmcl3PyeQBgP4%253d) using organisation code "WEB"     |
+| Understanding Safe Sport as a Volunteer     | Free     | Register [here](https://sportsg-ed.csod.com/selfreg/register.aspx?c=%255e%255e%255eL22Iv55qWgHU%252bNO4TN0Z%252b8Ppzq1f9Yqmcl3PyeQBgP4%253d) using organisation code "WEB"     |
+
 
 
 
