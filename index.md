@@ -21,6 +21,8 @@ sections:
             url: https://www.safesport.sg/training-and-education/awareness-module/
           - title: Find a Member Organisation
             url: https://www.safesport.sg/safe-sport-programme/memberorganisations/
+          - title: Be an Affiliate Member
+            url: https://www.safesport.sg/safe-sport-programme/affiliatemember/
   - resources:
       subtitle: Latest
       button: See ALL

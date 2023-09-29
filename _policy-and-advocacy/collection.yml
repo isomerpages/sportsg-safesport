@@ -3,6 +3,6 @@ collections:
     output: true
     order:
       - Policies And Procedures.md
-      - Policy Resources.md
       - Assessing and Managing Risks.md
+      - Policy Resources.md
       - Safe Recruitment.md
