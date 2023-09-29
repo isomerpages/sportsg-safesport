@@ -6,7 +6,7 @@ image: /images/workshops.jpg
 ---
 ### **Safeguarding Officer Training**
 
-![Participants being briefed for a small-group role-play exercise](/images/sobannneralt.jpg)
+![Trainer briefing participants for a small group role play activity](/images/sobanneralt.jpg)
 
 The [Safeguarding Officer](https://www.safesport.sg/case-management/safeguarding-officer) Training is for appointed officers from sporting organisations in Singapore. 
 
