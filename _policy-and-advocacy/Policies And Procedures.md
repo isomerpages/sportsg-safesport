@@ -3,8 +3,7 @@ title: Policies And Procedures
 permalink: /policy-and-advocacy/policies-and-procedures/
 description: ""
 ---
-
-<img style="width: 350px; height: 550px;" src="/images/policy%20roadmap.png">
+<img style="width:365px; height: 550px;" src="/images/policy%20roadmap.png">
 
 
 #####  **What is a safeguarding policy?**
