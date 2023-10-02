@@ -5,7 +5,7 @@ description: ""
 ---
 <figure>
 	<img style="width:365px; height: 550px;" src="/images/policy%20roadmap.png">
-<i> <font size="-1"> Roadmap for Policy development and implementation </font></i>
+<i> <font size="-1"> Roadmap for policy development and implementation </font></i>
 	</figure>
 
 #####  **What is a safeguarding policy?**
