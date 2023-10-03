@@ -29,11 +29,11 @@ sections:
       subtitle: Latest
       button: See ALL
   - infopic:
-      title: "The Safe Sport UNIFIED CODE "
+      title: The Safe Sport UNIFIED CODE
       subtitle: Download
       button: here
       url: /safe-sport-programme/unified-code
-      image: /images/Code.jpg
+      image: /images/codeandhandbook.png
       alt: Reporting
       description: "& the Safe Sport Programme Handbook (for Member Organisations)"
   - infopic:
