@@ -3,6 +3,11 @@ title: Policies And Procedures
 permalink: /policy-and-advocacy/policies-and-procedures/
 description: ""
 ---
+<figure>
+	<img style="width:365px; height: 550px;" src="/images/policy-roadmap.png">
+<i> <font size="-1"> Roadmap for policy development and implementation </font></i>
+	</figure>
+
 #####  **What is a safeguarding policy?**
 
 A safeguarding policy is a best practice framework for your organisation to:

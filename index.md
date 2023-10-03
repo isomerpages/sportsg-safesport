@@ -13,16 +13,18 @@ sections:
       dropdown:
         title: Looking for something?
         options:
-          - title: Report a Concern
+          - title: Report a concern
             url: https://www.safesport.sg/case-management/reporting/
           - title: Download the Unified Code
             url: https://www.safesport.sg/safe-sport-programme/unified-code/
-          - title: Sign Up for a Course
+          - title: Sign up for a course
             url: https://www.safesport.sg/training-and-education/awareness-module/
           - title: Find a Member Organisation
             url: https://www.safesport.sg/safe-sport-programme/memberorganisations/
           - title: Be an Affiliate Member
             url: https://www.safesport.sg/safe-sport-programme/affiliatemember/
+          - title: Sign up for our newsletter
+            url: https://www.safesport.sg/about/subscribe/
   - resources:
       subtitle: Latest
       button: See ALL
@@ -31,8 +33,9 @@ sections:
       subtitle: Download
       button: here
       url: /safe-sport-programme/unified-code
-      image: /images/Code.jpg
-      alt: Reporting
+      image: /images/codeandhandbook.png
+      alt: Unified Code and Handbook
+      description: "& the Safe Sport Programme Handbook (for Member Organisations)"
   - infopic:
       title: Community Consultations
       button: view reports
