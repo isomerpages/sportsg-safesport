@@ -34,7 +34,7 @@ sections:
       button: here
       url: /safe-sport-programme/unified-code
       image: /images/codeandhandbook.png
-      alt: Reporting
+      alt: Unified Code and Handbook
       description: "& the Safe Sport Programme Handbook (for Member Organisations)"
   - infopic:
       title: Community Consultations
