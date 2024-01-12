@@ -2,26 +2,6 @@
 title: Assessing and Managing Risks
 permalink: /policy-and-advocacy/risk/
 description: ""
+variant: tiptap
 ---
-#### **What is Risk Assessment and Management?**
-
-In the context of Safe Sport, risk refers to the likelihood of a [Misconduct](/safe-sport-programme/unified-code) occurring in the sporting community. 
-
-**Risk Assessment** involves:
-* Identifying risk factors that can lead to a Misconduct
-* Evaluating the likelihood and impact of  these risk factors
-
-**Risk Management** involves:
-* Implementing strategies to minimise and/or eliminate the likelihood that a Misconduct occurs
-
-
-#### **Why is Risk Assessment and Management important for your organisation?**
-
-* builds the confidence of participants, sponsors, employees and stakeholders
-* reduces
- the potential for liability by the organisation
- 
- 
- 
-#### **Download the Organisational Risk Assessment Tool** 
->[Risk Assessment Tool](https://go.gov.sg/riskassessment)
+<h4><strong>What is Risk Assessment and Management?</strong></h4><p>In the context of Safe Sport, risk refers to the likelihood of a <a href="/safe-sport-programme/unified-code" rel="noopener noreferrer nofollow" target="_blank">Misconduct</a> occurring in the sporting community.</p><p><strong>Risk Assessment</strong> involves:</p><ul data-tight="true" class="tight"><li><p>Identifying risk factors that can lead to a Misconduct</p></li><li><p>Evaluating the likelihood and impact of these risk factors</p></li></ul><p><strong>Risk Management</strong> involves:</p><ul data-tight="true" class="tight"><li><p>Implementing strategies to minimise and/or eliminate the likelihood that a Misconduct occurs</p></li></ul><p></p><div class="isomer-image-wrapper"><img style="width: 60%;" height="auto" width="100%" alt="Policy Road Map" src="/images/policy-roadmap.png"></div><h4><strong>Why is Risk Assessment and Management important for your organisation?</strong></h4><ul data-tight="true" class="tight"><li><p>builds the confidence of participants, sponsors, employees and stakeholders</p></li><li><p>reduces the potential for liability by the organisation</p></li></ul><p></p><p></p><h4><strong>Download the Organisational Risk Assessment Tool</strong></h4><blockquote><p><a href="https://go.gov.sg/riskassessment" rel="noopener noreferrer nofollow" target="_blank">Risk Assessment Tool</a></p></blockquote><p></p>
