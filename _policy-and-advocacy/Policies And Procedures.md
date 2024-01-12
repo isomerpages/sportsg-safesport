@@ -2,32 +2,6 @@
 title: Policies And Procedures
 permalink: /policy-and-advocacy/policies-and-procedures/
 description: ""
+variant: tiptap
 ---
-<figure>
-	<img style="width:365px; height: 550px;" src="/images/policy-roadmap.png">
-<i> <font size="-1"> Roadmap for policy development and implementation </font></i>
-	</figure>
-
-#####  **What is a safeguarding policy?**
-
-A safeguarding policy is a best practice framework for your organisation to:
-*  **guide and set expectations for interactions** between all participants
-*  provide **clarity on responsibilities** for Persons In Authority or in positions of trust
-*  set **procedures for reporting and responding** to incidents 
-
-
-#####  **Why is a safeguarding policy important for your organisation?**
-
-Having a safeguarding policy reflects on an organisation's commitment to: 
-* protecting the **core values of sport** 
-* good governance 
-
-
-##### **Benefits to having a safeguarding policy**
-
-*   fostering a **welcoming and inclusive environment** that meets the needs of people
-*   managing and **controlling risks**
-*   having **robust and reliable** systems, processes, and policies in place
-*   improving your efficiency, giving you **more time to focus on core activities**
-*   having **open and transparent** reporting and decision-making processes
-*   **building the confidence** of participants, sponsors, employees and stakeholders
+<p></p><div class="isomer-image-wrapper"><img style="width: 50%;" height="auto" width="100%" alt="Policy Map" src="/images/Policy_Benefits.png"></div><h5><strong>WHAT is a safeguarding policy?</strong></h5><p>A safeguarding policy is a best practice framework for your organisation to:</p><ul data-tight="true" class="tight"><li><p>guide and set<strong> expectations </strong>for interactions between all participants</p></li><li><p>provide <strong>clarity </strong>on <strong>responsibilities for Persons In Authority</strong> or in positions of trust</p></li><li><p>set <strong>procedures for reporting and responding</strong> to incidents</p></li></ul><p></p><h5><strong>WHY this is important?</strong></h5><p>Having a safeguarding policy reflects an organisation's commitment to:</p><ul data-tight="true" class="tight"><li><p>fostering a <strong>welcoming and inclusive environment</strong> </p></li><li><p>protecting the <strong>core values of sport</strong></p></li><li><p>good governance by having <strong>robust and reliable</strong> systems and processes in place</p><p></p></li></ul><p></p><h5></h5><p></p>
