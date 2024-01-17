@@ -16,7 +16,7 @@ To create a SportSG -ED account, please refer to the video user guides:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VDCeOSPZ2-E?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 * To create a SportSG-ED account with a new ActiveSG account: https://www.youtube.com/watch?v=QxOGlmJd8BA 
 
-**For athletes, parents, sport administrators and volunteers**
+**For athletes, parents, and volunteers**
 
 Register for an account [here](https://sportsg-ed.csod.com/selfreg/register.aspx?c=%255e%255e%255eL22Iv55qWgHU%252bNO4TN0Z%252b8Ppzq1f9Yqmcl3PyeQBgP4%253d). Refer to this [user guide](/files/Steps_to_Access_Safe_Sport_Module_for_Self_Registered_Users.pdf) if needed. 
 
