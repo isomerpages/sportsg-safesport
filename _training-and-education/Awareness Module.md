@@ -3,6 +3,7 @@ title: Awareness Module
 permalink: /training-and-education/awareness-module/
 description: SportSG-ED Online Safe Sport Module
 image: /images/softball.png
+variant: markdown
 ---
 #### Raising awareness of the importance of safeguarding in sport
 
@@ -46,7 +47,7 @@ Upon completion of the modules, learners will receive a certificate of achieveme
 Do check out the brochure below for more information. 
 
 
-Follow the steps in this [guide](/files/Safe%20Sport%20-%20SportSG-ED%20User%20Guide.pdf) to start your online learning journey.
+Follow the steps in this [guide]([guide](/files/Steps_to_Access_Safe_Sport_Module_for_Self_Registered_Users.pdf)/files/Safe%20Sport%20-%20SportSG-ED%20User%20Guide.pdf) to start your online learning journey.
 
 #### Get started on SportSG-ED [here](https://www.sportsync.sg/App/Login?ReturnUrl=%2fApp%2fHome%2fLaunchSMLP)
 Need help? Refer to our [FAQ](https://coachsg.sportsingapore.gov.sg/faq?category=SportSG-ED&page=sub).
