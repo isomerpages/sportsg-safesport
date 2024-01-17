@@ -3,6 +3,7 @@ title: The Safe Sport Programme
 permalink: /safe-sport-programme/ssp/
 description: A harmonised safeguarding framework for sport in Singapore
 image: /images/programme.jpg
+variant: markdown
 ---
 ![Alt text for image on Isomer site](/images/programme.jpg)
 
@@ -31,4 +32,4 @@ participation as a consequence for engaging in Misconduct.
 
 
 
-###### Contact us at [contact@safesport.sg](mailto:contact@safesport.sg) to find out how to become a [Member Organisation](https://www.safesport.sg/about/memberorganisations/) or Affiliate.
+###### Contact us at [contact@safesport.sg](mailto:contact@safesport.sg) to find out how to become a [Member Organisation](https://www.safesport.sg/safe-sport-programme/memberorganisations/) or Affiliate.
