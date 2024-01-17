@@ -3,6 +3,7 @@ title: Workshops
 permalink: /training-and-education/workshops/
 description: safe spaces to create awareness and discuss experiences
 image: /images/SO%20Training.jpg
+variant: markdown
 ---
 ![Group of Children at Workshop](/images/workshopscover.jpg)
 
@@ -33,9 +34,11 @@ Depending on your organisations needs, our team will tailor the sessions to suit
 * Active Health
 * ActiveSG Academies and Clubs (Coaches, Sport Administrators &amp; Parents)
 * ActiveSG Sport Operations 
+* Chinese Swimming Club
 * Fencing Singapore
 * Football Association of Singapore
 * JSSL Singapore FC
+* Nanyang Technological University
 * Singapore Aquatics
 * Singapore Badminton Association
 * Singapore Life Saving Society
@@ -49,7 +52,7 @@ Depending on your organisations needs, our team will tailor the sessions to suit
 
 
 ##### **We have also presented in these conferences:**
-*   NYSI Youth Conference (2018)
+*   NYSI Youth Pathways Conference (2018, 2023)
 *   Safe Sport in Asia Webinar (2020)
 *   5th&nbsp;Asia Congress (2021)
 *   SNOC Women in Sport Committee Webinar Series: What Women Want (2021)
@@ -59,6 +62,7 @@ Depending on your organisations needs, our team will tailor the sessions to suit
 *   Sports Medicine Association of Singapore (SMAS) Series (2022)
 *   Singapore Drama Educators Association's (SDEA) Connections: Safeguarding Policies in Singapore (2022)
 *   UNODC 
+*   ICCE Global Coach Conference (2023)
 
 
 [Click here to go back to top](#workshop-rates)
