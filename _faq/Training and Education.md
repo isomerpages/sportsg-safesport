@@ -18,7 +18,7 @@ To create a SportSG -ED account, please refer to the video user guides:
 
 **For athletes, parents, sport administrators and volunteers**
 
-Register for an account here. Refer to this user guide if needed. 
+Register for an account [here](https://sportsg-ed.csod.com/selfreg/register.aspx?c=%255e%255e%255eL22Iv55qWgHU%252bNO4TN0Z%252b8Ppzq1f9Yqmcl3PyeQBgP4%253d). Refer to this [user guide](/files/Steps_to_Access_Safe_Sport_Module_for_Self_Registered_Users.pdf) if needed. 
 
 For any more FAQs on SportSG-ED, please visit [FAQ - Sport Sync](https://www.sportsync.sg/App/System/FAQ) or [go.gov.sg/sportsged](https://go.gov.sg/sportsged).
 
