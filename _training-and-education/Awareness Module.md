@@ -30,10 +30,10 @@ Upon completion of the modules, learners will receive a certificate of achieveme
 | Module | Fee | How to Access |
 | -------- | -------- | -------- |
 | Building a Safe Sporting Organisation for Sport Administrators     | Chargeable     | Only for member organisations of the Safe Sport Programme - contact your organisation for details    |
-| Understanding Safe Sport as an Athlete     | Free     | Register [here](https://sportsg-ed.csod.com/selfreg/register.aspx?c=%255e%255e%255eL22Iv55qWgHU%252bNO4TN0Z%252b8Ppzq1f9Yqmcl3PyeQBgP4%253d) using organisation code "WEB"     |
-| Understanding Safe Sport as a Coach     | Free for NROC coaches only     | Login [here](https://sportsg-ed.csod.com/client/sportsg-ed/default.aspx). Refer to the user guide below for instructions|
-| Understanding Safe Sport as a Parent     | Free     | Register [here](https://sportsg-ed.csod.com/selfreg/register.aspx?c=%255e%255e%255eL22Iv55qWgHU%252bNO4TN0Z%252b8Ppzq1f9Yqmcl3PyeQBgP4%253d) using organisation code "WEB"     |
-| Understanding Safe Sport as a Volunteer     | Free     | Register [here](https://sportsg-ed.csod.com/selfreg/register.aspx?c=%255e%255e%255eL22Iv55qWgHU%252bNO4TN0Z%252b8Ppzq1f9Yqmcl3PyeQBgP4%253d) using organisation code "WEB"     |
+| Understanding Safe Sport as an Athlete     | Free     | [Create an account](https://sportsg-ed.csod.com/selfreg/register.aspx?c=%255e%255e%255eL22Iv55qWgHU%252bNO4TN0Z%252b8Ppzq1f9Yqmcl3PyeQBgP4%253d) using organisation code "WEB"     |
+| Understanding Safe Sport as a Coach     | Free for NROC coaches only     | [Login to SportSG-ED](https://sportsg-ed.csod.com/client/sportsg-ed/default.aspx) with your SportSync ID and refer to the user guide below for instructions|
+| Understanding Safe Sport as a Parent     | Free     | [Create an account](https://sportsg-ed.csod.com/selfreg/register.aspx?c=%255e%255e%255eL22Iv55qWgHU%252bNO4TN0Z%252b8Ppzq1f9Yqmcl3PyeQBgP4%253d) using organisation code "WEB"     |
+| Understanding Safe Sport as a Volunteer     | Free     | [Create an account](https://sportsg-ed.csod.com/selfreg/register.aspx?c=%255e%255e%255eL22Iv55qWgHU%252bNO4TN0Z%252b8Ppzq1f9Yqmcl3PyeQBgP4%253d) using organisation code "WEB"     |
 
 
 
