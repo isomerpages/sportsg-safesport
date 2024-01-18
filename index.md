@@ -31,7 +31,7 @@ sections:
   - infopic:
       title: The Safe Sport UNIFIED CODE
       subtitle: Adopt
-      button: download the code and handbook
+      button: download the unified code
       url: /safe-sport-programme/unified-code
       image: /images/codeandhandbook.png
       alt: Unified Code and Handbook
