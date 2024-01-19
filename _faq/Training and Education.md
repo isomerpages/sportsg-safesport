@@ -22,8 +22,12 @@ You may reach out to us at [safe_sport@sport.gov.sg](mailto:safe_sport@sport.gov
  
 
 ##### **5. I am interested to attend the Safeguarding Officer training. When is the next run of this training?** 
-The next run of the Safeguarding Officer will be in a hybrid format. You will be required to complete the e-learning component (different to the Awareness Modules) and subsequently attend the classroom training where you will be assessed on your competency.
+The next run of the Safeguarding Officer will be in a hybrid format. You will be required to complete the e-learning component and subsequently attend the classroom training where you will be assessed on your competency.
 
 You can view training dates and sign up [here](https://form.gov.sg/5fd0341bfc3f3100111264b5).
+
+##### **6. I have completed an Awareness Module. Do I still have to do the e-learning for the Safeguarding Officer training?**
+
+Yes. The Safeguarding Officer training is a certification course that goes beyond the Awareness Modules, where you will learn about responding to disclosures of abuse, reporting processes, psychological first aid and more. The Awareness Modules will provide a good foundation before moving to the Safeguarding Officer training.
 
 [Click her to go back to top](#how-can-i-access-sportsg-ed)
