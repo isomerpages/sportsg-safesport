@@ -22,7 +22,7 @@ There are 5 role-specific Safe Sport awareness modules on the digital learning p
 
 Upon completion of the modules, learners will receive a certificate of achievement. 
 
-Anyone can take the module - click on the links in the table below to get started. 
+Click on the links in the table below to get started. 
 
 
 **Role-Diffentiated Modules**
