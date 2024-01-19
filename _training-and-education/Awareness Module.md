@@ -49,17 +49,22 @@ Do check out the brochure below for more information.
 
 Follow the steps in this [guide]([guide](/files/Steps_to_Access_Safe_Sport_Module_for_Self_Registered_Users.pdf)/files/Safe%20Sport%20-%20SportSG-ED%20User%20Guide.pdf) to start your online learning journey.
 
-#### Already have an account?  [here](https://www.sportsync.sg/App/Login?ReturnUrl=%2fApp%2fHome%2fLaunchSMLP) <style>
-      .button {
-        display: inline-block;
-        padding: 10px 20px;
-        text-align: center;
-        text-decoration: none;
-        color: #ffffff;
-        background-color: #B12028;
-        border-radius: 6px;
-        outline: none;
-      }
-    </style>
+#### Already have an account?  [here](https://www.sportsync.sg/App/Login?ReturnUrl=%2fApp%2fHome%2fLaunchSMLP) 
 
-Need help? Refer to our [FAQ](https://coachsg.sportsingapore.gov.sg/faq?category=SportSG-ED&amp;page=sub).
+   
+ &nbsp; &nbsp;  .button 
+			{
+ &nbsp; &nbsp; &nbsp;  display: inline\-block;
+ &nbsp; &nbsp; &nbsp;  padding: 10px 20px;
+ &nbsp; &nbsp; &nbsp;  text-align: center;
+ &nbsp; &nbsp; &nbsp;  text-decoration: none;
+ &nbsp; &nbsp; &nbsp;  color: #ffffff;
+ &nbsp; &nbsp; &nbsp;  background-color: #B12028;
+ &nbsp; &nbsp; &nbsp;  border-radius: 6px;
+ &nbsp; &nbsp; &nbsp;  outline: none;
+ &nbsp; &nbsp;  }
+ &nbsp; &nbsp;
+
+<a>REPORT A CONCERN (to open in a new tab) or fill in the form below.
+
+Need help? Refer to our [FAQ](https://coachsg.sportsingapore.gov.sg/faq?category=SportSG-ED&amp;page=sub).</a>
