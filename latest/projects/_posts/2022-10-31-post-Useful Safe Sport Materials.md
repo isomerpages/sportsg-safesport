@@ -5,6 +5,7 @@ date: 2022-10-31
 layout: post
 description: Materials for awareness and advocacy
 image: ""
+variant: markdown
 ---
 #### General Safe Sport Awareness 
 *  [Types of Abuse and Harrassment](/files/Types%20of%20Safe%20Sport%20Misconduct.pdf)  (Info Sheet/Slides)
@@ -28,7 +29,7 @@ The tools can be used as a brief screen to identify levels of distress in adults
 
 
 #### Safe Sport Programme
-* [Affiliate Guide](/files/SAFE%20SPORT%20PROGRAMME%20FOR%20AFFILIATE%20MEMBERS%20FINAL.pdf) (for organisations)
+* [Affiliate Guide](/files/SAFE_SPORT_PROGRAMME_FOR_AFFILIATE_MEMBERS_2024_compressed.pdf) (for organisations)
 
 
 
