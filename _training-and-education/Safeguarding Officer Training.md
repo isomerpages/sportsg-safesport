@@ -3,6 +3,7 @@ title: Safeguarding Officer Training
 permalink: /training-and-education/so-training/
 description: First responder training
 image: /images/workshops.jpg
+variant: markdown
 ---
 ### **Safeguarding Officer Training**
 
@@ -29,7 +30,7 @@ The training covers the following:
 
 Safeguarding Officers are required to complete the online Safeguarding Officer module on [SportSG-ED](https://www.sportsync.sg/App/Login?ReturnUrl=%2fApp%2fHome%2fLaunchSMLP) (available from April 2022 onwards) as a pre-requisite to the classroom training where officers will be assessed on their skills. 
 
-This training is chargeable for non-[member organisations](/about/memberorganisations) of the Safe Sport Programme. 
+This training is chargeable for non-[member organisations](/safesportprogramme/memberorganisations) of the Safe Sport Programme. 
 
 ##### **Registration Form**
 Sign up for our upcoming Safeguarding Officer Training session here:
