@@ -2,6 +2,7 @@
 title: Affiliate Member
 permalink: /safe-sport-programme/affiliatemember/
 description: ""
+variant: markdown
 ---
 ##### **What is an affiliate member?**
 
@@ -11,6 +12,9 @@ To be an affiliate member of the Safe Sport Programme, organisations will need t
 * adopt the [Safe Sport Unified Code](https://www.safesport.sg/files/Safe%20Sport%20Unified%20Code%20v4.pdf)
 * develop a [Safe Sport Policy](https://www.safesport.sg/policy-and-advocacy/resources/) 
 * equip stakeholders with [knowledge about Safe Sport](https://www.safesport.sg/training-and-education/awareness-module/)
+
+##### **What support is available for affiliate members?**
+Check out our [affiliate member guide](/files/SAFE_SPORT_PROGRAMME_FOR_AFFILIATE_MEMBERS_2024_compressed.pdf).
 
 ##### **What is the process to be an affiliate member?**
 
@@ -45,6 +49,7 @@ Sporting organisations interested to be an affiliate member will be provided wit
 			<td> Key stakeholders (e.g., coaches, staff, athletes, parents, volunteers) can undergo training/workshop sessions to increase their <a href="https://www.safesport.sg/training-and-education/awareness-module/">awareness of Safe Sport</a>.<br><br>Organisations can also send representatives to be trained as a <a href="https://www.safesport.sg/training-and-education/so-training/">Safeguarding Officer</a>.<br></td>
 			</tr>
 	</tbody></table>
+
 
 ##### **How do I become an affiliate member?**
 
