@@ -33,7 +33,7 @@ The tools can be used as a brief screen to identify levels of distress in adults
 
 
 
-#### User Guides for Online Modules
+#### User Guides for Online Awareness Modules
 * [Athletes](/files/Athletes%20Safe%20Sport%20SportSG-ED%20User%20Guide.pdf)
 * [Coaches (NROC only)](/files/NROC%20Coaches%20Safe%20Sport%20SportSG-ED%20User%20Guide.pdf)
 * [Parents](/files/Parents%20Safe%20Sport%20SportSG-ED%20User%20Guide.pdf)
