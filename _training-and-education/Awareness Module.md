@@ -49,7 +49,7 @@ Click on the links in the table below to get started.
 Do check out the brochure below for more information. 
 
 
-Follow the steps in this [guide]([guide](/files/Steps_to_Access_Safe_Sport_Module_for_Self_Registered_Users.pdf)/files/Safe%20Sport%20-%20SportSG-ED%20User%20Guide.pdf) to start your online learning journey.
+Follow the steps in this [guide](/files/Steps_to_Access_Safe_Sport_Module_for_Self_Registered_Users.pdf) to start your online learning journey.
 
 #### Already have an account? 
 
