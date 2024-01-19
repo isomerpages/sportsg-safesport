@@ -49,5 +49,17 @@ Do check out the brochure below for more information.
 
 Follow the steps in this [guide]([guide](/files/Steps_to_Access_Safe_Sport_Module_for_Self_Registered_Users.pdf)/files/Safe%20Sport%20-%20SportSG-ED%20User%20Guide.pdf) to start your online learning journey.
 
-#### Get started on SportSG-ED [here](https://www.sportsync.sg/App/Login?ReturnUrl=%2fApp%2fHome%2fLaunchSMLP)
-Need help? Refer to our [FAQ](https://coachsg.sportsingapore.gov.sg/faq?category=SportSG-ED&page=sub).
+#### Already have an account?  [here](https://www.sportsync.sg/App/Login?ReturnUrl=%2fApp%2fHome%2fLaunchSMLP) <style>
+      .button {
+        display: inline-block;
+        padding: 10px 20px;
+        text-align: center;
+        text-decoration: none;
+        color: #ffffff;
+        background-color: #B12028;
+        border-radius: 6px;
+        outline: none;
+      }
+    </style>
+
+Need help? Refer to our [FAQ](https://coachsg.sportsingapore.gov.sg/faq?category=SportSG-ED&amp;page=sub).
