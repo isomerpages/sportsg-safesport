@@ -3,6 +3,7 @@ title: Safe Sport Programme
 permalink: /faq/safe-sport-programme/
 description: A harmonised safeguarding framework for sport in Singapore
 image: /images/Code.jpg
+variant: markdown
 ---
 ##### **1. Who was consulted in the development of the Unified Code and the Safe Sport Programme?**
 
@@ -49,6 +50,3 @@ To fully implement the Safe Sport Programme, a Member Organisation will have to:
 (3) enforce the terms of the Safe Sport Policy across its membership, programmes and/or sanctioned events <br><br>
 A model Safe Sport Policy will be made available to Member Organisations and the Safe Sport Commission will undertake an onboarding process with each Member Organisation to ensure that the Safe Sport Policy is aligned.
  
-
-##### **5. When can an organisation get accredited with the Safety Mark?**
-The aim of the accreditation scheme is to establish recognition for the quality of an organisation’s safeguarding efforts and established processes. The accreditation framework will be activated following the roll out of the Safe Sport Programme in 2022.
