@@ -28,7 +28,7 @@ The training covers the following:
 
 ##### **Requirements to becoming a Safeguarding Officer**
 
-Safeguarding Officers are required to complete the online Safeguarding Officer module on [SportSG-ED](https://www.sportsync.sg/App/Login?ReturnUrl=%2fApp%2fHome%2fLaunchSMLP) (available from April 2022 onwards) as a pre-requisite to the classroom training where officers will be assessed on their skills. 
+Safeguarding Officers are required to complete the Safeguarding Officer e-learning module on [SportSG-ED](https://sportsg-ed.csod.com/client/sportsg-ed/default.aspx) (different to the Safe Sport Awareness Modules) as a pre-requisite to the classroom training where officers will be assessed on their skills. The Safe Sport team will grant you access to the e-learning when your registration has been confirmed. 
 
 This training is chargeable for non-[member organisations](/safesportprogramme/memberorganisations) of the Safe Sport Programme. 
 

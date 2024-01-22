@@ -5,41 +5,29 @@ description: Questions on Safe Sport Awareness Workshops and Modules
 image: /images/SO%20Training.jpg
 variant: markdown
 ---
-##### **1. How can I access SportSG-ED?** 
+##### **1. How can I access the Awareness Modules?** 
 
-**For NROC Coaches**
+Instructions to create an account are on the [Awareness Module page](https://www.safesport.sg/training-and-education/awareness-module/).
 
-You may access SportSG-ED via [www.sportsync.sg](https://www.sportsync.sg/App/Login).
-
-To create a SportSG -ED account, please refer to the video user guides:
-*  To create a SportSG-ED account with your existing ActiveSG account:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VDCeOSPZ2-E?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-* To create a SportSG-ED account with a new ActiveSG account: https://www.youtube.com/watch?v=QxOGlmJd8BA 
-
-**For athletes, parents, and volunteers**
-
-Register for an account [here](https://sportsg-ed.csod.com/selfreg/register.aspx?c=%255e%255e%255eL22Iv55qWgHU%252bNO4TN0Z%252b8Ppzq1f9Yqmcl3PyeQBgP4%253d). Refer to this [user guide](/files/Steps_to_Access_Safe_Sport_Module_for_Self_Registered_Users.pdf) if needed. 
-
-For any more FAQs on SportSG-ED, please visit [FAQ - Sport Sync](https://www.sportsync.sg/App/System/FAQ) or [go.gov.sg/sportsged](https://go.gov.sg/sportsged).
-
-##### **2. Are the Awareness modules only available on SportSG-ED?**
-Yes. The Awareness modules are only available on SportSG-ED.
-
-##### **3. Do I get a certificate and am I deemed as Safe Sport trained upon completing the Awareness module in SportSG-ED?**
-Yes. You are required to achieve a minimum passing grade of 80% in the assessment to be issued a certificate (auto generated in SportSG-ED) and deem as Safe Sport trained. 
+##### **2. If I have completed an Awareness Module, am I Safe Sport trained?**
+Yes! You are required to achieve a minimum passing grade of 80% in the assessment to be issued a certificate (auto generated in the e-learning platform) and deemed as Safe Sport trained. 
 
 Remember to download a copy of your certificate for future use.
 
-##### **4. How different is the Awareness module in SportSG-ED from the workshop?** 
-The awareness module in SportSG-ED covers in-depth content on Safe Sport including an assessment component that you are required to pass to attain the certificate and deem as Safe Sport trained. The workshop covers only a portion of the content from the Awareness module in SportSG-ED and no assessment or certificate will be issued upon completion.  
+##### **3. How different are the Awareness Modules from a Safe Sport workshop?** 
+The awareness modules cover in-depth content on Safe Sport including an assessment component that you are required to pass to attain the certificate and deem as Safe Sport trained. Our workshops are bespoke to your organisational needs. We recommend that all workshop participants complete the relevant Awareness Module beforehand to get the most out of our workshops.
  
-##### **5. I would like to conduct a Safe Sport workshop for the community within my sport. Where can I gain access to resources or a trainer to conduct this workshop?**
+##### **4. I would like to conduct a Safe Sport workshop for the community within my sport. Where can I gain access to resources or a trainer to conduct this workshop?**
 You may reach out to us at [safe_sport@sport.gov.sg](mailto:safe_sport@sport.gov.sg) and we can discuss and customise the content to suit your target audience.
  
 
-##### **6. I am interested to attend the Safeguarding Officer training. When is the next run of this training?** 
-The next run of the Safeguarding Officer will be in a hybrid format. You will be required to complete the online training in SportSG-ED (which will be available from April 2022 onwards) and subsequently attend the classroom training where you will be assessed on your competency.
+##### **5. I am interested to attend the Safeguarding Officer training. When is the next run of this training?** 
+The next run of the Safeguarding Officer will be in a hybrid format. You will be required to complete the e-learning component and subsequently attend the classroom training where you will be assessed on your competency.
 
 You can view training dates and sign up [here](https://form.gov.sg/5fd0341bfc3f3100111264b5).
+
+##### **6. I have completed an Awareness Module. Do I still have to do the e-learning for the Safeguarding Officer training?**
+
+Yes. The Safeguarding Officer training is a certification course that goes beyond the Awareness Modules, where you will learn about responding to disclosures of abuse, reporting processes, psychological first aid and more. The Awareness Modules will provide a good foundation before moving to the Safeguarding Officer training.
 
 [Click her to go back to top](#how-can-i-access-sportsg-ed)

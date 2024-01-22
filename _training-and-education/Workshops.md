@@ -15,6 +15,8 @@ Depending on your organisations needs, our team will tailor the sessions to suit
 * Objectives - (e.g. create awareness, intervention, assess policy gaps)
 * Different stakeholder roles and age ranges - (i.e. parents,  children, coaches, administrators)
 
+We recommend that participants complete the [Awareness Module](https://www.safesport.sg/training-and-education/awareness-module/) beforehand for best results. 
+
 
 
 ##### **Workshop Rates**
