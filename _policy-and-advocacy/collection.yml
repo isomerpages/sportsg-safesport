@@ -1,0 +1,8 @@
+collections:
+  policy-and-advocacy:
+    output: true
+    order:
+      - Policies And Procedures.md
+      - Assessing and Managing Risks.md
+      - Policy Resources.md
+      - Safe Recruitment.md

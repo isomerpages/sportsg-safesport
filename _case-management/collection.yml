@@ -1,0 +1,10 @@
+collections:
+  case-management:
+    output: true
+    order:
+      - Reporting a Concern.md
+      - Case Management Service.md
+      - Assessing Seriousness.md
+      - Support Network.md
+      - Safeguarding Officer .md
+      - Other Helplines.md
