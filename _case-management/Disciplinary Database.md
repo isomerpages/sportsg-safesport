@@ -97,7 +97,7 @@ may change or be altered at any time.</p>
 <p>Suspended for 6 months</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>15 January 2024 - 14 June 2024</p>
 </td>
 </tr>
 <tr>
@@ -111,7 +111,7 @@ may change or be altered at any time.</p>
 <p>Suspended for 4 years</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>22 June 2023 - 21 June 2027</p>
 </td>
 </tr>
 </tbody>
