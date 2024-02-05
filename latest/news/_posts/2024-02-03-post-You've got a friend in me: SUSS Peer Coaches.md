@@ -10,5 +10,6 @@ variant: tiptap
 ---
 <p>The Safe Sport Commission was recently invited by the Singapore University
 of Social Sciences (SUSS) to conduct a workshop for it's peer coaches.
-These students volunteer their time to start interest groups for sports
-and activities such as taekwondo, boxing, skating, music and dance.</p>
+These students passion for sport and arts led them to form interest groups
+such as taekwondo, powerlifting, silat, boxing, skating, music and dance.
+To add to the university experience, they volunteer</p>
