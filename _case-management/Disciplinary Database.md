@@ -66,7 +66,7 @@ may change or be altered at any time.</p>
 <p>Wushu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Terminated and debarred for 2 years</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -74,27 +74,13 @@ may change or be altered at any time.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Tan Kim Seng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Swimming</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Terminated and debarred for life</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -102,13 +88,27 @@ may change or be altered at any time.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ng Zong Ren</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Badminton</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Suspended for 6 months</p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ong Jun Hong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Suspended for 4years</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
