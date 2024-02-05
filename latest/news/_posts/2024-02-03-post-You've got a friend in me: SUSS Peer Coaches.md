@@ -39,3 +39,5 @@ and harrassment.</p>
 <img style="width: 100%" height="auto" width="100%" alt="Group picture of workshop participants" src="/images/Resources Images/SUSS_Group_Picture.jpg">
 </div>
 <p></p>
+<p><em>If you would like to engage the Safe Sport Commission for workshops, please write to us at contact@safesport.sg.</em>
+</p>
