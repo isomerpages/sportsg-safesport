@@ -69,7 +69,7 @@ may change or be altered at any time.</p>
 <p>Terminated and debarred for 2 years</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>9 May2022 to 8 May2024</p>
+<p>9 May 2022 to 8 May 2024</p>
 </td>
 </tr>
 <tr>
@@ -83,7 +83,7 @@ may change or be altered at any time.</p>
 <p>Terminated and debarred for life</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>15 Sept 2021 - Life</p>
 </td>
 </tr>
 <tr>
