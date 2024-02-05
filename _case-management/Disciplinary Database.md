@@ -105,7 +105,7 @@ may change or be altered at any time.</p>
 <p>Ong Jun Hong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fencing</p>
+<p>Shooting</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Suspended for 4 years</p>
