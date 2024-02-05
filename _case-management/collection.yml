@@ -2,10 +2,10 @@ collections:
   case-management:
     output: true
     order:
-      - Disciplinary Database.md
       - Reporting a Concern.md
       - Case Management Service.md
       - Assessing Seriousness.md
       - Support Network.md
       - Safeguarding Officer .md
+      - Disciplinary Database.md
       - Other Helplines.md
