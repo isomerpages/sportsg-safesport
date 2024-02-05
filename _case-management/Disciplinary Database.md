@@ -21,66 +21,9 @@ Database.</p>
 sanctions or suspensions by the Safe Sport Commission or other applicable
 entities and may be updated as necessary. No commercial use of the information
 contained in this Database is authorised.</p>
-<p></p>
 </li>
 </ul>
-<table>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>NAME</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>SANCTION</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>SANCTION PERIOD</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Dominic Ong Choon Hai</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Terminated and debarred for 2 years</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>9 May 2022 - 8 May 2024</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Tan Kim Seng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Terminated and debarred for life</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>From 15 Sept 2021</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ng Zong Ren</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Suspended for 6 months</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>15 January 2024 - 14 June 2024</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ong Jun Hong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Suspended for 4 years</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>22 June 2023 - 21 June 2027</p>
-</td>
-</tr>
-</tbody>
-</table>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQXq-AZ8pArmYgaVqzokwu-W3DWozzxEEE_LRzZnbhjrCmwe13JYRBi3rMma67WrHglO2QCbg3fv-km/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+</div>
 <p></p>
