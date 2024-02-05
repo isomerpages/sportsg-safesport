@@ -14,7 +14,7 @@ Disciplinary Panel and the sanctions meted out.</p>
 <p>to any and all policies, disclaimers, and terms and conditions for access
 and expressly waives any and all claims that you may or might have against
 the Safe Sport Commission arising out of the use of, or reliance on, this
-Database</p>
+Database.</p>
 </li>
 <li>
 <p>that this Database may not contain all persons who have been subject to
