@@ -5,7 +5,7 @@ variant: tiptap
 description: Users can search the database of individuals who are subjects of
   disciplinary measures
 ---
-<p>The Safe Sport Commission's Disciplinary Database is a publicaly available
+<p>The Safe Sport Commission's Disciplinary Database is a publicly available
 register which sets out to inform the public of individuals who have been
 subjected to a disciplinary hearing by the Safe Sport Disciplinary Panel
 and the sanctions meted out.</p>
