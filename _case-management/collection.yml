@@ -2,6 +2,7 @@ collections:
   case-management:
     output: true
     order:
+      - Disciplinary Database/.keep
       - Reporting a Concern.md
       - Case Management Service.md
       - Assessing Seriousness.md
