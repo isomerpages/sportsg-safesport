@@ -51,6 +51,7 @@ We recommend that participants complete the [Awareness Module](https://www.safes
 * Singapore Squash Raquets Association
 * Singapore Sport Institute
 * Singapore Sports School
+* Singapore University of Social Sciences 
 
 
 ##### **We have also presented in these conferences:**
