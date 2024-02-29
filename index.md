@@ -25,6 +25,8 @@ sections:
             url: https://www.safesport.sg/safe-sport-programme/affiliatemember/
           - title: Sign up for our newsletter
             url: https://www.safesport.sg/about/subscribe/
+          - title: Access our news archive
+            url: https://www.safesport.sg/latest/
   - resources:
       subtitle: Latest
       button: See ALL
