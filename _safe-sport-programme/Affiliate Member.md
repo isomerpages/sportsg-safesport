@@ -10,7 +10,7 @@ Any sporting organisation in Singapore, including private sporting organisations
 
 To be an affiliate member of the Safe Sport Programme, organisations will need to:
 * adopt the [Safe Sport Unified Code](https://www.safesport.sg/files/Safe%20Sport%20Unified%20Code%20v4.pdf)
-* develop a [Safe Sport Policy](https://www.safesport.sg/policy-and-advocacy/resources/) 
+* develop a [Safe Sport Policy](https://www.safesport.sg/policy-and-research/resources/) 
 * equip stakeholders with [knowledge about Safe Sport](https://www.safesport.sg/training-and-education/awareness-module/)
 
 ##### **What support is available for affiliate members?**
@@ -31,7 +31,7 @@ Sporting organisations interested to be an affiliate member will be provided wit
 			<td> Stage 1 </td>
 			<td> 
 				Risk Assessment Exercise</td>
-			<td> By going through the <a href="https://www.safesport.sg/policy-and-advocacy/risk/">risk assessment exercise</a>, organisations will be able to identify the gaps and needs in areas of concerns. For example, whether the organisation needs to revise its digital communication policy.</td>
+			<td> By going through the <a href="https://www.safesport.sg/policy-and-research/risk/">risk assessment exercise</a>, organisations will be able to identify the gaps and needs in areas of concerns. For example, whether the organisation needs to revise its digital communication policy.</td>
 		</tr>
 		<tr>
 			<td> Stage 2 </td>
@@ -41,7 +41,7 @@ Sporting organisations interested to be an affiliate member will be provided wit
 		<tr>
 			<td> Stage 3 </td>
 			<td> Developing a Safe Sport Policy </td>
-			<td> After the onboarding session, the organisation can work on the <a href="https://www.safesport.sg/policy-and-advocacy/resources/">Safe Sport Policy </a>to develop/revise the guidelines relevant to their organisation.</td>
+			<td> After the onboarding session, the organisation can work on the <a href="https://www.safesport.sg/policy-and-research/resources/">Safe Sport Policy </a>to develop/revise the guidelines relevant to their organisation.</td>
 			</tr>
 		<tr>
 			<td> Stage 4 </td>
