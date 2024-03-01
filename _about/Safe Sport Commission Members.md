@@ -44,11 +44,10 @@ The Safe Sport Commission comprises representatives of the different stakeholder
 
 ###### **Past Members**
 
-	
+	 
 | Name | Role| 
 | ------------  | ---------- |
 | Lee Kok Choy      | President, Singapore Swimming Association / SportSG Board Member |
 | Andy Hoe     | Group Director, Partnership, People's Association | 
 | Jennifer Teoh  | Director, RPG-CFPS, Ministry of Social and Family Development     |
 | Yip Pin Xiu  | Paralympian / ExCo Member, Singapore Disability Sport Council     |
- 
