@@ -27,8 +27,7 @@ The Safe Sport Commission comprises representatives of the different stakeholder
 | Lau Kok Keng    | Partner, Rajah & Tann Singapore LLP  / Member, SNOC Executive Committee    | 
 | Dr. Hing Siong Chen   | NSA Representative / President of Singapore Cycling Federation | 
 | Lim Chea Rong     | Head Coach, Shooting, Singapore Sports School     |
-| Nurulasyiqah Mohammad Taha     | Paralympian / Member, Singapore Para-Athletes Commission / Member, International Paralympic Committee | 
-| Shayna Ng   | National Athlete / Member, Athlete's Commission, SNOC  |  
+| Nurulasyiqah Mohammad Taha     | Paralympian / Member, Singapore Para-Athletes Commission / Member, Athlete's Commission, SNOC  |  
 
  
 ###### Members representing relevant Government Agencies
@@ -38,6 +37,17 @@ The Safe Sport Commission comprises representatives of the different stakeholder
 | ------------  | ---------- |
 | Dr. Su Chun Wei      | Chief, Singapore Sport Institute |
 | Peh Seow Ling     | Director, Lifeskills & Lifestyle Division, People's Association | 
-| Tan Li Jen  | Director and Senior Principal Forensic Psychologist, Ministry of Social and Family Development     |
+| Tan Li Jen  | Director and Senior Principal Clinical Psychologist, Ministry of Social and Family Development     |
 | Ng Chen Kee   | Divisional Director, Student Development Curriculum, Ministry of Education   |
 | Devrajan s/o Bala  | Deputy Director, Current Ops, Singapore Police Force  |
+
+
+###### **Past Members**
+
+	 
+| Name | Role| 
+| ------------  | ---------- |
+| Lee Kok Choy      | President, Singapore Swimming Association / SportSG Board Member |
+| Andy Hoe     | Group Director, Partnership, People's Association | 
+| Jennifer Teoh  | Director, RPG-CFPS, Ministry of Social and Family Development     |
+| Yip Pin Xiu  | Paralympian / ExCo Member, Singapore Disability Sport Council     |
