@@ -7,7 +7,7 @@ variant: markdown
 ---
 ### **Safe Sport Commission** 
 
-The Safe Sport Commission comprises representatives of the different stakeholders in our sporting community to bring together participants and organisations in fostering a healthy and positive climate for all involved.
+The Safe Sport Commission comprises of representatives of the different stakeholders in our sporting community to bring together participants and organisations in fostering a healthy and positive climate for all involved.
 
 ### **List of Commission Members** 
 ##### Term 2023- 2025
