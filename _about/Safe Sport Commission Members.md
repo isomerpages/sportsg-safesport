@@ -27,7 +27,8 @@ The Safe Sport Commission comprises of representatives of the different stakehol
 | Lau Kok Keng    | Partner, Rajah & Tann Singapore LLP  / Member, SNOC Executive Committee    | 
 | Dr. Hing Siong Chen   | NSA Representative / President of Singapore Cycling Federation | 
 | Lim Chea Rong     | Head Coach, Shooting, Singapore Sports School     |
-| Nurulasyiqah Mohammad Taha     | Paralympian / Member, Singapore Para-Athletes Commission / Member, Athlete's Commission, SNOC  |  
+| Shayna Ng    |Chair, Athletes' Commission, SNOC     |
+| Nurulasyiqah Mohammad Taha     | Paralympian / Member, Singapore Para-Athletes' Commission / Member, Athletes' Commission, SNOC  |  
 
  
 ###### Members representing relevant Government Agencies
