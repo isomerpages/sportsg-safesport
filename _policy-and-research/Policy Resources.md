@@ -1,7 +1,8 @@
 ---
 title: Policy Resources
-permalink: /policy-and-advocacy/resources/
-description: template policies for safeguarding in sport
+permalink: /policy-and-research/resources/
+description: Template policies for safeguarding in sport
+variant: tiptap
 ---
 ##### **Member Organisations may adopt these policies and procedures into their organisational policies, contracts for services and employment terms:**
 

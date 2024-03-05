@@ -1,6 +1,6 @@
 ---
 title: Assessing and Managing Risks
-permalink: /policy-and-advocacy/risk/
+permalink: /policy-and-research/risk/
 description: ""
 variant: tiptap
 ---

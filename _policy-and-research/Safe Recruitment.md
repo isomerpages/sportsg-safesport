@@ -1,7 +1,8 @@
 ---
 title: Safe Recruitment
-permalink: /policy-and-advocacy/recruitment/
-description: ""
+permalink: /policy-and-research/recruitment/
+description: Recruiting guidelines for a safe sporting environment
+variant: tiptap
 ---
 #### **Ensuring Safe Recruitment Processes**
 People who work or volunteer in your organisation have the responsibility to ensure and promote a safe sporting environment for all participants, especially Vulnerable Persons. 
