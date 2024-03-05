@@ -51,6 +51,10 @@ The Safe Sport Commission comprises of representatives of the different stakehol
 | Andy Hoe     | Group Director, Partnership, People's Association | 
 | Jennifer Teoh  | Director, RPG-CFPS, Ministry of Social and Family Development     |
 | Yip Pin Xiu  | Paralympian / ExCo Member, Singapore Disability Sport Council     |
+| Dipna Lim Prasad      | Vice-Chair SNOC Athletes' Commission |
+| Kia Siang Wei    | Director, Lifeskills and Lifestyle Division, People's Association | 
+| Tan Tin Wee  | Assistant Commissioner of Police   |
+| Toh Boon Yi  | Chief, Singapore Sport Institute    |
 
-*Role held during appointment as Commission Member 
-    
+*
+*Role held during appointment as Commission Member
