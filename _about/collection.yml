@@ -2,8 +2,8 @@ collections:
   about:
     output: true
     order:
-      - Safe Sport Disciplinary Panel Members.md
       - Our Work.md
       - Safe Sport Commission Members.md
+      - Safe Sport Disciplinary Panel Members.md
       - History.md
       - Newsletter.md
