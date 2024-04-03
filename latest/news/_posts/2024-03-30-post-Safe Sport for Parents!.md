@@ -32,3 +32,7 @@ find out more and alert the Safe Sport Commission.</p>
 <p></p>
 <p>ActiveSG has eighteen Academies and Clubs, each teaching a different sport.
 The sessions prioritise fun and anyone can join regardless of age or skill.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Zoom Webinar about Safe Sport for parents" src="/images/Resources Images/Screenshot_2024_03_30_at_11_21_27_AM.png">
+</div>
+<p></p>
