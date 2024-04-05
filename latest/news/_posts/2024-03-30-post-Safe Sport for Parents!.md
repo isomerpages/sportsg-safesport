@@ -9,9 +9,9 @@ image: ""
 variant: tiptap
 ---
 <p>Over the last two weekends, we collaborated with ActiveSG Academies and
-Clubs to deliver Safe Sport webinars to parents. While children explore
-new sports, it is important that parents remain vigilant to keep sport
-fun.</p>
+Clubs to deliver Safe Sport webinars to parents of the programme. While
+children explore new sports, it is important that parents remain vigilant
+to keep sport fun.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Zoom Webinar about Safe Sport for parents" src="/images/Resources Images/Screenshot_2024_03_30_at_11_21_27_AM.png">
@@ -39,6 +39,6 @@ find out more and <a href="https://www.safesport.sg/case-management/reporting/" 
 To learn more about a parent's role in Safe Sport, check out our <a href="https://www.safesport.sg/training-and-education/awareness-module/" rel="noopener noreferrer nofollow" target="_blank">free e-learning module</a>!</p>
 <p></p>
 <p><a href="https://www.activesgcircle.gov.sg/academies-clubs" rel="noopener noreferrer nofollow" target="_blank">ActiveSG Academies and Clubs</a> offers
-eighteen different sports. The sessions prioritise fun and anyone can join
-regardless of age or skill.</p>
+eighteen different sports. The sessions prioritise fun(damentals) and anyone
+can join regardless of age or skill.</p>
 <p></p>
