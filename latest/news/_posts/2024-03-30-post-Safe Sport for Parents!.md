@@ -38,7 +38,7 @@ or dismissing their experience to break cycles of violence.</p>
 find out more and <a href="https://www.safesport.sg/case-management/reporting/" rel="noopener noreferrer nofollow" target="_blank">alert the Safe Sport Commission</a>.
 To learn more about a parent's role in Safe Sport, check out our <a href="https://www.safesport.sg/training-and-education/awareness-module/" rel="noopener noreferrer nofollow" target="_blank">free e-learning module</a>!</p>
 <p></p>
-<p><a href="https://www.activesgcircle.gov.sg/academies-clubs" rel="noopener noreferrer nofollow" target="_blank">ActiveSG Academies and Clubs</a> offers
-eighteen different sports. The sessions prioritise fun(damentals) and anyone
-can join regardless of age or skill.</p>
+<p>Check out the range of sports offered by the <a href="https://www.activesgcircle.gov.sg/academies-clubs" rel="noopener noreferrer nofollow" target="_blank">ActiveSG Academies and Clubs</a> -
+the sessions prioritise fun(damentals) and anyone can join regardless of
+age or skill.</p>
 <p></p>
