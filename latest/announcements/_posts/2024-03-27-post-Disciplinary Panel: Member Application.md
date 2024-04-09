@@ -10,7 +10,7 @@ variant: tiptap
 <p>Application to be a member of the Safe Sport Disciplinary Panel for the
 term commencing 1 August 2024, is now open until <strong>30 April 2024</strong>.&nbsp;</p>
 <p></p>
-<p>The <a href="https://go.gov.sg/eligability" rel="noopener noreferrer nofollow" target="_blank">Eligibility and Criteria</a>&nbsp;for
+<p>The <a href="https://go.gov.sg/eligibilitycriteriadp" rel="noopener noreferrer nofollow" target="_blank">Eligibility and Criteria</a>&nbsp;for
 Legal and Ordinary Members sets out the requirements to be on the Safe
 Sport Disciplinary Panel.</p>
 <p></p>
