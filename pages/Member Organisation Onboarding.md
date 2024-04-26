@@ -14,50 +14,37 @@ it properly adopts the Safe Sport Programme.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Documents</p>
-</th>
-<th rowspan="1" colspan="1">
 <p>Download</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Safe Sport Unified Code</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.safesport.sg/files/Safe%20Sport%20Unified%20Code%20v4.pdf" rel="noopener noreferrer nofollow" target="_blank">Safe Sport Unified Code</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Safe Sport Programme Handbook</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.safesport.sg/files/Safe%20Sport%20Programme%20Handbook%20101.pdf" rel="noopener noreferrer nofollow" target="_blank">Safe Sport Programme Handbook</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Onboarding Toolkit</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.safesport.sg/files/Safe%20Sport%20Programme%20Onboarding%20Toolkit_final.pdf" rel="noopener noreferrer nofollow" target="_blank">Safe Sport Programme Onboarding Toolkit</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Safe Sport Policy Template</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.safesport.sg/files/safe%20sport%20policy%20template%20250423.pdf" rel="noopener noreferrer nofollow" target="_blank">Safe Sport Policy Template</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Risk Assessment Tool</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://go.gov.sg/riskassessment" rel="noopener noreferrer nofollow" target="_blank">Risk Assessment Tool</a>
+</p>
 </td>
 </tr>
 </tbody>
