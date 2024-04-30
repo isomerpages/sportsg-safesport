@@ -392,20 +392,8 @@ misconduct as set out in the <a href="https://www.safesport.sg/files/Safe%20Spor
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<table>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Member Org Logos/Rowing_Logo.png">
+<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Member Org Logos/Rowing_Logo.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
