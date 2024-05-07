@@ -25,7 +25,7 @@ Upon completion of the modules, learners will receive a certificate of achieveme
 Click on the links in the table below to get started. 
 
 
-**Role-Diffentiated Modules**
+**Role-Differentiated Modules**
 
 
 
