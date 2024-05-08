@@ -17,7 +17,11 @@ misconduct as set out in the <a href="https://www.safesport.sg/files/Safe%20Spor
 </li>
 </ul>
 <h5><strong>List of Member Organisations</strong></h5>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -78,7 +82,7 @@ misconduct as set out in the <a href="https://www.safesport.sg/files/Safe%20Spor
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://equestrianfederationsg.com/safe-sports-policy" rel="noopener noreferrer nofollow" target="_blank">Equestrian Federation of Singapore</a>
+<p><a href="https://www.equestrianfederationsg.com/safe-sport-policy" rel="noopener noreferrer nofollow" target="_blank">Equestrian Federation of Singapore</a>
 </p>
 </td>
 </tr>
@@ -111,7 +115,7 @@ misconduct as set out in the <a href="https://www.safesport.sg/files/Safe%20Spor
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.hfs.org.sg/copy-of-resources" rel="noopener noreferrer nofollow" target="_blank">Handball Federation of Singapore</a>
+<p><a href="https://www.hfs.org.sg/safesport" rel="noopener noreferrer nofollow" target="_blank">Handball Federation of Singapore</a>
 </p>
 </td>
 </tr>
@@ -124,6 +128,17 @@ misconduct as set out in the <a href="https://www.safesport.sg/files/Safe%20Spor
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">Karate-Do Union of Singapore</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Member Org Logos/motor_sports.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Motor Sports Singapore</p>
 </td>
 </tr>
 <tr>
@@ -232,7 +247,8 @@ misconduct as set out in the <a href="https://www.safesport.sg/files/Safe%20Spor
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>Singapore Contract Bridge Association</p>
+<p><a href="https://www.scba.org.sg/safe-sport-programme" rel="noopener noreferrer nofollow" target="_blank">Singapore Contract Bridge Association</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -336,6 +352,18 @@ misconduct as set out in the <a href="https://www.safesport.sg/files/Safe%20Spor
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Member Org Logos/ice_hockey.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://siha.org.sg/safe-sports/" rel="noopener noreferrer nofollow" target="_blank">Singapore Ice Hockey Association</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" src="/images/Member%20Org%20Logos/iceskating.PNG">
 </div>
@@ -420,17 +448,6 @@ misconduct as set out in the <a href="https://www.safesport.sg/files/Safe%20Spor
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://sailing.org.sg/wp-content/uploads/2023/03/SSF-Safe-Sport-Policy.pdf" rel="noopener noreferrer nofollow" target="_blank">Singapore Sailing Federation</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" src="/images/Member%20Org%20Logos/perses%20logo.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.sgsepaktakraw.org/safe-sports-policy" rel="noopener noreferrer nofollow" target="_blank">Singapore Sepak Takraw Federation</a>
 </p>
 </td>
 </tr>
@@ -633,7 +650,8 @@ misconduct as set out in the <a href="https://www.safesport.sg/files/Safe%20Spor
 </tr>
 </tbody>
 </table>
-<table>
+<table style="width: 0px">
+<colgroup></colgroup>
 <tbody>
 <tr></tr>
 </tbody>
