@@ -15,15 +15,27 @@ a former psychologist from the Clinical and Forensic Psychological Services
 Branch of the Ministry of Social and Family Development. Jolie, who has
 conducted numerous trainings on topics related to trauma recovery, has
 worked with children and youth on behavioural management and self-injury.</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Trainer Jolie opens the session." src="/images/Resources Images/Trauma_Informed_1.jpg">
+</div>
+<p></p>
 <p>The group was taken on a journey that involved recognising signs of trauma,
 learning how to respond sensitively to support trauma recovery and crafting
 safe spaces for affected parties, witnesses and respondents during hearings.
 With Jolie’s guidance, the DP Members engaged in the following exercises:</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; recognising the nuanced signs of
-trauma</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; developing active listening skills</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; asking questions in a trauma-informed
-manner</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>recognising the nuanced signs of trauma</p>
+</li>
+<li>
+<p>developing active listening skills</p>
+</li>
+<li>
+<p>asking questions in a trauma-informed manner</p>
+</li>
+</ul>
 <p>DP Members also learnt of the 3 basic survival responses to threat; fight,
 flight, freeze – which would influence how individuals react when faced
 with unpleasant, unwanted or stressful situations. &nbsp;Some common myths
@@ -31,14 +43,22 @@ related to freezing instead of showing signs of resistance or trying escape
 during a traumatic incident were discussed and case studies were analysed.</p>
 <p>Additionally, DP Members learnt about the traumatic stress reactions that
 encompass a wide range of responses:</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; physiological (e.g. being easily
-fatigued, increased heart rate or breathing rate)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; emotional (e.g. being emotionally
-numb or being more emotional than normal)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; psychological (e.g. self-blame,
-having frequent nightmares)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; behavioural (e.g. finding it hard
-to function at work or school, engaging in unhealthy ways of coping)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>physiological (e.g. being easily fatigued, increased heart rate or breathing
+rate)</p>
+</li>
+<li>
+<p>emotional (e.g. being emotionally numb or being more emotional than normal)</p>
+</li>
+<li>
+<p>psychological (e.g. self-blame, having frequent nightmares)</p>
+</li>
+<li>
+<p>behavioural (e.g. finding it hard to function at work or school, engaging
+in unhealthy ways of coping)</p>
+</li>
+</ul>
 <p>&nbsp;</p>
 <p>By understanding these common responses, DP Members &nbsp;were better
 able to understand the reactions of those affected in the context of the
