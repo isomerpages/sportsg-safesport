@@ -65,10 +65,8 @@ rate)</p>
 <li>
 <p>behavioural (e.g. finding it hard to function at work or school, engaging
 in unhealthy ways of coping)</p>
-<p>&nbsp;</p>
 </li>
 </ul>
-<p></p>
 <p>By understanding these common responses, DP Members &nbsp;were better
 able to understand the reactions of those affected in the context of the
 cases, particularly in relation to the time it takes an affected party
