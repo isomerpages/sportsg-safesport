@@ -9,3 +9,44 @@ description: Members of the Disciplinary Panel attend a Community of Practice,
 image: /images/Resources Images/Trauma_Informed_1.jpg
 variant: tiptap
 ---
+<p>The Safe Sport’s Disciplinary Panel Members (DP Members) attended a session
+on Trauma Informed Approach for Disciplinary Hearings led by Jolie Tan,
+a former psychologist from the Clinical and Forensic Psychological Services
+Branch of the Ministry of Social and Family Development. Jolie, who has
+conducted numerous trainings on topics related to trauma recovery, has
+worked with children and youth on behavioural management and self-injury.</p>
+<p>The group was taken on a journey that involved recognising signs of trauma,
+learning how to respond sensitively to support trauma recovery and crafting
+safe spaces for affected parties, witnesses and respondents during hearings.
+With Jolie’s guidance, the DP Members engaged in the following exercises:</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; recognising the nuanced signs of
+trauma</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; developing active listening skills</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; asking questions in a trauma-informed
+manner</p>
+<p>DP Members also learnt of the 3 basic survival responses to threat; fight,
+flight, freeze – which would influence how individuals react when faced
+with unpleasant, unwanted or stressful situations. &nbsp;Some common myths
+related to freezing instead of showing signs of resistance or trying escape
+during a traumatic incident were discussed and case studies were analysed.</p>
+<p>Additionally, DP Members learnt about the traumatic stress reactions that
+encompass a wide range of responses:</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; physiological (e.g. being easily
+fatigued, increased heart rate or breathing rate)</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; emotional (e.g. being emotionally
+numb or being more emotional than normal)</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; psychological (e.g. self-blame,
+having frequent nightmares)</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; behavioural (e.g. finding it hard
+to function at work or school, engaging in unhealthy ways of coping)</p>
+<p>&nbsp;</p>
+<p>By understanding these common responses, DP Members &nbsp;were better
+able to understand the reactions of those affected in the context of the
+cases, particularly in relation to the time it takes an affected party
+to report an incident or often, to even come to the realisation that they
+are the subject of abuse.</p>
+<p>Lively group discussions were sparked with insights and perspectives exchanged.
+The message that was driven home was that there is no fixed way for coping
+with trauma. The consensus of those in attendance was that they found the
+session to be transformative and each had picked up knowledge on how to
+better&nbsp; create a safe and trauma-informed space during hearings.</p>
