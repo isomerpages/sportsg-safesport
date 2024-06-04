@@ -21,6 +21,7 @@ worked with children and youth on behavioural management and self-injury.</p>
 <img style="width: 100%" height="auto" width="100%" alt="Trainer Jolie opens the session." src="/images/Resources Images/Trauma_Informed_1.jpg">
 </div>
 <p></p>
+<h4>What does it mean to be trauma informed?</h4>
 <p>The group was taken on a journey that involved recognising signs of trauma,
 learning how to respond sensitively to support trauma recovery and crafting
 safe spaces for affected parties, witnesses and respondents during hearings.
