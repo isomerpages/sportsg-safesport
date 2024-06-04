@@ -43,6 +43,12 @@ with unpleasant, unwanted or stressful situations. &nbsp;Some common myths
 related to freezing instead of showing signs of resistance or trying to
 escape during a traumatic incident were discussed and case studies were
 analysed.</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="A group discussion during the Community of Practice." src="/images/Resources Images/Trauma_Informed_2.jpg">
+</div>
+<p></p>
 <p>Additionally, DP Members learnt about the traumatic stress reactions that
 encompass a wide range of responses:</p>
 <ul data-tight="true" class="tight">
@@ -59,14 +65,21 @@ rate)</p>
 <li>
 <p>behavioural (e.g. finding it hard to function at work or school, engaging
 in unhealthy ways of coping)</p>
+<p>&nbsp;</p>
 </li>
 </ul>
-<p>&nbsp;</p>
+<p></p>
 <p>By understanding these common responses, DP Members &nbsp;were better
 able to understand the reactions of those affected in the context of the
 cases, particularly in relation to the time it takes an affected party
 to report an incident or often, to even come to the realisation that they
 are the subject of abuse.</p>
+<p></p>
+<blockquote>
+<p>The session was transformative and we picked up knowledge on how to better
+create a safe and trauma-informed space during hearings.</p>
+</blockquote>
+<p></p>
 <p>Lively group discussions were sparked with insights and perspectives exchanged.
 The message that was driven home was that there is no fixed way for coping
 with trauma. The consensus of those in attendance was that they found the
