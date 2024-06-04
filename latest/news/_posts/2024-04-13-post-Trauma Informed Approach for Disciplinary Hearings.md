@@ -40,8 +40,9 @@ With Jolie’s guidance, the DP Members engaged in the following exercises:</p>
 <p>DP Members also learnt of the 3 basic survival responses to threat; fight,
 flight, freeze – which would influence how individuals react when faced
 with unpleasant, unwanted or stressful situations. &nbsp;Some common myths
-related to freezing instead of showing signs of resistance or trying escape
-during a traumatic incident were discussed and case studies were analysed.</p>
+related to freezing instead of showing signs of resistance or trying to
+escape during a traumatic incident were discussed and case studies were
+analysed.</p>
 <p>Additionally, DP Members learnt about the traumatic stress reactions that
 encompass a wide range of responses:</p>
 <ul data-tight="true" class="tight">
