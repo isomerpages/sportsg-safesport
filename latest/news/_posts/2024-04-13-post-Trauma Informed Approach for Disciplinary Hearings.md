@@ -80,4 +80,4 @@ create a safe and trauma-informed space during hearings"</p>
 <p></p>
 <p>Lively group discussions were sparked with insights and perspectives exchanged.
 The message that was driven home was that there is no fixed way for coping
-with trauma.</p>
+with trauma, but it is important to be mindful of the impact of trauma.</p>
