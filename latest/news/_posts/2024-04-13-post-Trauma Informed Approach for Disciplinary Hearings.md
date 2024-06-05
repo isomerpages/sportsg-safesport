@@ -74,12 +74,10 @@ to report an incident or often, to even come to the realisation that they
 are the subject of abuse.</p>
 <p></p>
 <blockquote>
-<p>The session was transformative and we picked up knowledge on how to better
-create a safe and trauma-informed space during hearings.</p>
+<p>"The session was transformative and we picked up knowledge on how to better
+create a safe and trauma-informed space during hearings"</p>
 </blockquote>
 <p></p>
 <p>Lively group discussions were sparked with insights and perspectives exchanged.
 The message that was driven home was that there is no fixed way for coping
-with trauma. The consensus of those in attendance was that they found the
-session to be transformative and each had picked up knowledge on how to
-better&nbsp; create a safe and trauma-informed space during hearings.</p>
+with trauma.</p>
