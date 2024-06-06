@@ -45,6 +45,10 @@ experience, values and attitudes, and best practices</p>
 <blockquote>
 <p><a href="https://go.gov.sg/recruitment-referencecheck" rel="noopener noreferrer nofollow" target="_blank">Reference Check Form</a>
 </p>
+</blockquote>
+<blockquote>
+<p><a href="https://go.gov.sg/ss-interviewqns" rel="noopener noreferrer nofollow" target="_blank">Interview questions for working with Vulnerable Persons</a>
+</p>
 <p></p>
 </blockquote>
 <p></p>
