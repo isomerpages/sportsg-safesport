@@ -41,8 +41,8 @@ within sport.</p>
 responsibilities and duty of care to prevent any likelihood of harm occurring
 in sport.</p>
 <p>For athletes, knowing that they may set their personal boundaries and
-understanding their own responsbilities towards fellow participants helps
-to foster a positive environment where inappropriate behaviours are recognized
+understanding their own responsibilities towards fellow participants helps
+to foster a positive environment where inappropriate behaviours are recognised
 and flagged early.</p>
 <h4>SportSG-ED</h4>
 <div class="isomer-image-wrapper">
