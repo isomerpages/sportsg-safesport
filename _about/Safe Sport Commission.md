@@ -1,7 +1,7 @@
 ---
-title: Safe Sport Commission Members
+title: Safe Sport Commission
 permalink: /about/commission-members/
-description: Safe Sport Commission Members
+description: "Safe Sport Commission "
 image: /images/shareicon.png
 variant: markdown
 ---

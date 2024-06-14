@@ -10,7 +10,10 @@ variant: tiptap
 </div>
 <p>These are all the documents your organisations will need to help you ensure
 it properly adopts the Safe Sport Programme.</p>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -43,7 +46,7 @@ it properly adopts the Safe Sport Programme.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/riskassessment" rel="noopener noreferrer nofollow" target="_blank">Risk Assessment Tool</a>
+<p><a href="https://go.gov.sg/ss-orghealthcheck" rel="noopener noreferrer nofollow" target="_blank">Risk Assessment Tool</a>
 </p>
 </td>
 </tr>

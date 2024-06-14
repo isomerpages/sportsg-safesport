@@ -1,5 +1,5 @@
 ---
-title: Safe Sport Disciplinary Panel Members
+title: Safe Sport Disciplinary Panel
 permalink: /safe-sport-disciplinary-panel-members/
 variant: tiptap
 description: ""

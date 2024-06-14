@@ -3,7 +3,7 @@ title: Member Organisations
 permalink: /safe-sport-programme/memberorganisations/
 description: Member Organisations of the Safe Sport Programme
 image: /images/signing.jpeg
-variant: tiptap
+variant: markdown
 ---
 <h5><strong>What does it mean to be a member?</strong></h5>
 <p>These organisations have adopted:</p>
@@ -134,7 +134,7 @@ misconduct as set out in the <a href="https://www.safesport.sg/files/Safe%20Spor
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Member Org Logos/motor_sports.png">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Member Org Logos/motor_sports.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -354,7 +354,7 @@ misconduct as set out in the <a href="https://www.safesport.sg/files/Safe%20Spor
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Member Org Logos/ice_hockey.png">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Member Org Logos/ice_hockey.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
