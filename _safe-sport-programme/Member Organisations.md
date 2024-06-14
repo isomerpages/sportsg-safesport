@@ -134,7 +134,7 @@ misconduct as set out in the <a href="https://www.safesport.sg/files/Safe%20Spor
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Member Org Logos/motor_sports.png">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Member Org Logos/motor_sports.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -354,7 +354,7 @@ misconduct as set out in the <a href="https://www.safesport.sg/files/Safe%20Spor
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Member Org Logos/ice_hockey.png">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Member Org Logos/ice_hockey.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
