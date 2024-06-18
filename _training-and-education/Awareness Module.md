@@ -6,34 +6,6 @@ image: /images/softball.png
 variant: tiptap
 ---
 <p></p>
-<h3>I am a...</h3>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Athlete</div><div class="isomer-card-description">Feel empowered in your sporting environment</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Coach</div>
-<div class="isomer-card-description">What are my responsibilities as a coach? How can I safeguard myself?</div>
-<div class="isomer-card-link">This is a link for your card</div>
-</div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Parent</div><div class="isomer-card-description">Ensuring a safe environment for your child</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="An administrator working on a computer" src="https://placehold.co/600x400">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Sport Administrator</div>
-<div class="isomer-card-description">Mitigate risks through policy making</div>
-<div class="isomer-card-link">This is a link for your card</div>
-</div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="A volunteer helping at a sports event" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Sport Volunteer</div><div class="isomer-card-description">Implementing safeguards when working with vulnerable persons</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-</div>
-<p></p>
 <h4>Raising awareness of the importance of safeguarding in sport</h4>
 <p>Our awareness modules are developed for the different roles that exist
 within sport.</p>
