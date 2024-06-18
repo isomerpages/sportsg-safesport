@@ -18,13 +18,13 @@ Remember to download a copy of your certificate for future use.
 The awareness modules cover in-depth content on Safe Sport including an assessment component that you are required to pass to attain the certificate and deem as Safe Sport trained. Our workshops are bespoke to your organisational needs. We recommend that all workshop participants complete the relevant Awareness Module beforehand to get the most out of our workshops.
  
 ##### **4. I would like to conduct a Safe Sport workshop for the community within my sport. Where can I gain access to resources or a trainer to conduct this workshop?**
-You may reach out to us at [safe_sport@sport.gov.sg](mailto:safe_sport@sport.gov.sg) and we can discuss and customise the content to suit your target audience.
+You may reach out to us at [contact@safesport.sg](mailto:contact@safesport.sg) and we can discuss and customise the content to suit your target audience.
  
 
 ##### **5. I am interested to attend the Safeguarding Officer training. When is the next run of this training?** 
 The next run of the Safeguarding Officer will be in a hybrid format. You will be required to complete the e-learning component and subsequently attend the classroom training where you will be assessed on your competency.
 
-You can view training dates and sign up [here](https://form.gov.sg/5fd0341bfc3f3100111264b5).
+You can view training dates and sign up [[here]](https://www.safesport.sg/case-management/safeguarding-officer/).
 
 ##### **6. I have completed an Awareness Module. Do I still have to do the e-learning for the Safeguarding Officer training?**
 
