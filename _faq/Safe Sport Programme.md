@@ -53,9 +53,9 @@ investigations and disciplinary processes.</p>
 <p><a href="https://www.safesport.sg/safe-sport-programme/memberorganisations/" rel="noopener noreferrer nofollow" target="_blank">Member Organisations</a> receive
 support through training of the organisation’s safeguarding officers, access
 to <a href="https://www.safesport.sg/policy-and-research/resources/" rel="noopener noreferrer nofollow" target="_blank">model policies</a> (e.g.
-child safeguarding, travel, recruitment, digital communications), training
-and education resources for participants in their sport to help them understand
-their roles and responsibilities.</p>
+child safeguarding, travel, recruitment, digital communications), <a href="https://www.safesport.sg/training-and-education/awareness-module/" rel="noopener noreferrer nofollow" target="_blank">training and education</a> resources
+for participants in their sport to help them understand their roles and
+responsibilities.</p>
 <p>When a sporting organisation becomes a Member Organisation of the Safe
 Sport Programme, the Safe Sport Commission also manages the independent
 assessment and referral of complaints/reports which fall under its mandatory
