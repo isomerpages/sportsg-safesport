@@ -58,8 +58,8 @@ for participants in their sport to help them understand their roles and
 responsibilities.</p>
 <p>When a sporting organisation becomes a Member Organisation of the Safe
 Sport Programme, the Safe Sport Commission also manages the independent
-assessment and referral of complaints/reports which fall under its mandatory
-jurisdiction.</p>
+assessment and referral of <a href="https://www.safesport.sg/case-management/reporting/" rel="noopener noreferrer nofollow" target="_blank">reports of concern</a> which
+fall under its mandatory jurisdiction.</p>
 <p></p>
 <h5><strong>4. What does a Member Organisation need to do to fully implement the Safe Sport Programme?</strong></h5>
 <p>To fully implement the Safe Sport Programme, a Member Organisation will
