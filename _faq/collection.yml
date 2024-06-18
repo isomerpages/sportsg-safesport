@@ -2,7 +2,7 @@ collections:
   faq:
     output: true
     order:
-      - Safe Sport Programme.md
+      - FAQs.md
       - Training and Education.md
       - Reporting.md
       - Respondent's Guide to Hearings.md
