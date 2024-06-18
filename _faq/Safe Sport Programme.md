@@ -19,6 +19,7 @@ developed frameworks appropriate to their sporting landscapes.</p>
 <p>The Safe Sport Unified Code and the Safe Sport Programme is based on these
 universal concepts and international evidence but also contextualised for
 Singapore's sporting landscape and the sporting community through <a href="/safe-sport-programme/community-consultations" rel="noopener noreferrer nofollow" target="_blank">extensive consultations</a>.</p>
+<p></p>
 <h5><strong>2. If I am not a National Sports Association, can I adopt the Unified Code?</strong></h5>
 <p>Any sports organisation may adopt the Unified Code by referencing to it
 in their organisational safeguarding policies.</p>
@@ -33,6 +34,7 @@ safeguarding officer may become Affiliate Members of the Safe Sport Programme.
 <br>
 </p>
 <p>Find out more about <a href="https://www.safesport.sg/safe-sport-programme/affiliatemember/" rel="noopener noreferrer nofollow" target="_blank">Affiliate Membership</a> .</p>
+<p></p>
 <h5><strong>3. What are the benefits to becoming a Member Organisation of the Safe Sport Programme?</strong></h5>
 <p>The Safe Sport Programme provides a streamlined and harmonised approach
 to mitigate threats to Safe Sport and is designed to ease the administrative
@@ -46,11 +48,11 @@ investigations and disciplinary processes.</p>
 <br>(2) addressing reports of concern.
 <br>
 </p>
-<p>Member Organisations will receive support through training of the organisation’s
-safeguarding officers, access to model policies (e.g. child safeguarding,
-travel, recruitment, digital communications), training and education resources
-for participants in their sport to help them understand their roles and
-responsibilities.</p>
+<p><a href="https://www.safesport.sg/safe-sport-programme/memberorganisations/" rel="noopener noreferrer nofollow" target="_blank">Member Organisations</a> receive
+support through training of the organisation’s safeguarding officers, access
+to model policies (e.g. child safeguarding, travel, recruitment, digital
+communications), training and education resources for participants in their
+sport to help them understand their roles and responsibilities.</p>
 <p>When a sporting organisation becomes a Member Organisation of the Safe
 Sport Programme, the Safe Sport Commission will manage the independent
 assessment and referral of complaints/reports which fall under its mandatory
@@ -72,3 +74,4 @@ programmes and/or sanctioned events
 <br>A model Safe Sport Policy will be made available to Member Organisations
 and the Safe Sport Commission will undertake an onboarding process with
 each Member Organisation to ensure that the Safe Sport Policy is aligned.</p>
+<p></p>
