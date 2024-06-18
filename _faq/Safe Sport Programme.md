@@ -33,7 +33,9 @@ to the policy repository, training and education resources and train a
 safeguarding officer may become Affiliate Members of the Safe Sport Programme.
 <br>
 </p>
-<p>Find out more about <a href="https://www.safesport.sg/safe-sport-programme/affiliatemember/" rel="noopener noreferrer nofollow" target="_blank">Affiliate Membership</a> .</p>
+<p>Find out more about <a href="https://www.safesport.sg/safe-sport-programme/affiliatemember/" rel="noopener noreferrer nofollow" target="_blank">Affiliate Membership</a> or
+complete an <a href="https://go.gov.sg/ss-orghealthcheck" rel="noopener noreferrer nofollow" target="_blank">online Organisation Health Check</a> to
+assess any potential safeguarding needs.</p>
 <p></p>
 <h5><strong>3. What are the benefits to becoming a Member Organisation of the Safe Sport Programme?</strong></h5>
 <p>The Safe Sport Programme provides a streamlined and harmonised approach
@@ -50,13 +52,15 @@ investigations and disciplinary processes.</p>
 </p>
 <p><a href="https://www.safesport.sg/safe-sport-programme/memberorganisations/" rel="noopener noreferrer nofollow" target="_blank">Member Organisations</a> receive
 support through training of the organisation’s safeguarding officers, access
-to model policies (e.g. child safeguarding, travel, recruitment, digital
-communications), training and education resources for participants in their
-sport to help them understand their roles and responsibilities.</p>
+to <a href="https://www.safesport.sg/policy-and-research/resources/" rel="noopener noreferrer nofollow" target="_blank">model policies</a> (e.g.
+child safeguarding, travel, recruitment, digital communications), training
+and education resources for participants in their sport to help them understand
+their roles and responsibilities.</p>
 <p>When a sporting organisation becomes a Member Organisation of the Safe
-Sport Programme, the Safe Sport Commission will manage the independent
+Sport Programme, the Safe Sport Commission also manages the independent
 assessment and referral of complaints/reports which fall under its mandatory
 jurisdiction.</p>
+<p></p>
 <h5><strong>4. What does a Member Organisation need to do to fully implement the Safe Sport Programme?</strong></h5>
 <p>To fully implement the Safe Sport Programme, a Member Organisation will
 have to:
@@ -71,7 +75,7 @@ or participants under its governance and jurisdiction)
 <br>(3) enforce the terms of the Safe Sport Policy across its membership,
 programmes and/or sanctioned events
 <br>
-<br>A model Safe Sport Policy will be made available to Member Organisations
-and the Safe Sport Commission will undertake an onboarding process with
-each Member Organisation to ensure that the Safe Sport Policy is aligned.</p>
+<br>The Safe Sport Commission will undertake an onboarding process with each
+Member Organisation to ensure that the Safe Sport Policy is tailored to
+its needs.</p>
 <p></p>
