@@ -277,7 +277,7 @@ the outcomes of the hearings are made available on the <a href="https://www.safe
 </tbody>
 </table>
 <p></p>
-<p><strong><u>Past Members</u></strong> 
+<p><strong><u>Past Members</u></strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
