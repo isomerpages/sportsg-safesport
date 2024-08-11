@@ -132,6 +132,19 @@ the outcomes of the hearings are made available on the <a href="https://www.safe
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Role</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Industry</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ng Mui Kim</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -193,7 +206,7 @@ the outcomes of the hearings are made available on the <a href="https://www.safe
 <p>Former Athlete (Netball)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sports Management</p>
+<p>Marketing and Communications</p>
 </td>
 </tr>
 <tr>
@@ -201,7 +214,7 @@ the outcomes of the hearings are made available on the <a href="https://www.safe
 <p>Nur'Aini Binte Mohamad Yasli</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Para-Athlete (Powerlifting)</p>
+<p>Para-Athlete (Para Powerlifting)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Education</p>
@@ -288,10 +301,23 @@ the outcomes of the hearings are made available on the <a href="https://www.safe
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Role</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Industry</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ng Yi Lin Ruth</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Formal Athlete (Fencing)</p>
+<p>Former Athlete (Fencing)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Freelancer</p>
@@ -302,7 +328,7 @@ the outcomes of the hearings are made available on the <a href="https://www.safe
 <p>Nicholas Paul De Cruz</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Coach</p>
+<p>Coach (Sailing)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Education</p>
