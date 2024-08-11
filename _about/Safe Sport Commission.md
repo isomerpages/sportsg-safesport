@@ -1,7 +1,7 @@
 ---
 title: Safe Sport Commission
 permalink: /about/commission-members/
-description: "Safe Sport Commission "
+description: Safe Sport Commission
 image: /images/shareicon.png
 variant: markdown
 ---
@@ -39,7 +39,7 @@ The Safe Sport Commission comprises of representatives of the different stakehol
 | Dr. Su Chun Wei      | Chief, Singapore Sport Institute |
 | Peh Seow Ling     | Director, Lifeskills & Lifestyle Division, People's Association | 
 | Tan Li Jen  | Director and Senior Principal Clinical Psychologist, Ministry of Social and Family Development     |
-| Ng Chen Kee   | Divisional Director, Student Development Curriculum, Ministry of Education   |
+| Ng Chen Kee   | Deputy Director- General of Education (Schools) and Director of Schools, Ministry of Education   |
 | Devrajan s/o Bala  | Deputy Director, Current Ops, Singapore Police Force  |
 
 
@@ -57,5 +57,5 @@ The Safe Sport Commission comprises of representatives of the different stakehol
 | Tan Tin Wee  | Assistant Commissioner of Police   |
 | Toh Boon Yi  | Chief, Singapore Sport Institute    |
 
-*
+
 *Role held during appointment as Commission Member
