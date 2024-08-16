@@ -46,20 +46,20 @@ sections:
       alt: Policies And Procedures
       subtitle: THE JOURNEY
   - textcards:
-      title: Catch Up!
+      title: Catch Up
       subtitle: Add informational text
       id: textcards
       cards:
-        - title: Lifeguards
-          description: L
+        - title: It's the season
+          description: Play along in this game for the 2024/25 SUnig and PO-LITE campaign
           linktext: Learn more
           url: ""
-        - title: Parents
+        - title: Appointments to Disciplinary Panel
           description: Card description
           linktext: Learn more
           url: ""
-        - title: New Disciplinary Panel Members
-          description: test
-          linktext: Learn more
-          url: ""
+        - title: News
+          description: Find other media releases, announcements and projects
+          linktext: Go there!
+          url: https://www.safesport.sg/latest/
 ---
