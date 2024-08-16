@@ -46,21 +46,20 @@ sections:
       alt: Policies And Procedures
       subtitle: THE JOURNEY
   - textcards:
-      title: Text Cards
+      title: Catch Up!
       subtitle: Add informational text
       id: textcards
-      description: Text card description
       cards:
-        - title: Card
+        - title: Lifeguards
+          description: L
+          linktext: Learn more
+          url: ""
+        - title: Parents
           description: Card description
           linktext: Learn more
           url: ""
-        - title: Card
-          description: Card description
-          linktext: Learn more
-          url: ""
-        - title: Card
-          description: Card description
+        - title: New Disciplinary Panel Members
+          description: test
           linktext: Learn more
           url: ""
 ---
