@@ -28,7 +28,7 @@ sections:
           - title: Access our news archive
             url: https://www.safesport.sg/latest/
   - resources:
-      subtitle: Latest
+      subtitle: Latest News
       button: See ALL
   - infopic:
       title: The Safe Sport UNIFIED CODE
