@@ -11,13 +11,17 @@ cases referred by the Safe Sport Commission under the national framework
 for safeguarding in sport -&nbsp;the Safe Sport Programme. The Disciplinary
 Panel hears cases which are assessed to be medium to high severity and
 the outcomes of the hearings are made available on the <a href="https://www.safesport.sg/case-management/disciplinarydatabase/" rel="noopener noreferrer nofollow" target="_blank">Safe Sport Disciplinary Database</a>.</p>
-<p></p>
 <h3><strong><sup>Disciplinary Panel Members</sup></strong></h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
-<p>Term 1: 2022 - 2024</p>
+<p>Term 2: 2024 - 2027</p>
 </th>
 </tr>
 <tr>
@@ -28,7 +32,7 @@ the outcomes of the hearings are made available on the <a href="https://www.safe
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Molly Lim Kheng Yan, SC</p>
+<p>Kuah Boon Theng, SC</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chairperson</p>
@@ -83,6 +87,39 @@ the outcomes of the hearings are made available on the <a href="https://www.safe
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Koh Jian Ying</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sudhershen Hariram</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Edward Quah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Ordinary Members</strong>
 </p>
 </td>
@@ -91,6 +128,19 @@ the outcomes of the hearings are made available on the <a href="https://www.safe
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Role</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Industry</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -156,18 +206,7 @@ the outcomes of the hearings are made available on the <a href="https://www.safe
 <p>Former Athlete (Netball)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sports Management</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ng Yi Lin Ruth</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Former Athlete (Fencing), Sport Administrator</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sport &amp; Wellness</p>
+<p>Marketing and Communications</p>
 </td>
 </tr>
 <tr>
@@ -175,7 +214,7 @@ the outcomes of the hearings are made available on the <a href="https://www.safe
 <p>Nur'Aini Binte Mohamad Yasli</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Para-Athlete (Powerlifting)</p>
+<p>Para-Athlete (Para Powerlifting)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Education</p>
@@ -227,10 +266,69 @@ the outcomes of the hearings are made available on the <a href="https://www.safe
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Nicholas Paul de Cruz</p>
+<p>Joscelin Yeo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Coach</p>
+<p>Former Athlete (Swimming)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sports</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Quek Soo Teng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Former Athlete (Volleyball)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Finance</p>
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p><strong><u>Past Members</u></strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Role</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Industry</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ng Yi Lin Ruth</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Former Athlete (Fencing)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Freelancer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Nicholas Paul De Cruz</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Coach (Sailing)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Education</p>
@@ -238,4 +336,4 @@ the outcomes of the hearings are made available on the <a href="https://www.safe
 </tr>
 </tbody>
 </table>
-<p></p>
+<p>|</p>
