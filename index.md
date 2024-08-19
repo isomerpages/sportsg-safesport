@@ -56,7 +56,7 @@ sections:
           linktext: Learn more
           url: ""
         - title: Appointments to Disciplinary Panel
-          description: Card description
+          description: New members appointed by the Ministry of Culture, Community and Youth
           linktext: Learn more
           url: ""
         - title: News
