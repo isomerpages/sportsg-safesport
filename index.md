@@ -50,8 +50,9 @@ sections:
       subtitle: Add informational text
       id: textcards
       cards:
-        - title: It's the season
-          description: Play along in this game for the 2024/25 SUnig and PO-LITE campaign
+        - title: Student Athlete Season!
+          description: Play along this interactive game for the 2024/25 SUnig and PO-LITE
+            season
           linktext: Learn more
           url: ""
         - title: Appointments to Disciplinary Panel
