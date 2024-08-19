@@ -46,16 +46,17 @@ sections:
       alt: Policies And Procedures
       subtitle: THE JOURNEY
   - textcards:
-      title: Catch Up
-      subtitle: Add informational text
+      title: Catch Up!
+      subtitle: Our LATEST STUFF
       id: textcards
       cards:
-        - title: It's the season
-          description: Play along in this game for the 2024/25 SUnig and PO-LITE campaign
+        - title: Student Athlete Season!
+          description: Play along this interactive game for the 2024/25 SUnig and PO-LITE
+            season
           linktext: Learn more
           url: ""
         - title: Appointments to Disciplinary Panel
-          description: Card description
+          description: New members appointed by the Ministry of Culture, Community and Youth
           linktext: Learn more
           url: ""
         - title: News
