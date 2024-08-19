@@ -46,8 +46,8 @@ sections:
       alt: Policies And Procedures
       subtitle: THE JOURNEY
   - textcards:
-      title: Catch Up
-      subtitle: Add informational text
+      title: Catch Up!
+      subtitle: Our LATEST STUFF
       id: textcards
       cards:
         - title: Student Athlete Season!
