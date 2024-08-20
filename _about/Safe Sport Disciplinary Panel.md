@@ -119,15 +119,9 @@ the outcomes of the hearings are made available on the <a href="https://www.safe
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="3">
 <p><strong>Ordinary Members</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -152,17 +146,6 @@ the outcomes of the hearings are made available on the <a href="https://www.safe
 </td>
 <td rowspan="1" colspan="1">
 <p>Law Enforcement</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Koh Jian Ying</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Athlete (Water Polo)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Legal</p>
 </td>
 </tr>
 <tr>
