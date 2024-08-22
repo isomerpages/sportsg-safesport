@@ -30,7 +30,6 @@ the Disciplinary Panel convened more than five hearings during a period
 of eleven-months in its first term. The outcome of the decisions made by
 the Disciplinary Committees are available on the Safe Sport Commission’s
 Disciplinary Database which can be accessed <a href="https://www.safesport.sg/case-management/disciplinarydatabase/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
-<p>&nbsp;</p>
 <p>Since 2021, the Commission has seen a twenty percent increase year-on-year
 in the number of Reports of Concern. A corresponding rise in cases and
 hearings is foreseen in the following years and the number of Legal Members
