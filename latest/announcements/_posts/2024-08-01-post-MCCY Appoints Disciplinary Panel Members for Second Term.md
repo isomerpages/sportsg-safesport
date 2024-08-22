@@ -13,17 +13,24 @@ August 2024, the Safe Sport Disciplinary Panel will comprise eight Legal
 Members and twelve Ordinary Members.&nbsp;</p>
 <p>The new appointments for the Safe Sport Disciplinary Panel’s three-year
 term, include the following:</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Ms Kuah Boon Theng</strong>,
-Senior Counsel is appointed at the Safe Sport Disciplinary Panel Chair.
-She replaces Ms Molly Lim Kheng Yen, Senior Counsel, who was instrumental
-in the setting up the processes, has elected to step down&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Former national athlete <strong>Ms Joscelin Yeo</strong> (swimming)
+<ul data-tight="true" class="tight">
+<li>
+<p>&nbsp;<strong>Ms Kuah Boon Theng</strong>, Senior Counsel is appointed
+at the Safe Sport Disciplinary Panel Chair. She replaces Ms Molly Lim Kheng
+Yen, Senior Counsel, who was instrumental in the setting up the processes,
+has elected to step down</p>
+</li>
+<li>
+<p>&nbsp;Former national athlete <strong>Ms Joscelin Yeo</strong> (swimming)
 and <strong>Ms Quek Soo Teng</strong> (volleyball) have been appointed as
 Ordinary Members.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; New Legal Members appointed include
-former and current athlete <strong>Mr Sudhershen Hariram</strong> (football)
+</li>
+<li>
+<p>New Legal Members appointed include former and current athlete <strong>Mr Sudhershen Hariram</strong> (football)
 and<strong> Mr Koh Jian Ying</strong> (water polo), and <strong>Mr Eugene Quah</strong> who
 has served in a similar capacity on the Singapore Disability Sports Council</p>
+</li>
+</ul>
 <p></p>
 <p>Serving as an independent adjudicative function under the Safe Sport Programme,
 the Disciplinary Panel convened more than five hearings during a period
