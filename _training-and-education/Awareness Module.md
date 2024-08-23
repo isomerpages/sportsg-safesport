@@ -5,8 +5,7 @@ description: SportSG-ED Online Safe Sport Module
 image: /images/softball.png
 variant: tiptap
 ---
-<p></p>
-<h4>Raising awareness of the importance of safeguarding in sport</h4>
+<h4>Role-specific Safe Sport education</h4>
 <p>Our awareness modules are developed for the different roles that exist
 within sport.</p>
 <p>Adults such as coaches, parents and sport administrators have a different
