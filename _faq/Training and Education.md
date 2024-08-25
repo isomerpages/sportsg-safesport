@@ -84,7 +84,7 @@ attend the classroom training where you will be assessed on your competency.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong> I have completed an Awareness Module. Do I still have to do the e-learning for the Safeguarding Officer training?</strong>
+<summary><strong>I have completed an Awareness Module. Do I still have to do the e-learning for the Safeguarding Officer training?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
