@@ -50,3 +50,4 @@ description: Course curriculum for the "Understanding Safe Sport as a Coach" mod
 </details>
 </div>
 <p></p>
+<p>Course duration: 2 hours 13 minutes</p>
