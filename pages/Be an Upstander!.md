@@ -6,10 +6,8 @@ description: ""
 ---
 <h4>Which team mate are you?</h4>
 <p>Thank you for attempting the Bystander Test!</p>
-<p></p>
 <p>Passive attitudes/non-intervention, denial or silence can lead to the <strong>normalization</strong> of
-harmful behaviours. Remember</p>
-<p></p>
+harmful behaviours.</p>
 <p>Download the cards to find out more about each character.</p>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Captain Courageous</div><div class="isomer-card-description">Safe Sport Upstander</div><div class="isomer-card-link">Download full card</div></div></a>
@@ -27,11 +25,17 @@ harmful behaviours. Remember</p>
 </a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Blasé Benchwarmer" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Blasé Benchwarmer</div><div class="isomer-card-description">Passive Bystander</div><div class="isomer-card-link">Download full card</div></div></a>
 </div>
 <p></p>
+<h4>What are your athlete rights?</h4>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="360" width="640" allowfullscreen="true" frameborder="0" src="https://player.vimeo.com/video/512583608?h=95d3ec1bfe&amp;title=0&amp;byline=0&amp;portrait=0"></iframe>
+</div>
+<p><a href="https://vimeo.com/512583608" rel="noopener noreferrer nofollow" target="_blank">Consent in Sport</a> from
+<a href="https://vimeo.com/user38256388" rel="noopener noreferrer nofollow" target="_blank">Athlete365</a>on <a href="https://vimeo.com" rel="noopener noreferrer nofollow" target="_blank">Vimeo</a>.</p>
+<p></p>
 <h4>How can you learn more?</h4>
-<p></p>
 <p>It is only when we <strong>RECOGNIZE</strong> harmful behaviours in the
-sporting environement that we can <strong>RESPOND</strong>!</p>
-<p></p>
+sporting environment that we can <strong>RESPOND</strong>!</p>
 <p>Learn more about safe sport in our free e-learning module.</p>
 <p></p>
 <p></p>
