@@ -31,7 +31,7 @@ description: Course curriculum for the "Understanding Safe Sport as a Coach" mod
 </div>
 </details>
 <details class="isomer-details">
-<summary>Topic 5: An Allegation against you</summary>
+<summary>Topic 5: An Allegation Against You</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
