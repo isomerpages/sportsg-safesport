@@ -39,14 +39,19 @@ description: Safe Sport education for athletes
 <details class="isomer-details">
 <summary>Topic 6: Assessment</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Achieve a score of 80% or higher on the end-of-module quiz. Unlimited
+attempts.</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>Resources</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>The <a href="https://www.safesport.sg/safe-sport-programme/unified-code/" rel="noopener nofollow" target="_blank">Safe Sport Unified Code</a>
+</p>
+<p>Understanding Safe Sport as an Athlete (Summary and Evaluation)</p>
 </div>
 </details>
 </div>
+<p></p>
+<p>Course duration: 1 hour 43 minutes</p>
 <p></p>
