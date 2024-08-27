@@ -51,14 +51,14 @@ sections:
       id: textcards
       cards:
         - title: Student Athlete Season!
-          description: Play along this interactive game for the 2024/25 SUnig and PO-LITE
-            season
-          linktext: Learn more
+          description: What type of team mate are you? Find out this 2024/25 SUniG and
+            PO-LITE season
+          linktext: Play the Game
           url: ""
         - title: Appointments to Disciplinary Panel
           description: New members appointed by the Ministry of Culture, Community and Youth
-          linktext: Learn more
-          url: ""
+          linktext: See members
+          url: https://www.safesport.sg/mccy-appoints-disciplinary-panel-members-for-second-term/
         - title: News
           description: Find other media releases, announcements and projects
           linktext: Go there!
