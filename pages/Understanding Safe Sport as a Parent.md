@@ -38,3 +38,4 @@ description: Course curriculum for the "Understanding Safe Sport as a Parent" mo
 </details>
 </div>
 <p></p>
+<p>Course duration: 1 hour 28 minutes</p>
