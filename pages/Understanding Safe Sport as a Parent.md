@@ -77,6 +77,12 @@ description: Course curriculum for the "Understanding Safe Sport as a Parent" mo
 <summary>Assessment: Understanding Safe Sport as a Parent</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<p>Complete the assessment to attain your Safe Sport certificate. The assessment
+has 10 questions and you must get a minimum score of 80% (8 questions)
+correct to pass.</p>
+<p></p>
+<p>There is no limit to the amount of times you may re-take the quiz. If
+needed, you may review the topics in between attempts. Good luck!</p>
 </div>
 </details>
 <details class="isomer-details">
