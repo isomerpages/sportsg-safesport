@@ -1,57 +1,53 @@
 ---
-title: Understanding Safe Sport as an Athlete
-permalink: /understanding-safe-sport-as-an-athlete/
+title: Understanding Safe Sport as a Coach
+permalink: /understanding-safe-sport-as-a-coach/
 variant: tiptap
-description: Safe Sport education for athletes
+description: Course curriculum for the "Understanding Safe Sport as a Coach" module
 ---
 <h4>What will I learn?</h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Topic 1: Introduction to Understanding Safe Sport as an Athlete</summary>
+<summary>Topic 1: Introduction to Safe Sport as a Coach</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Topic 2: Safeguarding in Sport</summary>
+<summary>Topic 2: Safeguarding in Sport (Coach)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Topic 3: Safeguarding Myself as an Athlete</summary>
+<summary>Topic 3: Implementing Safeguards as a Coach</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Topic 4: Being Empowered as an Athlete</summary>
+<summary>Topic 4: Your Responsibilities as a Coach</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Topic 5: Your Responsibilities as an Athlete</summary>
+<summary>Topic 5: An Allegation Against You</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Topic 6: Assessment</summary>
+<summary>Assessment: Understanding Safe Sport as a Coach</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Achieve a score of 80% or higher on the end-of-module quiz. Unlimited
-attempts.</p>
+<p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Resources</summary>
+<summary>Resource Materials</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>The <a href="https://www.safesport.sg/safe-sport-programme/unified-code/" rel="noopener nofollow" target="_blank">Safe Sport Unified Code</a>
-</p>
-<p>Understanding Safe Sport as an Athlete (Summary and Evaluation)</p>
+<p></p>
 </div>
 </details>
 </div>
 <p></p>
-<p>Course duration: 1 hour 43 minutes</p>
-<p></p>
+<p>Course duration: 2 hours 13 minutes</p>
