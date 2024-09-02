@@ -97,4 +97,4 @@ needed, you may review the topics in between attempts. Good luck!</p>
 </div>
 </details>
 </div>
-<p></p>
+<p>Course duration: 1 hour 55 minutes</p>
