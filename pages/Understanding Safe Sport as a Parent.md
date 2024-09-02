@@ -11,10 +11,10 @@ description: Course curriculum for the "Understanding Safe Sport as a Parent" mo
 <div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
-<p>what is safe sport?</p>
+<p>what is Safe Sport?</p>
 </li>
 <li>
-<p>prevelance of safe sport in singapore and internationally</p>
+<p>prevalence of Safe Sport in Singapore and internationally</p>
 </li>
 </ul>
 </div>
@@ -38,8 +38,7 @@ description: Course curriculum for the "Understanding Safe Sport as a Parent" mo
 <details class="isomer-details">
 <summary>Topic 3: Safeguarding your Child in the Sporting Environment</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-<p><u>assessing and managing risk</u>
+<p><u>Assessing and Managing Risk</u>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -47,7 +46,7 @@ description: Course curriculum for the "Understanding Safe Sport as a Parent" mo
 </li>
 </ul>
 <p></p>
-<p><u>educating yourself as a parent</u>
+<p><u>Educating Yourself as a Parent</u>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -61,7 +60,7 @@ description: Course curriculum for the "Understanding Safe Sport as a Parent" mo
 </li>
 </ul>
 <p></p>
-<p><u>what can parents do?</u>
+<p><u>What Can Parents Do?</u>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -76,7 +75,6 @@ description: Course curriculum for the "Understanding Safe Sport as a Parent" mo
 <details class="isomer-details">
 <summary>Assessment: Understanding Safe Sport as a Parent</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
 <p>Complete the assessment to attain your Safe Sport certificate. The assessment
 has 10 questions and you must get a minimum score of 80% (8 questions)
 correct to pass.</p>
@@ -88,10 +86,19 @@ needed, you may review the topics in between attempts. Good luck!</p>
 <details class="isomer-details">
 <summary>Resource Materials</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<ol data-tight="true" class="tight">
+<li>
 <p>Safe Sport Unified Code</p>
-<p>Summary and evaluation</p>
+</li>
+<li>
+<p>Summary and Evaluation - save a copy for your reference!</p>
+</li>
+</ol>
 </div>
 </details>
 </div>
 <p></p>
 <p>Course duration: 1 hour 28 minutes</p>
+<p></p>
+<h4>How do I download my certificate?</h4>
+<p></p>
