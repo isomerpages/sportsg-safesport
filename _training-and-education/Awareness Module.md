@@ -5,6 +5,35 @@ description: SportSG-ED Online Safe Sport Module
 image: /images/softball.png
 variant: tiptap
 ---
+<h4>Choose which best describes your role in sport?</h4>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.safesport.sg/understanding-safe-sport-as-an-athlete/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Volleyball players celebrate mid-match" src="/images/Resources Images/Image_4_min.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Athlete</div><div class="isomer-card-description">Recreational, club and high performance</div><div class="isomer-card-link">Athlete Module</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.safesport.sg/understanding-safe-sport-as-a-coach/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Coach and athlete high five" src="/images/Resources Images/20240728_TABLETENNIS_CY_026.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Coach</div>
+<div class="isomer-card-description">Sport coaches and fitness instructors</div>
+<div class="isomer-card-link">Coach Module</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.safesport.sg/understanding-safe-sport-as-a-parent/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Parents and children playing a game of hockey" src="/images/Resources Images/AL8R6022.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Parent</div><div class="isomer-card-description">Your child participates in sport</div><div class="isomer-card-link">Parent Module</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.safesport.sg/building-a-safe-sporting-organisation-for-sport-administrators/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Sport administrators in a discussion" src="/images/Resources Images/IMG_0882.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Sport Administrator</div>
+<div class="isomer-card-description">Staff of a sporting organisation</div>
+<div class="isomer-card-link">Sport Administrator Module</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.safesport.sg/understanding-safe-sport-as-a-volunteer/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Volunteers at a sport event pose for a picture" src="/images/Resources Images/AL8R5445_min.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Sport Volunteer</div><div class="isomer-card-description">Volunteer at sporting and community events</div><div class="isomer-card-link">Volunteer Module</div></div></a>
+</div>
+<p></p>
 <h4>Role-specific Safe Sport education</h4>
 <p>Our awareness modules are developed for the different roles that exist
 within sport.</p>
