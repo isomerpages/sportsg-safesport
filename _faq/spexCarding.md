@@ -4,7 +4,7 @@ permalink: /spexcarding/
 variant: tiptap
 description: Safe Sport education for spexCarded athletes
 ---
-<h4><em>Safe Sport for spexCarded Athletes</em></h4>
+<h4>Safe Sport for spexCarded Athletes</h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>What do I need to do to qualify spexCarding?</strong>
