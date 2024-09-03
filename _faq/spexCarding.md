@@ -4,7 +4,7 @@ permalink: /spexcarding/
 variant: tiptap
 description: Safe Sport education for spexCarded athletes
 ---
-<h4><em>Safe Sport for spexCarded Athletes</em></h4>
+<h4>Safe Sport for spexCarded Athletes</h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>What do I need to do to qualify spexCarding?</strong>
@@ -46,9 +46,11 @@ to start the training</p>
 <img style="width: 100%" height="auto" width="100%" alt="spex" src="/images/logos/spex.png">
 </div>
 <p></p>
+<p></p>
 </li>
 <li>
-<p>Upon completion, download and save your certificate.</p>
+<p>Upon completion, download and save your certificate. Follow this <a href="/files/Steps_to_Access_Safe_Sport_Module_for_Self_Registered_Users.pdf" rel="noopener noreferrer nofollow" target="_blank">guide </a>if
+you experience any issues.</p>
 <p></p>
 </li>
 </ol>
