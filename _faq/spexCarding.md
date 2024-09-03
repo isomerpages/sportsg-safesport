@@ -14,7 +14,15 @@ description: Safe Sport education for spexCarded athletes
 <p>Athletes nominated for spexCarding will need to complete the online training,
 "<strong><em>Understanding Safe Sport as an Athlete</em></strong>" on SportSG-ED.</p>
 <p></p>
-<p>If you have completed the training, you will have a certificate of achievement</p>
+<p>If you have completed the training, you should have downloaded a certificate
+of achievement that looks like this.</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="certficate" src="/images/Resources Images/Safe_Sport_Certificate.png">
+</div>
+<p></p>
+<p></p>
 <p></p>
 </div>
 </details>
@@ -28,12 +36,15 @@ description: Safe Sport education for spexCarded athletes
 <p>Create a <a href="https://sportsg-ed.csod.com/selfreg/register.aspx?c=%255e%255e%255eL22Iv55qWgHU%252bNO4TN0Z%252b8Ppzq1f9Yqmcl3PyeQBgP4%253d" rel="noopener nofollow" target="_blank">SportSG-ED account</a> here</p>
 </li>
 <li>
-<p>Use the code "<strong>SPEX</strong>" under the "Organisatoin Code"</p>
+<p>Use the code "<strong>SPEX</strong>" under the "Organisation Code"</p>
 </li>
 <li>
 <p>Look for "<strong><em>Understanding Safe Sport as an Athlete</em></strong>"
 to start the training</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="spex" src="/images/logos/spex.png">
+</div>
 <p></p>
 </li>
 <li>
@@ -58,7 +69,7 @@ to start the training</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<p>As a key signatoriy to the Safe Sport Programme, Sport Singapore is committed
+<p>As a key signatory to the Safe Sport Programme, Sport Singapore is committed
 to foster sporting environments where everyone can thrive. This is especially
 so in high performance sport.</p>
 <p></p>
