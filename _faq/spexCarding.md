@@ -54,7 +54,8 @@ to start the training</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Why do I need to do this training?</summary>
+<summary><strong>Why do I need to do this training?</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <p>As a key signatoriy to the Safe Sport Programme, Sport Singapore is committed
