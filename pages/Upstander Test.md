@@ -19,7 +19,4 @@ What can you do if you observe harmful behaviour in our sporting environment?</p
 <img style="width: 50%;" height="auto" width="100%" alt="game" src="/images/Resources Images/game.png">
 </div>
 <h6><strong>Play the Game to the end to find out which 1 of the 3 you are!</strong></h6>
-<h4></h4>
-<p></p>
-<h6></h6>
 <p></p>
