@@ -49,7 +49,7 @@ to start the training</p>
 <p></p>
 </li>
 <li>
-<p>Upon completion, download and save your certificate. Follow this <a href="/files/Steps_to_Access_Safe_Sport_Module_for_Self_Registered_Users.pdf" rel="noopener noreferrer nofollow" target="_blank">guide </a> if
+<p>Upon completion, download and save your certificate. Follow this <a href="/files/Steps_to_Access_Safe_Sport_Module_for_Self_Registered_Users.pdf" rel="noopener noreferrer nofollow" target="_blank">guide </a>if
 you experience any issues.</p>
 <p></p>
 </li>
