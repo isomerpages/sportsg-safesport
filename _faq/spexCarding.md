@@ -14,7 +14,15 @@ description: Safe Sport education for spexCarded athletes
 <p>Athletes nominated for spexCarding will need to complete the online training,
 "<strong><em>Understanding Safe Sport as an Athlete</em></strong>" on SportSG-ED.</p>
 <p></p>
-<p>If you have completed the training, you will have a certificate of achievement</p>
+<p>If you have completed the training, you should have downloaded a certificate
+of achievement that looks like this.</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="certficate" src="/images/Resources Images/Safe_Sport_Certificate.png">
+</div>
+<p></p>
+<p></p>
 <p></p>
 </div>
 </details>
