@@ -2,6 +2,7 @@ collections:
   faq:
     output: true
     order:
+      - spexCarding.md
       - FAQs.md
       - Training and Education.md
       - Reporting.md
