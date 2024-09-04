@@ -25,9 +25,6 @@ image: /images/Resources Images/cover.png
 </li>
 </ul>
 <p></p>
-<h4>Take the Upstander Test!</h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="play" src="/images/Resources Images/PLaygame.gif">
-</div>
+<h4>Take the Upstander Test!</h4><a class="isomer-image-wrapper" href="https://play.solstice.sg/safesport/"><img style="width: 100%" height="auto" width="100%" alt="play" src="/images/Resources Images/PLaygame.gif"></a>
 <h6><strong>Play the Game to the end to find out which 1 of the 3 you are!</strong></h6>
 <p></p>
