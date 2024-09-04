@@ -5,7 +5,7 @@ description: SportSG-ED Online Safe Sport Module
 image: /images/softball.png
 variant: tiptap
 ---
-<h4>Choose which best describes your role in sport</h4>
+<h4>What best describes your role in sport?</h4>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.safesport.sg/understanding-safe-sport-as-an-athlete/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Volleyball players celebrate mid-match" src="/images/Resources Images/Image_4_min.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Athlete</div><div class="isomer-card-description">Recreational, club and high performance</div><div class="isomer-card-link">Athlete Module</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.safesport.sg/understanding-safe-sport-as-a-coach/" class="isomer-card">
@@ -33,17 +33,7 @@ variant: tiptap
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://www.safesport.sg/understanding-safe-sport-as-a-volunteer/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Volunteers at a sport event pose for a picture" src="/images/Resources Images/AL8R5445_min.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Sport Volunteer</div><div class="isomer-card-description">Volunteer at sporting and community events</div><div class="isomer-card-link">Volunteer Module</div></div></a>
 </div>
-<p></p>
-<h4>Role-specific Safe Sport education</h4>
-<p>Our awareness modules are developed for the different roles that exist
-within sport.</p>
-<p>Adults such as coaches, parents and sport administrators have a different
-responsibilities and duty of care to prevent any likelihood of harm occurring
-in sport.</p>
-<p>For athletes, knowing that they may set their personal boundaries and
-understanding their own responsibilities towards fellow participants helps
-to foster a positive environment where inappropriate behaviours are recognised
-and flagged early.</p>
+<h4></h4>
 <h4>SportSG-ED</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/sportsg-ed/sportsged.png">
