@@ -54,7 +54,7 @@ sections:
           description: What type of team mate are you? Find out this 2024/25 SUniG and
             PO-LITE season
           linktext: Play the Game
-          url: ""
+          url: https://www.safesport.sg/upstander-test/
         - title: Appointments to Disciplinary Panel
           description: New members appointed by the Ministry of Culture, Community and Youth
           linktext: See members
