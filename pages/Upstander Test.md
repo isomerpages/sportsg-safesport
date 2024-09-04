@@ -10,15 +10,25 @@ image: /images/Resources Images/game.png
 <img style="width: 100%" height="auto" width="100%" alt="upstanderbanner" src="/images/Resources Images/upstanderbanner.png">
 </div>
 <h4>It's SUniG and POL-ITE season again!</h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="leaderboard" src="/images/Resources Images/LEADERBOARD.gif">
-</div>
-<h4>Which teammate are you?</h4>
-<p>Amongst all the activity, what should you do if you SEE or HEAR something?
-What can you do if you observe harmful behaviour in our sporting environment?</p>
-<p>Are you <strong>Captain Courageous</strong>, <strong>Reserved Referee</strong> or <strong>Blasé Benchwarmer</strong>?</p>
+<p>What should you do if you <strong>SEE or HEAR</strong> something?</p>
+<p></p>
+<p>What do you do if you observe behaviours such as</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>name calling</p>
+</li>
+<li>
+<p></p>
+</li>
+<li>
+<p>unwelcomed sexual advances from a person in authority</p>
+</li>
+</ul>
 <p></p>
 <h4>Take the Upstander Test!</h4>
-<p></p>
 <h6><strong>Play the Game to the end to find out which 1 of the 3 you are!</strong></h6>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="play" src="/images/Resources Images/PLaygame.gif">
+</div>
+<p></p>
 <p></p>
