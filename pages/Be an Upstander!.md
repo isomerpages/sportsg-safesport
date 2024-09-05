@@ -10,11 +10,11 @@ description: ""
 harmful behaviours.</p>
 <p>Download the cards to find out more about each character.</p>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Captain Courageous</div><div class="isomer-card-description">Safe Sport Upstander</div><div class="isomer-card-link">Download full card</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Two sportspeople high five-ing and smiling" src="/images/Resources Images/Captain_Courageous.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Captain Courageous</div><div class="isomer-card-description">Safe Sport Upstander</div><div class="isomer-card-link">Download full card</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Two contemplative looking sportspeople" src="/images/Resources Images/Reserved_Referee.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -22,7 +22,7 @@ harmful behaviours.</p>
 <div class="isomer-card-description">Neutral Observer</div>
 <div class="isomer-card-link">Download full card</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Blasé Benchwarmer" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Blasé Benchwarmer</div><div class="isomer-card-description">Passive Bystander</div><div class="isomer-card-link">Download full card</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Two unbothered looking sportspeople" src="/images/Resources Images/Blase__Benchwarmer.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Blasé Benchwarmer</div><div class="isomer-card-description">Passive Bystander</div><div class="isomer-card-link">Download full card</div></div></a>
 </div>
 <p></p>
 <h4>What are your athlete rights?</h4>
