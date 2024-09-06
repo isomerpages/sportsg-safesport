@@ -3,7 +3,7 @@ title: Upstander Test
 permalink: /upstander-test/
 variant: tiptap
 description: What type of teammate are you?  Choose your actions and find out!
-image: /images/Resources Images/cover.png
+image: /images/Resources Images/Cover_Image__FB_friendly_.png
 ---
 <h4></h4>
 <div class="isomer-image-wrapper">
