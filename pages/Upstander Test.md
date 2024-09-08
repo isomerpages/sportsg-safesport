@@ -21,10 +21,11 @@ image: /images/Resources Images/Cover_Image__FB_friendly_.png
 <p>group rituals targeted at humiliating someone</p>
 </li>
 <li>
-<p>unwelcomed sexual advances from a person in authority</p>
+<p>unwelcomed sexual advances</p>
 </li>
 </ul>
 <p></p>
-<h4>Take the Upstander Test!</h4><a class="isomer-image-wrapper" href="https://play.solstice.sg/safesport/"><img style="width: 100%" height="auto" width="100%" alt="play" src="/images/Resources Images/PLaygame.gif"></a>
+<h4>Take the <a href="https://play.solstice.sg/safesport/" rel="noopener nofollow" target="_blank">Upstander Test</a>!</h4>
+<p></p><a class="isomer-image-wrapper" href="https://play.solstice.sg/safesport/"><img style="width: 75%;" height="auto" width="100%" alt="linktotest" src="/images/Resources Images/linktotest.gif"></a>
 <h6><strong>Play the Game to the end to find out which 1 of the 3 you are!</strong></h6>
 <p></p>
