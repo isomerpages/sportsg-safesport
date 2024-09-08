@@ -25,7 +25,7 @@ harmful behaviours.</p>
 </a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Two unbothered looking sportspeople" src="/images/Resources Images/Blase__Benchwarmer.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Blasé Benchwarmer</div><div class="isomer-card-description">Passive Bystander</div><div class="isomer-card-link">Download full card</div></div></a>
 </div>
 <p></p>
-<h4>What are your athlete rights?</h4>
+<h4>Every athlete deserves respect!</h4>
 <p></p>
 <div class="iframe-wrapper">
 <iframe height="360" width="640" allowfullscreen="true" frameborder="0" src="https://player.vimeo.com/video/512583608?h=95d3ec1bfe&amp;title=0&amp;byline=0&amp;portrait=0"></iframe>
