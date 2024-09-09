@@ -25,6 +25,6 @@ image: /images/Cover_Image__FB_Friendly___1_.png
 <p>unwelcome sexual advances</p>
 </li>
 </ul>
-<p><strong>Play the Game to the end to find out which 1 of the 3 teammates you are!</strong>
+<p><strong>Play the Game to the end to find out <a href="https://www.safesport.sg/be-an-upstander/" rel="noopener nofollow" target="_blank">which 1 of the 3 teammates</a> you are!</strong>
 </p>
 <p></p>
