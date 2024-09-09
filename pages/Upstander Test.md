@@ -9,7 +9,7 @@ image: /images/Cover_Image__FB_Friendly___1_.png
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="upstanderbanner" src="/images/Resources Images/upstanderbanner.png">
 </div>
-<h4>Take the <a href="https://play.solstice.sg/safesport/" rel="noopener nofollow" target="_blank">Upstander Test</a>!</h4><a class="isomer-image-wrapper" href="https://play.solstice.sg/safesport/"><img style="width: 70%;" height="auto" width="100%" alt="linktotest" src="/images/Resources Images/linktotest.gif"></a>
+<h4>Take the <a href="https://play.solstice.sg/safesport/" rel="noopener nofollow" target="_blank">Upstander Test</a>!</h4><a class="isomer-image-wrapper" href="https://play.solstice.sg/safesport/"><img style="width: 100%;" height="auto" width="100%" alt="linktotest" src="/images/Resources Images/linktotest.gif"></a>
 <p></p>
 <h4>It's SUniG and POL-ITE season again!</h4>
 <p>What should you do if you <strong>SEE </strong>or<strong> HEAR</strong> something?</p>
