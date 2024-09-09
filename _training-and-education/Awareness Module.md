@@ -23,7 +23,7 @@ variant: tiptap
 <a rel="noopener noreferrer nofollow" href="https://www.safesport.sg/building-a-safe-sporting-organisation-for-sport-administrators/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Sport administrators in a discussion" src="/images/Resources Images/IMG_0882.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Sport administrators in a discussion" src="/images/Resources Images/IMG_5437.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
