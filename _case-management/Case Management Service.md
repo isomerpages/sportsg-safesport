@@ -49,5 +49,4 @@ Depending on whether a Disclosure or a Formal Report has been made, the Case Man
 
 Resolution may take many forms and is specific to:
 * the needs and the value of the different outcomes for the affected party
-* the severity of the Misconduct which is unique to the circumstances of each incident  
-
+* the severity of the Misconduct which is unique to the circumstances of each incident
