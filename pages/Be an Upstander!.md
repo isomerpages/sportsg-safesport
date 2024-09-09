@@ -10,8 +10,8 @@ description: ""
 harmful behaviours.</p>
 <p>Download the cards to find out more about each character.</p>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.safesport.sg/captain-courage/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Two sportspeople high five-ing and smiling" src="/images/Resources Images/Captain_Courage.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Captain Courage</div><div class="isomer-card-description">Safe Sport Upstander</div><div class="isomer-card-link">Download full card</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.safesport.sg/reserved-referee/" class="isomer-card">
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.safesport.sg/images/captain_courage.png" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Two sportspeople high five-ing and smiling" src="/images/Resources Images/Captain_Courage.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Captain Courage</div><div class="isomer-card-description">Safe Sport Upstander</div><div class="isomer-card-link">Download full card</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.safesport.sg/images/reserved_referee.png" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Two contemplative looking sportspeople" src="/images/Resources Images/Reserved_Referee.png">
@@ -22,7 +22,7 @@ harmful behaviours.</p>
 <div class="isomer-card-description">Neutral Observer</div>
 <div class="isomer-card-link">Download full card</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.safesport.sg/blase-benchwarmer/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Two unbothered looking sportspeople" src="/images/Resources Images/Blase__Benchwarmer.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Blasé Benchwarmer</div><div class="isomer-card-description">Passive Bystander</div><div class="isomer-card-link">Download full card</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.safesport.sg/images/blase_benchwarmer.png" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Two unbothered looking sportspeople" src="/images/Resources Images/Blase__Benchwarmer.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Blasé Benchwarmer</div><div class="isomer-card-description">Passive Bystander</div><div class="isomer-card-link">Download full card</div></div></a>
 </div>
 <p></p>
 <h4>Every athlete deserves respect!</h4>
