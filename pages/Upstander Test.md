@@ -9,9 +9,10 @@ image: /images/Cover_Image__FB_Friendly___1_.png
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="upstanderbanner" src="/images/Resources Images/upstanderbanner.png">
 </div>
-<h4>It's SUniG and POL-ITE season again!</h4>
-<p>What should you do if you <strong>SEE or HEAR</strong> something?</p>
+<h4>Take the <a href="https://play.solstice.sg/safesport/" rel="noopener nofollow" target="_blank">Upstander Test</a>!</h4><a class="isomer-image-wrapper" href="https://play.solstice.sg/safesport/"><img style="width: 70%;" height="auto" width="100%" alt="linktotest" src="/images/Resources Images/linktotest.gif"></a>
 <p></p>
+<h4>It's SUniG and POL-ITE season again!</h4>
+<p>What should you do if you <strong>SEE </strong>or<strong> HEAR</strong> something?</p>
 <p>What do you do if you observe:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -21,11 +22,9 @@ image: /images/Cover_Image__FB_Friendly___1_.png
 <p>group rituals targeted at humiliating someone</p>
 </li>
 <li>
-<p>unwelcomed sexual advances</p>
+<p>unwelcome sexual advances</p>
 </li>
 </ul>
-<p></p>
-<h4>Take the <a href="https://play.solstice.sg/safesport/" rel="noopener nofollow" target="_blank">Upstander Test</a>!</h4>
-<p></p><a class="isomer-image-wrapper" href="https://play.solstice.sg/safesport/"><img style="width: 70%;" height="auto" width="100%" alt="linktotest" src="/images/Resources Images/linktotest.gif"></a>
-<h6><strong>Play the Game to the end to find out which 1 of the 3 you are!</strong></h6>
+<p><strong>Play the Game to the end to find out which 1 of the 3 teammates you are!</strong>
+</p>
 <p></p>
