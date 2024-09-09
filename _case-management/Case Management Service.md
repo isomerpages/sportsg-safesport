@@ -3,6 +3,7 @@ title: Case Management Service
 permalink: /case-management/service/
 description: Safe Sport Case Management
 image: /images/handshake.jpg
+variant: markdown
 ---
 #### **Case Management Service**
 
@@ -48,7 +49,7 @@ Resolution may take many forms and is specific to:
 * the severity of the Misconduct which is unique to the circumstances of each incident  
 
 
-> [Safe Sport Programme Handbook](/files/Safe%20Sport%20Programme%20Handbook%20101.pdf) 
+> [Safe Sport Programme Handbook](https://heyzine.com/flip-book/027d7884bd.html) 
 
 Clear process and procedures are set out in the rules of the Safe Sport Programme Handbook which include:
 * timelines and procedures to ensure due process for all parties
