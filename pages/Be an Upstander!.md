@@ -4,8 +4,8 @@ permalink: /be-an-upstander/
 variant: tiptap
 description: ""
 ---
-<h4>Which team mate are you?</h4>
-<p>Thank you for attempting the Bystander Test!</p>
+<h4>Which teammate are you?</h4>
+<p>Thank you for attempting the Upstander Test!</p>
 <p>Passive attitudes, non-intervention, denial or silence can lead to the <strong>normalisation</strong> of
 harmful behaviours.</p>
 <p>Download the cards to find out more about each character.</p>
