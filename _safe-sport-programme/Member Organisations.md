@@ -9,11 +9,11 @@ variant: markdown
 <p>These organisations have adopted:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>the <a href="https://www.safesport.sg/files/Safe%20Sport%20Unified%20Code%20v4.pdf" rel="noopener noreferrer nofollow" target="_blank">Safe Sport Unified Code</a>;</p>
+<p>the Safe Sport Unified Code;</p>
 </li>
 <li>
 <p>the mechanisms for response and resolution for handling allegations of
-misconduct as set out in the <a href="https://www.safesport.sg/files/Safe%20Sport%20Programme%20Handbook%20101.pdf" rel="noopener noreferrer nofollow" target="_blank">Safe Sport Programme Handbook</a>.</p>
+misconduct as set out in the Safe Sport Programme Handbook.</p>
 </li>
 </ul>
 <h5><strong>List of Member Organisations</strong></h5>
