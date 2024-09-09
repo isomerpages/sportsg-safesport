@@ -52,7 +52,7 @@ sections:
       cards:
         - title: Student Athlete Season!
           description: What type of team mate are you? Find out this 2024/25 SUniG and
-            PO-LITE season
+            POL-ITE season
           linktext: Play the Game
           url: https://www.safesport.sg/upstander-test/
         - title: Appointments to Disciplinary Panel
