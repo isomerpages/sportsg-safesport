@@ -6,7 +6,7 @@ description: ""
 ---
 <h4>Which team mate are you?</h4>
 <p>Thank you for attempting the Bystander Test!</p>
-<p>Passive attitudes/non-intervention, denial or silence can lead to the <strong>normalization</strong> of
+<p>Passive attitudes, non-intervention, denial or silence can lead to the <strong>normalisation</strong> of
 harmful behaviours.</p>
 <p>Download the cards to find out more about each character.</p>
 <p></p>
@@ -34,7 +34,7 @@ harmful behaviours.</p>
 <a href="https://vimeo.com/user38256388" rel="noopener noreferrer nofollow" target="_blank">Athlete365</a>on <a href="https://vimeo.com" rel="noopener noreferrer nofollow" target="_blank">Vimeo</a>.</p>
 <p></p>
 <h4>How can you learn more?</h4>
-<p>It is only when we <strong>RECOGNIZE</strong> harmful behaviours in the
+<p>It is only when we <strong>RECOGNISE</strong> harmful behaviours in the
 sporting environment that we can <strong>RESPOND</strong>!</p>
 <p>Learn more about safe sport in our free e-learning module.</p>
 <p></p>
@@ -52,7 +52,7 @@ you register</p>
 <p>Learn at your own pace</p>
 </li>
 <li>
-<p>Estimated completion time</p>
+<p>It's free!</p>
 <p></p>
 </li>
 </ul>
