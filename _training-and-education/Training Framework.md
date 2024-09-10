@@ -27,4 +27,6 @@ the following objectives:</p>
 <img style="width: 100%" height="auto" width="100%" alt="Table on Training Framework" src="/images/Training_Framework.png">
 </div>
 <p></p>
-<p></p>
+<p>Find out more about our <a href="https://www.safesport.sg/training-and-education/awareness-module/" rel="noopener nofollow" target="_blank">online modules</a> or
+our <a href="https://www.safesport.sg/training-and-education/workshops/" rel="noopener nofollow" target="_blank">in-person engagements</a>.</p>
+<p>If you have a specific query drop us a note at <a href="mailto:contact@safesport.sg" rel="noopener noreferrer nofollow" target="_blank">contact@safesport.sg</a>.</p>
