@@ -27,24 +27,6 @@ sections:
             url: https://www.safesport.sg/about/subscribe/
           - title: Access our news archive
             url: https://www.safesport.sg/latest/
-  - resources:
-      subtitle: Latest News
-      button: See ALL
-  - infopic:
-      title: The Safe Sport UNIFIED CODE
-      subtitle: Adopt
-      button: download the unified code
-      url: /safe-sport-programme/unified-code
-      image: /images/codeandhandbook.png
-      alt: Unified Code and Handbook
-      description: "& the Safe Sport Programme Handbook (for Member Organisations)"
-  - infopic:
-      title: Community Consultations
-      button: view reports
-      url: /safe-sport-programme/community-consultations
-      image: /images/community.png
-      alt: Policies And Procedures
-      subtitle: THE JOURNEY
   - textcards:
       title: Catch Up!
       subtitle: Our LATEST STUFF
@@ -63,4 +45,19 @@ sections:
           description: Find other media releases, announcements and projects
           linktext: Go there!
           url: https://www.safesport.sg/latest/
+  - infopic:
+      title: The Safe Sport UNIFIED CODE
+      subtitle: Adopt
+      button: download the unified code
+      url: /safe-sport-programme/unified-code
+      image: /images/codeandhandbook.png
+      alt: Unified Code and Handbook
+      description: "& the Safe Sport Programme Handbook (for Member Organisations)"
+  - infopic:
+      title: Community Consultations
+      button: view reports
+      url: /safe-sport-programme/community-consultations
+      image: /images/community.png
+      alt: Policies And Procedures
+      subtitle: THE JOURNEY
 ---
