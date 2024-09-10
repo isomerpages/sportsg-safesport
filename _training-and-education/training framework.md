@@ -4,12 +4,27 @@ permalink: /training-framework/
 variant: tiptap
 description: ""
 ---
-<p>The Commission’s training and education strategy is structured into three
-levels: Basic, Intermediate and Advanced.</p>
 <p></p>
-<p>Each level is designed to address different aspects of safeguarding strategies.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Two person discussion in room with others" src="/images/Resources Images/Training.jpg">
+</div>
 <p></p>
+<p>The Commission’s training and education strategy is structured to meet
+the following objectives:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Recognise</p>
+</li>
+<li>
+<p>Respond</p>
+</li>
+<li>
+<p>Report</p>
+</li>
+</ul>
 <p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Table on Training Framework" src="/images/Training_Framework.png">
+</div>
 <p></p>
 <p></p>
