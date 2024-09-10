@@ -36,13 +36,14 @@ harmful behaviours.</p>
 <h4>How can you learn more?</h4>
 <p>It is only when we <strong>RECOGNISE</strong> harmful behaviours in the
 sporting environment that we can <strong>RESPOND</strong>!</p>
-<p>Learn more about safe sport in our free e-learning module.</p>
+<p>Learn more about safe sport in our free <a href="https://www.safesport.sg/training-and-education/awareness-module/" rel="noopener nofollow" target="_blank">e-learning module</a>.</p>
 <p></p>
 <p></p>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Register here [link]</p>
+<p>Register <a href="https://sportsg-ed.csod.com/selfreg/register.aspx?c=%255e%255e%255eL22Iv55qWgHU%252bNO4TN0Z%252b8Ppzq1f9Yqmcl3PyeQBgP4%253d" rel="noopener nofollow" target="_blank">HERE</a> 
+</p>
 </li>
 <li>
 <p>Use Code - "<strong>SUNIG</strong>" or "<strong>POLITE</strong>" when
