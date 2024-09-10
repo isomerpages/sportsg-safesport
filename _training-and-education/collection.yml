@@ -2,6 +2,7 @@ collections:
   training-and-education:
     output: true
     order:
+      - training framework.md
       - Awareness Module.md
       - Safeguarding Officer Training.md
       - Workshops.md
