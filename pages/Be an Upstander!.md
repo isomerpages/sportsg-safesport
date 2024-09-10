@@ -42,7 +42,7 @@ sporting environment that we can <strong>RESPOND</strong>!</p>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Register <a href="https://sportsg-ed.csod.com/selfreg/register.aspx?c=%255e%255e%255eL22Iv55qWgHU%252bNO4TN0Z%252b8Ppzq1f9Yqmcl3PyeQBgP4%253d" rel="noopener nofollow" target="_blank">HERE</a> 
+<p>Register <a href="https://sportsg-ed.csod.com/selfreg/register.aspx?c=%255e%255e%255eL22Iv55qWgHU%252bNO4TN0Z%252b8Ppzq1f9Yqmcl3PyeQBgP4%253d" rel="noopener nofollow" target="_blank">HERE</a>
 </p>
 </li>
 <li>
