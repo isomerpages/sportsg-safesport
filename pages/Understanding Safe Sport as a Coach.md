@@ -9,11 +9,27 @@ description: Course curriculum for the "Understanding Safe Sport as a Coach" mod
 <details class="isomer-details">
 <summary>Topic 1: Introduction to Safe Sport as a Coach</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>understand the importance of Safe Sport</p>
+</li>
+<li>
+<p>identify the 5 forms of harassment and abuse</p>
+</li>
+<li>
+<p>identify the risk level in your coaching</p>
+</li>
+<li>
+<p>implement safeguards by creating clear boundaries</p>
+</li>
+<li>
+<p>recognise your role in safeguarding sport</p>
+</li>
+</ul>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Topic 2: Safeguarding in Sport (Coach)</summary>
+<summary>Topic 2: Safeguarding in Sport and Fitness</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
