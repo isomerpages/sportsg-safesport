@@ -4,6 +4,11 @@ permalink: /understanding-safe-sport-as-a-coach/
 variant: tiptap
 description: Course curriculum for the "Understanding Safe Sport as a Coach" module
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Table tennis coach and player high fiving" src="/images/Resources Images/20240728_TABLETENNIS_CY_026.jpg">
+</div>
+<p></p>
 <h4>What will I learn?</h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
