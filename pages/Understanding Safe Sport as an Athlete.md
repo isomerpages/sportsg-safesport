@@ -113,7 +113,8 @@ a copy for reference!</p>
 <h4>How do I access the module?</h4>
 <ol data-tight="true" class="tight">
 <li>
-<p>Create an account on our self-registration page</p>
+<p>Create an account on our <a href="https://go.gov.sg/ss-selfreg" rel="noopener nofollow" target="_blank">self-registration page</a>
+</p>
 </li>
 <li>
 <p>Continue to SportSG-ED, pick the module you'd like to do and get started!</p>
@@ -144,6 +145,7 @@ you need help.</p>
 <p><strong><em><u>spex</u></em><u>Carded athletes</u></strong>
 </p>
 <p>Register using the instructions on our <a href="https://www.safesport.sg/spexcarding/" rel="noopener nofollow" target="_blank">spexCarding FAQ Page</a>.</p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
