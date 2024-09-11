@@ -28,3 +28,8 @@ image: /images/Cover_Image__FB_Friendly___1_.png
 <p><strong>Play the Game to the end to find out <a href="https://www.safesport.sg/be-an-upstander/" rel="noopener nofollow" target="_blank">which 1 of the 3 teammates</a> you are!</strong>
 </p>
 <p></p>
+<h4>Where does your school stand?</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="graphic showing schools with the most completions of the upstander test" src="/images/Resources Images/LEADERBOARD.gif">
+</div>
+<p>Share the test with your schoolmates to see your school rise in the ranks!</p>

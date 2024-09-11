@@ -110,3 +110,43 @@ a copy for reference!</p>
 <p></p>
 <p>Course duration: 1 hour 43 minutes</p>
 <p></p>
+<h4>How do I access the module?</h4>
+<ol data-tight="true" class="tight">
+<li>
+<p>Create an account on our <a href="https://go.gov.sg/ss-selfreg" rel="noopener nofollow" target="_blank">self-registration page</a>
+</p>
+</li>
+<li>
+<p>Continue to SportSG-ED, pick the module you'd like to do and get started!</p>
+</li>
+<li>
+<p>Your account will only be valid for one month from the account creation
+date, so remember to finish the module and download a copy of your certificate
+before then.</p>
+</li>
+</ol>
+<p></p>
+<p>Whats my organisation code?</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>The organisation code provided by your NSA (if any)</p>
+</li>
+<li>
+<p>Your NSA, school, sports club... wherever you play sport!</p>
+</li>
+<li>
+<p>If none of the above are applicable, enter 'WEB"</p>
+</li>
+</ul>
+<p></p>
+<p>Refer to this <a href="/files/Steps_to_Access_Safe_Sport_Module_for_Self_Registered_Users.pdf" rel="noopener noreferrer nofollow" target="_blank">self-registration guide</a> if
+you need help.</p>
+<p></p>
+<p><strong><em><u>spex</u></em><u>Carded athletes</u></strong>
+</p>
+<p>Register using the instructions on our <a href="https://www.safesport.sg/spexcarding/" rel="noopener nofollow" target="_blank">spexCarding FAQ Page</a>.</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>

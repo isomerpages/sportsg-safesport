@@ -27,9 +27,33 @@ sections:
             url: https://www.safesport.sg/about/subscribe/
           - title: Access our news archive
             url: https://www.safesport.sg/latest/
-  - resources:
-      subtitle: Latest News
-      button: See ALL
+  - infopic:
+      title: Are you a Safe Sport Upstander
+      subtitle: Upstander Test
+      id: infopic
+      description: Find out through this interactive game
+      button: Take the test!
+      url: https://www.safesport.sg/upstander-test/
+      image: /images/Wall_Decal_2.png
+      alt: Image alt text
+  - textcards:
+      title: Catch Up!
+      subtitle: Our LATEST STUFF
+      id: textcards
+      cards:
+        - title: Student Athlete Season!
+          description: What type of teammate are you? Find out this 2024/25 SUniG and
+            POL-ITE season
+          linktext: Play the Game
+          url: https://www.safesport.sg/upstander-test/
+        - title: Appointments to Disciplinary Panel
+          description: New members appointed by the Ministry of Culture, Community and Youth
+          linktext: See members
+          url: https://www.safesport.sg/mccy-appoints-disciplinary-panel-members-for-second-term/
+        - title: News
+          description: Find other media releases, announcements and projects
+          linktext: Go there!
+          url: https://www.safesport.sg/latest/
   - infopic:
       title: The Safe Sport UNIFIED CODE
       subtitle: Adopt
@@ -45,22 +69,4 @@ sections:
       image: /images/community.png
       alt: Policies And Procedures
       subtitle: THE JOURNEY
-  - textcards:
-      title: Catch Up!
-      subtitle: Our LATEST STUFF
-      id: textcards
-      cards:
-        - title: Student Athlete Season!
-          description: What type of team mate are you? Find out this 2024/25 SUniG and
-            POL-ITE season
-          linktext: Play the Game
-          url: https://www.safesport.sg/upstander-test/
-        - title: Appointments to Disciplinary Panel
-          description: New members appointed by the Ministry of Culture, Community and Youth
-          linktext: See members
-          url: https://www.safesport.sg/mccy-appoints-disciplinary-panel-members-for-second-term/
-        - title: News
-          description: Find other media releases, announcements and projects
-          linktext: Go there!
-          url: https://www.safesport.sg/latest/
 ---
