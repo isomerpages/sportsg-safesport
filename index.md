@@ -33,7 +33,7 @@ sections:
       id: textcards
       cards:
         - title: Student Athlete Season!
-          description: What type of team mate are you? Find out this 2024/25 SUniG and
+          description: What type of teammate are you? Find out this 2024/25 SUniG and
             POL-ITE season
           linktext: Play the Game
           url: https://www.safesport.sg/upstander-test/
