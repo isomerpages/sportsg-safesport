@@ -27,6 +27,15 @@ sections:
             url: https://www.safesport.sg/about/subscribe/
           - title: Access our news archive
             url: https://www.safesport.sg/latest/
+  - infopic:
+      title: Are you a Safe Sport Upstander
+      subtitle: Upstander Test
+      id: infopic
+      description: Find out through this interactive game
+      button: Take the test!
+      url: https://www.safesport.sg/upstander-test/
+      image: /images/Wall_Decal_2.png
+      alt: Image alt text
   - textcards:
       title: Catch Up!
       subtitle: Our LATEST STUFF
@@ -60,13 +69,4 @@ sections:
       image: /images/community.png
       alt: Policies And Procedures
       subtitle: THE JOURNEY
-  - infopic:
-      title: Are you a Safe Sport Upstander
-      subtitle: Upstander Test
-      id: infopic
-      description: Find out through this interactive game
-      button: Take the test!
-      url: https://www.safesport.sg/upstander-test/
-      image: /images/Wall_Decal_2.png
-      alt: Image alt text
 ---
