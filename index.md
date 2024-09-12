@@ -28,6 +28,16 @@ sections:
           - title: Access our news archive
             url: https://www.safesport.sg/latest/
   - infopic:
+      title: 1,000-Day Impact Report
+      subtitle: THE SAFE SPORT PROGRAMME
+      id: infopic
+      description: Learn more about the national framework for safeguarding in its
+        first 1,000 days
+      button: View it Here
+      url: https://heyzine.com/flip-book/0e9aa5d84b.html
+      image: /images/1000cover.png
+      alt: Cover page of report
+  - infopic:
       title: Are you a Safe Sport Upstander
       subtitle: Upstander Test
       id: infopic
