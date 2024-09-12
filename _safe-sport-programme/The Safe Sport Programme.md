@@ -26,9 +26,8 @@ investigation of reports of concern, a decision-making framework for the determi
 participation as a consequence for engaging in Misconduct.
 
 
-View or download the Handbook 
+View or download the [Safe Sport Programme Handbook](https://www.safesport.sg/case-management/service/)
 
-> [Safe Sport Programme Handbook](https://heyzine.com/flip-book/027d7884bd.html)
 
 
 
