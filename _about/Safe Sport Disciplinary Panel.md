@@ -297,6 +297,14 @@ the outcomes of the hearings are made available on the <a href="https://www.safe
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Lim Kheng Yan Molly, SC</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Chairperson</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ng Yi Lin Ruth</p>
 </td>
 <td rowspan="1" colspan="1">
