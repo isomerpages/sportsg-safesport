@@ -34,7 +34,7 @@ sections:
       description: Learn more about the national framework for safeguarding in its
         first 1,000 days
       button: View it Here
-      url: https://heyzine.com/flip-book/0e9aa5d84b.html
+      url: https://heyzine.com/flip-book/900b4c936e.html
       image: /images/1000cover.png
       alt: Cover page of report
   - infopic:
