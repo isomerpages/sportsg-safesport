@@ -109,7 +109,7 @@ the outcomes of the hearings are made available on the <a href="https://www.safe
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Edward Quah</p>
+<p>Eugene Quah</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
