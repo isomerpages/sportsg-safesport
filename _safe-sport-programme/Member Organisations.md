@@ -3,7 +3,7 @@ title: Member Organisations
 permalink: /safe-sport-programme/memberorganisations/
 description: Member Organisations of the Safe Sport Programme
 image: /images/signing.jpeg
-variant: markdown
+variant: tiptap
 ---
 <h5><strong>What does it mean to be a member?</strong></h5>
 <p>These organisations have adopted:</p>
@@ -346,7 +346,7 @@ misconduct as set out in the Safe Sport Programme Handbook.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.singaporehockey.org/resources/shf-safe-sport-policy/" rel="noopener noreferrer nofollow" target="_blank">Singapore Hockey Federation</a>
+<p><a href="https://www.singaporehockey.org/wp-content/uploads/2023/11/Safe-Sport-Policy-2022.pdf" rel="noopener noreferrer nofollow" target="_blank">Singapore Hockey Federation</a>
 </p>
 </td>
 </tr>
@@ -458,7 +458,7 @@ misconduct as set out in the Safe Sport Programme Handbook.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://singaporeshooting.org/portal/wp-content/uploads/Singapore-Shooting-Association_Safe-Sport-Policy-as-of-27-July-2022.pdf" rel="noopener noreferrer nofollow" target="_blank">Singapore Shooting Association</a>
+<p><a href="https://singaporeshooting.org/hi-performance/ssa-safe-sport-policy/" rel="noopener noreferrer nofollow" target="_blank">Singapore Shooting Association</a>
 </p>
 </td>
 </tr>
