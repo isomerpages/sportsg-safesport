@@ -327,4 +327,4 @@ the outcomes of the hearings are made available on the <a href="https://www.safe
 </tr>
 </tbody>
 </table>
-<p>|</p>
+<p></p>
