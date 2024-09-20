@@ -26,9 +26,10 @@ and <strong>Ms Quek Soo Teng</strong> (volleyball) have been appointed as
 Ordinary Members.</p>
 </li>
 <li>
-<p>New Legal Members appointed include former and current athlete <strong>Mr Sudhershen Hariram</strong> (football)
-and<strong> Mr Koh Jian Ying</strong> (water polo), and <strong>Mr Eugene Quah</strong> who
-has served in a similar capacity on the Singapore Disability Sports Council</p>
+<p>New Legal Members appointed include former athlete <strong>Mr Sudhershen Hariram</strong> (football)
+and<strong> </strong>current athlete <strong>Mr Koh Jian Ying</strong> (water
+polo), as well as, <strong>Mr Eugene Quah</strong> who has served in a similar
+capacity on the Singapore Disability Sports Council</p>
 </li>
 </ul>
 <p></p>
