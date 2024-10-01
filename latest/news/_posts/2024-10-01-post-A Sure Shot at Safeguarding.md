@@ -28,7 +28,11 @@ and harassment</p>
 communications</p>
 </li>
 <li>
-<p>reflections on their roles and responsibilities as</p>
+<p>reflections on their roles and responsibilities as teammates and students</p>
 </li>
 </ul>
+<p></p>
+<p>The student athletes also identified how their coaches, parents and team
+mates could help them navigate the expectation placed on them as well as
+how they could manage their</p>
 <p></p>
