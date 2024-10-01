@@ -32,7 +32,9 @@ communications</p>
 </li>
 </ul>
 <p></p>
+<p>T</p>
+<p></p>
 <p>The student athletes also identified how their coaches, parents and team
 mates could help them navigate the expectation placed on them as well as
-how they could manage their</p>
+how they could manage pressures they faced.</p>
 <p></p>
