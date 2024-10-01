@@ -17,3 +17,18 @@ in sport.</p>
 <img style="width: 100%" height="auto" width="100%" alt="group of athletes" src="/images/Resources Images/ssp3.jpg">
 </div>
 <p></p>
+<p>The workshop activities included:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>a check-in game to gauge the student athletes' understanding of abuse
+and harassment</p>
+</li>
+<li>
+<p>discussion on case scenarios and SPP policies on travel, rooming and digital
+communications</p>
+</li>
+<li>
+<p>reflections on their roles and responsibilities as</p>
+</li>
+</ul>
+<p></p>
