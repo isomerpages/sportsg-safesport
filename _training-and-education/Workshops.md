@@ -64,8 +64,10 @@ We recommend that participants complete the [Awareness Module](https://www.safes
 *   Safe Sport International Conference (2022)
 *   Sports Medicine Association of Singapore (SMAS) Series (2022)
 *   Singapore Drama Educators Association's (SDEA) Connections: Safeguarding Policies in Singapore (2022)
-*   UNODC 
+*   Safeguarding Sport From Corruption: Focus on the Association of Southeast Asian Nations (ASEAN) - United Nations on Drugs and Crime (2022)
 *   ICCE Global Coach Conference (2023)
+*   Professional Learning Fiesta, Physical Education and Sports Teacher Academy (PESTA) (2024)
+*   Asia Triatlon Youth Development Camp (2024)
 
 
 [Click here to go back to top](#workshop-rates)
