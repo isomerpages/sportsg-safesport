@@ -13,17 +13,20 @@ the Safe Sport Commission released an impact report to highlight the significant
 strides made to foster a positive sporting environment in the areas of
 policymaking, training and education and case management - the three central
 pillars of the Safe Sport framework.</p>
-<p>&nbsp;</p>
+<p>&nbsp;</p><a class="isomer-image-wrapper" href="https://heyzine.com/flip-book/900b4c936e.html"><img style="width: 75%;" height="auto" width="100%" alt="coverpage" src="/images/Resources Images/1000cover_drop_shadow.png"></a>
+<p></p>
+<p></p>
 <p><u>Policymaking</u>
 </p>
 <p>Launched in November 2021, the Safe Sport Programme sets a comprehensive
 standard for safeguarding practices across the sporting community that
 has been widely embraced by athletes, parents, coaches, instructors, and
-sports administrators. To date, 60 sporting organisations have signed onto
-the national framework. Member organisations have incorporated the Safe
-Sport Unified Code into their organisational policies and governance documentations,
-as well as put in place mechanisms for reporting and responding to concerns.
-As a key signatory to the Safe Sport Programme, Sport Singapore (SportSG)
+sports administrators.</p>
+<p>To date, 60 sporting organisations have signed onto the national framework.
+Member organisations have incorporated the Safe Sport Unified Code into
+their organisational policies and governance documentations, as well as
+put in place mechanisms for reporting and responding to concerns.</p>
+<p>As a key signatory to the Safe Sport Programme, Sport Singapore (SportSG)
 has taken the lead to protect the well-being of its participants, which
 has impacted close to 150,000 persons under its initiatives, including
 ActiveSG facility users and Learn-to-Play programme participants, children
@@ -46,10 +49,10 @@ abuse and harassment, as well as understanding bystander behaviours.</p>
 <p>&nbsp;</p>
 <p><u>Case Management</u>
 </p>
+<p></p>
 <p>The streamlined case management service has been a crucial part of the
 Safe Sport Programme as it allows for independent investigation of reports
-of concern, which gives assurance to affected parties<a href="https://mail.google.com/mail/u/0/#m_6672587272657871123__ftn1" rel="noopener noreferrer nofollow" target="_blank"><sup>[1]</sup></a> and
-respondents<a href="https://mail.google.com/mail/u/0/#m_6672587272657871123__ftn2" rel="noopener noreferrer nofollow" target="_blank"><sup>[2]</sup></a> that
+of concern, which gives assurance to affected parties and respondents that
 reports will be managed fairly. It also relieves member organisations of
 the administrative burden of investigating serious cases and ensuring appropriately
 trained personnel are involved.</p>
@@ -62,20 +65,18 @@ over half (56%) of the total cases. Athletes (32%) represented the largest
 group of affected parties, while coaches (48%) represented the largest
 group of respondents. Majority of the misconduct cases (62%) were classified
 as low severity, while 21% and 17% were classified as moderate and severe
-cases respectively<a href="https://mail.google.com/mail/u/0/#m_6672587272657871123__ftn3" rel="noopener noreferrer nofollow" target="_blank"><sup>[3]</sup></a>.</p>
+cases respectively.</p>
 <p>&nbsp;</p>
 <p>Moderate and severe cases were referred to the Safe Sport Disciplinary
 Panel, where the Panel will ascertain the seriousness of the misconduct
 based on the degree of culpability and harm caused, and consider the aggravating
 and mitigating factors before coming to a decision on the appropriate measures
 or sections. Since it was first appointed in August 2022, the Safe Sport
-Disciplinary Panel, has convened nine hearings<a href="https://mail.google.com/mail/u/0/#m_6672587272657871123__ftn4" rel="noopener noreferrer nofollow" target="_blank"><sup>[4]</sup></a> to
-date, and issued sanctions ranging from suspensions to permanent ineligibility.
-The outcomes of the hearings are listed in a <a href="https://www.safesport.sg/case-management/disciplinarydatabase/" rel="noopener noreferrer nofollow" target="_blank">disciplinary database</a>.
+Disciplinary Panel, has convened nine hearings to date, and issued sanctions
+ranging from suspensions to permanent ineligibility. The outcomes of the
+hearings are listed in a <a href="https://www.safesport.sg/case-management/disciplinarydatabase/" rel="noopener noreferrer nofollow" target="_blank">disciplinary database</a>.
 Apart from participating in hearings, the panel members also engaged in
-communities of practice<a href="https://mail.google.com/mail/u/0/#m_6672587272657871123__ftn5" rel="noopener noreferrer nofollow" target="_blank"><sup>[5]</sup></a> with
-the Safe Sport Support Network and underwent training on trauma-informed
-approaches in the disciplinary process.</p>
-<p>
-<br>
-</p>
+communities of practice with the Safe Sport Support Network and underwent
+training on trauma-informed approaches in the disciplinary process.</p>
+<p></p>
+<p>View the full <a href="https://heyzine.com/flip-book/900b4c936e.html" rel="noopener nofollow" target="_blank">1,000-day Impact Report</a>.</p>
