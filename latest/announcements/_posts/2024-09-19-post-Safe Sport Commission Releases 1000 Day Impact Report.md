@@ -41,11 +41,12 @@ been actively engaging the sporting community to nurture a culture of awareness
 and accountability across the sport organisations. As of 19 August 2024,
 the team has conducted 292 man-hours of workshops and outreach, trained
 431 safeguarding officers across 138 organisations, and achieved a completion
-of 9,247 training modules. Through collaborations with the Singapore Institute
-of Architects and Institutes of Higher Learning (IHLs), the Safe Sport
-Commission also continues to explore other aspects of safe sport, for example,
-how the design of the physical environment contributes to incidents of
-abuse and harassment, as well as understanding bystander behaviours.</p>
+of 9,247 training modules.</p>
+<p>Through collaborations with the Singapore Institute of Architects and
+Institutes of Higher Learning (IHLs), the Safe Sport Commission also continues
+to explore other aspects of safe sport, for example, how the design of
+the physical environment contributes to incidents of abuse and harassment,
+as well as understanding bystander behaviours.</p>
 <p>&nbsp;</p>
 <p><u>Case Management</u>
 </p>
@@ -74,9 +75,6 @@ and mitigating factors before coming to a decision on the appropriate measures
 or sections. Since it was first appointed in August 2022, the Safe Sport
 Disciplinary Panel, has convened nine hearings to date, and issued sanctions
 ranging from suspensions to permanent ineligibility. The outcomes of the
-hearings are listed in a <a href="https://www.safesport.sg/case-management/disciplinarydatabase/" rel="noopener noreferrer nofollow" target="_blank">disciplinary database</a>.
-Apart from participating in hearings, the panel members also engaged in
-communities of practice with the Safe Sport Support Network and underwent
-training on trauma-informed approaches in the disciplinary process.</p>
+hearings are listed in a disciplinary database.</p>
 <p></p>
 <p>View the full <a href="https://heyzine.com/flip-book/900b4c936e.html" rel="noopener nofollow" target="_blank">1,000-day Impact Report</a>.</p>
