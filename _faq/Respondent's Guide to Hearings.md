@@ -4,7 +4,7 @@ permalink: /faq/respondents-guide-to-hearings/
 description: ""
 variant: tiptap
 ---
-<h4><em>BEFORE THE HEARING</em></h4>
+<h4><sub>Before the Hearing</sub></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>1. Does every case lead to a hearing before a Disciplinary Committee?</strong>
@@ -116,7 +116,7 @@ mitigating or aggravating factor(s) will be considered.</p>
 </details>
 </div>
 <p></p>
-<h4><em>AT THE HEARING</em></h4>
+<h4><sub>At the Hearing</sub></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>1. What if I am unable to attend the hearing?</strong>
@@ -180,7 +180,7 @@ the Affected Party and/or other witnesses except by the Disciplinary Committee.<
 </details>
 </div>
 <p></p>
-<h4><em>AFTER THE HEARING</em></h4>
+<h4><sub>After the Hearing</sub></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>1. What are some of the possible sanctions which I could be subjected to?</strong>
@@ -251,7 +251,8 @@ that have not already heard the case.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>5. How does the Appeal Committee reach its outcome?</summary>
+<summary><strong>5. How does the Committee reach its outcome? </strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <p>The Appeal Committee shall be provided with all available records of the
