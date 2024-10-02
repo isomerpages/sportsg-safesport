@@ -29,9 +29,7 @@ image: /images/Cover_Image__FB_Friendly___1_.png
 </p>
 <p></p>
 <h4>Where does your school stand?</h4>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LEADERBOARD__1300_x_1300_px_.gif">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources Images/LEADERBOARD_2_OCT.gif">
 </div>
 <p>Share the test with your schoolmates to see your school rise in the ranks!</p>
