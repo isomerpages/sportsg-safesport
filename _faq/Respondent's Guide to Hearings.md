@@ -251,7 +251,7 @@ that have not already heard the case.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>5. How does the Committee reach its outcome? </strong>
+<summary><strong>5. How does the Committee reach its outcome?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
