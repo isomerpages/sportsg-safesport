@@ -149,7 +149,7 @@ Committee managing the hearing process.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>3. How does the Disciplinary Committee  make a decision?</strong>
+<summary><strong>3. How does the Disciplinary Committee make a decision?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
@@ -291,43 +291,42 @@ of law and/or fact)</p>
 </li>
 </ul>
 <p>For more information, please see Section 19 of the Handbook.</p>
+<p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary></summary>
+<summary><strong>8. Are there further avenues of appeal after the Appeal Committee’s decision?</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p>No. The Appeal Committee’s decision is final and binding.</p>
 <p></p>
 </div>
 </details>
-</div>
-<h5></h5>
+<details class="isomer-details">
+<summary><strong>9. Will the documents pertaining to my case be kept confidential?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<h5></h5>
-<p></p>
-<h5></h5>
-<p></p>
-<h5></h5>
-<p></p>
-<h5><strong>8. Are there further avenues of appeal after the Appeal Committee’s decision?</strong></h5>
-<p>The Appeal Committee’s decision is final and binding.</p>
-<h5><strong>9. Will the documents pertaining to my case be kept confidential?</strong></h5>
 <p>Unless disclosed by the Commission, all documents and/or evidence related
 to the Response and/or Resolution Process are confidential.</p>
 <p>More on confidentiality can be read from Section 10 of the Handbook.</p>
-<h5><strong>10. Will the sanctions be made public?</strong></h5>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>10. Will the sanctions be made public?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <p>The Commission may maintain a publicly available, searchable register
 on the outcome of disciplinary processes.</p>
+<p></p>
 <p>For more information, please see Section 10.6 of the Handbook.</p>
-<p>
-<br>
-<br>
-</p>
-<p><em>If you have more questions, please email us at</em>  <a href="mailto:report@safesport.sg" rel="noopener noreferrer nofollow" target="_blank">report@safesport.sg</a>.</p>
-<hr>
-<h6>Quick Links: <br></h6>
-<p><a href="https://www.safesport.sg/safe-sport-programme/unified-code" rel="noopener noreferrer nofollow" target="_blank">Safe Sport Unified Code v4</a> 
-<br><a href="https://www.safesport.sg/safe-sport-programme/ssp/" rel="noopener noreferrer nofollow" target="_blank">Safe Sport Programme Handbook 101</a>
-</p>
+</div>
+</details>
+</div>
+<p></p>
 <p><a href="#before-the-hearing" rel="noopener noreferrer nofollow" target="_blank">Click here to go back to top</a>
 </p>
 <p><em>If you have more questions, please email us at <a href="mailto:report@safesport.sg" rel="noopener noreferrer nofollow" target="_blank">report@safesport.sg</a>.</em>
