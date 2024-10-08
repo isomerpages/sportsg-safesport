@@ -3,7 +3,7 @@ title: Upstander Test
 permalink: /upstander-test/
 variant: tiptap
 description: What type of teammate are you?  Choose your actions and find out!
-image: /images/Cover_Image__FB_Friendly___1_.png
+image: /images/Resources Images/OG_Banner_V2.png
 ---
 <h4></h4>
 <div class="isomer-image-wrapper">
@@ -30,6 +30,6 @@ image: /images/Cover_Image__FB_Friendly___1_.png
 <p></p>
 <h4>Where does your school stand?</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources Images/LEADERBOARD_2_OCT__1_.gif">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources Images/LEADERBOARD_8_OCT.gif">
 </div>
 <p>Share the test with your schoolmates to see your school rise in the ranks!</p>
