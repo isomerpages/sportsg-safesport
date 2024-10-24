@@ -31,6 +31,6 @@ image: /images/Resources Images/OG_Banner_V2.png
 <h4>Where does your school stand?</h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources Images/LEADERBOARD_15_OCT.gif">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources Images/LEADERBOARD_24_OCT.gif">
 </div>
 <p>Share the test with your schoolmates to see your school rise in the ranks!</p>
