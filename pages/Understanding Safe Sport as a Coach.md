@@ -8,7 +8,8 @@ description: Course curriculum for the "Understanding Safe Sport as a Coach" mod
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Table tennis coach and player high fiving" src="/images/Resources Images/20240728_TABLETENNIS_CY_026.jpg">
 </div>
-<p>Picture: SNOC/Kong Chong Yew</p>
+<p><em>Picture: SNOC/Kong Chong Yew</em>
+</p>
 <h4>What will I learn?</h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
