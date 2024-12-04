@@ -5,6 +5,11 @@ variant: tiptap
 description: Course curriculum for the "Building a Safe Sporting Organisation
   for Sport Administrators" module
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources Images/IMG_5437.jpg">
+</div>
+<p></p>
 <h4>What will I learn?</h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -147,5 +152,6 @@ before then.</p>
 <p></p>
 <h4>Need help?</h4>
 <p>Refer to this <a href="/files/Steps_to_Access_Safe_Sport_Module_for_Self_Registered_Users.pdf" rel="noopener noreferrer nofollow" target="_blank">guide</a> for
-help registering your account, locating modules and downloading your certificate.</p>
+help registering your account, locating modules and downloading your certificate.
+Remember to save a copy of your certificate for future use.</p>
 <p></p>
