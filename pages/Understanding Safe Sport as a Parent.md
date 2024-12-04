@@ -8,7 +8,8 @@ description: Course curriculum for the "Understanding Safe Sport as a Parent" mo
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources Images/AL8R6022.jpg">
 </div>
-<p></p>
+<p><em>Picture: ActiveSG Hockey Academy</em>
+</p>
 <h4>What will I learn?</h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
