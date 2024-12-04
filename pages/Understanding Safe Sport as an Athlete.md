@@ -8,7 +8,7 @@ description: Safe Sport education for athletes
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources Images/Image_4_min.jpg">
 </div>
-<p></p>
+<p>Picture: ActiveSG Volleyball Academy</p>
 <h4>What will I learn?</h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
