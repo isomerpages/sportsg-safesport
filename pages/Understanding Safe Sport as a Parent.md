@@ -93,7 +93,8 @@ needed, you may review the topics in between attempts. Good luck!</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <ol data-tight="true" class="tight">
 <li>
-<p>Safe Sport Unified Code</p>
+<p><a href="/files/Safe Sport Unified Code v4.pdf" rel="noopener noreferrer nofollow" target="_blank">Safe Sport Unified Code</a>
+</p>
 </li>
 <li>
 <p>Summary and Evaluation - save a copy for your reference!</p>
