@@ -8,7 +8,8 @@ description: Course curriculum for the "Understanding Safe Sport as a Coach" mod
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Table tennis coach and player high fiving" src="/images/Resources Images/20240728_TABLETENNIS_CY_026.jpg">
 </div>
-<p></p>
+<p><em>Picture: SNOC/Kong Chong Yew</em>
+</p>
 <h4>What will I learn?</h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -121,7 +122,7 @@ needed, you may review the topics in between attempts. Good luck!</p>
 </div>
 <p>Course duration: 2 hours 13 minutes</p>
 <p></p>
-<h4>How do I access the module?</h4>
+<h4>Ready to start learning?</h4>
 <p><strong><u>NROC Coaches</u></strong>
 </p>
 <p>If you are a registered NROC coach, <a href="https://sportsg-ed.csod.com/client/sportsg-ed/" rel="noopener nofollow" target="_blank">log in to SportSG-ED</a> with
@@ -132,10 +133,30 @@ a Coach" module.</p>
 </p>
 <p>For NREP members, create your account through the <a href="https://www.activesgcircle.gov.sg/nrep/exercise-professionals" rel="noopener nofollow" target="_blank">NREP webpage</a>.</p>
 <p></p>
-<h4>How do I get my certificate?</h4>
-<p>After achieving a minimum passing grade of 80% in the module assessment,
-your certificate will be automatically generated.</p>
+<p><strong><u>Not on NROC or NREP?</u></strong>
+</p>
+<p>Create an account on our <a href="www.go.gov.sg/ss-selfreg" rel="noopener nofollow" target="_blank">self-registration page</a>.
+Continue to SportSG-ED, pick the module you'd like to do and get started!</p>
+<p>Your account will only be valid for one month from the account creation
+date, so remember to finish the module and download a copy of your certificate
+before then.</p>
 <p></p>
-<p>Follow the steps in this guide to download your certificate. Remember
-to save a copy for future use.</p>
+<h4>What is my organisation code?</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>The code provided by your NSA/organisation (if any)</p>
+</li>
+<li>
+<p>The name of your NSA, school, sports club... wherever you play sport!</p>
+</li>
+<li>
+<p>If none of the above are applicable, enter 'WEB'</p>
+</li>
+</ul>
+<p></p>
+<h4>Need help?</h4>
+<p>Refer to this <a href="/files/Steps_to_Access_Safe_Sport_Module_for_Self_Registered_Users.pdf" rel="noopener noreferrer nofollow" target="_blank">guide</a> for
+help registering your account, locating modules and downloading your certificate.
+Remember to save a copy of your certificate for future use.</p>
+<h4></h4>
 <p></p>

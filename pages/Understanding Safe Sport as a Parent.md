@@ -4,6 +4,12 @@ permalink: /understanding-safe-sport-as-a-parent/
 variant: tiptap
 description: Course curriculum for the "Understanding Safe Sport as a Parent" module
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources Images/AL8R6022.jpg">
+</div>
+<p><em>Picture: ActiveSG Hockey Academy</em>
+</p>
 <h4>What will I learn?</h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -88,7 +94,8 @@ needed, you may review the topics in between attempts. Good luck!</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <ol data-tight="true" class="tight">
 <li>
-<p>Safe Sport Unified Code</p>
+<p><a href="/files/Safe Sport Unified Code v4.pdf" rel="noopener noreferrer nofollow" target="_blank">Safe Sport Unified Code</a>
+</p>
 </li>
 <li>
 <p>Summary and Evaluation - save a copy for your reference!</p>
@@ -100,5 +107,37 @@ needed, you may review the topics in between attempts. Good luck!</p>
 <p></p>
 <p>Course duration: 1 hour 28 minutes</p>
 <p></p>
-<h4>How do I download my certificate?</h4>
+<h4>Ready to start learning?</h4>
+<ol data-tight="true" class="tight">
+<li>
+<p>Create an account on our <a href="www.go.gov.sg/ss-selfreg" rel="noopener nofollow" target="_blank">self-registration page</a>
+</p>
+</li>
+<li>
+<p>Continue to SportSG-ED, pick the module you'd like to do and get started!</p>
+</li>
+<li>
+<p>Your account will only be valid for one month from the account creation
+date, so remember to finish the module and download a copy of your certificate
+before then.</p>
+</li>
+</ol>
 <p></p>
+<h4>What is my organisation code?</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>The code provided by your NSA/organisation (if any)</p>
+</li>
+<li>
+<p>The name of your NSA, school, sports club... wherever you or your child
+plays sport!</p>
+</li>
+<li>
+<p>If none of the above are applicable, enter 'WEB'</p>
+</li>
+</ul>
+<p></p>
+<h4>Need help?</h4>
+<p>Refer to this <a href="/files/Steps_to_Access_Safe_Sport_Module_for_Self_Registered_Users.pdf" rel="noopener noreferrer nofollow" target="_blank">guide</a> for
+help registering your account, locating modules and downloading your certificate.
+Remember to save a copy of your certificate for future use.</p>
