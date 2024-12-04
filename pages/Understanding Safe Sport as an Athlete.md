@@ -4,6 +4,11 @@ permalink: /understanding-safe-sport-as-an-athlete/
 variant: tiptap
 description: Safe Sport education for athletes
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources Images/Image_4_min.jpg">
+</div>
+<p></p>
 <h4>What will I learn?</h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
