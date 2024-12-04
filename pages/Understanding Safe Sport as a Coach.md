@@ -156,6 +156,6 @@ before then.</p>
 <h4>Need help?</h4>
 <p>Refer to this <a href="/files/Steps_to_Access_Safe_Sport_Module_for_Self_Registered_Users.pdf" rel="noopener noreferrer nofollow" target="_blank">guide</a> for
 help registering your account, locating modules and downloading your certificate.
-Remember to save a copy of your certificate for future use!</p>
+Remember to save a copy of your certificate for future use.</p>
 <h4></h4>
 <p></p>
