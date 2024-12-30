@@ -1,4 +1,5 @@
 collections:
   safeguarding-officer-resources:
     output: true
-    order: []
+    order:
+      - Resources for Safeguarding Officers.md
