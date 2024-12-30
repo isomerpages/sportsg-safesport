@@ -4,6 +4,8 @@ permalink: /reporting-toolkit/
 variant: tiptap
 description: ""
 ---
+<p>Services of the Case Management unit are only available to Member Organisations
+of the Safe Sport Programme.</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>1. Contact Safe Sport</summary>
