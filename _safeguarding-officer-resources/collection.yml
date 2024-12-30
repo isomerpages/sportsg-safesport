@@ -2,5 +2,5 @@ collections:
   safeguarding-officer-resources:
     output: true
     order:
-      - Pre Training.md
+      - Training Overview.md
       - Resources for Safeguarding Officers.md
