@@ -7,8 +7,8 @@ description: ""
 <p>If you have just received an email from us confirming your training slot,
 you're in the right place.</p>
 <p></p>
-<p>On this page, you will find the pre-requisites for your upcoming Safeguarding
-Officer Training and how to fulfil them.</p>
+<p>On this page, you will find the course requirements for your upcoming
+Safeguarding Officer Training.</p>
 <p></p>
 <table style="minWidth: 100px">
 <colgroup>
