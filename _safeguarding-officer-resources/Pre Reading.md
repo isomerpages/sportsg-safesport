@@ -6,8 +6,6 @@ description: ""
 ---
 <p>You must read through these materials before the course.</p>
 <p></p>
-<p>Note that these materials contain descriptions of</p>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -49,3 +47,5 @@ description: ""
 </tbody>
 </table>
 <p></p>
+<p><em>Note that these materials contain descriptions of sexual abuse and grooming.</em>
+</p>
