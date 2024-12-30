@@ -54,10 +54,7 @@ Officer Training and how to fulfil them.</p>
 </ul>
 <p></p>
 <p>If you have done any of the above modules, you must still complete the
-Safeguarding Officer Training E-Learning.</p>
-<p></p>
-<p>Safeguarding Officer Training covers supporting affected persons, gathering
-information and aspects of psychological first aid.</p>
+Safeguarding Officer Training E-Learning by the stipulated deadline.</p>
 </td>
 </tr>
 <tr>
