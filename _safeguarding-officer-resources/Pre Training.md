@@ -54,7 +54,8 @@ Officer Training and how to fulfil them.</p>
 </ul>
 <p></p>
 <p>If you have done any of the above modules, you must still complete the
-Safeguarding Officer Training E-Learning by the stipulated deadline.</p>
+Safeguarding Officer Training E-Learning by the stipulated deadline in
+order to attend.</p>
 </td>
 </tr>
 <tr>
