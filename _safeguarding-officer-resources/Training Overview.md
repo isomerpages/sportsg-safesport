@@ -84,7 +84,7 @@ and microphone.</p>
 <p>Day 2 - Check your email for details</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Directions to SportSG Auditorium</p>
 </td>
 </tr>
 </tbody>
