@@ -43,7 +43,7 @@ Officer Training and how to fulfil them.</p>
 <p>To access the module on SportSG-ED, refer to this guide</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>This module is not the same as</p>
+<p>This module is <strong>not the same</strong> as</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Understanding Safe Sport as an/a Athlete/Coach/Parent/Volunteer</p>
@@ -71,7 +71,8 @@ information and aspects of psychological first aid.</p>
 <p>Day 1 - Check your email for Zoom details</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>As this is an interactive session, ensure your device has a working camera
+and microphone.</p>
 </td>
 </tr>
 <tr>
