@@ -134,4 +134,4 @@ start your online learning journey.</p>
 <h4>Already have an account?</h4>
 <p>Continue learning on <a href="https://sportsg-ed.csod.com/client/sportsg-ed/default.aspx" class="button" rel="noopener noreferrer nofollow" target="_blank">SportSG-ED</a>
 </p>
-<p>Need help? Refer to our <a href="https://coachsg.sportsingapore.gov.sg/faq?category=SportSG-ED&amp;page=sub" rel="noopener noreferrer nofollow" target="_blank">FAQ</a>.</p>
+<p>Need help? Refer to our <a href="https://www.safesport.sg/faq/training-education/" rel="noopener noreferrer nofollow" target="_blank">FAQ</a>.</p>
