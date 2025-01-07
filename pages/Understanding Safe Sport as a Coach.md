@@ -135,11 +135,17 @@ a Coach" module.</p>
 <p></p>
 <p><strong><u>Not on NROC or NREP?</u></strong>
 </p>
-<p>Create an account on our <a href="www.go.gov.sg/ss-selfreg" rel="noopener nofollow" target="_blank">self-registration page</a>.
-Continue to SportSG-ED, pick the module you'd like to do and get started!</p>
+<p>Create an account on our <a href="https://sportsg-ed.csod.com/selfreg/register.aspx?c=%255e%255e%255eL22Iv55qWgHU%252bNO4TN0Z%252b8Ppzq1f9Yqmcl3PyeQBgP4%253d" rel="noopener nofollow" target="_blank">self-registration page</a> or
+scan the QR code below. Continue to SportSG-ED, pick the module you'd like
+to do and get started!</p>
 <p>Your account will only be valid for one month from the account creation
 date, so remember to finish the module and download a copy of your certificate
 before then.</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Resources Images/ss_selfreg_QR.png">
+</div>
 <p></p>
 <h4>What is my organisation code?</h4>
 <ul data-tight="true" class="tight">
