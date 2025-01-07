@@ -115,7 +115,7 @@ misconduct as set out in the Safe Sport Programme Handbook.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.hfs.org.sg/safesport" rel="noopener noreferrer nofollow" target="_blank">Handball Federation of Singapore</a>
+<p><a href="https://www.facebook.com/handballfederationsg/" rel="noopener noreferrer nofollow" target="_blank">Handball Federation of Singapore</a>
 </p>
 </td>
 </tr>
@@ -225,7 +225,7 @@ misconduct as set out in the Safe Sport Programme Handbook.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://scf.org.sg/pages/details/safe-sport" rel="noopener noreferrer nofollow" target="_blank">Singapore Canoe Federation</a>
+<p><a href="https://scf.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Singapore Canoe Federation</a>
 </p>
 </td>
 </tr>
@@ -236,7 +236,7 @@ misconduct as set out in the Safe Sport Programme Handbook.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://singaporechess.org.sg/wp-content/uploads/2023/02/Safe-Sport-Policy-SCF-2.pdf" rel="noopener noreferrer nofollow" target="_blank">Singapore Chess Federation</a>
+<p><a href="https://singapore-chess.verzview.com/wp-content/uploads/2023/02/Safe-Sport-Policy-SCF-2.pdf" rel="noopener noreferrer nofollow" target="_blank">Singapore Chess Federation</a>
 </p>
 </td>
 </tr>
@@ -447,7 +447,7 @@ misconduct as set out in the Safe Sport Programme Handbook.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://sailing.org.sg/wp-content/uploads/2023/03/SSF-Safe-Sport-Policy.pdf" rel="noopener noreferrer nofollow" target="_blank">Singapore Sailing Federation</a>
+<p><a href="https://cdn.revolutionise.com.au/site/7nfkj8mdiwaizxya.pdf" rel="noopener noreferrer nofollow" target="_blank">Singapore Sailing Federation</a>
 </p>
 </td>
 </tr>
