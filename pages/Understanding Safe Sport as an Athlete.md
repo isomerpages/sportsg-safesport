@@ -137,7 +137,7 @@ before then.</p>
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Resources Images/ss_selfreg_QR.png">
 </div>
 <p></p>
-<p>Whats my organisation code?</p>
+<h4>Whats my organisation code?</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>The organisation code provided by your NSA (if any)</p>
@@ -153,8 +153,7 @@ before then.</p>
 <p>Refer to this <a href="/files/Steps_to_Access_Safe_Sport_Module_for_Self_Registered_Users.pdf" rel="noopener noreferrer nofollow" target="_blank">guide</a> if
 you need help registering for your account or downloading your certificate.</p>
 <p></p>
-<p><strong><em><u>spex</u></em><u>Carded athletes</u></strong>
-</p>
+<h4><strong><em><u>spex</u></em><u>Carded athletes</u></strong></h4>
 <p>Register using the instructions on our <a href="https://www.safesport.sg/spexcarding/" rel="noopener nofollow" target="_blank">spexCarding FAQ Page</a>.</p>
 <p></p>
 <p></p>
