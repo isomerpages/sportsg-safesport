@@ -1,5 +1,5 @@
 ---
-title: Resources for Safeguarding Officers
+title: Post Training Resources
 permalink: /resources-for-safeguarding-officers/
 variant: tiptap
 description: Everything you'll need to ace your role as a Safeguarding Officer.

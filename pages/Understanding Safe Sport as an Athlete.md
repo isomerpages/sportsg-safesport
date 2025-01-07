@@ -119,8 +119,8 @@ a copy for reference!</p>
 <h4>How do I access the module?</h4>
 <ol data-tight="true" class="tight">
 <li>
-<p>Create an account on our <a href="https://go.gov.sg/ss-selfreg" rel="noopener nofollow" target="_blank">self-registration page</a>
-</p>
+<p>Create an account on our <a href="https://sportsg-ed.csod.com/client/sportsg-ed/default.aspx" rel="noopener nofollow" target="_blank">self-registration page</a> or
+scan the QR code below.</p>
 </li>
 <li>
 <p>Continue to SportSG-ED, pick the module you'd like to do and get started!</p>
@@ -132,7 +132,12 @@ before then.</p>
 </li>
 </ol>
 <p></p>
-<p>Whats my organisation code?</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Resources Images/ss_selfreg_QR.png">
+</div>
+<p></p>
+<h4>Whats my organisation code?</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>The organisation code provided by your NSA (if any)</p>
@@ -148,8 +153,7 @@ before then.</p>
 <p>Refer to this <a href="/files/Steps_to_Access_Safe_Sport_Module_for_Self_Registered_Users.pdf" rel="noopener noreferrer nofollow" target="_blank">guide</a> if
 you need help registering for your account or downloading your certificate.</p>
 <p></p>
-<p><strong><em><u>spex</u></em><u>Carded athletes</u></strong>
-</p>
+<h4><strong><em>spex</em>Carded Athletes</strong></h4>
 <p>Register using the instructions on our <a href="https://www.safesport.sg/spexcarding/" rel="noopener nofollow" target="_blank">spexCarding FAQ Page</a>.</p>
 <p></p>
 <p></p>

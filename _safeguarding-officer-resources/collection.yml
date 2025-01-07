@@ -1,0 +1,8 @@
+collections:
+  safeguarding-officer-resources:
+    output: true
+    order:
+      - Reporting Toolkit.md
+      - Training Overview.md
+      - Pre Reading.md
+      - Post Training Resources.md
