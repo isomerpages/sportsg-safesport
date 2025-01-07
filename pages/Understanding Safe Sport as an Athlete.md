@@ -153,7 +153,7 @@ before then.</p>
 <p>Refer to this <a href="/files/Steps_to_Access_Safe_Sport_Module_for_Self_Registered_Users.pdf" rel="noopener noreferrer nofollow" target="_blank">guide</a> if
 you need help registering for your account or downloading your certificate.</p>
 <p></p>
-<h4><strong><em><u>spex</u></em><u>Carded athletes</u></strong></h4>
+<h4><strong><em>spex</em>Carded Athletes</strong></h4>
 <p>Register using the instructions on our <a href="https://www.safesport.sg/spexcarding/" rel="noopener nofollow" target="_blank">spexCarding FAQ Page</a>.</p>
 <p></p>
 <p></p>
