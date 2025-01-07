@@ -139,7 +139,7 @@ before then.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources Images/ss_selfreg_QR.png">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Resources Images/ss_selfreg_QR.png">
 </div>
 <p></p>
 <h4>What is my organisation code?</h4>
