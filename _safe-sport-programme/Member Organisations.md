@@ -319,6 +319,18 @@ misconduct as set out in the Safe Sport Programme Handbook.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="SFDA" src="/images/Member Org Logos/SFDA_logo.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.sfda.sg/safe-sport" rel="noopener nofollow" target="_blank">Singapore Flying Disc Association</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" src="/images/Member%20Org%20Logos/sgagolf.png">
 </div>
