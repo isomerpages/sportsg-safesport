@@ -20,6 +20,12 @@ sporting culture.</p>
 <p>A highlight of the session was hearing teachers share their experiences
 supporting students with special needs, sparking meaningful conversations
 on inclusivity in safeguarding.</p>
+<p></p>
+<blockquote>
+<p>One thing I found useful was the different methods of handling concerning
+situations</p>
+<p></p>
+</blockquote>
 <p>After a rich afternoon of idea-sharing, the teachers left armed with knowledge,
 strategies and a shared commitment to cultivating positive and empowering
 sporting experiences for all.</p>
