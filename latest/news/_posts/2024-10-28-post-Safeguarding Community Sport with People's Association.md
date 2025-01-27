@@ -13,13 +13,22 @@ variant: tiptap
 trainers participated in the session, gaining critical insights into recognising
 abuse and harassment, maintaining professional boundaries, and upholding
 proper conduct.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources Images/IMG_0101.jpg">
+</div>
 <p>Participants explored realistic scenarios to deepen their understanding
 of creating safe and supportive learning environments. These discussions
 empowered them with the skills and confidence to ensure that all students
 feel respected and valued within the community.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources Images/IMG_5264.jpg">
+</div>
 <blockquote>
-<p>"The session helped me reflect on my coaching methods and be mindful of
-how I communicate with students, both physically and digitally"</p>
+<p></p>
+<p>"The session helped me reflect on my coaching methods, and being mindful
+of how I communicate with students, both face-to-face and digitally"</p>
 </blockquote>
 <p>The workshop also provided a valuable platform for trainers to share best
 practices and foster peer learning. Through this collaborative effort,
