@@ -35,6 +35,6 @@ and felt more confident to tackle cases in the future. The Safe Sport team
 is committed to supporting SOs in their roles and providing avenues for
 development. Many thanks to the SOs who attended and made the session so
 lively with their active participation.&nbsp;&nbsp;</p>
-<p>To become a Safeguarding Officer, <a href="https://form.gov.sg/5fd0341bfc3f3100111264b5" rel="noopener nofollow" target="_blank">sign up for the next training run.</a>
+<p>Want to become a Safeguarding Officer? <a href="https://form.gov.sg/5fd0341bfc3f3100111264b5" rel="noopener nofollow" target="_blank">Sign up for the next training run!</a>
 </p>
 <p></p>
