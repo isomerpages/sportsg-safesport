@@ -22,8 +22,8 @@ supporting students with special needs, sparking meaningful conversations
 on inclusivity in safeguarding.</p>
 <p></p>
 <blockquote>
-<p>One thing I found useful was the different methods of handling concerning
-situations</p>
+<p>"One thing I found useful was the different methods of handling concerning
+situations"</p>
 <p></p>
 </blockquote>
 <p>After a rich afternoon of idea-sharing, the teachers left armed with knowledge,
