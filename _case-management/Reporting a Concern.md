@@ -2,7 +2,7 @@
 title: Reporting a Concern
 permalink: /case-management/reporting/
 description: What to do if you have a Safe Sport concern
-image: /images/Code.jpg
+image: /images/Resources Images/Reporting_Form_Image.jpg
 variant: markdown
 ---
 #### **Reporting a concern**
