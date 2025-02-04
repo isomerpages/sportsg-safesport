@@ -11,9 +11,9 @@ variant: tiptap
 <p>Did you know that the International Olympic Committee recently revised
 the definition of Safe Sport? Safe Sport is now:</p>
 <blockquote>
-<p>A physically and psychologically safe and supportive athletic environment
+<p>"A physically and psychologically safe and supportive athletic environment
 where participants can thrive and experience the full benefits of sport
-participation</p>
+participation"</p>
 </blockquote>
 <p>Among the first to act on this expanded definition was Singapore Sports
 School (SSP) who invited Safe Sport to conduct workshops on 23<sup>rd</sup> January
