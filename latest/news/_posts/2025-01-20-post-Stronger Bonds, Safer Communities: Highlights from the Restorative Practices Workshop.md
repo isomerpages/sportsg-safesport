@@ -36,3 +36,7 @@ This reiterated that RP was well-received by participants.</p>
 with practical skills to bring back to their communities and workplaces.
 By embracing restorative approaches, we are paving the way for safer, more
 supportive spaces!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Group picture at the end of the workshop" src="/images/Resources Images/RP_Group.jpg">
+</div>
+<p></p>
