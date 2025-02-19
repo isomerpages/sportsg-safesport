@@ -16,6 +16,7 @@ organised by Lutheran Community Care Services (LCCS). The workshop brought
 together representatives from Sport Singapore, National Sports Associations,
 Singapore Sports School and other various organisations – all eager to
 discover how RP can build stronger relationships and strengthen communities!</p>
+<p></p>
 <p>RP is about&nbsp;accountability, empathy, and teamwork. One of the most
 powerful parts of the workshop?&nbsp;Restorative Practice Circles—guided
 discussions that created a safe space for honest conversations, conflict
