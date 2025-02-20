@@ -29,7 +29,7 @@ resolution, and deeper connections. As one participant put it,&nbsp;</p>
 <p><em>“I really enjoyed the workshop! It has given me more confidence to both strengthen and repair relationships in my life.”</em>
 </p>
 </blockquote>
-<p>&nbsp;</p>
+<p></p>
 <p>The workshop also highlighted how RP plays a vital role in championing
 Safe Sport, reinforcing respect, trust, and inclusivity to create environments
 where participants can truly thrive. One heartfelt reflection summed it
