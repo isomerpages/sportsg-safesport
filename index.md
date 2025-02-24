@@ -27,6 +27,11 @@ sections:
             url: https://www.safesport.sg/about/subscribe/
           - title: Access our news archive
             url: https://www.safesport.sg/latest/
+  - resources:
+      title: News
+      subtitle: What We've been UP TO
+      id: resources
+      button: more
   - infopic:
       title: 1,000-Day Impact Report
       subtitle: THE SAFE SPORT PROGRAMME
@@ -37,11 +42,6 @@ sections:
       url: https://heyzine.com/flip-book/900b4c936e.html
       image: /images/1000cover.png
       alt: Cover page of report
-  - resources:
-      title: News
-      subtitle: What We've been UP TO
-      id: resources
-      button: more
   - infopic:
       title: Are you a Safe Sport Upstander
       subtitle: Upstander Test
@@ -59,11 +59,4 @@ sections:
       image: /images/codeandhandbook.png
       alt: Unified Code and Handbook
       description: "& the Safe Sport Programme Handbook (for Member Organisations)"
-  - infopic:
-      title: Community Consultations
-      button: view reports
-      url: /safe-sport-programme/community-consultations
-      image: /images/community.png
-      alt: Policies And Procedures
-      subtitle: THE JOURNEY
 ---
