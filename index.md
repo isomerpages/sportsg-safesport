@@ -79,4 +79,9 @@ sections:
       image: /images/community.png
       alt: Policies And Procedures
       subtitle: THE JOURNEY
+  - resources:
+      title: News
+      subtitle: What We've been UP TO
+      id: resources
+      button: more
 ---
