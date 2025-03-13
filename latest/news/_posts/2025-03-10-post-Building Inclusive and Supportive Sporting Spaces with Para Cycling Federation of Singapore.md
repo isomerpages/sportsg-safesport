@@ -8,3 +8,32 @@ description: ""
 image: /images/Resources Images/paracyclingfed_02.jpg
 variant: tiptap
 ---
+<p><em>"Thought-provoking and informative session!"</em>
+<br><em>"Case studies and real-world scenarios helped us spot red flags in a sporting environment."</em>
+</p>
+<p>These were just some of the powerful takeaways from the recent Safe Sport
+Workshop with the <strong>Para Cycling Federation of Singapore’s</strong> dedicated
+coaches, volunteers, and caregivers.</p>
+<p>[Photo]</p>
+<p>The session was a deep dive into the importance of safeguarding in sport,
+using real-life case studies to spark discussion and reflection. The passionate
+group brought heart, curiosity, and a strong commitment to fostering safer
+sporting spaces for athletes of all abilities. Their insights, concerns,
+and shared experiences enriched the conversation, making it both engaging
+and meaningful.</p>
+<p>Key discussions centred around the impact of language and tone when communicating
+with athletes—exploring where the line is drawn between effective coaching
+and potential verbal harm. Recognising red flags in behaviour, understanding
+the nuances of power dynamics, and fostering a psychologically safe environment
+were all critical aspects of the dialogue.</p>
+<p>A special shoutout to Mr. Quintus Ong, Owner and Coach of The Little Swimmer,
+whose 15+ years of experience working with persons with disabilities brought
+invaluable depth and expertise to the session. He shared best practices
+for engaging and managing special needs athletes, offering practical strategies
+to enhance both their safety and sporting experience.</p>
+<p>[Photo of Quintus]</p>
+<p>A huge thank you to everyone who contributed their voices and perspectives!
+It is through these collaborative efforts that we continue to strengthen
+the culture of Safe Sport and create inclusive, supportive, and protective
+environments for all athletes.</p>
+<p>[Group Photo]</p>
