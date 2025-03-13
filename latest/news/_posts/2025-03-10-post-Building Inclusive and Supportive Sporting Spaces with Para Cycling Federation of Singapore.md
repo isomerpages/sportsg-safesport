@@ -24,9 +24,8 @@ coaches, volunteers, and caregivers.</p>
 </div>
 <p>The session was a deep dive into the importance of safeguarding in sport,
 using real-life case studies to spark discussion and reflection. The passionate
-group brought heart, curiosity, and a strong commitment to fostering safer
-sporting spaces for athletes of all abilities. Their in and shared experiences
-enriched the conversation, making it both engaging and meaningful.</p>
+group brought heart and curiosity, sharing lived experiences that made
+for engaging and meaningful conversation.</p>
 <p>Key discussions centred around the impact of language and tone when communicating
 with athletes—exploring where the line is drawn between effective coaching
 and potential verbal harm. Recognising red flags in behaviour, understanding
