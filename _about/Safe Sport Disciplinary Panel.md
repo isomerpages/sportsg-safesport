@@ -183,17 +183,6 @@ the outcomes of the hearings are made available on the <a href="https://www.safe
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Pearline Chan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Former Athlete (Netball)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Marketing and Communications</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Nur'Aini Binte Mohamad Yasli</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -275,8 +264,9 @@ the outcomes of the hearings are made available on the <a href="https://www.safe
 <p></p>
 <p><strong><u>Past Members</u></strong>
 </p>
-<table style="minWidth: 75px">
+<table style="minWidth: 100px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -294,6 +284,10 @@ the outcomes of the hearings are made available on the <a href="https://www.safe
 <p><strong>Industry</strong>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p><strong>Term(s)</strong>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -301,6 +295,9 @@ the outcomes of the hearings are made available on the <a href="https://www.safe
 </td>
 <td rowspan="1" colspan="2">
 <p>Chairperson</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1</p>
 </td>
 </tr>
 <tr>
@@ -313,6 +310,9 @@ the outcomes of the hearings are made available on the <a href="https://www.safe
 <td rowspan="1" colspan="1">
 <p>Freelancer</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -323,6 +323,23 @@ the outcomes of the hearings are made available on the <a href="https://www.safe
 </td>
 <td rowspan="1" colspan="1">
 <p>Education</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Pearline Chan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Former Athlete (Netball)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Marketing and Communications</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 and 2 (until 13 March 2025)</p>
 </td>
 </tr>
 </tbody>
