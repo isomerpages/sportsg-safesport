@@ -43,7 +43,7 @@ sections:
       image: /images/1000cover.png
       alt: Cover page of report
   - infopic:
-      title: Are you a Safe Sport Upstander
+      title: Are you a Safe Sport Upstander?
       subtitle: Upstander Test
       id: infopic
       description: Find out through this interactive game
