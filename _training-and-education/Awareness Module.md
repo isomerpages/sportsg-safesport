@@ -129,9 +129,9 @@ organisation code "WEB"</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/sportsg-ed/sportsged2.png">
 </div>
 <p>Do check out the brochure below for more information.</p>
-<p>Follow the steps in this <a href="/files/Steps_to_Access_Safe_Sport_Module_for_Self_Registered_Users.pdf" rel="noopener noreferrer nofollow" target="_blank">guide</a> to
+<p>Follow the steps in this <a href="/files/Steps_to_Access_Safe_Sport_Module_for_Self_Registered_Users_2025.pdf" rel="noopener nofollow" target="_blank">guide</a> to
 start your online learning journey.</p>
 <h4>Already have an account?</h4>
-<p>Continue learning on <a href="https://sportsg-ed.csod.com/client/sportsg-ed/default.aspx" class="button" rel="noopener noreferrer nofollow" target="_blank">SportSG-ED</a>
+<p>Continue learning on <a href="https://sportsg-ed.csod.com/login/render.aspx?id=defaultclp&amp;CLP=false" class="button" rel="noopener noreferrer nofollow" target="_blank">SportSG-ED</a>
 </p>
 <p>Need help? Refer to our <a href="https://www.safesport.sg/faq/training-education/" rel="noopener noreferrer nofollow" target="_blank">FAQ</a>.</p>
