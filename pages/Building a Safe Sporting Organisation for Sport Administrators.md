@@ -124,7 +124,7 @@ needed, you may review the topics in between attempts. Good luck!</p>
 <h4>Ready to start learning?</h4>
 <ol data-tight="true" class="tight">
 <li>
-<p>Create an account on our <a href="https://sportsg-ed.csod.com/client/sportsg-ed/default.aspx" rel="noopener nofollow" target="_blank">self-registration page</a> or
+<p>Create an account on our <a href="https://sportsg-ed.csod.com/selfreg/register.aspx?c=%255e%255e%255eL22Iv55qWgHU%252bNO4TN0Z%252b8Ppzq1f9Yqmcl3PyeQBgP4%253d" rel="noopener nofollow" target="_blank">self-registration page</a> or
 scan the QR code below.</p>
 </li>
 <li>

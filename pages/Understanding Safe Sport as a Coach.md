@@ -125,7 +125,7 @@ needed, you may review the topics in between attempts. Good luck!</p>
 <h4>Ready to start learning?</h4>
 <p><strong><u>NROC Coaches</u></strong>
 </p>
-<p>If you are a registered NROC coach, <a href="https://sportsg-ed.csod.com/client/sportsg-ed/" rel="noopener nofollow" target="_blank">log in to SportSG-ED</a> with
+<p>If you are a registered NROC coach, <a href="https://sportsg-ed.csod.com/login/render.aspx?id=defaultclp&amp;CLP=false" rel="noopener nofollow" target="_blank">log in to SportSG-ED</a> with
 your SportSync account and search for the "Understanding Safe Sport as
 a Coach" module.</p>
 <p></p>
