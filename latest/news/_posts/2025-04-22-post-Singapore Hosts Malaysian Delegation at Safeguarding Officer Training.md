@@ -23,6 +23,10 @@ Singapore welcomed a delegation from&nbsp;Majlis Sukan Negara Malaysia
 Hjh. Yatela Zainal Abidin, Board Member of MSN and Chairperson of the <em>Jawatankuasa Salahlaku dan Perlindungan dalam Sukan</em> (Safe
 Sport Committee),&nbsp;YBhg. Datuk Shalin Zulkifli, Head of the MACE Secretariat,
 along with five officers from MSN.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources Images/MSN_1.jpg">
+</div>
 <p>The training equips participants to respond to misconduct in sport and
 supported MSN’s efforts to develop their own safeguarding training content
 — a meaningful stride forward in our shared ASEAN journey towards safer
@@ -31,12 +35,20 @@ sporting environment.</p>
 Singapore Chair, Ms Chan Yen San, to discuss ongoing efforts and explore
 opportunities to strengthen collaboration between both countries in safeguarding
 sport.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources Images/MSN_2.jpg">
+</div>
 <p>As reported by&nbsp;<a href="https://www.nsc.gov.my/2025/04/24/kursus-latihan-pegawai-pelindung-sukan-2025-singapura/" rel="noopener noreferrer nofollow" target="_new">Majlis Sukan Negara</a>,
 this initiative reflects our deepening commitment to regional partnerships
 that promote Safe Sport values across borders.</p>
 <p>Through real-life case studies, role play exercises, and applied learning,
 participants gained practical tools to manage safeguarding concerns and
 strengthen athlete protection frameworks in their own countries.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources Images/MSN_3__1_.jpg">
+</div>
 <p>Our Safeguarding Officer Training is conducted up to five times a year
 and is open to anyone ready to take an active role in protecting athletes
 and sporting communities. Whether you're a coach, athlete, administrator,
