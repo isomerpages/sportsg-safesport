@@ -396,6 +396,17 @@ misconduct as set out in the Safe Sport Programme Handbook.</p>
 </p>
 </td>
 </tr>
+	<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" src="/images/Member%20Org%20Logos/sjf%20logo.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.slss.org.sg/safesport" rel="noopener noreferrer nofollow" target="_blank">Singapore Life Saving Society</a>
+</p>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
