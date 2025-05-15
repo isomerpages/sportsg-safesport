@@ -481,7 +481,7 @@ misconduct as set out in the Safe Sport Programme Handbook.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://singaporeshooting.org/hi-performance/ssa-safe-sport-policy/" rel="noopener noreferrer nofollow" target="_blank">Singapore Sepak Takraw Federation</a>
+<p>Singapore Sepak Takraw Federation
 </p>
 </td>
 </tr>
