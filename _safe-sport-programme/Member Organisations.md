@@ -477,7 +477,7 @@ misconduct as set out in the Safe Sport Programme Handbook.</p>
 	<tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" src="/images/Member%20Org%20Logos/Sepak_Takraw.PNG">
+<img style="width: 40%;" height="auto" width="100%" src="/images/Member%20Org%20Logos/sepak_takraw.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
