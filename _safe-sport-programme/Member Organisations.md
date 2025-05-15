@@ -399,7 +399,7 @@ misconduct as set out in the Safe Sport Programme Handbook.</p>
 	<tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" src="/images/Member%20Org%20Logos/sjf%20logo.png">
+<img style="width: 30%;" height="auto" width="100%" src="/images/Member%20Org%20Logos/lifesaving.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
