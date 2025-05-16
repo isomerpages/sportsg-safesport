@@ -3,7 +3,7 @@ title: Member Organisations
 permalink: /safe-sport-programme/memberorganisations/
 description: Member Organisations of the Safe Sport Programme
 image: /images/signing.jpeg
-variant: tiptap
+variant: markdown
 ---
 <h5><strong>What does it mean to be a member?</strong></h5>
 <p>These organisations have adopted:</p>
@@ -396,6 +396,17 @@ misconduct as set out in the Safe Sport Programme Handbook.</p>
 </p>
 </td>
 </tr>
+	<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" src="/images/Member%20Org%20Logos/Lifesaving_Logo.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.slss.org.sg/safesport" rel="noopener noreferrer nofollow" target="_blank">Singapore Life Saving Society</a>
+</p>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -460,6 +471,17 @@ misconduct as set out in the Safe Sport Programme Handbook.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://cdn.revolutionise.com.au/site/7nfkj8mdiwaizxya.pdf" rel="noopener noreferrer nofollow" target="_blank">Singapore Sailing Federation</a>
+</p>
+</td>
+</tr>
+	<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" src="/images/Member%20Org%20Logos/sepak_takraw.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Sepak Takraw Federation
 </p>
 </td>
 </tr>
