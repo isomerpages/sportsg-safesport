@@ -18,7 +18,7 @@ You may contact your sporting organisation’s Safeguarding Officer or make a re
 <br><br>You may report anonymously by omitting your identifying information. However, remaining anonymous may limit the Case Management Unit's ability to investigate and/or respond to the information you provide.</div>
 <div style="font-family:Sans-Serif;color:#202945;background-color:#D9D8D6;padding:20px">
 <b>For EMERGENCIES</b><br>
-<br>Call 999 or SMS 71999 or Lodge a report at any Police station or on the “Police E-Service” page. 
+<br>Call 999 or SMS 70999 or Lodge a report at any Police station or on the “Police E-Service” page. 
 <br>Refer to the Singapore Police Force <a href="https://www.police.gov.sg/Advisories/Crime/Sexual-Crime">sexual crime advisory</a> if you have been sexually assaulted.</div>
 <br>
 
