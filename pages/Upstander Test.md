@@ -72,7 +72,7 @@ is to not let on that your are actually intervening.</p>
 </li>
 </ul>
 <p></p>
-<p><em>Safety first! If you think these actions might escalate the situation e.g., anger the harasser, choose Delegate instead. </em>
+<p><em>Safety first! If you think these actions might escalate the situation e.g., anger the harasser, choose Delegate instead.</em>
 </p>
 <p></p>
 </div>
