@@ -28,14 +28,14 @@ image: /images/Resources Images/OG_Banner_V2.png
 anyone can use these techniques to be an Upstander and make sport safer
 for everyone.</p>
 <p></p>
-<p>3Ds of Upstanding</p>
+<h4>Use the 3Ds!</h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Direct</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>What it says on the tin - confront the situation and address it directly.</p>
 <p></p>
-<p><em>Remember to consider the safety of everyone before using a Direct intervention. If you foresee the situation escalating, choose Distract or Delegate instead. </em>
+<p><em>Remember to consider the safety of everyone before using a Direct intervention. If you foresee the situation escalating, choose Distract or Delegate instead.</em>
 </p>
 <p></p>
 <p>Examples</p>
@@ -68,16 +68,33 @@ is to not let on that your are actually intervening.</p>
 <p>Ask the person being harassed to do a pair exercise with you</p>
 </li>
 <li>
-<p></p>
+<p>"Accidentally" kick a ball or throw an apparatus near the commotion</p>
 </li>
 </ul>
+<p></p>
+<p><em>Safety first! If you think these actions might escalate the situation e.g., anger the harasser, choose Delegate instead. </em>
+</p>
 <p></p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>Delegate</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Intervening can be scary! Find a trusted adult or rally other bystanders
+to take action on your behalf.</p>
 <p></p>
+<p>Examples</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Tell a safeguarding officer, teacher, team manager, or parent</p>
+</li>
+<li>
+<p>Make a report to the Safe Sport Commission</p>
+</li>
+<li>
+<p>Alert the Singapore Police Force in the event of an emergency</p>
+</li>
+</ul>
 </div>
 </details>
 </div>
