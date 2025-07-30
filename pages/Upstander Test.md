@@ -5,21 +5,15 @@ variant: tiptap
 description: What type of teammate are you?  Choose your actions and find out!
 image: /images/Resources Images/OG_Banner_V2.png
 ---
-<h4></h4>
+<h3>Click to take the <a href="https://play.solstice.sg/safesport/" rel="noopener nofollow" target="_blank">Upstander Test</a>!</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="upstanderbanner" src="/images/Resources Images/upstanderbanner.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources Images/1000059931.jpg">
 </div>
-<h3></h3>
 <p></p>
+<h4>Be an Upstander with the 3Ds!</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources Images/Direct__Video_.gif">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources Images/Direct.svg">
-</div>
-<h3>Taken the <a href="https://play.solstice.sg/safesport/" rel="noopener nofollow" target="_blank">Upstander Test</a>!</h3>
-<h3></h3><a class="isomer-image-wrapper" href="https://play.solstice.sg/safesport/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Red_Subscribe_Button_Animated_Video__1920_x_1920_px_.gif"></a>
-<h4>Be an Upstander with the 3Ds!</h4>
 <p>What do you do if you observe:</p>
 <ul data-tight="true" class="tight">
 <li>
