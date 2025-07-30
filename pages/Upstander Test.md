@@ -10,6 +10,10 @@ image: /images/Resources Images/OG_Banner_V2.png
 <img style="width: 100%" height="auto" width="100%" alt="upstanderbanner" src="/images/Resources Images/upstanderbanner.png">
 </div>
 <h3></h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources Images/Direct__Video_.gif">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources Images/Direct.svg">
 </div>
