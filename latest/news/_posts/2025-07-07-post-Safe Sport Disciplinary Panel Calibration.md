@@ -39,7 +39,6 @@ Panel grappled with issues of evidence and the application of the <a href="https
 the Safe Sport Programme. Members shared insights to their hearing experiences
 which surpassed the information and knowledge available from documents
 alone.&nbsp;&nbsp;&nbsp;</p>
-<p></p>
 <p>With shared learning and open discussions, the session ensured that the
 members felt confident in their role in safeguarding the sporting community.
 &nbsp;&nbsp;</p>
