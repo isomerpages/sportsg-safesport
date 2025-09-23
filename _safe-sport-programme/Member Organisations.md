@@ -321,7 +321,7 @@ misconduct as set out in the Safe Sport Programme Handbook.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="SFDA" src="/images/Member Org Logos/SFDA_logo.png">
+<img style="width: 60%" height="auto" width="100%" alt="SFDA" src="/images/Member Org Logos/SFDA_logo.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -641,7 +641,7 @@ misconduct as set out in the Safe Sport Programme Handbook.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Member Org Logos/surfing.png">
+<img style="width: 30%" height="auto" width="100%" alt="" src="/images/Member Org Logos/surfing.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
