@@ -45,10 +45,10 @@ escape during a traumatic incident were discussed and case studies were
 analysed.</p>
 <p></p>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/to_upload.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/13_April_2024__1_.jpg">
 </div>
+<p></p>
 <p>Additionally, DP Members learnt about the traumatic stress reactions that
 encompass a wide range of responses:</p>
 <ul data-tight="true" class="tight">
