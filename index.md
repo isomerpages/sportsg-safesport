@@ -28,7 +28,7 @@ sections:
           - title: Access our news archive
             url: https://www.safesport.sg/latest/
   - resources:
-      title: News
+      title: Latest
       subtitle: What We've been UP TO
       id: resources
       button: more
