@@ -2,7 +2,6 @@ collections:
   safe-sport-programme:
     output: true
     order:
-      - Resources.md
       - Example Title.md
       - Primer.md
       - Purpose and Principles.md
