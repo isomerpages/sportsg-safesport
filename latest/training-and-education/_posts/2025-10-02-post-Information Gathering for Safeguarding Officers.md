@@ -13,22 +13,22 @@ Practice (CoP) held on 2<sup>nd</sup> October 2025.&nbsp;</p>
 utilise and sharpen their information gathering abilities when attending
 to Affected Persons (APs). It was led by Jolie, an experienced trainer
 and psychologist, who has also been delivering our Safeguarding Officer
-Training course since 2022.&nbsp;</p>
+Training course since 2022.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/community of practice 2.png">
 </div>
 <p>Jolie opened the session by addressing tricky questions based on scenarios
 that the SOs have experienced, sharing suggestions and tips on how to approach
-challenging situations.&nbsp;</p>
+challenging situations.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/5.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/community of practice 5.png">
 </div>
 <p>Participants were split into pairs and were given two different role-play
 practices. They took turns playing the role of an SO and an AP who had
 either experienced or witnessed forms of abuse. Each pair was facilitated
 by a Safe Sport secretariat member.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/4.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/community of practice 4.png">
 </div>
 <p>After each scenario, positive interactions were acknowledged, and recommended
 practices were reiterated in a debrief. One example of this is how the
@@ -41,9 +41,9 @@ trainer, Jolie”&nbsp;</p>
 </blockquote>
 <p>The role of a Safeguarding Officer is challenging, but participants understand
 the importance of the work they do. Their dedication serves as an encouraging
-reminder of perseverance in safeguarding efforts.&nbsp;&nbsp;</p>
+reminder of perseverance in safeguarding efforts.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/community of practice 3.png">
 </div>
 <p>The Safe Sport team remains dedicated to supporting SOs and creating more
 opportunities for further learning and growth. A massive thank you to Jolie
