@@ -10,7 +10,7 @@ variant: markdown
 The Safe Sport Commission comprises of representatives of the different stakeholders in our sporting community to bring together participants and organisations in fostering a healthy and positive climate for all involved.
 
 ### **List of Commission Members** 
-##### Term 2023- 2025
+##### Term 2025 - 2027
 
 
 	
@@ -23,7 +23,7 @@ The Safe Sport Commission comprises of representatives of the different stakehol
 	
 | Name | Role| 
 | -------- | ---------------|
-| Chris Chan     | Secretary General, Singapore National Olympic Council (SNOC) / President, Global Esports  Federation  |
+| Mark Chay     | Secretary General, Singapore National Olympic Council (SNOC)  |
 | Lau Kok Keng    | Partner, Rajah & Tann Singapore LLP  / Member, SNOC Executive Committee    | 
 | Dr. Hing Siong Chen   | NSA Representative / President of Singapore Cycling Federation | 
 | Lim Chea Rong     | Head Coach, Shooting, Singapore Sports School     |
@@ -36,11 +36,11 @@ The Safe Sport Commission comprises of representatives of the different stakehol
 	
 | Name | Role| 
 | ------------  | ---------- |
-| Dr. Su Chun Wei      | Chief, Singapore Sport Institute |
+| Dr. Su Chun Wei      | Chief, High Performance Sport Institute |
 | Peh Seow Ling     | Director, Lifeskills & Lifestyle Division, People's Association | 
-| Tan Li Jen  | Director and Senior Principal Clinical Psychologist, Ministry of Social and Family Development     |
+| Dr Joy Low  | Deputy Director and Principal Clinical Neuropsychologist, Ministry of Social and Family Development     |
 | Ng Chen Kee   | Deputy Director- General of Education (Schools) and Director of Schools, Ministry of Education   |
-| Devrajan s/o Bala  | Deputy Director, Current Ops, Singapore Police Force  |
+| Devrajan s/o Bala  | Deputy Director/Concurrent Director, Scam Public Education Officer, Concurrent Commanding Officer CNU, Singapore Police Force  |
 
 
 ###### **Past Members**
@@ -48,6 +48,8 @@ The Safe Sport Commission comprises of representatives of the different stakehol
 	 
 | Name | *Role| 
 | ------------  | ---------- |
+| Chris Chan      | Secretary General, Singapore National Olympic Council (SNOC) / President, Global Esports  Federation |
+| Tan Li Jen      | Director and Senior Principal Clinical Psychologist, Ministry of Social and Family Development |
 | Lee Kok Choy      | President, Singapore Swimming Association / SportSG Board Member |
 | Andy Hoe     | Group Director, Partnership, People's Association | 
 | Jennifer Teoh  | Director, RPG-CFPS, Ministry of Social and Family Development     |
