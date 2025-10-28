@@ -17,7 +17,7 @@ aimed at enhancing their skills in disciplinary hearings.&nbsp;</p>
 </div>
 <p>&nbsp;</p>
 <p></p>
-<p>The members of the Disciplinary Panel were given updates related international
+<p>The members of the Disciplinary Panel were given updates on related international
 developments in safeguarding such as <a href="https://www.olympics.com/ioc/news/ioc-publishes-new-consensus-statement-on-safeguarding-and-interpersonal-violence-in-sport" rel="noopener noreferrer nofollow" target="_blank">International Olympic Council’s Consensus Statement: Interpersonal Violence and Safeguarding in Sport </a>and
 reviewed cases decided by sports tribunals in Canada and Australia.</p>
 <p></p>
