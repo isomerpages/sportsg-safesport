@@ -61,7 +61,7 @@ to the Safe Sport Awareness Modules) as a pre-requisite to the classroom
 training where officers will be assessed on their skills. The Safe Sport
 team will grant you access to the e-learning when your registration has
 been confirmed.</p>
-<p>This training is chargeable for non-<a href="/safesportprogramme/memberorganisations" rel="noopener noreferrer nofollow" target="_blank">member organisations</a> of
+<p>This training is chargeable for non-<a href="https://www.safesport.sg/safe-sport-programme/memberorganisations/" rel="noopener noreferrer nofollow" target="_blank">member organisations</a> of
 the Safe Sport Programme.</p>
 <h5><strong>Registration Form</strong></h5>
 <p>Sign up for our upcoming Safeguarding Officer Training session here:</p>
