@@ -181,7 +181,7 @@ misconduct as set out in the Safe Sport Programme Handbook.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://singaporebadminton.org.sg/site/singapore-badminton-associations-safe-sport-commitment/" rel="noopener noreferrer nofollow" target="_blank">Singapore Badminton Association</a>
+<p><a href="https://singaporebadminton.org.sg/our-policies/" rel="noopener noreferrer nofollow" target="_blank">Singapore Badminton Association</a>
 </p>
 </td>
 </tr>
@@ -236,7 +236,7 @@ misconduct as set out in the Safe Sport Programme Handbook.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://singapore-chess.verzview.com/wp-content/uploads/2023/02/Safe-Sport-Policy-SCF-2.pdf" rel="noopener noreferrer nofollow" target="_blank">Singapore Chess Federation</a>
+<p><a href="https://singaporechess.org.sg/safe-sport-policy/" rel="noopener noreferrer nofollow" target="_blank">Singapore Chess Federation</a>
 </p>
 </td>
 </tr>

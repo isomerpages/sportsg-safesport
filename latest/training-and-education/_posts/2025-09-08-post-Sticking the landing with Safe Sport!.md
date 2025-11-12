@@ -3,8 +3,8 @@ title: Sticking the landing with Safe Sport!
 permalink: /sticking-the-landing-with-safe-sport/
 date: 2025-09-08
 layout: post
-description: ""
-image: ""
+description: Safe Sport Singapore Gymnastics Coach's Congress
+image: /images/Safe_Sport_Gymnastics_1.jpg
 variant: tiptap
 ---
 <p>On 8<sup>th</sup> September 2025, the Safe Sport team delivered a workshop

@@ -3,8 +3,8 @@ title: Information Gathering for Safeguarding Officers
 permalink: /information-gathering-for-safeguarding-officers/
 date: 2025-10-02
 layout: post
-description: ""
-image: ""
+description: Safeguarding Officer Community of Practice
+image: /images/community of practice 2.png
 variant: tiptap
 ---
 <p>14 Safeguarding Officers (SO) joined us at our Safe Sport Community of
