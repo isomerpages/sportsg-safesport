@@ -22,11 +22,11 @@ now concluded at the end of Term 3:</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Member </strong>
+<p><strong>Member</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Representation </strong>
+<p><strong>Representation</strong>
 </p>
 </td>
 </tr>
@@ -158,7 +158,7 @@ now concluded at the end of Term 3:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Dr Joy Low</p>
+<p>Dr. Joy Low</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Child Protection</p>
