@@ -14,8 +14,9 @@ October 2025.</p>
 members for their valuable contributions during their tenure, which has
 now concluded at the end of Term 3:</p>
 <p></p>
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
@@ -29,6 +30,10 @@ now concluded at the end of Term 3:</p>
 <p><strong>Representation</strong>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p><strong>Term</strong>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -37,6 +42,9 @@ now concluded at the end of Term 3:</p>
 <td rowspan="1" colspan="1">
 <p>Olympic Movement</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>2019 - 2025</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -44,6 +52,9 @@ now concluded at the end of Term 3:</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Child Protection</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2023 - 2025</p>
 </td>
 </tr>
 </tbody>
@@ -166,4 +177,6 @@ now concluded at the end of Term 3:</p>
 </tr>
 </tbody>
 </table>
+<p>A list of the present and past Commission Members and their respective
+designations can be viewed <a href="https://www.safesport.sg/about/commission-members/" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p></p>
