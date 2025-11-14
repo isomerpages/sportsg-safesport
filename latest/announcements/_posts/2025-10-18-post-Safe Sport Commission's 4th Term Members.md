@@ -4,7 +4,7 @@ permalink: /safe-sport-commission-s-4th-term-members/
 date: 2025-10-18
 layout: post
 description: Safe Sport Commission Members 4th Term
-image: /images/Resources Images/pic_1.jpg
+image: /images/SSC_DP.png
 variant: tiptap
 ---
 <p>The Safe Sport Commission ("Commission") concluded its third term on 17
