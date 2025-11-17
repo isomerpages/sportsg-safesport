@@ -68,13 +68,14 @@ group of respondents. Majority of the misconduct cases (62%) were classified
 as low severity, while 21% and 17% were classified as moderate and severe
 cases respectively.</p>
 <p>&nbsp;</p>
-<p>Moderate and severe cases were referred to the Safe Sport Disciplinary
-Panel, where the Panel will ascertain the seriousness of the misconduct
-based on the degree of culpability and harm caused, and consider the aggravating
-and mitigating factors before coming to a decision on the appropriate measures
-or sections. Since it was first appointed in August 2022, the Safe Sport
-Disciplinary Panel, has convened nine hearings to date, and issued sanctions
-ranging from suspensions to permanent ineligibility. The outcomes of the
-hearings are listed in a disciplinary database.</p>
+<p>Moderate and severe cases were referred to the independent Safe Sport
+Disciplinary Panel, where the Panel will ascertain the seriousness of the
+misconduct based on the degree of culpability and harm caused, and consider
+the aggravating and mitigating factors before coming to a decision on the
+appropriate measures or sections. Since it was first appointed in August
+2022, the independent Safe Sport Disciplinary Panel, has convened nine
+hearings to date, and issued sanctions ranging from suspensions to permanent
+ineligibility. The outcomes of the hearings are listed in a disciplinary
+database.</p>
 <p></p>
 <p>View the full <a href="https://heyzine.com/flip-book/900b4c936e.html" rel="noopener nofollow" target="_blank">1,000-day Impact Report</a>.</p>
