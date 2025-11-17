@@ -9,12 +9,12 @@ description: Members of the Disciplinary Panel attend a Community of Practice,
 image: /images/Resources Images/Trauma_Informed_1.jpg
 variant: tiptap
 ---
-<p>The Safe Sport’s Disciplinary Panel Members (DP Members) attended a session
-on Trauma Informed Approach for Disciplinary Hearings led by Jolie Tan,
-a former psychologist from the Clinical and Forensic Psychological Services
-Branch of the Ministry of Social and Family Development. Jolie, who has
-conducted numerous trainings on topics related to trauma recovery, has
-worked with children and youth on behavioural management and self-injury.</p>
+<p>The independent Safe Sport’s Disciplinary Panel Members (DP Members) attended
+a session on Trauma Informed Approach for Disciplinary Hearings led by
+Jolie Tan, a former psychologist from the Clinical and Forensic Psychological
+Services Branch of the Ministry of Social and Family Development. Jolie,
+who has conducted numerous trainings on topics related to trauma recovery,
+has worked with children and youth on behavioural management and self-injury.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -67,15 +67,15 @@ rate)</p>
 in unhealthy ways of coping)</p>
 </li>
 </ul>
-<p>By understanding these common responses, DP Members &nbsp;were better
-able to understand the reactions of those affected in the context of the
-cases, particularly in relation to the time it takes an affected party
-to report an incident or often, to even come to the realisation that they
-are the subject of abuse.</p>
+<p>By understanding these common responses, DP Members were better able to
+understand the reactions of those affected in the context of the cases,
+particularly in relation to the time it takes an affected party to report
+an incident or often, to even come to the realisation that they are the
+subject of abuse.</p>
 <p></p>
 <blockquote>
-<p>"The session was transformative and we picked up knowledge on how to better
-create a safe and trauma-informed space during hearings"</p>
+<p>"The session was transformative, and we picked up knowledge on how to
+better create a safe and trauma-informed space during hearings"</p>
 </blockquote>
 <p></p>
 <p>Lively group discussions were sparked with insights and perspectives exchanged.
