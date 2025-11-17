@@ -6,11 +6,12 @@ description: ""
 ---
 <h2><strong><u><sup>Safe Sport Disciplinary Panel</sup></u></strong></h2>
 <p>Since its appointment by the Ministry of Culture, Community and Youth
-(“MCCY”) in August 2022, the Safe Sport Disciplinary Panel has been hearing
-cases referred by the Safe Sport Commission under the national framework
-for safeguarding in sport -&nbsp;the Safe Sport Programme. The Disciplinary
-Panel hears cases which are assessed to be medium to high severity and
-the outcomes of the hearings are made available on the <a href="https://www.safesport.sg/case-management/disciplinarydatabase/" rel="noopener noreferrer nofollow" target="_blank">Safe Sport Disciplinary Database</a>.</p>
+(“MCCY”) in August 2022, the independent Safe Sport Disciplinary Panel
+has been hearing cases referred by the Safe Sport Commission under the
+national framework for safeguarding in sport -&nbsp;the Safe Sport Programme.
+The independent Disciplinary Panel hears cases which are assessed to be
+medium to high severity, and the outcomes of the hearings are made available
+on the <a href="https://www.safesport.sg/case-management/disciplinarydatabase/" rel="noopener noreferrer nofollow" target="_blank">Safe Sport Disciplinary Database</a>.</p>
 <h3><strong><sup>Disciplinary Panel Members</sup></strong></h3>
 <table style="minWidth: 75px">
 <colgroup>
