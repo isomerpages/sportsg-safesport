@@ -7,7 +7,7 @@ variant: tiptap
 <h4><sub>Before the Hearing</sub></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>1. Does every case lead to a hearing before a Disciplinary Committee?</strong>
+<summary><strong>1. Does every case lead to a hearing before the independent Disciplinary Committee?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>No. It depends on the seriousness of the alleged breach of the <a href="https://www.safesport.sg/safe-sport-programme/unified-code" rel="noopener noreferrer nofollow" target="_blank">Safe Sport Unified Code</a> (“Unified
@@ -47,13 +47,13 @@ decides that a breach of the Unified Code has occurred</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>3. Who will be on the Disciplinary Committee?</strong>
+<summary><strong>3. Who will be on the independent Disciplinary Committee?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <p>The Discipline Panel Chairperson will normally appoint three (3) Members
-from the Disciplinary Panel to form the Disciplinary Committee for the
-hearing which will be made up of:</p>
+from the independent Disciplinary Panel to form the Disciplinary Committee
+for the hearing which will be made up of:</p>
 <p></p>
 <ul>
 <li>
@@ -68,7 +68,7 @@ hearing which will be made up of:</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>4. How are the Disciplinary Panel Members appointed?</strong>
+<summary><strong>4. How have the independent Disciplinary Panel Members been appointed?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
@@ -149,7 +149,7 @@ Committee managing the hearing process.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>3. How does the Disciplinary Committee make a decision?</strong>
+<summary><strong>3. How does the independent Disciplinary Committee make a decision?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
@@ -246,7 +246,7 @@ informed of the written Decision.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <h5></h5>
 <p>The Disciplinary Panel Chairperson will appoint Disciplinary Panel Members
-that have not already heard the case.</p>
+that have not already heard the case to be on the independent Appeal Committee.</p>
 <p></p>
 </div>
 </details>
@@ -269,8 +269,8 @@ see Section 19 of the Handbook.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<p>The measures/sanctions imposed by the Disciplinary Committee remain in
-place pending the outcome of the Appeal.</p>
+<p>The measures/sanctions imposed by the independent Disciplinary Committee
+remain in place pending the outcome of the Appeal.</p>
 <p></p>
 </div>
 </details>
@@ -300,7 +300,7 @@ of law and/or fact)</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<p>No. The Appeal Committee’s decision is final and binding.</p>
+<p>No. The independent Appeal Committee’s decision is final and binding.</p>
 <p></p>
 </div>
 </details>
