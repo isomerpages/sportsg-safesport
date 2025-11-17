@@ -24,7 +24,7 @@ will refer the Affected Party, where appropriate, to befrienders and/or counsell
 
 Please refer to the [Safe Sport Unified Code](/safe-sport-programme/unified-code) for types of Misconduct.
 
-##### **4. How do raise an incident I am concerned about?**
+##### **4. How to raise an incident I am concerned about?**
 
 You can make a Report of Concern either through the Safeguarding Officer of your organisation or directly to the Case Management Unit by completing the [incident report form](/case-management/reporting).
 
