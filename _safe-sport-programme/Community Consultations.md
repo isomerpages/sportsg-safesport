@@ -3,30 +3,12 @@ title: Community Consultations
 permalink: /safe-sport-programme/community-consultations/
 description: ""
 image: /images/community.png
+variant: markdown
 ---
 #### A community driven framework
 
 
 Whilst guided by international frameworks on safeguarding in sport, the Safe Sport Unified Code and Safe Sport Programme have been contextualised for Singapore sporting landscape and the sporting community through extensive consultations with sporting community stakeholders. 
-
-<div class="videoWrapper"><style>
-	.videoWrapper {
-		position: relative;
-		padding-bottom: 56.25%; /* 16:9 */
-		padding-top: 25px;
-		height: 0;
-	}
-	.videoWrapper iframe {
-		position: absolute;
-		top: 0;
-		left: 0;
-		width: 100%;
-		height: 100%;
-	}
-	</style>
-	
-<iframe src="https://player.vimeo.com/video/648987858?h=5f9a89c757&amp;app_id=122963" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture"></iframe>
- </div>
 
 These consultations were made possible only through the partnership with these organisations
 
