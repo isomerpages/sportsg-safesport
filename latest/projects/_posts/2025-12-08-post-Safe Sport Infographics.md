@@ -25,7 +25,7 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p>User tips for personal safety in changing rooms and toilets.</p>
 <p></p>
-<p><strong><a href="/files/FAP_SS_ChangingRoomEtiquette_A2.pdf" rel="noopener noreferrer nofollow" target="_blank">Print at home (PDF)</a></strong>
+<p><strong><a href="/files/nFA_SS_ChangingRoomEtiquette_A2.pdf" rel="noopener noreferrer nofollow" target="_blank">Print at home (PDF)</a></strong>
 </p>
 <p><strong><a href="https://drive.google.com/file/d/1nVUrFe_tFRFcLQbidt3EQnmehNGi_z8H/view?usp=sharing" rel="noopener nofollow" target="_blank">Image Format (For Web)</a></strong>
 </p>
@@ -40,7 +40,7 @@ variant: tiptap
 </td>
 <th rowspan="1" colspan="1">
 <p>An overview of the different forms of abuse and harassment in sport.</p>
-<p><a href="/files/FA_SayNoToAbuseandHarassment_A2.pdf" rel="noopener noreferrer nofollow" target="_blank">Print at home (PDF) </a>
+<p><a href="/files/FA_SayNoToAbuseandHarassment_A2.pdf" rel="noopener noreferrer nofollow" target="_blank">Print at home (PDF)</a>
 </p>
 <p><a href="https://drive.google.com/file/d/10xZWh05oRqeOiEIKDaPIt6_WDhqhST3_/view?usp=sharing" rel="noopener nofollow" target="_blank">Image format (For Web)</a>
 </p>
