@@ -7,7 +7,7 @@ description: Safe Sport Infographics Series 1
 image: /images/Voyeurism.png
 variant: tiptap
 ---
-<h4>A set of simple Safe Sport infographics based on our policy documents for display in your facility, on your website, or for circulation amongst relevant parties.</h4>
+<h4>A set of Safe Sport infographics based on our policy documents for display in your facility, on your website, or for circulation amongst relevant parties.</h4>
 <hr>
 <table style="minWidth: 50px">
 <colgroup>
