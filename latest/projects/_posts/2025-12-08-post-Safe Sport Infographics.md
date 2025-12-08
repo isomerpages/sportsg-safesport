@@ -83,4 +83,5 @@ be aware of.</p>
 </tr>
 </tbody>
 </table>
+<hr>
 <p></p>
