@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - FAQs.md
-      - Training and Education.md
+      - Training and Education Resources.md
       - spexCarding.md
       - Reporting.md
       - Respondent's Guide to Hearings.md
