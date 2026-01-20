@@ -3,12 +3,16 @@ title: Support Network
 permalink: /case-management/support-network/
 description: ""
 image: /images/community.png
+variant: markdown
 ---
 #### **What is the Safe Sport Support Network?**
 
 The Safe Sport Support Network provides continued and enhanced psychosocial support to individuals affected by incidents relating to breaches of Safe Sport Unified Code.
 
 This support is extended to both affected persons as well as persons who are subject to the reports of concern ("Respondents"). 
+
+
+&gt; "... Ms Sharon's professionalism, care and guidance have meant a great deal to me. I am deeply grateful to have received support from such a compassionate and dedicated counsellor. Without her support, I would not have been able to recover so quickly and return to a sense of normalcy. Thank you to the team at Safe Sport and Ms Sharon for standing with me during one of the most difficult periods of my life."
 
 
 ![Alt text for image on Isomer site](/images/Support%20Network.png)
