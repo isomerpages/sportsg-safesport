@@ -2,7 +2,6 @@ collections:
   safe-sport-programme:
     output: true
     order:
-      - Community Consultations.md
       - Key Signatories.md
       - Member Organisations.md
       - Affiliate Member.md
