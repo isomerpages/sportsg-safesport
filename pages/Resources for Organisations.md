@@ -2,6 +2,7 @@
 title: Resources for Organisations
 permalink: /resources/
 description: Resources for Member Organisations
+variant: markdown
 ---
 #### General Safe Sport Awareness 
 *  [Types of Abuse and Harrassment](/files/Types%20of%20Safe%20Sport%20Misconduct.pdf)  (Info Sheet/Slides)
