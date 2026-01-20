@@ -2,6 +2,7 @@ collections:
   about:
     output: true
     order:
+      - Community Consultations.md
       - Safe Sport Unified Code and Handbook.md
       - Our Work.md
       - Safe Sport Commission.md
