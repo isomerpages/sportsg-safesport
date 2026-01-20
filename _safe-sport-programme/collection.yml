@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Primer.md
-      - Purpose and Principles.md
       - Safe Sport Unified Code.md
       - Community Consultations.md
       - Key Signatories.md
