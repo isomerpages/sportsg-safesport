@@ -2,6 +2,7 @@ collections:
   safe-sport-programme:
     output: true
     order:
+      - Community Consultations.md
       - Newsletter.md
       - Safe Sport Disciplinary Panel.md
       - Safe Sport Commission.md
