@@ -2,7 +2,6 @@ collections:
   safe-sport-programme:
     output: true
     order:
-      - Safe Sport Unified Code and Handbook.md
       - Community Consultations.md
       - Key Signatories.md
       - Member Organisations.md
