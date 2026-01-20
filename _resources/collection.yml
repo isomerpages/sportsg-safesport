@@ -1,5 +1,5 @@
 collections:
-  faq:
+  resources:
     output: true
     order:
       - FAQs.md
