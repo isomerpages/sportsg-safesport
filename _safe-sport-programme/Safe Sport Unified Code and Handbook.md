@@ -60,35 +60,4 @@ organisational <a href="https://www.safesport.sg/policy-and-research/resources/"
 </p>
 </li>
 </ul>
-<h3><strong>The Safe Sport Programme</strong></h3>
-<p></p>
-<p>The Safe Sport Programme comprises all the elements required to optimize
-the implementation of the Unified Code for sporting organisations that
-subscribe to the Safe Sport Programme (“Member Organisations”).</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="A grey and red poster detailing the way the safe sport programme supports organisations" src="/images/Safe Sport Programme.png">
-</div>
-<p>The Safe Sport Programme also prescribes:</p>
-<p><strong>Process and Procedures</strong> - clear guidelines on jurisdiction,
-confidentiality, assessment and investigation of reports of concern, a
-decision-making framework for the determination of severity and consequence(s)
-and hearing procedures which will ensure a consistent, fair and independent
-resolution process.</p>
-<p><strong>Measures</strong> – protective and/or rehabilitative interventions
-including education, contact limitations and re-integration programmes.</p>
-<p><strong>Sanctions</strong> – appropriate limitations, conditions, suspensions
-or denial of the privilege of participation as a consequence for engaging
-in Misconduct.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="Grey booklet titled &quot;Safe Sport Programme Handbook&quot;" src="/images/handbookcover.jpg">
-</div>
-<blockquote>
-<p><strong><a href="https://heyzine.com/flip-book/027d7884bd.html" rel="noopener nofollow" target="_blank">Safe Sport Programme Handbook</a></strong>
-</p>
-</blockquote>
-<p>Contact us at <a href="mailto:contact@safesport.sg" rel="noopener noreferrer nofollow" target="_blank">contact@safesport.sg</a> to
-find out how to become a <strong><a href="https://www.safesport.sg/safe-sport-programme/memberorganisations" rel="noopener nofollow" target="_blank">Member Organisation</a></strong> or
-Affiliate.</p>
 <p></p>
