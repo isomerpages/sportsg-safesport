@@ -2,7 +2,6 @@ collections:
   safe-sport-programme:
     output: true
     order:
-      - Primer.md
       - Safe Sport Unified Code.md
       - Community Consultations.md
       - Key Signatories.md
