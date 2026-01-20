@@ -2,9 +2,9 @@ collections:
   about:
     output: true
     order:
+      - Our Work.md
       - Community Consultations.md
       - Safe Sport Unified Code and Handbook.md
-      - Our Work.md
       - Safe Sport Commission.md
       - Safe Sport Disciplinary Panel.md
       - History.md
