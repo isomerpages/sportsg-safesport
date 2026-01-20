@@ -104,7 +104,6 @@ its needs.</p>
 </div>
 </details>
 </div>
-<hr>
 <h3>Training and Education FAQs</h3>
 <h4>Online Awareness Modules</h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
@@ -154,7 +153,6 @@ and customise the content to suit your target audience.</p>
 </div>
 </details>
 </div>
-<h5></h5>
 <h4>Safeguarding Officer Training</h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
