@@ -2,12 +2,12 @@ collections:
   safe-sport-programme:
     output: true
     order:
-      - The Programme.md
       - Purpose and Principles.md
+      - The Programme.md
+      - Safe Sport Unified Code and Handbook.md
       - Community Consultations.md
       - Safe Sport Disciplinary Panel.md
       - Safe Sport Commission.md
-      - Safe Sport Unified Code and Handbook.md
       - Key Signatories.md
       - Member Organisations.md
       - Newsletter.md
