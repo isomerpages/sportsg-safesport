@@ -5,6 +5,9 @@ variant: tiptap
 description: ""
 ---
 <h2><strong><u><sup>Safe Sport Disciplinary Panel</sup></u></strong></h2>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="An infographic detailing the structure of the independent Disciplinary Panel using icons" src="/images/New_Version__Nov_2025_.png">
+</div>
 <p>Since its appointment by the Ministry of Culture, Community and Youth
 (“MCCY”) in August 2022, the independent Safe Sport Disciplinary Panel
 has been hearing cases referred by the Safe Sport Commission under the
