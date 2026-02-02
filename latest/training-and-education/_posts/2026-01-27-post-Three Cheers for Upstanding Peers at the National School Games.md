@@ -22,6 +22,10 @@ event, including Minister for Education, Mr Desmond Lee, with many of them
 remarking that the activity was informative and fresh. Upon completion
 of the test, participants were given exclusive Safe Sport keychains and
 stickers, adding a fun and memorable touch to the learning experience.&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Six hands holding up keychains in the centre, forming a circle" src="/images/IMG_0507.jpg">
+</div>
 <p>The strong interest and positive engagement made the activation truly
 meaningful, and we are heartened to be able to empower young athletes to
 be upstanders both on and off the court. We would like to thank the Ministry
