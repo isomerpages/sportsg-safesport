@@ -11,18 +11,26 @@ variant: tiptap
 School Games (NSG) opening ceremony – one of Singapore’s largest inter-school
 sporting events with more than 800 student-athletes, teachers and coaches
 in attendance.&nbsp;</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Kids using a smartphone to access an online game" src="/images/NSG_Booth_6.png">
+</div>
 <p>We hosted a booth with the aim of raising Safe Sport awareness by engaging
 athletes, as well as their teachers, through the Upstander test and other
 educational resources. The Upstander test encouraged participants to reflect
 on how they can speak up, look out for one another, and contribute to a
 safer sporting environment.&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Kids using an electronic tablet to access an online game" src="/images/NSG_Booth_5.png">
+</div>
 <p>Close to 100 guests completed the Upstander test over the course of the
 event, including Minister for Education, Mr Desmond Lee, with many of them
 remarking that the activity was informative and fresh. Upon completion
 of the test, participants were given exclusive Safe Sport keychains and
 stickers, adding a fun and memorable touch to the learning experience.&nbsp;</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Four people looking at a tablet screen, the man in the middle is wearing red" src="/images/5G2A5951.jpg">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Six hands holding up keychains in the centre, forming a circle" src="/images/IMG_0507.jpg">
 </div>
