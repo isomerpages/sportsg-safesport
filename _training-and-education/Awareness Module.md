@@ -95,7 +95,7 @@ organisation code "WEB"</p>
 <p>Free for NROC coaches only</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://sportsg-ed.csod.com/client/sportsg-ed/default.aspx" rel="noopener noreferrer nofollow" target="_blank">Login to SportSG-ED</a> with
+<p><a href="https://sportsg-ed.csod.com/login/render.aspx?id=defaultclp&amp;CLP=false" rel="noopener noreferrer nofollow" target="_blank">Login to SportSG-ED</a> with
 your SportSync ID and refer to the user guide below for instructions</p>
 </td>
 </tr>
