@@ -622,8 +622,7 @@ misconduct as set out in the Safe Sport Programme Handbook.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.specialolympics.org.sg/media/ni1pe5gm/sosg-safe-sport-policy.pdf" rel="noopener noreferrer nofollow" target="_blank">Special Olympics Singapore</a>
-</p>
+<p>Special Olympics Singapore</p>
 </td>
 </tr>
 <tr>
