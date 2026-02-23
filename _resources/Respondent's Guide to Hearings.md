@@ -264,13 +264,13 @@ records of the proceedings before the independent Disciplinary Committee
 and shall have the power to conduct and regulate the appeal proceedings
 as it deems fit.</p>
 <p></p>
-<p>For more information on the Appeal Committee and their proceedings, please
-see Section 19 of the Handbook.</p>
+<p>For more information on the independent Appeal Committee and their proceedings,
+please see Section 19 of the Handbook.</p>
 <h5></h5>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>6. What happens to any measures/sanctions imposed by the Disciplinary Committee whilst the Appeal is pending?</strong>
+<summary><strong>6. What happens to any measures/sanctions imposed by the independent Disciplinary Committee whilst the Appeal is pending?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
@@ -280,7 +280,7 @@ remain in place pending the outcome of the Appeal.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>7. Will I have to appear before the Appeal Committee?</strong>
+<summary><strong>7. Will I have to appear before the independent Appeal Committee?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
@@ -292,7 +292,7 @@ remain in place pending the outcome of the Appeal.</p>
 of law and/or fact)</p>
 </li>
 <li>
-<p>whether the Appeal Committee needs to hear the matter afresh</p>
+<p>whether the independent Appeal Committee needs to hear the matter afresh</p>
 <p></p>
 </li>
 </ul>
@@ -301,7 +301,7 @@ of law and/or fact)</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>8. Are there further avenues of appeal after the Appeal Committee’s decision?</strong>
+<summary><strong>8. Are there further avenues of appeal after the independent Appeal Committee’s decision?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
