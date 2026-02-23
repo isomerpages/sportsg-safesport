@@ -22,8 +22,8 @@ Programme Handbook which include:</p>
 </p>
 </li>
 <li>
-<p>independent adjudication by a Safe Sport Disciplinary Panel, where the
-severity of the Misconduct is moderate or severe</p>
+<p>independent adjudication by an <a href="https://www.safesport.sg/safe-sport-disciplinary-panel-members/" rel="noopener nofollow" target="_blank">independent Safe Sport Disciplinary Panel</a>,
+where the severity of the Misconduct is moderate or severe</p>
 <p></p>
 </li>
 </ul>
