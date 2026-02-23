@@ -36,12 +36,13 @@ the Handbook”).</p>
 <ul>
 <li>
 <p>to allow the Respondent an opportunity to provide their account to an
-independent Disciplinary Committee</p>
+<a href="https://www.safesport.sg/safe-sport-disciplinary-panel-members/" rel="noopener nofollow" target="_blank">independent Disciplinary Committee</a>
+</p>
 <p></p>
 </li>
 <li>
-<p>to determine the appropriate sanctions where the Disciplinary Committee
-decides that a breach of the Unified Code has occurred</p>
+<p>to determine the appropriate sanctions where the independent Disciplinary
+Committee decides that a breach of the Unified Code has occurred</p>
 </li>
 </ul>
 </div>
@@ -51,9 +52,9 @@ decides that a breach of the Unified Code has occurred</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<p>The Discipline Panel Chairperson will normally appoint three (3) Members
-from the independent Disciplinary Panel to form the Disciplinary Committee
-for the hearing which will be made up of:</p>
+<p>The independent Disciplinary Panel Chairperson will normally appoint three
+(3) Members from the independent Disciplinary Panel to form the Disciplinary
+Committee for the hearing which will be made up of:</p>
 <p></p>
 <ul>
 <li>
@@ -72,11 +73,11 @@ for the hearing which will be made up of:</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<p>The Members of the Disciplinary Panel have been appointed by the Ministry
-of Culture, Community and Youth.</p>
+<p>The <a href="https://www.safesport.sg/safe-sport-disciplinary-panel-members/" rel="noopener nofollow" target="_blank">Members of the independent Disciplinary Panel</a> have
+been appointed by the Ministry of Culture, Community and Youth.</p>
 <p></p>
-<p>The criteria for becoming a Disciplinary Panel Member can be found in
-Appendix 5 of the Handbook.</p>
+<p>The criteria for becoming an independent Disciplinary Panel Member can
+be found in Appendix 5 of the Handbook.</p>
 <p></p>
 </div>
 </details>
@@ -86,9 +87,9 @@ Appendix 5 of the Handbook.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <p>Yes, you may admit to the alleged breach(es) at any time before the hearing
-or even during the hearing. If you do so, the Disciplinary Committee will
-proceed to determine if any sanction(s) should be imposed and in the process,
-mitigating or aggravating factor(s) will be considered.</p>
+or even during the hearing. If you do so, the independent Disciplinary
+Committee will proceed to determine if any sanction(s) should be imposed
+and in the process, mitigating or aggravating factor(s) will be considered.</p>
 <p></p>
 <p>For more information, please see Section 8.6 and Appendix 3 of the Handbook.</p>
 </div>
@@ -125,8 +126,8 @@ mitigating or aggravating factor(s) will be considered.</p>
 <p></p>
 <p>If you are unable to attend due to illness or unforeseen circumstances,
 do write to the secretariat (<a href="mailto:report@safesport.sg" rel="noopener noreferrer nofollow" target="_blank">report@safesport.sg</a>) specifying your
-reasons. The Disciplinary Committee will decide whether to adjourn the
-hearing.</p>
+reasons. The independent Disciplinary Committee will decide whether to
+adjourn the hearing.</p>
 <p></p>
 <p>The hearing may still proceed in your absence under certain circumstances
 as per Section 17.3 of the Handbook.</p>
@@ -141,9 +142,9 @@ as per Section 17.3 of the Handbook.</p>
 <p>You would have received a Notice of Hearing which comprises the details
 of the documents and the procedures involved in the hearing process.</p>
 <p></p>
-<p>Where the case is complex, the Disciplinary Committee Chair may decide
-that a pre-hearing meeting with you may be necessary to assist the Disciplinary
-Committee managing the hearing process.</p>
+<p>Where the case is complex, the independent Disciplinary Committee Chair
+may decide that a pre-hearing meeting with you may be necessary to assist
+the independent Disciplinary Committee managing the hearing process.</p>
 <p></p>
 <p>You can find out more of the hearing procedures in Section 18 of the Handbook.</p>
 </div>
@@ -154,11 +155,12 @@ Committee managing the hearing process.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <p>Based on the available evidence and the balance of probabilities, the
-Disciplinary Committee will determine if a breach has taken place.</p>
+independent Disciplinary Committee will determine if a breach has taken
+place.</p>
 <p></p>
 <p>The decision-making framework, based on culpability and harm, guides the
-Disciplinary Committee in making an appropriate decision on the measures
-and/or sanctions.</p>
+independent Disciplinary Committee in making an appropriate decision on
+the measures and/or sanctions.</p>
 <p></p>
 <p>You can find out more about this in Section 8.4 and Appendix 2 of the
 Handbook.</p>
@@ -172,7 +174,8 @@ Handbook.</p>
 <p></p>
 <p>Unlike court processes which are adversarial, the objective of these proceedings
 is inquisitorial in nature. Therefore, there is no direct questioning of
-the Affected Party and/or other witnesses except by the Disciplinary Committee.</p>
+the Affected Party and/or other witnesses except by the independent Disciplinary
+Committee.</p>
 <p></p>
 <p>For more information, please see Section 18.11 of the Handbook.</p>
 <p></p>
@@ -204,8 +207,8 @@ probation, suspension, permanent ineligibility).</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<p>You may appeal the Decision of the Disciplinary Committee on the following
-grounds:</p>
+<p>You may appeal the Decision of the independent Disciplinary Committee
+on the following grounds:</p>
 <p></p>
 <ul>
 <li>
@@ -222,8 +225,8 @@ grounds:</p>
 </li>
 </ul>
 <p></p>
-<p>The Commission may also lodge an appeal against the Decision of the Disciplinary
-Committee.</p>
+<p>The Commission may also lodge an appeal against the Decision of the independent
+Disciplinary Committee.</p>
 <p></p>
 <p>For more information on appeals, please see Section 9 of the Handbook.</p>
 <p></p>
@@ -242,22 +245,24 @@ informed of the written Decision.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>4. Who will be on the Appeal Committee?</strong>&nbsp;</summary>
+<summary><strong>4. Who will be on the independent Appeal Committee?</strong>&nbsp;</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <h5></h5>
-<p>The Disciplinary Panel Chairperson will appoint Disciplinary Panel Members
-that have not already heard the case to be on the independent Appeal Committee.</p>
+<p>The independent Disciplinary Panel Chairperson will appoint independent
+Disciplinary Panel Members that have not already heard the case to be on
+the independent Appeal Committee.</p>
 <p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>5. How does the Committee reach its outcome?</strong>
+<summary><strong>5. How does the independent Appeal Committee reach its outcome?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<p>The Appeal Committee shall be provided with all available records of the
-proceedings before the Disciplinary Committee and shall have the power
-to conduct and regulate the appeal proceedings as it deems fit.</p>
+<p>The independent Appeal Committee shall be provided with all available
+records of the proceedings before the independent Disciplinary Committee
+and shall have the power to conduct and regulate the appeal proceedings
+as it deems fit.</p>
 <p></p>
 <p>For more information on the Appeal Committee and their proceedings, please
 see Section 19 of the Handbook.</p>
