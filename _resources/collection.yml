@@ -1,0 +1,10 @@
+collections:
+  resources:
+    output: true
+    order:
+      - Training and Education Resources.md
+      - FAQs.md
+      - spexCarding.md
+      - Reporting.md
+      - Respondent's Guide to Hearings.md
+      - Support Network.md

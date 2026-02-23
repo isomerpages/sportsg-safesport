@@ -2,13 +2,11 @@ logo: /images/websiteheader.png
 links:
   - title: Safe Sport Programme
     collection: safe-sport-programme
-  - title: About
-    collection: about
   - title: Training And Education
     collection: training-and-education
   - title: Policy And Research
     collection: policy-and-research
   - title: Case Management
     collection: case-management
-  - title: Faq
-    collection: faq
+  - title: Resources
+    collection: resources

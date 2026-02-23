@@ -1,9 +1,0 @@
-collections:
-  about:
-    output: true
-    order:
-      - Our Work.md
-      - Safe Sport Commission.md
-      - Safe Sport Disciplinary Panel.md
-      - History.md
-      - Newsletter.md

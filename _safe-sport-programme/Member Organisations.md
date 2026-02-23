@@ -448,7 +448,7 @@ misconduct as set out in the Safe Sport Programme Handbook.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://sgrowing.org/about.html" rel="noopener noreferrer nofollow" target="_blank">Singapore Rowing Association</a>
+<p><a href="https://www.sgrowing.org/safe-sport.html" rel="noopener noreferrer nofollow" target="_blank">Singapore Rowing Association</a>
 </p>
 </td>
 </tr>
@@ -622,8 +622,7 @@ misconduct as set out in the Safe Sport Programme Handbook.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.specialolympics.org.sg/media/ni1pe5gm/sosg-safe-sport-policy.pdf" rel="noopener noreferrer nofollow" target="_blank">Special Olympics Singapore</a>
-</p>
+<p>Special Olympics Singapore</p>
 </td>
 </tr>
 <tr>
@@ -678,7 +677,7 @@ misconduct as set out in the Safe Sport Programme Handbook.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://volleyball.org.sg/constitution-annual-report-policies/" rel="noopener noreferrer nofollow" target="_blank">Volleyball Association of Singapore</a>
+<p><a href="https://volleyball.org.sg/safe-sport-policy/" rel="noopener noreferrer nofollow" target="_blank">Volleyball Association of Singapore</a>
 </p>
 </td>
 </tr>
