@@ -53,8 +53,9 @@ Committee decides that a breach of the Unified Code has occurred</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <p>The independent Disciplinary Panel Chairperson will normally appoint three
-(3) Members from the independent Disciplinary Panel to form the Disciplinary
-Committee for the hearing which will be made up of:</p>
+(3) Members from the <a href="https://www.safesport.sg/safe-sport-disciplinary-panel-members/" rel="noopener nofollow" target="_blank">independent Disciplinary Panel</a> to
+form the independent Disciplinary Committee for the hearing which will
+be made up of:</p>
 <p></p>
 <ul>
 <li>
