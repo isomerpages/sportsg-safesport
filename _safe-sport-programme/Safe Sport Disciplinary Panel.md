@@ -4,7 +4,7 @@ permalink: /safe-sport-disciplinary-panel-members/
 variant: tiptap
 description: ""
 ---
-<h2><strong><u><sup>independent Safe Sport Disciplinary Panel</sup></u></strong></h2>
+<h2><strong><u><sup>Independent Safe Sport Disciplinary Panel</sup></u></strong></h2>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="An infographic with grey background and characters in gold, blue and red" src="/images/SS_independent_Disciplinary_Panel.png">
 </div>
@@ -15,7 +15,7 @@ national framework for safeguarding in sport -&nbsp;the Safe Sport Programme.
 The independent Disciplinary Panel hears cases which are assessed to be
 medium to high severity, and the outcomes of the hearings are made available
 on the <a href="https://www.safesport.sg/case-management/disciplinarydatabase/" rel="noopener noreferrer nofollow" target="_blank">Safe Sport Disciplinary Database</a>.</p>
-<h3><strong><sup>Disciplinary Panel Members</sup></strong></h3>
+<h3><strong><sup>Members</sup></strong></h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
