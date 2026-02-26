@@ -1,8 +1,7 @@
 collections:
-  resources:
+  faqs:
     output: true
     order:
-      - Training and Education Resources.md
       - FAQs.md
       - spexCarding.md
       - Reporting.md

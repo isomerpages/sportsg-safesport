@@ -1,5 +1,5 @@
 ---
-title: Training and Education Resources
+title: Education Resources
 permalink: /faq/training-education/
 description: Resources related to Safe Sport Education and Awareness
 image: /images/SO%20Training.jpg
