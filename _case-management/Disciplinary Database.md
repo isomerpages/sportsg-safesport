@@ -13,6 +13,6 @@ the sanctions meted out.</p>
 the <a href="https://www.safesport.sg/safe-sport-programme/ssp/" rel="noopener noreferrer nofollow" target="_blank">Safe Sport Programme Handbook</a>.</p>
 <p></p>
 <div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" height="300px" width="80%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQXq-AZ8pArmYgaVqzokwu-W3DWozzxEEE_LRzZnbhjrCmwe13JYRBi3rMma67WrHglO2QCbg3fv-km/pubhtml?widget=true&amp;headers=false"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="500px" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQXq-AZ8pArmYgaVqzokwu-W3DWozzxEEE_LRzZnbhjrCmwe13JYRBi3rMma67WrHglO2QCbg3fv-km/pubhtml?widget=true&amp;headers=false"></iframe>
 </div>
 <p></p>
