@@ -5,9 +5,6 @@ description: A unified reference for inappropriate behaviors in the sporting env
 image: /images/Code.jpg
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Alt text for image on Isomer site" src="/images/softball.png">
-</div>
 <h3><strong>The Safe Sport Unified Code</strong></h3>
 <p>The Unified Code was launched on 23 November 2021. It is the cornerstone
 of the Safe Sport Programme and sets out a unified reference for the Singapore
