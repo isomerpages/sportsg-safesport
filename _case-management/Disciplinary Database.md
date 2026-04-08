@@ -11,6 +11,10 @@ hearing by the <a href="https://www.safesport.sg/safe-sport-disciplinary-panel-m
 the sanctions meted out.</p>
 <p>This register is published in accordance with sections 10.6 and 10.7 of
 the <a href="https://www.safesport.sg/safe-sport-programme/ssp/" rel="noopener noreferrer nofollow" target="_blank">Safe Sport Programme Handbook</a>.</p>
+<p>Additionally, the National Registry of Coaches (NROC) and National Registry
+of Exercise Professionals (NREP) <a href="https://www.sportsync.gov.sg/s/watchlist" rel="noopener nofollow" target="_blank">Centralised Disciplinary List</a> maintains
+a list of coaches/professionals whose memberships are currently suspended,
+terminated, debarred, and expired memberships under investigation.</p>
 <p></p>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="500px" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQXq-AZ8pArmYgaVqzokwu-W3DWozzxEEE_LRzZnbhjrCmwe13JYRBi3rMma67WrHglO2QCbg3fv-km/pubhtml?widget=true&amp;headers=false"></iframe>
