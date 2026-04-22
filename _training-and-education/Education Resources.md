@@ -1,6 +1,6 @@
 ---
 title: Education Resources
-permalink: /faq/training-education/
+permalink: /training-education/education-resources/
 description: Resources related to Safe Sport Education and Awareness
 image: /images/SO%20Training.jpg
 variant: tiptap
