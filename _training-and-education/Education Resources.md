@@ -45,7 +45,7 @@ parties.</p>
 <p></p>
 <p><a href="/files/nFA_SS_ChangingRoomEtiquette_A2.pdf" rel="noopener noreferrer nofollow" target="_blank">Print at home (PDF)</a>
 </p>
-<p><a href="https://drive.google.com/file/d/1nVUrFe_tFRFcLQbidt3EQnmehNGi_z8H/view?usp=sharing" rel="noopener nofollow" target="_blank">Image Format (For Web)</a>
+<p><a href="https://drive.google.com/file/d/1nVUrFe_tFRFcLQbidt3EQnmehNGi_z8H/view?usp=sharing" rel="noopener nofollow" target="_blank">Image Format (For web)</a>
 </p>
 <p></p>
 </th>
@@ -63,7 +63,7 @@ be aware of.</p>
 <p></p>
 <p><a href="/files/FA_SayNoToAbuseandHarassment_A2.pdf" rel="noopener noreferrer nofollow" target="_blank">Print at home (PDF)</a>
 </p>
-<p><a href="https://drive.google.com/file/d/10xZWh05oRqeOiEIKDaPIt6_WDhqhST3_/view?usp=sharing" rel="noopener nofollow" target="_blank">Image format (For Web)</a>
+<p><a href="https://drive.google.com/file/d/10xZWh05oRqeOiEIKDaPIt6_WDhqhST3_/view?usp=sharing" rel="noopener nofollow" target="_blank">Image format (For web)</a>
 </p>
 </th>
 </tr>
@@ -79,7 +79,7 @@ be aware of.</p>
 </p>
 <p><strong><a href="/files/FA_SayNoToAbuseandHarassment_A2.pdf" rel="noopener noreferrer nofollow" target="_blank">Print at home (PDF)</a></strong>
 </p>
-<p><strong><a href="https://drive.google.com/file/d/1w2liPGVVzWnhfql8-NFGpAJm79NSmV8Q/view?usp=sharing" rel="noopener nofollow" target="_blank">Image format (For Web)</a></strong>
+<p><strong><a href="https://drive.google.com/file/d/1w2liPGVVzWnhfql8-NFGpAJm79NSmV8Q/view?usp=sharing" rel="noopener nofollow" target="_blank">Image format (For web)</a></strong>
 </p>
 </td>
 </tr>
@@ -95,7 +95,7 @@ be aware of.</p>
 </p>
 <p><strong><a href="/files/FA_SS_OneToOneInteractions_300DPI.pdf" rel="noopener noreferrer nofollow" target="_blank">Print at home (PDF)</a></strong>
 </p>
-<p><strong><a href="https://drive.google.com/file/d/1yTUzbyRehUSB0Afg3uYK32J_1GAZvAs3/view?usp=sharing" rel="noopener nofollow" target="_blank">Image format (For Web)</a></strong>
+<p><strong><a href="https://drive.google.com/file/d/1yTUzbyRehUSB0Afg3uYK32J_1GAZvAs3/view?usp=sharing" rel="noopener nofollow" target="_blank">Image format (For web)</a></strong>
 </p>
 </td>
 </tr>
@@ -107,7 +107,11 @@ be aware of.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong>Recruitment guidelines to strengthen safeguarding culture in your organisation.</strong>
+</p>
 <p></p>
+<p>Print at home (PDF)</p>
+<p>Image format (For web)</p>
 </td>
 </tr>
 <tr>
@@ -118,7 +122,11 @@ be aware of.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong>Navigate the digital space safely with these tips.</strong>
+</p>
 <p></p>
+<p>Print at home (PDF)</p>
+<p>Image format (For web)</p>
 </td>
 </tr>
 <tr>
@@ -129,7 +137,11 @@ be aware of.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong>Learn the rules of consent to advocate for your bodily autonomy.</strong>
+</p>
 <p></p>
+<p>Print at home (PDF)</p>
+<p>Image format (For web)</p>
 </td>
 </tr>
 <tr>
@@ -140,7 +152,11 @@ be aware of.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong>Whether you're travelling to Stadium or Spain, put this into practice for a great trip.</strong>
+</p>
 <p></p>
+<p>Print at home (PDF)</p>
+<p>Image format (For web)</p>
 </td>
 </tr>
 </tbody>
