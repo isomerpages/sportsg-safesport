@@ -110,8 +110,10 @@ be aware of.</p>
 <p><strong>Recruitment guidelines to strengthen safeguarding culture in your organisation.</strong>
 </p>
 <p></p>
-<p>Print at home (PDF)</p>
-<p>Image format (For web)</p>
+<p><strong><a href="https://drive.google.com/file/d/1cAQMlvdVzdRb14Un2aB_VVMn-XWYfdIA/view?usp=drive_link" rel="noopener nofollow" target="_blank">Print at home (PDF)</a></strong>
+</p>
+<p><strong><a href="https://drive.google.com/file/d/16RiSRq7z8FHVjxqfATQRH7Cp3i9UbnwV/view?usp=sharing" rel="noopener nofollow" target="_blank">Image format (For web)</a></strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -125,8 +127,10 @@ be aware of.</p>
 <p><strong>Navigate the digital space safely with these tips.</strong>
 </p>
 <p></p>
-<p>Print at home (PDF)</p>
-<p>Image format (For web)</p>
+<p><strong><a href="https://drive.google.com/file/d/13X8QROLKWLf11hViatPrt-o_dp6SvBAq/view?usp=drive_link" rel="noopener nofollow" target="_blank">Print at home (PDF)</a></strong>
+</p>
+<p><strong><a href="https://drive.google.com/file/d/189qvOyf6f5_9LyM2_iD3G3E351R0PQho/view?usp=sharing" rel="noopener nofollow" target="_blank">Image format (For web)</a></strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -137,11 +141,13 @@ be aware of.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Learn the rules of consent to advocate for your bodily autonomy.</strong>
+<p><strong>Learn about consent to advocate for your bodily autonomy.</strong>
 </p>
 <p></p>
-<p>Print at home (PDF)</p>
-<p>Image format (For web)</p>
+<p><strong><a href="https://drive.google.com/file/d/1TR2SDsEZtLleF1o9rmuLozWGnIZMtY1y/view?usp=drive_link" rel="noopener nofollow" target="_blank">Print at home (PDF)</a></strong>
+</p>
+<p><strong><a href="https://drive.google.com/file/d/1oGHm78UuQSxkM-V6i_xnLpcL77-pQdzK/view?usp=sharing" rel="noopener nofollow" target="_blank">Image format (For web)</a></strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -152,11 +158,13 @@ be aware of.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Whether you're travelling to Stadium or Spain, put this into practice for a great trip.</strong>
+<p><strong>Whether you're travelling to the community centre or crossing country lines, put this into practice for a great trip.</strong>
 </p>
 <p></p>
-<p>Print at home (PDF)</p>
-<p>Image format (For web)</p>
+<p><strong><a href="https://drive.google.com/file/d/1O-fiytq4VFoeQtQIf2QDVPthN4TfQ1rA/view?usp=drive_link" rel="noopener nofollow" target="_blank">Print at home (PDF)</a></strong>
+</p>
+<p><strong><a href="https://drive.google.com/file/d/1zVnTwfqmT938b1R2hFCA4GVe_HqyBflg/view?usp=drive_link" rel="noopener nofollow" target="_blank">Image format (For web)</a></strong>
+</p>
 </td>
 </tr>
 </tbody>
