@@ -6,7 +6,12 @@ image: /images/SO%20Training.jpg
 variant: tiptap
 ---
 <h3>Upstander Test</h3>
-<p></p>
+<p>Are you a bystander, or a Safe Sport Upstander? Find out through this
+interactive <a href="https://play.solstice.sg/safesport/" rel="noopener nofollow" target="_blank">game</a>!</p>
+<a class="isomer-image-wrapper" href="https://play.solstice.sg/safesport/">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources Images/1000059931.jpg">
+</a>
+<hr>
 <h3>General Safe Sport Awareness</h3>
 <ul data-tight="true" class="tight">
 <li>
@@ -21,10 +26,12 @@ Sheet/Slides)</p>
 <p><a href="https://www.safesport.sg/files/Safe%20Sport%20Unified%20Code%20Infographic%20Poster%20220615.pdf" rel="noopener nofollow" target="_blank">Safe Sport Unifed Code Poster</a><em> (Poster - Printable</em>)</p>
 </li>
 </ul>
+<hr>
 <h3>Safe Sport for Kids (Video)</h3>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/W_-gXs8WYYI?si=akBSuTX0YuqKZ5cd"></iframe>
 </div>
+<hr>
 <h3>Safe Sport Infographics</h3>
 <p>A set of Safe Sport infographics based on our policy documents for display
 in your facility, on your website, or for circulation amongst relevant
