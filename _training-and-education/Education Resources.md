@@ -11,6 +11,8 @@ interactive <a href="https://play.solstice.sg/safesport/" rel="noopener nofollow
 <a class="isomer-image-wrapper" href="https://play.solstice.sg/safesport/">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources Images/1000059931.jpg">
 </a>
+<p><a href="https://www.safesport.sg/be-an-upstander/" rel="noopener nofollow" target="_blank">Learn how you can be an Upstander too!</a>
+</p>
 <hr>
 <h3>General Safe Sport Awareness</h3>
 <ul data-tight="true" class="tight">
