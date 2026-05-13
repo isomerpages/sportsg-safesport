@@ -7,7 +7,7 @@ variant: markdown
 ---
 ![Group of Children at Workshop](/images/workshopscover.jpg)
 
-We have conducted range of different workshops for sporting organisations and groups.
+We have conducted range of different workshops for sporting organisations and groups. Take a look at some of our past workshops [here!](https://www.safesport.sg/latest/training-and-education/)
 
 Every workshop starts with an understanding of where your organisation is and what you would like to achieve.
 
