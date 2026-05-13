@@ -3,6 +3,7 @@ title: Training Framework
 permalink: /training-framework/
 variant: tiptap
 description: ""
+image: /images/Training.jpg
 ---
 <p></p>
 <div class="isomer-image-wrapper">
