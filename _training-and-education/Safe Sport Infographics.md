@@ -104,7 +104,7 @@ be aware of.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Illustrated phone-themed poster promoting respectful online behaviour" src="/images/FAP_i5_A3.png">
+<img style="width: 60%;" height="auto" width="100%" alt="Illustrated phone-themed poster promoting respectful online behaviour" src="/images/FAP_i5_A3.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -121,7 +121,7 @@ be aware of.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Safe Sport Commission Singapore poster teaching body safety and consent" src="/images/FAP_i4_A3.png">
+<img style="width: 60%;" height="auto" width="100%" alt="Safe Sport Commission Singapore poster teaching body safety and consent" src="/images/FAP_i4_A3.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -138,7 +138,7 @@ be aware of.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Poster with information on best practices when travelling as a sports team" src="/images/FAP_i2_A3.png">
+<img style="width: 60%;" height="auto" width="100%" alt="Poster with information on best practices when travelling as a sports team" src="/images/FAP_i2_A3.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
