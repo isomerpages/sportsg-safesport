@@ -100,6 +100,57 @@ be aware of.</p>
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Illustrated phone-themed poster promoting respectful online behaviour" src="/images/FAP_i5_A3.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Navigate the digital space safely with these tips.</strong>
+</p>
+<p></p>
+<p><strong><a href="https://drive.google.com/file/d/13X8QROLKWLf11hViatPrt-o_dp6SvBAq/view?usp=drive_link" rel="" target="_self">Print at home (PDF)</a></strong>
+</p>
+<p><strong><a href="https://drive.google.com/file/d/189qvOyf6f5_9LyM2_iD3G3E351R0PQho/view?usp=sharing" rel="" target="_self">Image format (For web)</a></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Safe Sport Commission Singapore poster teaching body safety and consent" src="/images/FAP_i4_A3.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Learn about consent to advocate for your bodily autonomy.</strong>
+</p>
+<p></p>
+<p><a href="https://drive.google.com/file/d/1TR2SDsEZtLleF1o9rmuLozWGnIZMtY1y/view?usp=drive_link" rel="" target="_self">Print at home (PDF)</a>
+</p>
+<p><a href="https://drive.google.com/file/d/1oGHm78UuQSxkM-V6i_xnLpcL77-pQdzK/view?usp=sharing" rel="" target="_self">Image format (For web)</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Poster with information on best practices when travelling as a sports team" src="/images/FAP_i2_A3.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Whether you're travelling to the community centre or crossing country lines, put this into practice for a great trip.</strong>
+</p>
+<p></p>
+<p><a href="https://drive.google.com/file/d/1O-fiytq4VFoeQtQIf2QDVPthN4TfQ1rA/view?usp=drive_link" rel="" target="_self">Print at home (PDF)</a>
+</p>
+<p><a href="https://drive.google.com/file/d/1zVnTwfqmT938b1R2hFCA4GVe_HqyBflg/view?usp=drive_link" rel="" target="_self">Image format (For web)</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <hr>
