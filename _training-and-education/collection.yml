@@ -2,9 +2,9 @@ collections:
   training-and-education:
     output: true
     order:
-      - Safe Sport Infographics.md
-      - Education Resources.md
       - Training Framework.md
       - Awareness Module.md
       - Safeguarding Officer Training.md
       - Workshops.md
+      - Safe Sport Infographics.md
+      - Education Resources.md
