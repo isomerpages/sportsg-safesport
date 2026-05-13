@@ -2,7 +2,7 @@
 title: Safeguarding Officer Training
 permalink: /training-and-education/so-training/
 description: First responder training
-image: /images/workshops.jpg
+image: /images/SO_Training_Thumbnail.jpg
 variant: tiptap
 ---
 <h3><strong>Safeguarding Officer Training</strong></h3>

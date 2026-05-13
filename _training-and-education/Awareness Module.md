@@ -2,7 +2,7 @@
 title: Awareness Module
 permalink: /training-and-education/awareness-module/
 description: SportSG-ED Online Safe Sport Module
-image: /images/softball.png
+image: /images/SportSG_ED_1.png
 variant: tiptap
 ---
 <h4>What best describes your role in sport?</h4>
