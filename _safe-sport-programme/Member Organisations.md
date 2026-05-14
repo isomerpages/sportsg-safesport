@@ -325,7 +325,7 @@ misconduct as set out in the Safe Sport Programme Handbook.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.sfda.sg/safe-sport" rel="noopener nofollow" target="_blank">Singapore Flying Disc Association</a>
+<p><a href="https://www.facebook.com/UPASingapore/posts/sfda-is-now-a-member-of-the-safe-sport-programme-safe-sport-is-essential-in-ensu/1143665014436491/" rel="noopener nofollow" target="_blank">Singapore Flying Disc Association</a>
 </p>
 </td>
 </tr>
