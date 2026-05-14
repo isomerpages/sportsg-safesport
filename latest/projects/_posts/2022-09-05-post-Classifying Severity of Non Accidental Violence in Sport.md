@@ -40,7 +40,7 @@ Classification of severity is necessary for:
 
 * supplementing disciplinary process  
 
-The [effects of abuse and harassment](https://stillmed.olympic.org/media/Document%20Library/OlympicOrg/IOC/What-We-Do/Protecting-Clean-Athletes/Safeguarding/IOC-Consensus-Statement_Harassment-and-abuse-in-sport-2016.pdf) in sport can stay with the Affected Party long after incidents have happened, sometimes even resulting in Post Traumatic Stress Disorder (PTSD).
+The [effects of abuse and harrasment in sport](/files/The_IOC_Consensus_Statement__harassment_and_abuse__non_accidental_violence__in_sport.pdf) in sport can stay with the Affected Party long after incidents have happened, sometimes even resulting in Post Traumatic Stress Disorder (PTSD).
 
 When “fault” is objectively measured and harm caused is recognised, this not only informs accountability but provides a basis to extend the appropriate level of psychological support to the Affected Party.
 
