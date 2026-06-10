@@ -15,7 +15,7 @@ Legal and Ordinary Members sets out the requirements to be on the Safe
 Sport Disciplinary Panel.</p>
 <p></p>
 <p>The Appointment to the Safe Sport Disciplinary Panel will be in accordance
-with Section 14 Part III of the <a href="https://go.gov.sg/safesporthandbook" rel="noopener noreferrer nofollow" target="_blank">Safe Sport Programme Handbook</a>.</p>
+with Section 14 Part III of the <a href="https://heyzine.com/flip-book/027d7884bd.html" rel="noopener noreferrer nofollow" target="_blank">Safe Sport Programme Handbook</a>.</p>
 <p>Fill in the <a href="https://go.gov.sg/dpapplicationform" rel="noopener noreferrer nofollow" target="_blank">Application Form</a> and
 send the completed form to <a rel="noopener noreferrer nofollow" target="_blank">contact@safesport.sg</a> by <strong><u>30 April 2024</u></strong>.</p>
 <hr>
